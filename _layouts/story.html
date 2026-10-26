@@ -8,6 +8,9 @@ layout: default
       {%- for pl in page.places %}<a class="place" href="{{ '/place/' | append: pl.slug | append: '/' | relative_url }}">{{ pl.name }}</a>{% endfor %}
     </p>
     <h1>{{ page.title }}</h1>
+    {%- if page.reporter %}
+    <p class="byline">By <a href="{{ page.reporter.url | relative_url }}">{{ page.reporter.name }}</a>, <span class="muted">AI {{ page.reporter.title | downcase }}</span></p>
+    {%- endif %}
     <p class="meta">
       <a href="{{ '/' | append: page.day | replace: '-', '/' | append: '/' | relative_url }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A %-d %B %Y" }}</time></a>
       <span>{{ page.edition_label }}</span>

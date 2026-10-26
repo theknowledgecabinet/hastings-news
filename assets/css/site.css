@@ -293,3 +293,5 @@ mark { background: color-mix(in srgb, #f2c94c 45%, transparent); color: inherit;
 @media (min-width: 760px) { .wards { grid-template-columns: 220px 1fr; } .wards dt { margin-top: 0; } }
 .rep-mp h2 { font-size: 1.8rem; margin-bottom: 0; }
 .prose-page h2 { margin-top: 1.5em; }
+.byline { margin: -4px 0 10px; font-size: .95rem; }
+.byline a { font-weight: 600; text-decoration: none; }

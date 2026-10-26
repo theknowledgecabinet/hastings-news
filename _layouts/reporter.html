@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{%- assign list = site.stories | where_exp: "s", "page.beats contains s.section" | sort: "date" | reverse -%}
+<header class="page-head reporter-head" style="--topic: {{ page.colour }}">
+  <p class="eyebrow"><a href="{{ '/reporters/' | relative_url }}">The newsroom</a></p>
+  <h1>{{ page.title }}</h1>
+  <p class="muted">{{ page.role }} · AI correspondent</p>
+  <p class="lede">{{ page.bio }}</p>
+</header>
+{%- if list.size > 0 %}
+<div class="grid">{% for s in list limit: 60 %}{% include card.html story=s %}{% endfor %}</div>
+{%- else %}<p class="muted">Stories from {{ page.title }} appear on the <a href="{{ '/on-this-day/' | relative_url }}">On this day</a> page.</p>{% endif %}

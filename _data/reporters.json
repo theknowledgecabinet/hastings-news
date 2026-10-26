@@ -1,0 +1,86 @@
+[
+ {
+  "name": "Ada Fairlight",
+  "slug": "ada-fairlight",
+  "title": "Editor and briefing host",
+  "url": "/reporters/ada-fairlight/",
+  "bio": "Puts each edition together and presents the evening briefing. Calm, warm and to the point.",
+  "beats": [],
+  "colour": "#14213d"
+ },
+ {
+  "name": "Tom Bulverhythe",
+  "slug": "tom-bulverhythe",
+  "title": "Crime and courts correspondent",
+  "url": "/reporters/tom-bulverhythe/",
+  "bio": "Covers police appeals, charges and court cases. Precise, careful and never sensational.",
+  "beats": [
+   "crime"
+  ],
+  "colour": "#b03a2e"
+ },
+ {
+  "name": "Priya Ore",
+  "slug": "priya-ore",
+  "title": "Politics correspondent",
+  "url": "/reporters/priya-ore/",
+  "bio": "Follows the MP, the councils' politics and elections. Even-handed and clear about who decides what.",
+  "beats": [
+   "politics"
+  ],
+  "colour": "#6b3fa0"
+ },
+ {
+  "name": "Martin Gensing",
+  "slug": "martin-gensing",
+  "title": "Council and public services reporter",
+  "url": "/reporters/martin-gensing/",
+  "bio": "Turns council decisions into what they mean for your street, your bins and your bills.",
+  "beats": [
+   "council"
+  ],
+  "colour": "#1f6f8b"
+ },
+ {
+  "name": "Rosie Winchelsea",
+  "slug": "rosie-winchelsea",
+  "title": "Community and people reporter",
+  "url": "/reporters/rosie-winchelsea/",
+  "bio": "Writes about local people, charities, schools and events, and picks what's on.",
+  "beats": [
+   "community"
+  ],
+  "colour": "#c0742a"
+ },
+ {
+  "name": "Sam Stade",
+  "slug": "sam-stade",
+  "title": "Business reporter",
+  "url": "/reporters/sam-stade/",
+  "bio": "Covers local shops, jobs, openings, closures and the town's economy.",
+  "beats": [
+   "business"
+  ],
+  "colour": "#2e7d4f"
+ },
+ {
+  "name": "Dave Baldslow",
+  "slug": "dave-baldslow",
+  "title": "Traffic and roadworks reporter",
+  "url": "/reporters/dave-baldslow/",
+  "bio": "Knows every lane closure on the A21 and the A259. Brisk and useful.",
+  "beats": [
+   "traffic"
+  ],
+  "colour": "#9a7b12"
+ },
+ {
+  "name": "Edie Pelham",
+  "slug": "edie-pelham",
+  "title": "Local history writer",
+  "url": "/reporters/edie-pelham/",
+  "bio": "Tells a story from the history of Hastings and the 1066 Country every morning.",
+  "beats": [],
+  "colour": "#7a5c3e"
+ }
+]

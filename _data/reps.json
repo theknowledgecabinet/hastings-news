@@ -7,7 +7,7 @@
   "website": "https://www.helenadollimore.com",
   "feed": "https://www.helenadollimore.com/blog-feed.xml",
   "since": "2026-10-26T16:29:49+00:00",
-  "checked": "2026-10-26T16:29:49+00:00"
+  "checked": "2026-10-26T16:34:23+00:00"
  },
  "councils": [
   {
@@ -490,7 +490,161 @@
   {
    "key": "escc",
    "name": "East Sussex County Council",
-   "wards": []
+   "wards": [
+    {
+     "ward": "Battle and Crowhurst",
+     "people": [
+      {
+       "name": "Kathryn Field",
+       "party": "Liberal Democrats"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill East",
+     "people": [
+      {
+       "name": "Martin Kenward",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill North",
+     "people": [
+      {
+       "name": "Donald Walmsley",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill South",
+     "people": [
+      {
+       "name": "Victoria Carson",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill West",
+     "people": [
+      {
+       "name": "Pete Morley",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Brede Valley and Marsham",
+     "people": [
+      {
+       "name": "Daniel Lach",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Forest Row and Groombridge",
+     "people": [
+      {
+       "name": "Georgia Taylor",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Hastings - Ashdown and Conquest",
+     "people": [
+      {
+       "name": "Aidan Fisher",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Hastings - Baird and Ore",
+     "people": [
+      {
+       "name": "Jo Walker",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Hastings - Braybrooke and Castle",
+     "people": [
+      {
+       "name": "Becca Horn",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Hastings - Central St Leonards and Gensing",
+     "people": [
+      {
+       "name": "Amanda Jobson",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Hastings - Hollington and Wishing Tree",
+     "people": [
+      {
+       "name": "Mark Estcourt",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Hastings - Maze Hill and West St Leonards",
+     "people": [
+      {
+       "name": "Karen Simnett",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Hastings - Old Hastings and Tressell",
+     "people": [
+      {
+       "name": "Julia Hilton",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Hastings - St Helens and Silverhill",
+     "people": [
+      {
+       "name": "Shaun Dowling",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Northern Rother",
+     "people": [
+      {
+       "name": "Paul Redstone",
+       "party": "Conservative"
+      }
+     ]
+    },
+    {
+     "ward": "Rye and Eastern Rother",
+     "people": [
+      {
+       "name": "Daniel Bradley",
+       "party": "Independent"
+      }
+     ]
+    }
+   ]
   }
  ],
  "changes": []
