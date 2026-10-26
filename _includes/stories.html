@@ -1,0 +1,8 @@
+{%- comment -%} The stories of one edition of one day, lead first. {%- endcomment -%}
+{%- assign eds = site.stories | where: "day", include.day | where: "edition", include.edition | sort: "date" | reverse -%}
+{%- assign leads = eds | where: "lead", true -%}
+{%- assign rest = eds | where_exp: "s", "s.lead != true" -%}
+<div class="grid">
+  {%- for s in leads %}{% include card.html story=s big=include.big_lead %}{% endfor %}
+  {%- for s in rest %}{% include card.html story=s %}{% endfor %}
+</div>

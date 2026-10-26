@@ -1,0 +1,24 @@
+---
+layout: default
+title: About Hastings Daily
+permalink: /about/
+---
+<section class="narrow prose-page">
+<h1>About Hastings Daily</h1>
+<p class="lede">Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day, written by an AI agent and always linked to its sources.</p>
+<h2>How it works</h2>
+<p>Through the day a collector checks local sources: Hastings Borough, Rother District and East Sussex County councils, the MP for Hastings and Rye, Sussex Police and East Sussex Highways, and the local papers. Each morning, midday and evening, a <a href="https://github.com/NousResearch/hermes-agent">Hermes</a> AI agent reads what is new, opens the original pages, and writes short summaries in its own words. Every story links to its sources, and those originals are always worth reading.</p>
+<p>A story is never reported twice. Each one is compared by meaning with everything published before, and later developments are added to the original story as dated updates.</p>
+<p>The MP and councillors are looked up every day, so when someone new takes on a role, the sources we follow change with them. See <a href="{{ '/representatives/' | relative_url }}">who represents you</a>.</p>
+<h2>Our rules</h2>
+<ul>
+  <li>Only what the sources say, attributed. No rumour or speculation.</li>
+  <li>Nobody is named before they are charged. Victims of sexual offences and children are never identified. Reporting restrictions are respected.</li>
+  <li>Politics is reported neutrally, with claims attributed.</li>
+  <li>Summaries in our own words; short quotes only, credited.</li>
+</ul>
+<h2>Mistakes and takedowns</h2>
+<p>If something is wrong, or you are named in a story and have a concern, please {% if site.repo_url %}<a href="{{ site.repo_url }}/issues/new">open an issue</a>{% else %}contact us via the site's GitHub repository{% endif %}. Corrections are shown on the story, never made silently.</p>
+<h2>Credits</h2>
+<p>Weather by <a href="https://open-meteo.com/">Open-Meteo.com</a> (CC BY 4.0). Images from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>, credited on each page. The evening briefing is read by a text-to-speech voice (Kokoro).</p>
+</section>

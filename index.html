@@ -1,0 +1,53 @@
+---
+layout: default
+---
+{%- assign L = site.data.latest -%}
+{%- if L.day %}
+<section class="front">
+  <div class="masthead">
+    <p class="eyebrow">{{ L.label }}</p>
+    {% assign last = L.editions | last %}
+    {% if last.name == 'evening' %}{% include weather.html w=L.weather label="Tomorrow" %}{% else %}{% include weather.html w=L.weather label="Today" %}{% endif %}
+  </div>
+
+  {%- for e in L.editions reversed %}
+  <section class="edition">
+    <div class="section-head"><h2>{{ e.label }}</h2></div>
+    {% include stories.html day=L.day edition=e.name big_lead=forloop.first %}
+  </section>
+  {%- endfor %}
+</section>
+
+<div class="side-by-side">
+  {%- if L.otd %}
+  <a class="otd-strip" href="{{ L.otd.url | relative_url }}"><span class="eyebrow">On this day · {{ L.otd.year }}</span><strong>{{ L.otd.title }}</strong></a>
+  {%- endif %}
+  {%- if L.briefing %}
+  <section class="briefing-box">
+    <h2>🎧 Last evening's briefing <span class="muted">· {{ L.briefing.length }}</span></h2>
+    {% include player.html src=L.briefing.url seconds=L.briefing.seconds title=L.briefing.day %}
+    <p class="small"><a href="{{ '/podcast/' | relative_url }}">Subscribe as a podcast</a></p>
+  </section>
+  {%- endif %}
+</div>
+
+{%- if site.data.events.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>What's on</h2><a href="{{ '/whats-on/' | relative_url }}">All events →</a></div>
+  <ul class="rows events">
+    {%- for ev in site.data.events limit: 5 %}
+    <li><a href="{{ ev.url }}" rel="noopener"><span class="row-date">{{ ev.when }}</span><span class="row-title">{{ ev.title }}</span><span class="row-idea">{{ ev.venue }}{% if ev.time %} · {{ ev.time }}{% endif %}</span></a></li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}
+
+<section class="block">
+  <div class="section-head"><h2>Earlier days</h2></div>
+  <div class="chips">
+    {%- for d in L.days offset: 1 %}<a class="chip big neutral" href="{{ d.url | relative_url }}">{{ d.label }}</a>{% endfor %}
+  </div>
+</section>
+{%- else %}
+<section class="narrow"><h1>{{ site.title }}</h1><p class="lede">The first edition is on its way.</p></section>
+{%- endif %}

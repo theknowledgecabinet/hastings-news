@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Hastings Daily: Traffic &amp; roadworks</title>
+  <link>/section/traffic/</link>
+  <atom:link href="/feeds/traffic.xml" rel="self" type="application/rss+xml"/>
+  <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
+  <language>en-gb</language>
+  <lastBuildDate>Mon, 26 Oct 2026 16:30:57 +0000</lastBuildDate>
+
+</channel>
+</rss>

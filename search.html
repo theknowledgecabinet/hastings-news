@@ -1,0 +1,15 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+<header class="page-head">
+  <h1>Search</h1>
+</header>
+<form class="search" data-search role="search" action="{{ '/search/' | relative_url }}">
+  <label class="visually-hidden" for="q">Search the ideas</label>
+  <input id="q" name="q" type="search" placeholder="Try “castle”, “A21” or “planning”" autocomplete="off" autofocus>
+</form>
+<p class="muted" data-search-status aria-live="polite"></p>
+<ul class="rows" data-search-results></ul>
+<noscript><p>Search needs JavaScript. You can still browse <a href="{{ '/all/' | relative_url }}">all ideas</a>.</p></noscript>

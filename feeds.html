@@ -1,0 +1,16 @@
+---
+layout: default
+title: RSS feeds
+permalink: /feeds/
+---
+<section class="narrow">
+<header class="page-head"><h1>RSS feeds</h1><p class="muted">Follow everything, or just the parts you care about, in any feed reader.</p></header>
+<ul class="rows">
+  <li><a href="{{ '/feed.xml' | relative_url }}"><span class="row-title">Everything</span><span class="row-idea">{{ '/feed.xml' | absolute_url }}</span></a></li>
+  {%- for s in site.data.sections %}
+  <li style="--topic: {{ s.colour }}"><a href="{{ '/feeds/' | append: s.key | append: '.xml' | relative_url }}"><span class="row-title"><span class="dot"></span>{{ s.label }}</span><span class="row-idea">{{ '/feeds/' | append: s.key | append: '.xml' | absolute_url }}</span></a></li>
+  {%- endfor %}
+  <li><a href="{{ '/feeds/onthisday.xml' | relative_url }}"><span class="row-title">On this day</span><span class="row-idea">{{ '/feeds/onthisday.xml' | absolute_url }}</span></a></li>
+  <li><a href="{{ '/podcast.xml' | relative_url }}"><span class="row-title">🎧 Evening briefing (podcast)</span><span class="row-idea">{{ '/podcast.xml' | absolute_url }}</span></a></li>
+</ul>
+</section>

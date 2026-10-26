@@ -1,0 +1,16 @@
+{%- assign s = include.story -%}
+<a class="card{% if include.big %} card-big{% endif %}" href="{{ s.url | relative_url }}" style="--topic: {{ s.colour }}">
+  {%- if s.image %}
+  <div class="card-media" style="background-color: {{ s.image.color }}">
+    <img src="{{ s.image.card.url | relative_url }}"
+         srcset="{{ s.image.card.url | relative_url }} {{ s.image.card.w }}w, {{ s.image.medium.url | relative_url }} {{ s.image.medium.w }}w"
+         sizes="{% if include.big %}(min-width: 760px) 640px{% else %}(min-width: 760px) 340px{% endif %}, 100vw"
+         width="{{ s.image.card.w }}" height="{{ s.image.card.h }}" alt="" loading="lazy" decoding="async">
+  </div>
+  {%- endif %}
+  <div class="card-body">
+    <p class="card-meta"><span class="dot"></span>{{ s.section_label }} · {{ s.places | map: "name" | join: ", " }}{% if s.updated %} · <span class="badge">Updated</span>{% endif %}</p>
+    <h3>{{ s.title }}</h3>
+    {%- if include.big %}<p class="card-why">{{ s.description }}</p>{% endif %}
+  </div>
+</a>

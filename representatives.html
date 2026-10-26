@@ -1,0 +1,37 @@
+---
+layout: default
+title: Who represents you
+permalink: /representatives/
+description: The MP for Hastings and Rye and the local councillors, checked every day.
+---
+{%- assign R = site.data.reps -%}
+<section class="narrow">
+<header class="page-head">
+  <h1>Who represents you</h1>
+  <p class="muted">Checked automatically every day from Parliament and the councils, so this page and our news sources change when the people do.</p>
+</header>
+{%- if R.mp %}
+<section class="rep-mp">
+  <p class="eyebrow">MP for Hastings and Rye</p>
+  <h2>{{ R.mp.name }}</h2>
+  <p class="muted">{{ R.mp.party }}{% if R.mp.website %} · <a href="{{ R.mp.website }}" rel="noopener">Website</a>{% endif %}</p>
+</section>
+{%- endif %}
+{%- for c in R.councils %}
+<section class="block">
+  <h2>{{ c.name }}</h2>
+  <dl class="wards">
+    {%- for w in c.wards %}
+    <dt>{{ w.ward }}</dt>
+    <dd>{% for p in w.people %}{{ p.name }}{% if p.party %} <span class="muted">({{ p.party }})</span>{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</dd>
+    {%- endfor %}
+  </dl>
+</section>
+{%- endfor %}
+{%- if R.changes.size > 0 %}
+<section class="block">
+  <h2>Recent changes</h2>
+  <ul>{% for ch in R.changes %}<li><span class="muted">{{ ch.at | date: "%-d %b %Y" }}</span> {{ ch.text }}</li>{% endfor %}</ul>
+</section>
+{%- endif %}
+</section>

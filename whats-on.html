@@ -1,0 +1,20 @@
+---
+layout: default
+title: What's on
+permalink: /whats-on/
+---
+<header class="page-head" style="--topic: #b0487a">
+  <h1>What's on</h1>
+  <p class="muted">Events coming up around Hastings, Rye, Bexhill and Battle. Check with the organiser before you go.</p>
+</header>
+{%- if site.data.events.size > 0 %}
+<ul class="rows events">
+  {%- for ev in site.data.events %}
+  <li><a href="{{ ev.url }}" rel="noopener">
+    <span class="row-date">{{ ev.when }}</span>
+    <span class="row-title">{{ ev.title }}</span>
+    <span class="row-idea">{{ ev.venue }}{% if ev.time %} · {{ ev.time }}{% endif %}</span>
+    <span class="row-why">{{ ev.summary }}</span></a></li>
+  {%- endfor %}
+</ul>
+{%- else %}<p class="muted">Nothing listed yet; events are added with each evening edition.</p>{% endif %}

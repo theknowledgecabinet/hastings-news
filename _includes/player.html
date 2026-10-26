@@ -1,0 +1,6 @@
+<div class="player" data-player
+     data-title="{{ include.title | escape }}" data-artist="{{ site.title | escape }}"
+     data-artwork="{{ '/assets/podcast-cover.jpg' | relative_url }}"
+     data-seconds="{{ include.seconds }}">
+  <audio controls preload="none" src="{{ include.src | relative_url }}"></audio>
+</div>

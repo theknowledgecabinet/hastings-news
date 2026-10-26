@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{%- assign list = site.stories | sort: "date" | reverse -%}
+<header class="page-head">
+  <p class="eyebrow">Place</p>
+  <h1>{{ page.title }}</h1>
+</header>
+<div class="grid">
+{%- assign n = 0 -%}
+{%- for s in list -%}
+  {%- assign slugs = s.places | map: "slug" -%}
+  {%- if slugs contains page.place and n < 60 -%}{%- assign n = n | plus: 1 -%}{% include card.html story=s %}{%- endif -%}
+{%- endfor %}
+</div>
+{%- if n == 0 %}<p class="muted">No stories here yet.</p>{% endif %}

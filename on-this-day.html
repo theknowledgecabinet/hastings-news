@@ -1,0 +1,14 @@
+---
+layout: default
+title: On this day
+permalink: /on-this-day/
+---
+<header class="page-head" style="--topic: #7a5c3e">
+  <h1>On this day</h1>
+  <p class="muted">A moment from the history of Hastings and the 1066 Country, every morning. <a href="{{ '/feeds/onthisday.xml' | relative_url }}">RSS feed</a></p>
+</header>
+<ul class="rows">
+  {%- for o in site.data.otd %}
+  <li><a href="{{ o.url | relative_url }}"><span class="row-date">{{ o.day | date: "%-d %b" }}</span><span class="row-title">{{ o.year }}: {{ o.title }}</span></a></li>
+  {%- endfor %}
+</ul>

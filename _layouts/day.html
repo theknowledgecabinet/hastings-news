@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<header class="page-head">
+  <p class="eyebrow">Hastings Daily</p>
+  <h1>{{ page.title }}</h1>
+</header>
+{%- if page.briefing %}
+<section class="briefing-box">
+  <h2>🎧 Evening briefing <span class="muted">· {{ page.briefing.length }}</span></h2>
+  {% include player.html src=page.briefing.url seconds=page.briefing.seconds title=page.title %}
+</section>
+{%- endif %}
+{%- if page.otd %}
+<a class="otd-strip" href="{{ page.otd.url | relative_url }}"><span class="eyebrow">On this day · {{ page.otd.year }}</span><strong>{{ page.otd.title }}</strong></a>
+{%- endif %}
+{%- for e in page.editions reversed %}
+<section class="block edition">
+  <div class="section-head"><h2>{{ e.label }}</h2></div>
+  {% if e.weather %}{% if e.name == 'evening' %}{% include weather.html w=e.weather label="Tomorrow" %}{% else %}{% include weather.html w=e.weather label="Today" %}{% endif %}{% endif %}
+  {% include stories.html day=page.day edition=e.name %}
+</section>
+{%- endfor %}

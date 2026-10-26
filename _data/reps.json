@@ -1,0 +1,497 @@
+{
+ "mp": {
+  "role": "mp",
+  "name": "Helena Dollimore",
+  "party": "Labour (Co-op)",
+  "ref": "5192",
+  "website": "https://www.helenadollimore.com",
+  "feed": "https://www.helenadollimore.com/blog-feed.xml",
+  "since": "2026-10-26T16:29:49+00:00",
+  "checked": "2026-10-26T16:29:49+00:00"
+ },
+ "councils": [
+  {
+   "key": "hbc",
+   "name": "Hastings Borough Council",
+   "wards": [
+    {
+     "ward": "Ashdown",
+     "people": [
+      {
+       "name": "Daniel Kendrick",
+       "party": "Reform UK"
+      },
+      {
+       "name": "Sorrell Marlow-Eastwood",
+       "party": "Conservative Party"
+      }
+     ]
+    },
+    {
+     "ward": "Baird",
+     "people": [
+      {
+       "name": "Will Rumfitt",
+       "party": "Green Party"
+      },
+      {
+       "name": "Yunis Smith",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Braybrooke",
+     "people": [
+      {
+       "name": "Archie Lauchlan",
+       "party": "Green Party"
+      },
+      {
+       "name": "Mark Etherington",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Castle",
+     "people": [
+      {
+       "name": "Becca Horn",
+       "party": "Green Party"
+      },
+      {
+       "name": "Steph Fawbert",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Central St Leonards",
+     "people": [
+      {
+       "name": "Adele Bates",
+       "party": "Green Party"
+      },
+      {
+       "name": "Solly Solamito",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Conquest",
+     "people": [
+      {
+       "name": "Paul Foster",
+       "party": "Conservative Party"
+      },
+      {
+       "name": "Rob Drew",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Gensing",
+     "people": [
+      {
+       "name": "Amanda Jobson",
+       "party": "Green Party"
+      },
+      {
+       "name": "Paula Warne",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Hollington",
+     "people": [
+      {
+       "name": "Danuta Kean",
+       "party": "Independent"
+      },
+      {
+       "name": "Will Chapman",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Maze Hill",
+     "people": [
+      {
+       "name": "Darren Mackenzie",
+       "party": "Green Party"
+      },
+      {
+       "name": "Karen Simnett",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Old Hastings",
+     "people": [
+      {
+       "name": "Julia Hilton",
+       "party": "Green Party"
+      },
+      {
+       "name": "Mike Frith",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Ore",
+     "people": [
+      {
+       "name": "Clem McCulloch",
+       "party": "Green Party"
+      },
+      {
+       "name": "Jo Walker",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "Silverhill",
+     "people": [
+      {
+       "name": "Billie Barnes",
+       "party": "Labour Party"
+      },
+      {
+       "name": "Dulcie Reynolds",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "St Helens",
+     "people": [
+      {
+       "name": "Andy Batsford",
+       "party": "Independent"
+      },
+      {
+       "name": "Peter Clarke",
+       "party": "Reform UK"
+      }
+     ]
+    },
+    {
+     "ward": "Tressell",
+     "people": [
+      {
+       "name": "Glenn Haffenden",
+       "party": "Green Party"
+      },
+      {
+       "name": "Natalie Gaimster",
+       "party": "Green Party"
+      }
+     ]
+    },
+    {
+     "ward": "West St Leonards",
+     "people": [
+      {
+       "name": "Derek Lawrence",
+       "party": "Reform UK"
+      },
+      {
+       "name": "Trevor Webb",
+       "party": "Labour Party"
+      }
+     ]
+    },
+    {
+     "ward": "Wishing Tree",
+     "people": [
+      {
+       "name": "Doreena Ross",
+       "party": "Reform UK"
+      },
+      {
+       "name": "Helen Kay",
+       "party": "Labour Party"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "rdc",
+   "name": "Rother District Council",
+   "wards": [
+    {
+     "ward": "Bexhill Central",
+     "people": [
+      {
+       "name": "Christine Bayliss",
+       "party": "Labour"
+      },
+      {
+       "name": "Ruairi McCourt",
+       "party": "Labour"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill Collington",
+     "people": [
+      {
+       "name": "Ashan Jeeawon",
+       "party": "Rother Association of Independent Councillors"
+      },
+      {
+       "name": "Doug Oliver",
+       "party": "Rother Association of Independent Councillors"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill Kewhurst",
+     "people": [
+      {
+       "name": "Andrew Hayward",
+       "party": "Rother Association of Independent Councillors"
+      },
+      {
+       "name": "Brian Drayson",
+       "party": "Rother Association of Independent Councillors"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill Old Town & Worsham",
+     "people": [
+      {
+       "name": "Mark Legg",
+       "party": "Labour"
+      },
+      {
+       "name": "Polly Gray",
+       "party": "Green"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill Pebsham & St Michaels",
+     "people": [
+      {
+       "name": "Charles Clark",
+       "party": "Independent"
+      },
+      {
+       "name": "Gareth Delany",
+       "party": "Labour"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill Sackville",
+     "people": [
+      {
+       "name": "Hazel Timpe",
+       "party": "Rother Association of Independent Councillors"
+      },
+      {
+       "name": "Terry Byrne",
+       "party": "Rother Association of Independent Councillors"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill Sidley",
+     "people": [
+      {
+       "name": "Fazlul Chowdhury",
+       "party": "Labour"
+      },
+      {
+       "name": "Sam Coleman",
+       "party": "Labour"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill St Marks",
+     "people": [
+      {
+       "name": "Connor Winter",
+       "party": "Conservative"
+      },
+      {
+       "name": "Jimmy Stanger",
+       "party": "Liberal Democrats"
+      }
+     ]
+    },
+    {
+     "ward": "Bexhill St Stephens",
+     "people": [
+      {
+       "name": "Arren Rathbone Ariel",
+       "party": "Green"
+      },
+      {
+       "name": "Richard Thomas",
+       "party": "Liberal Democrats"
+      }
+     ]
+    },
+    {
+     "ward": "Brede & Udimore",
+     "people": [
+      {
+       "name": "Neil Gordon",
+       "party": "Conservative"
+      }
+     ]
+    },
+    {
+     "ward": "Burwash & the Weald",
+     "people": [
+      {
+       "name": "John Barnes (MBE)",
+       "party": "Conservative"
+      },
+      {
+       "name": "Mrs Eleanor Kirby-Green",
+       "party": "Conservative"
+      }
+     ]
+    },
+    {
+     "ward": "Catsfield & Crowhurst",
+     "people": [
+      {
+       "name": "Nicola McLaren",
+       "party": "Liberal Democrats"
+      }
+     ]
+    },
+    {
+     "ward": "Eastern Rother",
+     "people": [
+      {
+       "name": "Lizzie Hacking",
+       "party": "Conservative"
+      },
+      {
+       "name": "Paul Osborne",
+       "party": "Conservative"
+      }
+     ]
+    },
+    {
+     "ward": "Hurst Green & Ticehurst",
+     "people": [
+      {
+       "name": "Mrs Mary Barnes",
+       "party": "Conservative"
+      },
+      {
+       "name": "Teresa Killeen (MBE)",
+       "party": "Liberal Democrats"
+      }
+     ]
+    },
+    {
+     "ward": "North Battle, Netherfield & Whatlington",
+     "people": [
+      {
+       "name": "Kathryn Field",
+       "party": "Liberal Democrats"
+      },
+      {
+       "name": "Sue Burton",
+       "party": "Green"
+      }
+     ]
+    },
+    {
+     "ward": "Northern Rother",
+     "people": [
+      {
+       "name": "Tony Biggs",
+       "party": "Conservative"
+      },
+      {
+       "name": "Tony Ganly",
+       "party": "Conservative"
+      }
+     ]
+    },
+    {
+     "ward": "Robertsbridge",
+     "people": [
+      {
+       "name": "Susan Prochak (MBE)",
+       "party": "Liberal Democrats"
+      }
+     ]
+    },
+    {
+     "ward": "Rye & Winchelsea",
+     "people": [
+      {
+       "name": "Cheryl Creaser",
+       "party": "Conservative"
+      },
+      {
+       "name": "Daniel Bradley",
+       "party": "Independent"
+      }
+     ]
+    },
+    {
+     "ward": "Sedlescombe & Westfield",
+     "people": [
+      {
+       "name": "Beverley Coupar",
+       "party": "Liberal Democrats"
+      },
+      {
+       "name": "Carl Maynard",
+       "party": "Conservative"
+      }
+     ]
+    },
+    {
+     "ward": "South Battle & Telham",
+     "people": [
+      {
+       "name": "Mrs Vikki Cook",
+       "party": "Liberal Democrats"
+      }
+     ]
+    },
+    {
+     "ward": "Southern Rother",
+     "people": [
+      {
+       "name": "Andrew Mier",
+       "party": "Liberal Democrats"
+      },
+      {
+       "name": "Tim Grohne",
+       "party": "Conservative"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "escc",
+   "name": "East Sussex County Council",
+   "wards": []
+  }
+ ],
+ "changes": []
+}

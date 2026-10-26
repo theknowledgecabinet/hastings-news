@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{%- assign list = site.stories | where: "section", page.section | sort: "date" | reverse -%}
+<header class="page-head" style="--topic: {{ page.colour }}">
+  <h1><span class="dot"></span>{{ page.title }}</h1>
+  <p class="muted">{{ list.size }} stor{% if list.size == 1 %}y{% else %}ies{% endif %} · <a href="{{ '/feeds/' | append: page.section | append: '.xml' | relative_url }}">RSS feed</a></p>
+</header>
+<div class="grid">{% for s in list limit: 60 %}{% include card.html story=s %}{% endfor %}</div>

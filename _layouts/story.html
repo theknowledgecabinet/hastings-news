@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<article class="story narrow" style="--topic: {{ page.colour }}">
+  <header>
+    <p class="meta">
+      <a class="chip" href="{{ '/section/' | append: page.section | append: '/' | relative_url }}">{{ page.section_label }}</a>
+      {%- for pl in page.places %}<a class="place" href="{{ '/place/' | append: pl.slug | append: '/' | relative_url }}">{{ pl.name }}</a>{% endfor %}
+    </p>
+    <h1>{{ page.title }}</h1>
+    <p class="meta">
+      <a href="{{ '/' | append: page.day | replace: '-', '/' | append: '/' | relative_url }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A %-d %B %Y" }}</time></a>
+      <span>{{ page.edition_label }}</span>
+      {%- if page.updated %}<span class="badge">Updated {{ page.updated | date: "%-d %b, %H:%M" }}</span>{% endif %}
+    </p>
+  </header>
+
+  {% if page.image %}{% include figure.html image=page.image hero=true %}{% endif %}
+
+  {%- if page.corrections %}
+  <aside class="correction">
+    {%- for c in page.corrections %}<p><strong>Correction, {{ c.at | date: "%-d %B %Y" }}:</strong> {{ c.note }}</p>{% endfor %}
+  </aside>
+  {%- endif %}
+
+  <section class="prose">{{ content }}</section>
+
+  {%- if page.what_next %}
+  <section class="try"><h2>What happens next</h2>{{ page.what_next | markdownify }}</section>
+  {%- endif %}
+
+  {%- if page.updates %}
+  <section class="timeline">
+    <h2>Updates</h2>
+    <ol>
+    {%- for u in page.updates reversed %}
+      <li>
+        <p class="meta"><time datetime="{{ u.date }}">{{ u.date | date: "%A %-d %B, %H:%M" }}</time></p>
+        {{ u.text | markdownify }}
+        <p class="small">Source: {% for s in u.sources %}<a href="{{ s.url }}" rel="noopener">{{ s.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+      </li>
+    {%- endfor %}
+    </ol>
+  </section>
+  {%- endif %}
+
+  <section class="sources">
+    <h2>Sources</h2>
+    <ul>{% for s in page.sources %}<li><a href="{{ s.url }}" rel="noopener">{{ s.name }}</a></li>{% endfor %}</ul>
+    <p class="actions"><button class="button ghost" type="button" data-share hidden>Share</button>
+      {%- if site.repo_url %} <a class="button ghost" href="{{ site.repo_url }}/issues/new?title={{ 'Correction: ' | append: page.title | url_encode }}&body={{ page.url | absolute_url | url_encode }}" rel="noopener">Report a mistake</a>{% endif %}</p>
+  </section>
+
+  {%- if page.related %}
+  <section class="related">
+    <h2>Related</h2>
+    <ul class="rows">
+      {%- for r in page.related %}<li><a href="{{ r.url | relative_url }}"><span class="row-title">{{ r.title }}</span><span class="row-idea">{{ r.day | date: "%-d %B %Y" }}</span></a></li>{% endfor %}
+    </ul>
+  </section>
+  {%- endif %}
+</article>

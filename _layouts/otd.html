@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="story narrow" style="--topic: {{ page.colour }}">
+  <header>
+    <p class="meta"><a class="chip" href="{{ '/on-this-day/' | relative_url }}">On this day</a>
+      {%- for pl in page.places %}<a class="place" href="{{ '/place/' | append: pl.slug | append: '/' | relative_url }}">{{ pl.name }}</a>{% endfor %}</p>
+    <p class="year">{{ page.year }}</p>
+    <h1>{{ page.headline }}</h1>
+    <p class="meta">On this day: {{ page.day | date: "%-d %B" }}</p>
+  </header>
+  {% if page.image %}{% include figure.html image=page.image hero=true %}{% endif %}
+  <section class="prose">{{ content }}</section>
+  <section class="sources">
+    <h2>Sources</h2>
+    <ul>{% for s in page.sources %}<li><a href="{{ s.url }}" rel="noopener">{{ s.name }}</a></li>{% endfor %}</ul>
+  </section>
+</article>

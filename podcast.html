@@ -1,0 +1,27 @@
+---
+layout: default
+title: Evening briefing
+permalink: /podcast/
+description: The day's local news, tomorrow's weather and what's on, read every evening.
+---
+{%- assign feed = '/podcast.xml' | absolute_url -%}
+<section class="narrow">
+  <header class="page-head">
+    <h1>Evening briefing</h1>
+    <p class="lede">Every evening, a few minutes of local news: the day's stories, tomorrow's weather and what's on. Subscribe in your podcast app and it arrives by itself.</p>
+  </header>
+  <div class="feed-box">
+    <code>{{ feed }}</code>
+    <button class="button" type="button" data-copy="{{ feed }}">Copy podcast address</button>
+  </div>
+  <ul class="steps">
+    <li><strong>Apple Podcasts</strong>: Library, then ⋯, <em>Follow a Show by URL</em>, paste.</li>
+    <li><strong>Overcast</strong>: <em>+</em>, then <em>Add URL</em>. <strong>Pocket Casts</strong>: paste into search.</li>
+  </ul>
+  {%- for b in site.data.briefings limit: 14 %}
+  <section class="briefing-box">
+    <h2><a href="{{ '/' | append: b.day | replace: '-', '/' | append: '/' | relative_url }}">{{ b.day | date: "%A %-d %B" }}</a> <span class="muted">· {{ b.length }}</span></h2>
+    {% include player.html src=b.url seconds=b.seconds title=b.day %}
+  </section>
+  {%- endfor %}
+</section>

@@ -1,0 +1,18 @@
+title: Hastings Daily
+description: Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three
+  times a day.
+url: ''
+baseurl: ''
+repo_url: ''
+timezone: Europe/London
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: ''
+collections:
+  stories:
+    output: true
+  otd:
+    output: true
+exclude:
+- README.md

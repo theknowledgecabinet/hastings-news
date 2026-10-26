@@ -1,0 +1,14 @@
+{%- assign im = include.image -%}
+<figure class="figure{% if include.hero %} hero{% endif %}">
+  <div class="figure-media" style="background-color: {{ im.color }}">
+    <img src="{{ im.medium.url | relative_url }}"
+         srcset="{{ im.card.url | relative_url }} {{ im.card.w }}w, {{ im.medium.url | relative_url }} {{ im.medium.w }}w, {{ im.large.url | relative_url }} {{ im.large.w }}w"
+         sizes="(min-width: 760px) 720px, 100vw"
+         width="{{ im.medium.w }}" height="{{ im.medium.h }}"
+         alt="{{ im.alt | strip_html | truncate: 200 | escape }}"
+         {% if include.hero %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async">
+  </div>
+  {%- unless include.nocaption %}
+  <figcaption>Image: {{ im.artist | escape }}, {% if im.licence_url %}<a href="{{ im.licence_url }}" rel="license noopener">{{ im.licence }}</a>{% else %}{{ im.licence }}{% endif %}, via <a href="{{ im.page }}" rel="noopener">Wikimedia Commons</a></figcaption>
+  {%- endunless %}
+</figure>
