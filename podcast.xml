@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Hastings Daily evening briefing</title>
-  <link>/podcast/</link>
-  <atom:link href="/podcast.xml" rel="self" type="application/rss+xml"/>
+  <link>https://theknowledgecabinet.github.io/hastings-news/podcast/</link>
+  <atom:link href="https://theknowledgecabinet.github.io/hastings-news/podcast.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, read every evening: the day&#x27;s stories, tomorrow&#x27;s weather and what&#x27;s on.</description>
   <language>en-gb</language>
-  <image><url>/assets/podcast-cover.jpg</url><title>Hastings Daily evening briefing</title><link>/</link></image>
-  <itunes:image href="/assets/podcast-cover.jpg"/>
+  <image><url>https://theknowledgecabinet.github.io/hastings-news/assets/podcast-cover.jpg</url><title>Hastings Daily evening briefing</title><link>https://theknowledgecabinet.github.io/hastings-news/</link></image>
+  <itunes:image href="https://theknowledgecabinet.github.io/hastings-news/assets/podcast-cover.jpg"/>
   <itunes:author>Hastings Daily</itunes:author>
   <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>

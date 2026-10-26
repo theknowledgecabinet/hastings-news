@@ -2,19 +2,19 @@
  "name": "Hastings Daily",
  "short_name": "Hastings Daily",
  "description": "Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.",
- "start_url": "/",
- "scope": "/",
+ "start_url": "/hastings-news/",
+ "scope": "/hastings-news/",
  "display": "standalone",
  "background_color": "#faf7f2",
  "theme_color": "#14213d",
  "icons": [
   {
-   "src": "/assets/icons/icon-192.png",
+   "src": "/hastings-news/assets/icons/icon-192.png",
    "sizes": "192x192",
    "type": "image/png"
   },
   {
-   "src": "/assets/icons/icon-512.png",
+   "src": "/hastings-news/assets/icons/icon-512.png",
    "sizes": "512x512",
    "type": "image/png"
   }

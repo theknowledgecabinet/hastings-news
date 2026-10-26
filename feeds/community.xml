@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Hastings Daily: Community &amp; people</title>
-  <link>/section/community/</link>
-  <atom:link href="/feeds/community.xml" rel="self" type="application/rss+xml"/>
+  <link>https://theknowledgecabinet.github.io/hastings-news/section/community/</link>
+  <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 26 Oct 2026 17:01:10 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 17:13:03 +0000</lastBuildDate>
 
 </channel>
 </rss>

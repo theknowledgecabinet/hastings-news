@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Hastings Daily: Crime &amp; courts</title>
-  <link>/section/crime/</link>
-  <atom:link href="/feeds/crime.xml" rel="self" type="application/rss+xml"/>
+  <link>https://theknowledgecabinet.github.io/hastings-news/section/crime/</link>
+  <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/crime.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 26 Oct 2026 17:01:10 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 17:13:03 +0000</lastBuildDate>
 
 </channel>
 </rss>

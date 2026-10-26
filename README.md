@@ -2,10 +2,10 @@
 
 Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.
 
-**Read it: /**
+**Read it: https://theknowledgecabinet.github.io/hastings-news/**
 
-- News feed (RSS): /feed.xml (one per section under `/feeds/`)
-- Evening audio briefing (podcast): /podcast.xml
+- News feed (RSS): https://theknowledgecabinet.github.io/hastings-news/feed.xml (one per section under `/feeds/`)
+- Evening audio briefing (podcast): https://theknowledgecabinet.github.io/hastings-news/podcast.xml
 
 ## How it is made
 
