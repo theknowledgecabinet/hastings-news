@@ -1,47 +1,57 @@
 {
- "day": "2026-10-21",
- "label": "Wednesday 21 October 2026",
+ "day": "2026-10-25",
+ "label": "Sunday 25 October 2026",
  "editions": [
   {
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-10-21",
-    "code": 53,
-    "words": "drizzle",
+    "day": "2026-10-25",
+    "code": 51,
+    "words": "light drizzle",
     "icon": "🌦️",
     "high": 14,
-    "low": 9,
+    "low": 10,
     "rain_chance": 100,
-    "rain_mm": 1.9,
-    "wind": 20,
-    "gusts": 40,
-    "direction": "south-westerly",
-    "sunrise": "06:30",
-    "sunset": "16:53",
-    "summary": "Drizzle likely. A high of 14°C and a low of 9°C, a fresh breeze from the south-west, gusting 40 mph. Sunrise 06:30, sunset 16:53."
+    "rain_mm": 0.7,
+    "wind": 21,
+    "gusts": 42,
+    "direction": "westerly",
+    "sunrise": "06:37",
+    "sunset": "16:45",
+    "summary": "Light drizzle likely. A high of 14°C and a low of 10°C, a fresh breeze from the west, gusting 42 mph. Sunrise 06:37, sunset 16:45."
    }
   }
  ],
  "weather": {
-  "day": "2026-10-21",
-  "code": 53,
-  "words": "drizzle",
+  "day": "2026-10-25",
+  "code": 51,
+  "words": "light drizzle",
   "icon": "🌦️",
   "high": 14,
-  "low": 9,
+  "low": 10,
   "rain_chance": 100,
-  "rain_mm": 1.9,
-  "wind": 20,
-  "gusts": 40,
-  "direction": "south-westerly",
-  "sunrise": "06:30",
-  "sunset": "16:53",
-  "summary": "Drizzle likely. A high of 14°C and a low of 9°C, a fresh breeze from the south-west, gusting 40 mph. Sunrise 06:30, sunset 16:53."
+  "rain_mm": 0.7,
+  "wind": 21,
+  "gusts": 42,
+  "direction": "westerly",
+  "sunrise": "06:37",
+  "sunset": "16:45",
+  "summary": "Light drizzle likely. A high of 14°C and a low of 10°C, a fresh breeze from the west, gusting 42 mph. Sunrise 06:37, sunset 16:45."
  },
  "briefing": null,
- "otd": null,
+ "otd": {
+  "day": "2026-10-25",
+  "url": "/on-this-day/2026-10-25/",
+  "year": 1823,
+  "title": "New town hall market opens in the High Street"
+ },
  "days": [
+  {
+   "day": "2026-10-25",
+   "url": "/2026/10/25/",
+   "label": "Sun 25 Oct"
+  },
   {
    "day": "2026-10-21",
    "url": "/2026/10/21/",

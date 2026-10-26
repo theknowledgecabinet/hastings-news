@@ -48,6 +48,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Hastings_Pier,_March_2022.jpg
   default: true
 checked: '2026-10-26T18:20:02+00:00'
+related:
+- url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
+  title: Hastings Castle to get £288,500 from Historic England for repairs
+  day: '2026-10-25'
 ---
 {% raw %}
 The National Lottery Heritage Fund has offered £531,000 in development funding to Hastings Borough Council to secure the long-term future of the West Hill Lift, the Grade II listed lift that runs up the cliff from George Street to Hastings Castle.
