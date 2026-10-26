@@ -295,3 +295,5 @@ mark { background: color-mix(in srgb, #f2c94c 45%, transparent); color: inherit;
 .prose-page h2 { margin-top: 1.5em; }
 .byline { margin: -4px 0 10px; font-size: .95rem; }
 .byline a { font-weight: 600; text-decoration: none; }
+.checked { font-size: .88rem; color: color-mix(in srgb, #2e7d4f 75%, var(--text)); }
+.checked a { color: inherit; }

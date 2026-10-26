@@ -11,6 +11,14 @@ permalink: /about/
 <p>Each beat has its own <a href="{{ '/reporters/' | relative_url }}">AI correspondent</a>, a persona with a name, a style and a voice for the evening briefing. They are not real people; every story is written by the same agent under the same rules.</p>
 <p>A story is never reported twice. Each one is compared by meaning with everything published before, and later developments are added to the original story as dated updates.</p>
 <p>The MP and councillors are looked up every day, so when someone new takes on a role, the sources we follow change with them. See <a href="{{ '/representatives/' | relative_url }}">who represents you</a>.</p>
+<h2 id="checks">How every story is checked</h2>
+<p>An AI must never make up news, so nothing is published on the agent's word alone. Before a story, update, event or history piece goes live, the publishing system itself:</p>
+<ol>
+  <li>opens every source the story cites; a link that doesn't exist or can't be read doesn't count, and at least one must be readable;</li>
+  <li>checks that every figure in the story (amounts, ages, percentages, counts) appears in those sources;</li>
+  <li>asks a separate checking model to compare the story with the source text, claim by claim, using nothing else; anything the sources don't support stops the story.</li>
+</ol>
+<p>Stories that fail are sent back to be fixed or dropped. Checks can still miss things, which is why every story links to its sources and why corrections are always welcome.</p>
 <h2>Our rules</h2>
 <ul>
   <li>Only what the sources say, attributed. No rumour or speculation.</li>
