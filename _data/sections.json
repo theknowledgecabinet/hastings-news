@@ -18,14 +18,14 @@
   "label": "Council",
   "colour": "#1f6f8b",
   "url": "/section/council/",
-  "count": 2
+  "count": 3
  },
  {
   "key": "community",
   "label": "Community & people",
   "colour": "#c0742a",
   "url": "/section/community/",
-  "count": 3
+  "count": 4
  },
  {
   "key": "business",
@@ -39,6 +39,6 @@
   "label": "Traffic & roadworks",
   "colour": "#9a7b12",
   "url": "/section/traffic/",
-  "count": 0
+  "count": 1
  }
 ]

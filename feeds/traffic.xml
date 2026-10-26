@@ -6,7 +6,14 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/traffic.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 26 Oct 2026 18:22:23 +0000</lastBuildDate>
-
+  <lastBuildDate>Mon, 26 Oct 2026 18:36:19 +0000</lastBuildDate>
+  <item>
+    <title>Buses replace trains between Tonbridge and Wadhurst from Saturday</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/24/buses-replace-trains-between-tonbridge-and-wadhurst-from-saturday/</link>
+    <guid isPermaLink="false">story-9</guid>
+    <pubDate>Sat, 24 Oct 2026 07:00:00 +0100</pubDate>
+    <category>Traffic &amp; roadworks</category>
+    <description>No trains will run between Tonbridge and Wadhurst from Saturday 24 October until Sunday 1 November, as Network Rail carries out major work on the Hastings line. Rail replacement buses will operate throughout, and the closure extends to Battle on the final day.</description>
+  </item>
 </channel>
 </rss>
