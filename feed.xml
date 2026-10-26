@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 26 Oct 2026 18:36:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 18:39:19 +0000</lastBuildDate>
   <item>
     <title>Hastings Castle to get £288,500 from Historic England for repairs</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/</link>
@@ -94,6 +94,14 @@
     <pubDate>Wed, 21 Oct 2026 07:00:00 +0100</pubDate>
     <category>Community &amp; people</category>
     <description>Hastings artist Helen Slater will launch her book Uninvited on the afternoon of Sunday 25 October, hosted by The Peripheral Space Project.</description>
+  </item>
+  <item>
+    <title>On this day, 1944: Hastings&#x27; secret evacuation plans revealed</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-10-21/</link>
+    <guid isPermaLink="false">otd-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+    <category>On this day</category>
+    <description>On Saturday 21 October 1944, the Hastings and St Leonards Observer printed what the town had not been allowed to know during the war: the full story of the secret plans to evacuate the whole borough in the event of a German invasion.</description>
   </item>
 </channel>
 </rss>
