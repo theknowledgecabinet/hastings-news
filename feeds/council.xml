@@ -6,7 +6,14 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 26 Oct 2026 18:13:29 +0000</lastBuildDate>
-
+  <lastBuildDate>Mon, 26 Oct 2026 18:20:46 +0000</lastBuildDate>
+  <item>
+    <title>West Hill Lift gets £531,000 from National Lottery Heritage Fund</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/</link>
+    <guid isPermaLink="false">story-2</guid>
+    <pubDate>Wed, 21 Oct 2026 07:00:00 +0100</pubDate>
+    <category>Council</category>
+    <description>The National Lottery Heritage Fund has offered £531,000 in development funding to Hastings Borough Council to secure the long-term future of the West Hill Lift, the Grade II listed lift that runs up the cliff from George Street to Hastings Castle.</description>
+  </item>
 </channel>
 </rss>

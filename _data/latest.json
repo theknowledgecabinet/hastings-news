@@ -1,9 +1,51 @@
 {
- "day": null,
- "label": null,
- "editions": [],
- "weather": null,
+ "day": "2026-10-21",
+ "label": "Wednesday 21 October 2026",
+ "editions": [
+  {
+   "name": "morning",
+   "label": "Morning edition",
+   "weather": {
+    "day": "2026-10-21",
+    "code": 53,
+    "words": "drizzle",
+    "icon": "🌦️",
+    "high": 14,
+    "low": 9,
+    "rain_chance": 100,
+    "rain_mm": 1.9,
+    "wind": 20,
+    "gusts": 40,
+    "direction": "south-westerly",
+    "sunrise": "06:30",
+    "sunset": "16:53",
+    "summary": "Drizzle likely. A high of 14°C and a low of 9°C, a fresh breeze from the south-west, gusting 40 mph. Sunrise 06:30, sunset 16:53."
+   }
+  }
+ ],
+ "weather": {
+  "day": "2026-10-21",
+  "code": 53,
+  "words": "drizzle",
+  "icon": "🌦️",
+  "high": 14,
+  "low": 9,
+  "rain_chance": 100,
+  "rain_mm": 1.9,
+  "wind": 20,
+  "gusts": 40,
+  "direction": "south-westerly",
+  "sunrise": "06:30",
+  "sunset": "16:53",
+  "summary": "Drizzle likely. A high of 14°C and a low of 9°C, a fresh breeze from the south-west, gusting 40 mph. Sunrise 06:30, sunset 16:53."
+ },
  "briefing": null,
  "otd": null,
- "days": []
+ "days": [
+  {
+   "day": "2026-10-21",
+   "url": "/2026/10/21/",
+   "label": "Wed 21 Oct"
+  }
+ ]
 }

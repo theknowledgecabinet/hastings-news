@@ -11,21 +11,21 @@
   "label": "Politics",
   "colour": "#6b3fa0",
   "url": "/section/politics/",
-  "count": 0
+  "count": 2
  },
  {
   "key": "council",
   "label": "Council",
   "colour": "#1f6f8b",
   "url": "/section/council/",
-  "count": 0
+  "count": 1
  },
  {
   "key": "community",
   "label": "Community & people",
   "colour": "#c0742a",
   "url": "/section/community/",
-  "count": 0
+  "count": 1
  },
  {
   "key": "business",
