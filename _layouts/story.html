@@ -61,7 +61,8 @@ layout: default
     {%- if page.checked %}
     <p class="checked">✓ Every fact in this story was checked against these sources before publishing. <a href="{{ '/about/' | relative_url }}#checks">How we check</a></p>
     {%- endif %}
-    <p class="actions"><button class="button ghost" type="button" data-share hidden>Share</button>
+    {% include share.html %}
+    <p class="actions">
       {%- if site.repo_url %} <a class="button ghost" href="{{ site.repo_url }}/issues/new?title={{ 'Correction: ' | append: page.title | url_encode }}&body={{ page.url | absolute_url | url_encode }}" rel="noopener">Report a mistake</a>{% endif %}</p>
   </section>
 

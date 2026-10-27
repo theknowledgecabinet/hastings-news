@@ -1,0 +1,22 @@
+{%- comment -%} Share links: plain URLs to each network's own share page, no scripts or trackers. {%- endcomment -%}
+{%- assign share_url = page.url | absolute_url -%}
+{%- assign share_title = include.title | default: page.title -%}
+{%- assign u = share_url | url_encode -%}
+{%- assign t = share_title | url_encode -%}
+<div class="share" aria-label="Share this story">
+  <span class="share-label">Share this story</span>
+  <a class="share-btn" href="https://www.facebook.com/sharer/sharer.php?u={{ u }}">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 4v2.2H7.8v3h2.6V21z"/></svg>Facebook</a>
+  <a class="share-btn" href="https://twitter.com/intent/tweet?text={{ t }}&amp;url={{ u }}">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.8 3h3l-6.6 7.6L22 21h-6.1l-4.8-6.2L5.6 21h-3l7.1-8.1L2.2 3h6.2l4.3 5.7zm-1.1 16.2h1.7L7.4 4.7H5.6z"/></svg>X</a>
+  <a class="share-btn" href="https://wa.me/?text={{ t }}%20{{ u }}">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2.5a9.4 9.4 0 0 0-8.1 14.2L2.5 21.5l4.9-1.3A9.4 9.4 0 1 0 12 2.5zm0 17.2a7.8 7.8 0 0 1-4-1.1l-.3-.2-2.9.8.8-2.8-.2-.3A7.8 7.8 0 1 1 12 19.7zm4.3-5.8c-.2-.1-1.4-.7-1.6-.8-.2-.1-.4-.1-.5.1l-.7.9c-.1.2-.3.2-.5.1a6.4 6.4 0 0 1-3.2-2.8c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.7-1.7c-.2-.4-.4-.4-.5-.4h-.5c-.2 0-.4.1-.6.3-.2.2-.8.8-.8 2s.9 2.3 1 2.5c.1.2 1.7 2.6 4.2 3.7 1.6.7 2.2.7 3 .6.5-.1 1.4-.6 1.6-1.1.2-.6.2-1 .1-1.1l-.5-.3z"/></svg>WhatsApp</a>
+  <a class="share-btn" href="https://bsky.app/intent/compose?text={{ t }}%20{{ u }}">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6.3 4.4c2.1 1.6 4.4 4.8 5.7 6.5 1.3-1.7 3.6-4.9 5.7-6.5 1.5-1.1 4-2 4 .8 0 .6-.3 4.7-.5 5.4-.7 2.4-3.1 3-5.3 2.6 3.8.6 4.8 2.8 2.7 4.9-4 4.1-5.7-1-6.2-2.3l-.4-1.2-.4 1.2c-.5 1.3-2.2 6.4-6.2 2.3-2.1-2.1-1.1-4.3 2.7-4.9-2.2.4-4.6-.2-5.3-2.6-.2-.7-.5-4.8-.5-5.4 0-2.8 2.5-1.9 4-.8z"/></svg>Bluesky</a>
+  <a class="share-btn" href="mailto:?subject={{ t }}&amp;body={{ u }}">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.8" d="M3.5 5.5h17v13h-17zM3.8 6l8.2 6.5L20.2 6"/></svg>Email</a>
+  <button class="share-btn" type="button" data-copy="{{ share_url }}">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.8" d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg>Copy link</button>
+  <button class="share-btn" type="button" data-share hidden>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.8" d="M12 3v12M7.5 7.5 12 3l4.5 4.5M5 12v8h14v-8"/></svg>More…</button>
+</div>

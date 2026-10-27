@@ -264,3 +264,12 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
 .council .actions { margin: 10px 0 14px; }
 .wards dd a { text-decoration-color: var(--rule); }
 .rep-mp h2 a { text-decoration: none; }
+
+/* Share row */
+.share { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 18px 0 14px; }
+.share-label { width: 100%; font: 700 .8rem var(--sans); text-transform: uppercase; letter-spacing: .1em; color: var(--ink-2); }
+.share-btn { display: inline-flex; align-items: center; gap: 6px; min-height: 38px; padding: 6px 12px; border-radius: var(--radius);
+  border: 1px solid var(--rule); background: transparent; color: var(--ink); text-decoration: none; cursor: pointer;
+  font: 600 .85rem var(--sans); }
+.share-btn:hover { border-color: var(--ink-2); background: var(--paper-2); }
+.share-btn svg { width: 17px; height: 17px; flex: none; }

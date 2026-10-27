@@ -15,5 +15,6 @@ layout: default
   <section class="sources">
     <h2>Sources</h2>
     <ul>{% for s in page.sources %}<li><a href="{{ s.url }}" rel="noopener">{{ s.name }}</a></li>{% endfor %}</ul>
+    {% include share.html title=page.title %}
   </section>
 </article>

@@ -180,14 +180,14 @@
   }
   document.querySelectorAll("[data-copy]").forEach((btn) => {
     btn.addEventListener("click", async () => {
-      const label = btn.textContent;
+      const label = btn.innerHTML;   // keeps the icon
       try {
         await navigator.clipboard.writeText(btn.dataset.copy);
         btn.textContent = "Copied ✓";
       } catch {
-        btn.textContent = "Press and hold the address to copy";
+        window.prompt("Copy this link:", btn.dataset.copy);
       }
-      setTimeout(() => { btn.textContent = label; }, 2500);
+      setTimeout(() => { btn.innerHTML = label; }, 2500);
     });
   });
 
