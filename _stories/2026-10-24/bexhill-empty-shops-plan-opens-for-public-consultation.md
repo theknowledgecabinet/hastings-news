@@ -48,6 +48,9 @@ related:
 - url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
   title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
   day: '2026-10-21'
+- url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
+  title: Police appeal after catapults reported in Bexhill's Egerton Park
+  day: '2026-10-27'
 ---
 {% raw %}
 Rother District Council has asked residents and businesses to have their say on a plan to tackle long-term empty shops in Bexhill.

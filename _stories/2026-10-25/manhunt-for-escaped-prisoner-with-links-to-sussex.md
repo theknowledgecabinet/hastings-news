@@ -43,6 +43,10 @@ image:
   abstract: true
   default: true
 checked: '2026-10-27T05:59:16+00:00'
+related:
+- url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
+  title: Police appeal after catapults reported in Bexhill's Egerton Park
+  day: '2026-10-27'
 ---
 {% raw %}
 Police have launched a manhunt for a convicted prisoner with links to Sussex who escaped from a medical facility in South London on Friday.
