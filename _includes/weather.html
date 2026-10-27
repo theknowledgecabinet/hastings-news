@@ -3,7 +3,7 @@
 <aside class="weather" aria-label="Weather">
   <span class="weather-icon" aria-hidden="true">{{ w.icon }}</span>
   <div>
-    <p class="weather-head">{{ include.label | default: "Weather" }} · <strong>{{ w.high }}°</strong> / {{ w.low }}°</p>
+    <p class="weather-head">Weather for {{ w.day | date: "%A %-d %B" }} · <strong>{{ w.high }}°</strong> / {{ w.low }}°</p>
     <p class="weather-text">{{ w.summary }}</p>
   </div>
 </aside>

@@ -17,7 +17,7 @@ layout: default
 {%- for e in page.editions reversed %}
 <section class="block edition">
   <div class="section-head"><h2>{{ e.label }}</h2></div>
-  {% if e.weather %}{% if e.name == 'evening' %}{% include weather.html w=e.weather label="Tomorrow" %}{% else %}{% include weather.html w=e.weather label="Today" %}{% endif %}{% endif %}
+  {% if e.weather %}{% include weather.html w=e.weather %}{% endif %}
   {% include stories.html day=page.day edition=e.name %}
 </section>
 {%- endfor %}

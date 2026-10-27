@@ -7,11 +7,15 @@ layout: default
 {%- assign leads = today | where: "lead", true -%}
 {%- assign lead = leads | first | default: today.first | default: all.first -%}
 <header class="masthead">
-  <div class="ear">
-    {%- if L.weather %}
-    <span class="ear-icon" aria-hidden="true">{{ L.weather.icon }}</span>
-    <span>{% assign last = L.editions | last %}{% if last.name == 'evening' %}Tomorrow{% else %}Today{% endif %}<br><strong>{{ L.weather.high }}° / {{ L.weather.low }}°</strong> {{ L.weather.words }}</span>
-    {%- endif %}
+  <div class="ear ear-weather" aria-label="Weather for Hastings">
+    {%- for w in L.forecast %}
+    <div class="wx" title="{{ w.summary | escape }}">
+      <span class="wx-day">{% if w.label == "Today" %}Today, {% endif %}{{ w.weekday }}</span>
+      <span class="wx-icon" aria-hidden="true">{{ w.icon }}</span>
+      <span class="wx-temp"><strong>{{ w.high }}°</strong> / {{ w.low }}°</span>
+      <span class="wx-words">{{ w.words }}</span>
+    </div>
+    {%- endfor %}
   </div>
   <h1 class="mast-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
   <div class="ear ear-right">
