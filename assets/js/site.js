@@ -136,6 +136,40 @@
   let indexPromise;
   const index = () => (indexPromise ||= fetch(`${base}/search.json`).then((r) => r.json()));
 
+  // ---------------------------------------------------------------- links
+  // Links to other sites (sources, venues, credits) open in a new tab.
+  document.querySelectorAll("a[href]").forEach((a) => {
+    try {
+      const u = new URL(a.getAttribute("href"), location.href);
+      if (/^https?:$/.test(u.protocol) && u.host !== location.host) {
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+      }
+    } catch { /* not a URL */ }
+  });
+
+  // ---------------------------------------------------------------- theme
+  // Cycles Auto (follows the device) -> Light -> Dark; remembered per browser.
+  const toggle = document.querySelector("[data-theme-toggle]");
+  if (toggle) {
+    const order = ["system", "light", "dark"];
+    const names = { system: "Auto", light: "Light", dark: "Dark" };
+    const current = () => document.documentElement.dataset.theme || "system";
+    const paint = () => {
+      const t = current();
+      toggle.querySelector(".theme-label").textContent = names[t];
+      toggle.setAttribute("aria-label", `Theme: ${names[t]}. Change theme`);
+    };
+    paint();
+    toggle.addEventListener("click", () => {
+      const next = order[(order.indexOf(current()) + 1) % order.length];
+      if (next === "system") delete document.documentElement.dataset.theme;
+      else document.documentElement.dataset.theme = next;
+      try { localStorage.setItem("theme", next); } catch { /* private mode */ }
+      paint();
+    });
+  }
+
   // ---------------------------------------------------------------- share / copy
   const share = document.querySelector("[data-share]");
   if (share && navigator.share) {

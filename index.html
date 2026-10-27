@@ -2,52 +2,119 @@
 layout: default
 ---
 {%- assign L = site.data.latest -%}
-{%- if L.day %}
-<section class="front">
-  <div class="masthead">
-    <p class="eyebrow">{{ L.label }}</p>
-    {% assign last = L.editions | last %}
-    {% if last.name == 'evening' %}{% include weather.html w=L.weather label="Tomorrow" %}{% else %}{% include weather.html w=L.weather label="Today" %}{% endif %}
+{%- assign all = site.stories | sort: "date" | reverse -%}
+{%- assign today = all | where: "day", L.day -%}
+{%- assign leads = today | where: "lead", true -%}
+{%- assign lead = leads | first | default: today.first | default: all.first -%}
+<header class="masthead">
+  <div class="ear">
+    {%- if L.weather %}
+    <span class="ear-icon" aria-hidden="true">{{ L.weather.icon }}</span>
+    <span>{% assign last = L.editions | last %}{% if last.name == 'evening' %}Tomorrow{% else %}Today{% endif %}<br><strong>{{ L.weather.high }}° / {{ L.weather.low }}°</strong> {{ L.weather.words }}</span>
+    {%- endif %}
   </div>
+  <h1 class="mast-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+  <div class="ear ear-right">
+    {%- if L.briefing %}
+    <span>Evening briefing<br><a href="{{ '/podcast/' | relative_url }}"><strong>🎧 Listen · {{ L.briefing.length }}</strong></a></span>
+    {%- else %}
+    <span>Local news<br><strong>three times a day</strong></span>
+    {%- endif %}
+  </div>
+</header>
+<p class="dateline">
+  <span>{{ L.label }}</span>
+  <span>Vol. 1 · No. {{ L.issue }}</span>
+  {%- if L.edition_label %}<span>{{ L.edition_label }}</span>{% endif %}
+  <span>Hastings · St Leonards · Rye · Bexhill · Battle</span>
+</p>
 
-  {%- for e in L.editions reversed %}
-  <section class="edition">
-    <div class="section-head"><h2>{{ e.label }}</h2></div>
-    {% include stories.html day=L.day edition=e.name big_lead=forloop.first %}
-  </section>
+{%- if lead %}
+<section class="front">
+  <article class="lead" style="--topic: {{ lead.colour }}">
+    <a href="{{ lead.url | relative_url }}">
+      {%- if lead.image %}
+      <div class="figure-media" style="background-color: {{ lead.image.color }}">
+        <img src="{{ lead.image.medium.url | relative_url }}"
+             srcset="{{ lead.image.card.url | relative_url }} {{ lead.image.card.w }}w, {{ lead.image.medium.url | relative_url }} {{ lead.image.medium.w }}w, {{ lead.image.large.url | relative_url }} {{ lead.image.large.w }}w"
+             sizes="(min-width: 900px) 720px, 100vw" width="{{ lead.image.medium.w }}" height="{{ lead.image.medium.h }}" alt="{{ lead.image.alt | escape }}" fetchpriority="high">
+      </div>
+      {%- endif %}
+      <span class="kicker">{{ lead.section_label }} · {{ lead.places | map: "name" | join: ", " }}</span>
+      <h2>{{ lead.title }}</h2>
+    </a>
+    <p class="standfirst">{{ lead.description }}</p>
+    <p class="byline">By <a href="{{ lead.reporter.url | relative_url }}">{{ lead.reporter.name }}</a> <span class="muted">· {{ lead.date | date: "%A %-d %B, %H:%M" }}</span></p>
+    <div class="lead-extras">
+    {%- if L.otd %}
+    <a class="otd-strip" href="{{ L.otd.url | relative_url }}"><span class="eyebrow">On this day</span><span class="otd-year">{{ L.otd.year }}</span><strong>{{ L.otd.title }}</strong></a>
+    {%- endif %}
+    {%- if L.briefing %}
+    <section class="briefing-box">
+      <h2>🎧 The evening briefing <span class="muted">· {{ L.briefing.length }}</span></h2>
+      {% include player.html src=L.briefing.url seconds=L.briefing.seconds title=L.briefing.day %}
+      <p class="small"><a href="{{ '/podcast/' | relative_url }}">Subscribe as a podcast</a></p>
+    </section>
+    {%- endif %}
+    </div>
+  </article>
+
+  <aside class="latest">
+    <h2>Latest</h2>
+    <ul class="headlines">
+      {%- assign n = 0 %}
+      {%- for s in all %}{% if s.url != lead.url and n < 8 %}{% assign n = n | plus: 1 %}
+      <li style="--topic: {{ s.colour }}"><a href="{{ s.url | relative_url }}">
+        <span class="kicker">{{ s.section_label }}</span>
+        <span class="hl">{{ s.title }}</span>
+        <span class="hl-meta">{{ s.date | date: "%a %-d %b, %H:%M" }} · {{ s.places | map: "name" | join: ", " }}{% if s.updated %} · <span class="badge">Updated</span>{% endif %}</span>
+      </a></li>
+      {%- endif %}{% endfor %}
+    </ul>
+  </aside>
+</section>
+{%- else %}
+<section class="narrow"><p class="lede">The first edition is on its way.</p></section>
+{%- endif %}
+
+<section class="desk" aria-label="Sections">
+  {%- for sec in site.data.sections %}
+  {%- assign list = all | where: "section", sec.key -%}
+  {%- if list.size > 0 %}
+  <div style="--topic: {{ sec.colour }}">
+    <div class="section-head"><h2><a href="{{ sec.url | relative_url }}">{{ sec.label }}</a></h2></div>
+    <ul class="headlines">
+      {%- for s in list limit: 4 %}
+      <li><a href="{{ s.url | relative_url }}">
+        {%- if forloop.first and s.image and s.image.default != true %}
+        <div class="thumb" style="background-color: {{ s.image.color }}"><img src="{{ s.image.card.url | relative_url }}" width="{{ s.image.card.w }}" height="{{ s.image.card.h }}" alt="" loading="lazy"></div>
+        {%- endif %}
+        <span class="hl">{{ s.title }}</span>
+        <span class="hl-meta">{{ s.date | date: "%a %-d %b" }} · {{ s.places | map: "name" | join: ", " }}</span>
+      </a></li>
+      {%- endfor %}
+    </ul>
+  </div>
+  {%- endif %}
   {%- endfor %}
 </section>
 
-<div class="side-by-side">
-  {%- if L.otd %}
-  <a class="otd-strip" href="{{ L.otd.url | relative_url }}"><span class="eyebrow">On this day · {{ L.otd.year }}</span><strong>{{ L.otd.title }}</strong></a>
-  {%- endif %}
-  {%- if L.briefing %}
-  <section class="briefing-box">
-    <h2>🎧 Last evening's briefing <span class="muted">· {{ L.briefing.length }}</span></h2>
-    {% include player.html src=L.briefing.url seconds=L.briefing.seconds title=L.briefing.day %}
-    <p class="small"><a href="{{ '/podcast/' | relative_url }}">Subscribe as a podcast</a></p>
+<div class="block">
+  <section>
+    <div class="section-head"><h2>What's on</h2><a href="{{ '/whats-on/' | relative_url }}">All events →</a></div>
+    {%- if site.data.events.size > 0 %}
+    <ul class="rows events">
+      {%- for ev in site.data.events limit: 5 %}
+      <li><a href="{{ ev.url }}" rel="noopener"><span class="row-date">{{ ev.when }}</span><span class="row-title">{{ ev.title }}</span><span class="row-idea">{{ ev.venue }}{% if ev.time %} · {{ ev.time }}{% endif %}</span></a></li>
+      {%- endfor %}
+    </ul>
+    {%- else %}<p class="muted">Events are added with each evening edition.</p>{% endif %}
   </section>
-  {%- endif %}
 </div>
 
-{%- if site.data.events.size > 0 %}
 <section class="block">
-  <div class="section-head"><h2>What's on</h2><a href="{{ '/whats-on/' | relative_url }}">All events →</a></div>
-  <ul class="rows events">
-    {%- for ev in site.data.events limit: 5 %}
-    <li><a href="{{ ev.url }}" rel="noopener"><span class="row-date">{{ ev.when }}</span><span class="row-title">{{ ev.title }}</span><span class="row-idea">{{ ev.venue }}{% if ev.time %} · {{ ev.time }}{% endif %}</span></a></li>
-    {%- endfor %}
-  </ul>
-</section>
-{%- endif %}
-
-<section class="block">
-  <div class="section-head"><h2>Earlier days</h2></div>
+  <div class="section-head"><h2>Earlier editions</h2></div>
   <div class="chips">
-    {%- for d in L.days offset: 1 %}<a class="chip big neutral" href="{{ d.url | relative_url }}">{{ d.label }}</a>{% endfor %}
+    {%- for d in L.days offset: 1 %}<a class="chip" href="{{ d.url | relative_url }}">{{ d.label }}</a>{% endfor %}
   </div>
 </section>
-{%- else %}
-<section class="narrow"><h1>{{ site.title }}</h1><p class="lede">The first edition is on its way.</p></section>
-{%- endif %}
