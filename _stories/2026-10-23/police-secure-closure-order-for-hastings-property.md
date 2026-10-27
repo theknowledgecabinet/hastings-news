@@ -47,6 +47,9 @@ image:
   default: true
 checked: '2026-10-27T05:54:39+00:00'
 related:
+- url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
+  title: New crossings and lighting completed around Hastings station
+  day: '2026-10-27'
 - url: /2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/
   title: Storm power cuts threatened water supply to the Hastings area
   day: '2026-10-26'

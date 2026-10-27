@@ -58,9 +58,9 @@ related:
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
-- url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
-  title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
-  day: '2026-10-21'
+- url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
+  title: New crossings and lighting completed around Hastings station
+  day: '2026-10-27'
 ---
 {% raw %}
 A new free business support pilot will reach independent shops and businesses in selected East Sussex high streets, including Hastings Old Town and Rye, the county council said.

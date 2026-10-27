@@ -51,6 +51,9 @@ related:
 - url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
   title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
   day: '2026-10-21'
+- url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
+  title: New crossings and lighting completed around Hastings station
+  day: '2026-10-27'
 ---
 {% raw %}
 Hastings Borough Council has been awarded £288,500 from Historic England's Heritage at Risk Capital Fund for repairs to Hastings Castle.
