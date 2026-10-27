@@ -23,7 +23,10 @@ description: Councillors in Hastings, Lewes and Eastbourne have asked the govern
 sources:
 - url: https://www.hastings.gov.uk/news/latest/lha-government-letter/
   name: Hastings Borough Council
-comment: 'The figures do the talking: a benefit set in London that no two-bedroom in the town can reach is not so much a rate as a gap. The question now is whether a letter from three council leaders is enough to move a figure that has sat still since 2024.'
+comment: 'The figures do the talking: a benefit set by Whitehall that no two-bedroom in the town can reach is not so much a rate as a gap. The question now is whether a letter from three council leaders is enough to move a figure that has sat still since 2024.'
+corrections:
+- at: '2026-10-27T10:02:41+00:00'
+  note: An earlier version of the correspondent's comment said the Local Housing Allowance is set in London. It is set by the Department for Work and Pensions.
 image:
   card:
     url: /assets/media/places/hastings/card.webp
