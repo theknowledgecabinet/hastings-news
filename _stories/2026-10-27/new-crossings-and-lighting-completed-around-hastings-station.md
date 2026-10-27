@@ -24,25 +24,22 @@ sources:
   name: East Sussex Highways
 image:
   card:
-    url: /assets/media/places/hastings/card.webp
+    url: /assets/media/abstract/traffic/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
-    url: /assets/media/places/hastings/medium.webp
+    url: /assets/media/abstract/traffic/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
-    url: /assets/media/places/hastings/large.webp
+    url: /assets/media/abstract/traffic/large.webp
     w: 1400
-    h: 1050
+    h: 933
   share:
-    url: /assets/media/places/hastings/share.jpg
-  color: '#96a3af'
-  alt: Hastings Pier, from St Leonards, March 2022
-  artist: Poliphilo
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Pier,_March_2022.jpg
+    url: /assets/media/abstract/traffic/share.jpg
+  color: '#604f17'
+  alt: ''
+  abstract: true
   default: true
 related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/

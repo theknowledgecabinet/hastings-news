@@ -27,25 +27,22 @@ sources:
 comment: A letter from 173 constituents is a fair way to ask an MP to make up her mind on Rosebank. Whatever she intends to do about it, the town might at least want to hear the reasoning.
 image:
   card:
-    url: /assets/media/places/hastings/card.webp
+    url: /assets/media/abstract/politics/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
-    url: /assets/media/places/hastings/medium.webp
+    url: /assets/media/abstract/politics/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
-    url: /assets/media/places/hastings/large.webp
+    url: /assets/media/abstract/politics/large.webp
     w: 1400
-    h: 1050
+    h: 933
   share:
-    url: /assets/media/places/hastings/share.jpg
-  color: '#96a3af'
-  alt: Hastings Pier, from St Leonards, March 2022
-  artist: Poliphilo
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Pier,_March_2022.jpg
+    url: /assets/media/abstract/politics/share.jpg
+  color: '#462f62'
+  alt: ''
+  abstract: true
   default: true
 ---
 {% raw %}

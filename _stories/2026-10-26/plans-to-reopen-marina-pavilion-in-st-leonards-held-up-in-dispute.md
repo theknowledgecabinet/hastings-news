@@ -28,25 +28,22 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/places/st-leonards/card.webp
+    url: /assets/media/abstract/council/card.webp
     w: 400
-    h: 304
+    h: 267
   medium:
-    url: /assets/media/places/st-leonards/medium.webp
+    url: /assets/media/abstract/council/medium.webp
     w: 800
-    h: 608
+    h: 533
   large:
-    url: /assets/media/places/st-leonards/large.webp
+    url: /assets/media/abstract/council/large.webp
     w: 1400
-    h: 1064
+    h: 933
   share:
-    url: /assets/media/places/st-leonards/share.jpg
-  color: '#647688'
-  alt: Marine Court, Marina, St Leonards-on-Sea, Borough of Hastings, East Sussex, England.
-  artist: Hassocks5489
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Marine_Court,_Marina,_St_Leonards-on-Sea_(NHLE_Code_1379435)_(April_2010).JPG
+    url: /assets/media/abstract/council/share.jpg
+  color: '#1d4858'
+  alt: ''
+  abstract: true
   default: true
 checked: '2026-10-27T06:13:00+00:00'
 ---

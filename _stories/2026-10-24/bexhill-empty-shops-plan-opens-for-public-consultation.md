@@ -26,25 +26,22 @@ sources:
   name: Rother District Council
 image:
   card:
-    url: /assets/media/places/bexhill/card.webp
+    url: /assets/media/abstract/council/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
-    url: /assets/media/places/bexhill/medium.webp
+    url: /assets/media/abstract/council/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
-    url: /assets/media/places/bexhill/large.webp
+    url: /assets/media/abstract/council/large.webp
     w: 1400
-    h: 1050
+    h: 933
   share:
-    url: /assets/media/places/bexhill/share.jpg
-  color: '#798992'
-  alt: De La Warr Pavilion, September 2021
-  artist: YCDI2020
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:De_La_Warr_Pavilion,_September_2021.jpg
+    url: /assets/media/abstract/council/share.jpg
+  color: '#1d4858'
+  alt: ''
+  abstract: true
   default: true
 checked: '2026-10-26T18:35:58+00:00'
 related:

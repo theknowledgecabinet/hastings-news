@@ -8,7 +8,9 @@
          alt="{{ im.alt | strip_html | truncate: 200 | escape }}"
          {% if include.hero %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async">
   </div>
-  {%- unless include.nocaption %}
+  {%- if im.abstract %}
+  {%- unless include.nocaption %}<figcaption>Illustration</figcaption>{% endunless %}
+  {%- elsif include.nocaption != true %}
   <figcaption>Image: {{ im.artist | escape }}, {% if im.licence_url %}<a href="{{ im.licence_url }}" rel="license noopener">{{ im.licence }}</a>{% else %}{{ im.licence }}{% endif %}, via <a href="{{ im.page }}" rel="noopener">Wikimedia Commons</a></figcaption>
-  {%- endunless %}
+  {%- endif %}
 </figure>

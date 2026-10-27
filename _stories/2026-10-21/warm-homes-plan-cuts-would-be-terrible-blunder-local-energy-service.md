@@ -25,25 +25,22 @@ sources:
   name: Hastings Online Times
 image:
   card:
-    url: /assets/media/places/east-sussex/card.webp
+    url: /assets/media/abstract/politics/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
-    url: /assets/media/places/east-sussex/medium.webp
+    url: /assets/media/abstract/politics/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
-    url: /assets/media/places/east-sussex/large.webp
+    url: /assets/media/abstract/politics/large.webp
     w: 1400
-    h: 1050
+    h: 933
   share:
-    url: /assets/media/places/east-sussex/share.jpg
-  color: '#727272'
-  alt: Cuckmere Haven with the Seven Sisters chalk cliffs and the coastguard cottages, Sussex , England.
-  artist: William Warby
-  licence: CC BY 2.0
-  licence_url: https://creativecommons.org/licenses/by/2.0
-  page: https://commons.wikimedia.org/wiki/File:Cuckmere_Haven_with_Seven_Sisters_cliffs_and_coastguard_cottages.jpg
+    url: /assets/media/abstract/politics/share.jpg
+  color: '#462f62'
+  alt: ''
+  abstract: true
   default: true
 checked: '2026-10-26T18:20:42+00:00'
 related:

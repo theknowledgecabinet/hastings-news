@@ -24,25 +24,22 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/places/battle/card.webp
+    url: /assets/media/abstract/community/card.webp
     w: 400
-    h: 218
+    h: 267
   medium:
-    url: /assets/media/places/battle/medium.webp
+    url: /assets/media/abstract/community/medium.webp
     w: 800
-    h: 436
+    h: 533
   large:
-    url: /assets/media/places/battle/large.webp
+    url: /assets/media/abstract/community/large.webp
     w: 1400
-    h: 763
+    h: 933
   share:
-    url: /assets/media/places/battle/share.jpg
-  color: '#817e70'
-  alt: The Gatehouse, Battle Abbey, High Street, Battle, Rother District, East Sussex, England. This is a photo of listed building number 1278698 .
-  artist: User:Hassocks5489
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:The_Gatehouse,_Battle_Abbey,_High_Street,_Battle_(NHLE_Code_1278698)_(July_2011).jpg
+    url: /assets/media/abstract/community/share.jpg
+  color: '#744b23'
+  alt: ''
+  abstract: true
   default: true
 checked: '2026-10-27T05:35:15+00:00'
 ---

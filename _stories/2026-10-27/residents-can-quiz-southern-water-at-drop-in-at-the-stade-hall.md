@@ -26,25 +26,22 @@ sources:
 comment: It is the sort of event that is easy to skip until a storm overflow lands in the river outside your window. Worth an hour if you have a question for the people who run the pipes.
 image:
   card:
-    url: /assets/media/places/hastings/card.webp
+    url: /assets/media/abstract/community/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
-    url: /assets/media/places/hastings/medium.webp
+    url: /assets/media/abstract/community/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
-    url: /assets/media/places/hastings/large.webp
+    url: /assets/media/abstract/community/large.webp
     w: 1400
-    h: 1050
+    h: 933
   share:
-    url: /assets/media/places/hastings/share.jpg
-  color: '#96a3af'
-  alt: Hastings Pier, from St Leonards, March 2022
-  artist: Poliphilo
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Pier,_March_2022.jpg
+    url: /assets/media/abstract/community/share.jpg
+  color: '#744b23'
+  alt: ''
+  abstract: true
   default: true
 ---
 {% raw %}
