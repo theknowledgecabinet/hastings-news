@@ -3,7 +3,7 @@
   "name": "Hastings",
   "slug": "hastings",
   "url": "/place/hastings/",
-  "count": 8
+  "count": 9
  },
  {
   "name": "St Leonards",
@@ -21,7 +21,7 @@
   "name": "Rye",
   "slug": "rye",
   "url": "/place/rye/",
-  "count": 1
+  "count": 2
  },
  {
   "name": "Battle",
@@ -39,6 +39,6 @@
   "name": "East Sussex",
   "slug": "east-sussex",
   "url": "/place/east-sussex/",
-  "count": 1
+  "count": 2
  }
 ]

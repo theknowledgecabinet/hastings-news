@@ -46,6 +46,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Cuckmere_Haven_with_Seven_Sisters_cliffs_and_coastguard_cottages.jpg
   default: true
 checked: '2026-10-26T18:20:42+00:00'
+related:
+- url: /2026/10/25/fears-of-hungry-children-over-half-term-after-holiday-food-vouchers/
+  title: Fears of hungry children over half-term after holiday food vouchers axed
+  day: '2026-10-25'
 ---
 {% raw %}
 A local energy advice service has warned that cuts to the government's Warm Homes Plan would be a 'terrible blunder' for households across East Sussex.
