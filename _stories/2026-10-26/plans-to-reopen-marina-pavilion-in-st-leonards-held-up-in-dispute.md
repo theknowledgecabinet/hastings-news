@@ -46,6 +46,10 @@ image:
   abstract: true
   default: true
 checked: '2026-10-27T06:13:00+00:00'
+related:
+- url: /2026/10/27/bexhill-seafront-fountain-replacement-reaches-procurement-stage/
+  title: Bexhill seafront fountain replacement reaches procurement stage
+  day: '2026-10-27'
 ---
 {% raw %}
 The reopening of the Marina Pavilion on the St Leonards seafront has been delayed amid a row over council repair demands.

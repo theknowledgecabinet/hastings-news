@@ -2,7 +2,7 @@
  "day": "2026-10-27",
  "label": "Tuesday 27 October 2026",
  "issue": 7,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-10-27",
@@ -64,23 +64,43 @@
     "sunset": "16:41",
     "summary": "Drizzle likely. A high of 16°C and a low of 9°C, strong winds from the south-west, gusting 48 mph. Sunrise 06:40, sunset 16:41."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-10-27",
+    "code": 63,
+    "words": "rain",
+    "icon": "🌧️",
+    "high": 16,
+    "low": 9,
+    "rain_chance": 100,
+    "rain_mm": 4.6,
+    "wind": 22,
+    "gusts": 44,
+    "direction": "south-westerly",
+    "sunrise": "06:40",
+    "sunset": "16:41",
+    "summary": "Rain likely. A high of 16°C and a low of 9°C, a fresh breeze from the south-west, gusting 44 mph. Sunrise 06:40, sunset 16:41."
+   }
   }
  ],
  "weather": {
   "day": "2026-10-27",
-  "code": 53,
-  "words": "drizzle",
-  "icon": "🌦️",
+  "code": 63,
+  "words": "rain",
+  "icon": "🌧️",
   "high": 16,
   "low": 9,
   "rain_chance": 100,
-  "rain_mm": 2.2,
-  "wind": 25,
-  "gusts": 48,
+  "rain_mm": 4.6,
+  "wind": 22,
+  "gusts": 44,
   "direction": "south-westerly",
   "sunrise": "06:40",
   "sunset": "16:41",
-  "summary": "Drizzle likely. A high of 16°C and a low of 9°C, strong winds from the south-west, gusting 48 mph. Sunrise 06:40, sunset 16:41."
+  "summary": "Rain likely. A high of 16°C and a low of 9°C, a fresh breeze from the south-west, gusting 44 mph. Sunrise 06:40, sunset 16:41."
  },
  "briefing": {
   "day": "2026-10-26",
