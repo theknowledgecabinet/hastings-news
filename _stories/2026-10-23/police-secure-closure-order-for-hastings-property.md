@@ -50,6 +50,9 @@ related:
 - url: /2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/
   title: Storm power cuts threatened water supply to the Hastings area
   day: '2026-10-26'
+- url: /2026/10/27/holiday-lets-flats-and-shops-approved-for-arcade-blaze-site-in-george/
+  title: Holiday lets, flats and shops approved for arcade blaze site in George Street
+  day: '2026-10-27'
 ---
 {% raw %}
 Officers from the Hastings Neighbourhood Policing Team have secured a Closure Order for a property in Cornwallis Terrace, Hastings.

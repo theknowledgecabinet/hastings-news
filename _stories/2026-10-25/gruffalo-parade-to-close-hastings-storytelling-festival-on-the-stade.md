@@ -42,6 +42,10 @@ image:
   abstract: true
   default: true
 checked: '2026-10-26T18:21:38+00:00'
+related:
+- url: /2026/10/27/remembrance-day-service-and-civic-parade-for-alexandra-park/
+  title: Remembrance Day service and civic parade for Alexandra Park
+  day: '2026-10-27'
 ---
 {% raw %}
 The Hastings Storytelling Festival comes to a close on Sunday, October 25, with a free Children's Day on the Stade and a Gruffalo themed parade through the Old Town.

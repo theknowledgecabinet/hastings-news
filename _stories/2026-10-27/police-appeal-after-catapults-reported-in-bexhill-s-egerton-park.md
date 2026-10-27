@@ -44,6 +44,9 @@ image:
   default: true
 checked: '2026-10-27T12:46:56+00:00'
 related:
+- url: /2026/10/27/appeal-for-information-after-quad-bikes-stolen-from-nurdle-charity/
+  title: Appeal for information after quad bikes stolen from Nurdle charity
+  day: '2026-10-27'
 - url: /2026/10/25/manhunt-for-escaped-prisoner-with-links-to-sussex/
   title: Manhunt for escaped prisoner with links to Sussex
   day: '2026-10-25'
