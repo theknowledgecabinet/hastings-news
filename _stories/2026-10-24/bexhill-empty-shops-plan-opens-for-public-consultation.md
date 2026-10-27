@@ -47,6 +47,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:De_La_Warr_Pavilion,_September_2021.jpg
   default: true
 checked: '2026-10-26T18:35:58+00:00'
+related:
+- url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
+  title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
+  day: '2026-10-21'
 ---
 {% raw %}
 Rother District Council has asked residents and businesses to have their say on a plan to tackle long-term empty shops in Bexhill.
