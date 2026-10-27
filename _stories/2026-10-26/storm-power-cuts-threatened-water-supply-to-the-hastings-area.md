@@ -48,6 +48,9 @@ image:
   default: true
 checked: '2026-10-27T06:00:46+00:00'
 related:
+- url: /2026/10/23/police-secure-closure-order-for-hastings-property/
+  title: Police secure closure order for Hastings property
+  day: '2026-10-23'
 - url: /2026/10/24/buses-replace-trains-between-tonbridge-and-wadhurst-from-saturday/
   title: Buses replace trains between Tonbridge and Wadhurst from Saturday
   day: '2026-10-24'
