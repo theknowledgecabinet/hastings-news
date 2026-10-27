@@ -25,26 +25,23 @@ sources:
   name: Hastings Independent Press
 image:
   card:
-    url: /assets/media/story/16/card.webp
+    url: /assets/media/abstract/community/card.webp
     w: 400
-    h: 500
+    h: 267
   medium:
-    url: /assets/media/story/16/medium.webp
+    url: /assets/media/abstract/community/medium.webp
     w: 800
-    h: 1000
+    h: 533
   large:
-    url: /assets/media/story/16/large.webp
+    url: /assets/media/abstract/community/large.webp
     w: 1400
-    h: 1750
+    h: 933
   share:
-    url: /assets/media/story/16/share.jpg
-  color: '#6c7e8f'
-  alt: St Leonard's Church, Marina, St Leonards-on-Sea, Hastings, East Sussex, England. Built in 1832 by James Burton as part of his St Leonards-on-Sea development; rebuilt between 1953 and 1961 by Giles and
-  artist: The Voice of Hassocks
-  licence: Public domain
-  licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:St_Leonard%27s_Church,_St_Leonards,_Hastings_(IoE_Code_470627).JPG
-  default: false
+    url: /assets/media/abstract/community/share.jpg
+  color: '#744b23'
+  alt: ''
+  abstract: true
+  default: true
 checked: '2026-10-27T05:49:40+00:00'
 related:
 - url: /2026/10/25/hastings-philharmonic-choir-to-sing-schubert-and-saint-saens/
