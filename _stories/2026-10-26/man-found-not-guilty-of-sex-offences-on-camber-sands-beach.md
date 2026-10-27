@@ -22,6 +22,9 @@ description: A man from Kent has been found not guilty of a number of sexual off
 sources:
 - url: https://www.bbc.co.uk/news/articles/cmy0r3l3157go
   name: BBC News
+corrections:
+- at: '2026-10-27T07:12:33+00:00'
+  note: An earlier version of this story gave the street where the man lives. We have removed it; he was found not guilty.
 image:
   card:
     url: /assets/media/places/hastings/card.webp
@@ -49,7 +52,7 @@ checked: '2026-10-27T05:24:20+00:00'
 {% raw %}
 A man from Kent has been found not guilty of a number of sexual offences against a woman on Camber Sands.
 
-Mohammed Maatoug, 34, of Boxley Road, Maidstone, was arrested in August 2025 after a woman in her 50s reported being attacked while sunbathing in the dunes on 25 August 2025.
+Mohammed Maatoug, 34, from Maidstone, was arrested in August 2025 after a woman in her 50s reported being attacked while sunbathing in the dunes on 25 August 2025.
 
 He was found not guilty of two counts of sexual assault and one count of assault by penetration. The trial concluded at Lewes Crown Court on Friday, the BBC reported.
 {% endraw %}
