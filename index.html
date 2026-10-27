@@ -90,7 +90,7 @@ layout: default
     <ul class="headlines">
       {%- for s in list limit: 4 %}
       <li><a href="{{ s.url | relative_url }}">
-        {%- if forloop.first and s.image and s.image.default != true %}
+        {%- if forloop.first and s.image %}
         <div class="thumb" style="background-color: {{ s.image.color }}"><img src="{{ s.image.card.url | relative_url }}" width="{{ s.image.card.w }}" height="{{ s.image.card.h }}" alt="" loading="lazy"></div>
         {%- endif %}
         <span class="hl">{{ s.title }}</span>

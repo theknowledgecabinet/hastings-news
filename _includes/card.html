@@ -1,6 +1,6 @@
 {%- assign s = include.story -%}
 <a class="card" href="{{ s.url | relative_url }}" style="--topic: {{ s.colour }}">
-  {%- if s.image and s.image.default != true %}
+  {%- if s.image %}
   <div class="card-media" style="background-color: {{ s.image.color }}">
     <img src="{{ s.image.card.url | relative_url }}"
          srcset="{{ s.image.card.url | relative_url }} {{ s.image.card.w }}w, {{ s.image.medium.url | relative_url }} {{ s.image.medium.w }}w"

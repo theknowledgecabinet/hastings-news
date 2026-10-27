@@ -273,3 +273,9 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
   font: 600 .85rem var(--sans); }
 .share-btn:hover { border-color: var(--ink-2); background: var(--paper-2); }
 .share-btn svg { width: 17px; height: 17px; flex: none; }
+
+/* Story lists: picture beside the text on wider screens */
+@media (min-width: 560px) {
+  .grid .card { grid-template-columns: 132px 1fr; align-items: start; gap: 14px; }
+  .grid .card-media { aspect-ratio: 4 / 3; }
+}
