@@ -1,12 +1,12 @@
 ---
 layout: story
 title: New management takes over 15th century Red Lion pub in Hooe
-permalink: /2026/10/27/new-management-takes-over-15th-century-red-lion-pub-in-hooe/
-date: 2026-10-27 05:20:48 +0000
+permalink: /2026/10/26/new-management-takes-over-15th-century-red-lion-pub-in-hooe/
+date: 2026-10-26 18:30:00 +0000
 sid: 13
-day: '2026-10-27'
-edition: morning
-edition_label: Morning edition
+day: '2026-10-26'
+edition: evening
+edition_label: Evening edition
 section: community
 section_label: Community & people
 reporter:

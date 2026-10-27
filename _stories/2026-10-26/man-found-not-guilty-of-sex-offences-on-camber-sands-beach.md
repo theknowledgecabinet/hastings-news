@@ -1,12 +1,12 @@
 ---
 layout: story
 title: Man found not guilty of sex offences on Camber Sands beach
-permalink: /2026/10/27/man-found-not-guilty-of-sex-offences-on-camber-sands-beach/
-date: 2026-10-27 05:20:48 +0000
+permalink: /2026/10/26/man-found-not-guilty-of-sex-offences-on-camber-sands-beach/
+date: 2026-10-26 18:30:00 +0000
 sid: 12
-day: '2026-10-27'
-edition: morning
-edition_label: Morning edition
+day: '2026-10-26'
+edition: evening
+edition_label: Evening edition
 section: crime
 section_label: Crime & courts
 reporter:
