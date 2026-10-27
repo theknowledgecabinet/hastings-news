@@ -39,7 +39,13 @@
   "sunset": "16:41",
   "summary": "Light rain likely. A high of 16°C and a low of 9°C, strong winds from the south-west, gusting 46 mph. Sunrise 06:40, sunset 16:41."
  },
- "briefing": null,
+ "briefing": {
+  "day": "2026-10-26",
+  "url": "/assets/podcast/2026-10-26.mp3",
+  "seconds": 49,
+  "bytes": 197516,
+  "length": "1 min"
+ },
  "otd": {
   "day": "2026-10-25",
   "url": "/on-this-day/2026-10-25/",
