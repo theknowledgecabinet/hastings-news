@@ -1,8 +1,8 @@
 {
- "day": "2026-10-26",
- "label": "Monday 26 October 2026",
- "issue": 6,
- "edition_label": "Evening edition",
+ "day": "2026-10-27",
+ "label": "Tuesday 27 October 2026",
+ "issue": 7,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-10-27",
@@ -49,58 +49,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-10-26",
-    "code": 51,
-    "words": "light drizzle",
-    "icon": "🌦️",
-    "high": 16,
-    "low": 10,
-    "rain_chance": 100,
-    "rain_mm": 1.7,
-    "wind": 20,
-    "gusts": 39,
-    "direction": "south-westerly",
-    "sunrise": "06:39",
-    "sunset": "16:43",
-    "summary": "Light drizzle likely. A high of 16°C and a low of 10°C, a fresh breeze from the south-west, gusting 39 mph. Sunrise 06:39, sunset 16:43."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-10-27",
-    "code": 61,
-    "words": "light rain",
+    "code": 53,
+    "words": "drizzle",
     "icon": "🌦️",
     "high": 16,
     "low": 9,
     "rain_chance": 100,
-    "rain_mm": 3.2,
-    "wind": 24,
-    "gusts": 46,
+    "rain_mm": 2.2,
+    "wind": 25,
+    "gusts": 48,
     "direction": "south-westerly",
     "sunrise": "06:40",
     "sunset": "16:41",
-    "summary": "Light rain likely. A high of 16°C and a low of 9°C, strong winds from the south-west, gusting 46 mph. Sunrise 06:40, sunset 16:41."
+    "summary": "Drizzle likely. A high of 16°C and a low of 9°C, strong winds from the south-west, gusting 48 mph. Sunrise 06:40, sunset 16:41."
    }
   }
  ],
  "weather": {
   "day": "2026-10-27",
-  "code": 61,
-  "words": "light rain",
+  "code": 53,
+  "words": "drizzle",
   "icon": "🌦️",
   "high": 16,
   "low": 9,
   "rain_chance": 100,
-  "rain_mm": 3.2,
-  "wind": 24,
-  "gusts": 46,
+  "rain_mm": 2.2,
+  "wind": 25,
+  "gusts": 48,
   "direction": "south-westerly",
   "sunrise": "06:40",
   "sunset": "16:41",
-  "summary": "Light rain likely. A high of 16°C and a low of 9°C, strong winds from the south-west, gusting 46 mph. Sunrise 06:40, sunset 16:41."
+  "summary": "Drizzle likely. A high of 16°C and a low of 9°C, strong winds from the south-west, gusting 48 mph. Sunrise 06:40, sunset 16:41."
  },
  "briefing": {
   "day": "2026-10-26",
@@ -116,6 +96,11 @@
   "title": "New town hall market opens in the High Street"
  },
  "days": [
+  {
+   "day": "2026-10-27",
+   "url": "/2026/10/27/",
+   "label": "Tue 27 Oct"
+  },
   {
    "day": "2026-10-26",
    "url": "/2026/10/26/",
