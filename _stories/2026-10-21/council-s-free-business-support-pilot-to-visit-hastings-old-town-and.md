@@ -52,6 +52,9 @@ image:
   default: true
 checked: '2026-10-27T05:39:16+00:00'
 related:
+- url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
+  title: Leaders of three councils urge government to raise Local Housing Allowance
+  day: '2026-10-27'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
