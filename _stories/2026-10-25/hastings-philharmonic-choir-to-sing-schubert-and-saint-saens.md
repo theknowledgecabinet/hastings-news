@@ -46,6 +46,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Hastings_Pier,_March_2022.jpg
   default: true
 checked: '2026-10-26T18:21:29+00:00'
+related:
+- url: /2026/10/22/alabama-3-acoustic-show-at-st-leonard-s-church/
+  title: Alabama 3 acoustic show at St Leonard's Church
+  day: '2026-10-22'
 ---
 {% raw %}
 The Hastings Philharmonic Choir's next concert, Songs of Light, brings two choral masterpieces to All Saints Church in the Old Town on Saturday 7 November.

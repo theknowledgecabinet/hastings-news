@@ -11,7 +11,7 @@
   "label": "Politics",
   "colour": "#6b3fa0",
   "url": "/section/politics/",
-  "count": 2
+  "count": 3
  },
  {
   "key": "council",
@@ -25,7 +25,7 @@
   "label": "Community & people",
   "colour": "#c0742a",
   "url": "/section/community/",
-  "count": 5
+  "count": 6
  },
  {
   "key": "business",
