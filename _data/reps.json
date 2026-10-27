@@ -7,23 +7,29 @@
   "website": "https://www.helenadollimore.com",
   "feed": "https://www.helenadollimore.com/blog-feed.xml",
   "since": "2026-10-26T16:29:49+00:00",
-  "checked": "2026-10-27T07:03:12+00:00"
+  "checked": "2026-10-27T07:06:12+00:00",
+  "contact": "https://members.parliament.uk/member/5192/contact",
+  "profile": "https://members.parliament.uk/member/5192"
  },
  "councils": [
   {
    "key": "hbc",
    "name": "Hastings Borough Council",
+   "contact": "https://www.hastings.gov.uk/contact/",
+   "members": "https://hastings.moderngov.co.uk/mgMemberIndex.aspx",
    "wards": [
     {
      "ward": "Ashdown",
      "people": [
       {
        "name": "Daniel Kendrick",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2802"
       },
       {
        "name": "Sorrell Marlow-Eastwood",
-       "party": "Conservative Party"
+       "party": "Conservative Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1175"
       }
      ]
     },
@@ -32,11 +38,13 @@
      "people": [
       {
        "name": "Will Rumfitt",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2803"
       },
       {
        "name": "Yunis Smith",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2310"
       }
      ]
     },
@@ -45,11 +53,13 @@
      "people": [
       {
        "name": "Archie Lauchlan",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2804"
       },
       {
        "name": "Mark Etherington",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2311"
       }
      ]
     },
@@ -58,11 +68,13 @@
      "people": [
       {
        "name": "Becca Horn",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2312"
       },
       {
        "name": "Steph Fawbert",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2805"
       }
      ]
     },
@@ -71,11 +83,13 @@
      "people": [
       {
        "name": "Adele Bates",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2313"
       },
       {
        "name": "Solly Solamito",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2806"
       }
      ]
     },
@@ -84,11 +98,13 @@
      "people": [
       {
        "name": "Paul Foster",
-       "party": "Conservative Party"
+       "party": "Conservative Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1173"
       },
       {
        "name": "Rob Drew",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2807"
       }
      ]
     },
@@ -97,11 +113,13 @@
      "people": [
       {
        "name": "Amanda Jobson",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2158"
       },
       {
        "name": "Paula Warne",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2314"
       }
      ]
     },
@@ -110,11 +128,13 @@
      "people": [
       {
        "name": "Danuta Kean",
-       "party": "Independent"
+       "party": "Independent",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2315"
       },
       {
        "name": "Will Chapman",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2808"
       }
      ]
     },
@@ -123,11 +143,13 @@
      "people": [
       {
        "name": "Darren Mackenzie",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2321"
       },
       {
        "name": "Karen Simnett",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2809"
       }
      ]
     },
@@ -136,11 +158,13 @@
      "people": [
       {
        "name": "Julia Hilton",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2041"
       },
       {
        "name": "Mike Frith",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2810"
       }
      ]
     },
@@ -149,11 +173,13 @@
      "people": [
       {
        "name": "Clem McCulloch",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2811"
       },
       {
        "name": "Jo Walker",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2316"
       }
      ]
     },
@@ -162,11 +188,13 @@
      "people": [
       {
        "name": "Billie Barnes",
-       "party": "Labour Party"
+       "party": "Labour Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2317"
       },
       {
        "name": "Dulcie Reynolds",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2812"
       }
      ]
     },
@@ -175,11 +203,13 @@
      "people": [
       {
        "name": "Andy Batsford",
-       "party": "Independent"
+       "party": "Independent",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=110"
       },
       {
        "name": "Peter Clarke",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2813"
       }
      ]
     },
@@ -188,11 +218,13 @@
      "people": [
       {
        "name": "Glenn Haffenden",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2159"
       },
       {
        "name": "Natalie Gaimster",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2319"
       }
      ]
     },
@@ -201,11 +233,13 @@
      "people": [
       {
        "name": "Derek Lawrence",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2814"
       },
       {
        "name": "Trevor Webb",
-       "party": "Labour Party"
+       "party": "Labour Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=142"
       }
      ]
     },
@@ -214,11 +248,13 @@
      "people": [
       {
        "name": "Doreena Ross",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2815"
       },
       {
        "name": "Helen Kay",
-       "party": "Labour Party"
+       "party": "Labour Party",
+       "url": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2320"
       }
      ]
     }
@@ -227,17 +263,21 @@
   {
    "key": "rdc",
    "name": "Rother District Council",
+   "contact": "https://www.rother.gov.uk/contact-us/",
+   "members": "https://rother.moderngov.co.uk/mgMemberIndex.aspx",
    "wards": [
     {
      "ward": "Bexhill Central",
      "people": [
       {
        "name": "Christine Bayliss",
-       "party": "Labour"
+       "party": "Labour",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=469"
       },
       {
        "name": "Ruairi McCourt",
-       "party": "Labour"
+       "party": "Labour",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1949"
       }
      ]
     },
@@ -246,11 +286,13 @@
      "people": [
       {
        "name": "Ashan Jeeawon",
-       "party": "Rother Association of Independent Councillors"
+       "party": "Rother Association of Independent Councillors",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=476"
       },
       {
        "name": "Doug Oliver",
-       "party": "Rother Association of Independent Councillors"
+       "party": "Rother Association of Independent Councillors",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=117"
       }
      ]
     },
@@ -259,11 +301,13 @@
      "people": [
       {
        "name": "Andrew Hayward",
-       "party": "Rother Association of Independent Councillors"
+       "party": "Rother Association of Independent Councillors",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1957"
       },
       {
        "name": "Brian Drayson",
-       "party": "Rother Association of Independent Councillors"
+       "party": "Rother Association of Independent Councillors",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=461"
       }
      ]
     },
@@ -272,11 +316,13 @@
      "people": [
       {
        "name": "Mark Legg",
-       "party": "Labour"
+       "party": "Labour",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1990"
       },
       {
        "name": "Polly Gray",
-       "party": "Green"
+       "party": "Green",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=475"
       }
      ]
     },
@@ -285,11 +331,13 @@
      "people": [
       {
        "name": "Charles Clark",
-       "party": "Independent"
+       "party": "Independent",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=130"
       },
       {
        "name": "Gareth Delany",
-       "party": "Labour"
+       "party": "Labour",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1960"
       }
      ]
     },
@@ -298,11 +346,13 @@
      "people": [
       {
        "name": "Hazel Timpe",
-       "party": "Rother Association of Independent Councillors"
+       "party": "Rother Association of Independent Councillors",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=482"
       },
       {
        "name": "Terry Byrne",
-       "party": "Rother Association of Independent Councillors"
+       "party": "Rother Association of Independent Councillors",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=470"
       }
      ]
     },
@@ -311,11 +361,13 @@
      "people": [
       {
        "name": "Fazlul Chowdhury",
-       "party": "Labour"
+       "party": "Labour",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1965"
       },
       {
        "name": "Sam Coleman",
-       "party": "Labour"
+       "party": "Labour",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=472"
       }
      ]
     },
@@ -324,11 +376,13 @@
      "people": [
       {
        "name": "Connor Winter",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1778"
       },
       {
        "name": "Jimmy Stanger",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1756"
       }
      ]
     },
@@ -337,11 +391,13 @@
      "people": [
       {
        "name": "Arren Rathbone Ariel",
-       "party": "Green"
+       "party": "Green",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1972"
       },
       {
        "name": "Richard Thomas",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=481"
       }
      ]
     },
@@ -350,7 +406,8 @@
      "people": [
       {
        "name": "Neil Gordon",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1850"
       }
      ]
     },
@@ -359,11 +416,13 @@
      "people": [
       {
        "name": "John Barnes (MBE)",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=116"
       },
       {
        "name": "Mrs Eleanor Kirby-Green",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=134"
       }
      ]
     },
@@ -372,7 +431,8 @@
      "people": [
       {
        "name": "Nicola McLaren",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=2227"
       }
      ]
     },
@@ -381,11 +441,13 @@
      "people": [
       {
        "name": "Lizzie Hacking",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=654"
       },
       {
        "name": "Paul Osborne",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=145"
       }
      ]
     },
@@ -394,11 +456,13 @@
      "people": [
       {
        "name": "Mrs Mary Barnes",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=113"
       },
       {
        "name": "Teresa Killeen (MBE)",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1979"
       }
      ]
     },
@@ -407,11 +471,13 @@
      "people": [
       {
        "name": "Kathryn Field",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=136"
       },
       {
        "name": "Sue Burton",
-       "party": "Green"
+       "party": "Green",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1741"
       }
      ]
     },
@@ -420,11 +486,13 @@
      "people": [
       {
        "name": "Tony Biggs",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1991"
       },
       {
        "name": "Tony Ganly",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=137"
       }
      ]
     },
@@ -433,7 +501,8 @@
      "people": [
       {
        "name": "Susan Prochak (MBE)",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=112"
       }
      ]
     },
@@ -442,11 +511,13 @@
      "people": [
       {
        "name": "Cheryl Creaser",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1982"
       },
       {
        "name": "Daniel Bradley",
-       "party": "Independent"
+       "party": "Independent",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=2290"
       }
      ]
     },
@@ -455,11 +526,13 @@
      "people": [
       {
        "name": "Beverley Coupar",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1722"
       },
       {
        "name": "Carl Maynard",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=139"
       }
      ]
     },
@@ -468,7 +541,8 @@
      "people": [
       {
        "name": "Mrs Vikki Cook",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=471"
       }
      ]
     },
@@ -477,11 +551,13 @@
      "people": [
       {
        "name": "Andrew Mier",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=479"
       },
       {
        "name": "Tim Grohne",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1987"
       }
      ]
     }
@@ -490,13 +566,16 @@
   {
    "key": "escc",
    "name": "East Sussex County Council",
+   "contact": "https://www.eastsussex.gov.uk/contact-us",
+   "members": "https://democracy.eastsussex.gov.uk/mgMemberIndex.aspx",
    "wards": [
     {
      "ward": "Battle and Crowhurst",
      "people": [
       {
        "name": "Kathryn Field",
-       "party": "Liberal Democrats"
+       "party": "Liberal Democrats",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=22"
       }
      ]
     },
@@ -505,7 +584,8 @@
      "people": [
       {
        "name": "Martin Kenward",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5298"
       }
      ]
     },
@@ -514,7 +594,8 @@
      "people": [
       {
        "name": "Donald Walmsley",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5294"
       }
      ]
     },
@@ -523,7 +604,8 @@
      "people": [
       {
        "name": "Victoria Carson",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5310"
       }
      ]
     },
@@ -532,7 +614,8 @@
      "people": [
       {
        "name": "Pete Morley",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5307"
       }
      ]
     },
@@ -541,7 +624,8 @@
      "people": [
       {
        "name": "Daniel Lach",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5317"
       }
      ]
     },
@@ -550,7 +634,8 @@
      "people": [
       {
        "name": "Georgia Taylor",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=2298"
       }
      ]
     },
@@ -559,7 +644,8 @@
      "people": [
       {
        "name": "Aidan Fisher",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5130"
       }
      ]
     },
@@ -568,7 +654,8 @@
      "people": [
       {
        "name": "Jo Walker",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5309"
       }
      ]
     },
@@ -577,7 +664,8 @@
      "people": [
       {
        "name": "Becca Horn",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5301"
       }
      ]
     },
@@ -586,7 +674,8 @@
      "people": [
       {
        "name": "Amanda Jobson",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5327"
       }
      ]
     },
@@ -595,7 +684,8 @@
      "people": [
       {
        "name": "Mark Estcourt",
-       "party": "Reform UK"
+       "party": "Reform UK",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5322"
       }
      ]
     },
@@ -604,7 +694,8 @@
      "people": [
       {
        "name": "Karen Simnett",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5295"
       }
      ]
     },
@@ -613,7 +704,8 @@
      "people": [
       {
        "name": "Julia Hilton",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=2302"
       }
      ]
     },
@@ -622,7 +714,8 @@
      "people": [
       {
        "name": "Shaun Dowling",
-       "party": "Green Party"
+       "party": "Green Party",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5316"
       }
      ]
     },
@@ -631,7 +724,8 @@
      "people": [
       {
        "name": "Paul Redstone",
-       "party": "Conservative"
+       "party": "Conservative",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=2304"
       }
      ]
     },
@@ -640,7 +734,8 @@
      "people": [
       {
        "name": "Daniel Bradley",
-       "party": "Independent"
+       "party": "Independent",
+       "url": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5308"
       }
      ]
     }

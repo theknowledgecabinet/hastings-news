@@ -259,3 +259,8 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
 .lead-extras { display: grid; gap: 16px; margin-top: 28px; }
 @media (min-width: 640px) { .lead-extras { grid-template-columns: 1fr 1fr; align-items: start; } }
 .lead-extras .otd-strip, .lead-extras .briefing-box { margin: 0; }
+
+@media (min-width: 600px) and (max-width: 899px) { .sections-row a { padding: 6px 7px; font-size: .76rem; letter-spacing: .05em; } }
+.council .actions { margin: 10px 0 14px; }
+.wards dd a { text-decoration-color: var(--rule); }
+.rep-mp h2 a { text-decoration: none; }
