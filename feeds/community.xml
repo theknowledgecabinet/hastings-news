@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 27 Oct 2026 06:21:41 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 06:28:09 +0000</lastBuildDate>
   <item>
     <title>New management takes over 15th century Red Lion pub in Hooe</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/26/new-management-takes-over-15th-century-red-lion-pub-in-hooe/</link>
@@ -24,22 +24,6 @@
     <description>The Hastings Philharmonic Choir&#x27;s next concert, Songs of Light, brings two choral masterpieces to All Saints Church in the Old Town on Saturday 7 November.</description>
   </item>
   <item>
-    <title>Gruffalo parade to close Hastings Storytelling Festival on the Stade</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/25/gruffalo-parade-to-close-hastings-storytelling-festival-on-the-stade/</link>
-    <guid isPermaLink="false">story-7</guid>
-    <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Hastings Storytelling Festival comes to a close on Sunday, October 25, with a free Children&#x27;s Day on the Stade and a Gruffalo themed parade through the Old Town.</description>
-  </item>
-  <item>
-    <title>New Orleans duo Odom-Kunkel to play the Jenny Lind in November</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/24/new-orleans-duo-odom-kunkel-to-play-the-jenny-lind-in-november/</link>
-    <guid isPermaLink="false">story-10</guid>
-    <pubDate>Sat, 24 Oct 2026 07:00:00 +0100</pubDate>
-    <category>Community &amp; people</category>
-    <description>Desert rock voices from New Orleans are making a detour to the Hastings music scene. Bassist-vocalist Stoo Odom and Roger Kunkel, both members of the Californian desert rock band Thin White Rope, will play the Jenny Lind on Friday 20 November, according to the Hastings Online Times.</description>
-  </item>
-  <item>
     <title>Hastings mother wins national road safety award</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/23/hastings-mother-wins-national-road-safety-award/</link>
     <guid isPermaLink="false">story-17</guid>
@@ -54,14 +38,6 @@
     <pubDate>Thu, 22 Oct 2026 07:00:00 +0100</pubDate>
     <category>Community &amp; people</category>
     <description>Alabama 3 are bringing their acoustic show to St Leonard&#x27;s Church, St Leonards-on-Sea, on Saturday 14 November, the Hastings Independent Press reported.</description>
-  </item>
-  <item>
-    <title>Hastings artist to launch book of paintings made through cancer</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/21/hastings-artist-to-launch-book-of-paintings-made-through-cancer/</link>
-    <guid isPermaLink="false">story-4</guid>
-    <pubDate>Wed, 21 Oct 2026 07:00:00 +0100</pubDate>
-    <category>Community &amp; people</category>
-    <description>Hastings artist Helen Slater will launch her book Uninvited on the afternoon of Sunday 25 October, hosted by The Peripheral Space Project.</description>
   </item>
 </channel>
 </rss>

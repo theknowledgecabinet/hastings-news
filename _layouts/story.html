@@ -32,6 +32,14 @@ layout: default
   <section class="try"><h2>What happens next</h2>{{ page.what_next | markdownify }}</section>
   {%- endif %}
 
+  {%- if page.comment %}
+  <aside class="comment">
+    <h2>Comment</h2>
+    {{ page.comment | markdownify }}
+    <p class="comment-by">{{ page.reporter.name }}, {{ page.reporter.title | downcase }}. This is the correspondent's view; the report above sticks to what the sources say.</p>
+  </aside>
+  {%- endif %}
+
   {%- if page.updates %}
   <section class="timeline">
     <h2>Updates</h2>

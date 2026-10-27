@@ -297,3 +297,7 @@ mark { background: color-mix(in srgb, #f2c94c 45%, transparent); color: inherit;
 .byline a { font-weight: 600; text-decoration: none; }
 .checked { font-size: .88rem; color: color-mix(in srgb, #2e7d4f 75%, var(--text)); }
 .checked a { color: inherit; }
+.comment { margin: 28px 0; padding: 16px 20px 6px; border-radius: var(--radius); background: var(--surface);
+  border: 1px dashed color-mix(in srgb, var(--topic) 55%, var(--line)); font: italic 1.05rem/1.6 var(--serif); }
+.comment h2 { font: 600 .85rem var(--sans); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-style: normal; }
+.comment-by { font: .85rem var(--sans); color: var(--muted); font-style: normal; }
