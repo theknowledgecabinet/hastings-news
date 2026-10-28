@@ -30,27 +30,23 @@ sources:
   name: Sussex Express
 image:
   card:
-    url: /assets/media/story/14/card.webp
+    url: /assets/media/abstract/story-14/card.webp
     w: 400
-    h: 269
+    h: 267
   medium:
-    url: /assets/media/story/14/medium.webp
-    w: 640
-    h: 430
+    url: /assets/media/abstract/story-14/medium.webp
+    w: 800
+    h: 533
   large:
-    url: /assets/media/story/14/large.webp
-    w: 640
-    h: 430
+    url: /assets/media/abstract/story-14/large.webp
+    w: 1400
+    h: 933
   share:
-    url: /assets/media/story/14/share.jpg
-  color: '#8d847d'
-  alt: High Street shops
-  artist: N Chadwick
-  match: generic
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:High_Street_shops_-_geograph.org.uk_-_2352028.jpg
-  default: false
+    url: /assets/media/abstract/story-14/share.jpg
+  color: '#2b6b45'
+  alt: ''
+  abstract: true
+  default: true
 checked: '2026-10-27T05:39:16+00:00'
 related:
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/

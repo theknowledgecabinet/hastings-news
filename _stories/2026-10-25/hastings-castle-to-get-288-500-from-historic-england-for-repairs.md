@@ -28,24 +28,24 @@ image:
   card:
     url: /assets/media/story/5/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
     url: /assets/media/story/5/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
     url: /assets/media/story/5/large.webp
     w: 1400
-    h: 933
+    h: 1050
   share:
     url: /assets/media/story/5/share.jpg
-  color: '#7a796d'
-  alt: Hastings Castle with town in the background
-  artist: Kreepin Deth
-  match: exact
-  licence: CC BY-SA 3.0
-  licence_url: https://creativecommons.org/licenses/by-sa/3.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Castle_2012-07-28.jpg
+  color: '#737375'
+  alt: Belsay Castle, Belsay, Northumberland
+  artist: Orangeaurochs from Sandy, Bedfordshire, United Kingdom
+  match: generic
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0
+  page: https://commons.wikimedia.org/wiki/File:Belsay_Castle,_Belsay,_Northumberland_(3382356245).jpg
   default: false
 checked: '2026-10-26T18:21:21+00:00'
 related:

@@ -30,27 +30,23 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/story/11/card.webp
+    url: /assets/media/abstract/story-11/card.webp
     w: 400
-    h: 269
+    h: 267
   medium:
-    url: /assets/media/story/11/medium.webp
-    w: 640
-    h: 430
+    url: /assets/media/abstract/story-11/medium.webp
+    w: 800
+    h: 533
   large:
-    url: /assets/media/story/11/large.webp
-    w: 640
-    h: 430
+    url: /assets/media/abstract/story-11/large.webp
+    w: 1400
+    h: 933
   share:
-    url: /assets/media/story/11/share.jpg
-  color: '#8b9092'
-  alt: Hastings Town Hall
-  artist: N Chadwick
-  match: generic
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Town_Hall_(geograph_2695872).jpg
-  default: false
+    url: /assets/media/abstract/story-11/share.jpg
+  color: '#1d667d'
+  alt: ''
+  abstract: true
+  default: true
 checked: '2026-10-27T05:20:48+00:00'
 related:
 - url: /2026/10/21/warm-homes-plan-cuts-would-be-terrible-blunder-local-energy-service/

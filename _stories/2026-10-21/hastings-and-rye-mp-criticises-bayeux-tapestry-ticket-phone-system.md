@@ -36,27 +36,23 @@ sources:
   name: BBC News
 image:
   card:
-    url: /assets/media/story/1/card.webp
+    url: /assets/media/abstract/story-1/card.webp
     w: 400
-    h: 298
+    h: 267
   medium:
-    url: /assets/media/story/1/medium.webp
-    w: 624
-    h: 465
+    url: /assets/media/abstract/story-1/medium.webp
+    w: 800
+    h: 533
   large:
-    url: /assets/media/story/1/large.webp
-    w: 624
-    h: 465
+    url: /assets/media/abstract/story-1/large.webp
+    w: 1400
+    h: 933
   share:
-    url: /assets/media/story/1/share.jpg
-  color: '#7a6e63'
-  alt: The Entrance to the British Museum. The museum as seen from the entrance in Great Russell Street.
-  artist: Pam Brophy
-  match: generic
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:The_Entrance_to_the_British_Museum_-_geograph.org.uk_-_7173.jpg
-  default: false
+    url: /assets/media/abstract/story-1/share.jpg
+  color: '#613f8a'
+  alt: ''
+  abstract: true
+  default: true
 checked: '2026-10-26T18:19:29+00:00'
 ---
 {% raw %}

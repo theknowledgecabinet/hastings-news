@@ -27,24 +27,24 @@ image:
   card:
     url: /assets/media/story/4/card.webp
     w: 400
-    h: 300
+    h: 303
   medium:
     url: /assets/media/story/4/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 605
   large:
     url: /assets/media/story/4/large.webp
-    w: 640
-    h: 480
+    w: 1400
+    h: 1059
   share:
     url: /assets/media/story/4/share.jpg
-  color: '#928780'
-  alt: Hastings seafront and pier Orange, pink and cloud...
-  artist: Matthew C Baines
+  color: '#968d37'
+  alt: '''Abstract landscape with sun'' - large acrylic painting on canvas in colors green and yellow, painted in 1990 by Dutch artist Fons Heijnsbroek, free image of art in high resolutions'
+  artist: Fons Heijnsbroek
   match: generic
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_seafront_and_pier_-_geograph.org.uk_-_1604606.jpg
+  licence: CC0
+  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  page: https://commons.wikimedia.org/wiki/File:%27Abstract_landscape_with_sun%27_-_large_acrylic_painting_on_canvas,_painted_in_1990_by_Dutch_artist_Fons_Heijnsbroek,_free_image_of_art_in_high_resolutions.jpg
   default: false
 checked: '2026-10-26T18:20:45+00:00'
 ---

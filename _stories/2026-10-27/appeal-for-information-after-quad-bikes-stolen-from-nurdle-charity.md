@@ -27,27 +27,23 @@ sources:
   name: Rother District Council
 image:
   card:
-    url: /assets/media/story/31/card.webp
+    url: /assets/media/abstract/story-31/card.webp
     w: 400
-    h: 373
+    h: 267
   medium:
-    url: /assets/media/story/31/medium.webp
+    url: /assets/media/abstract/story-31/medium.webp
     w: 800
-    h: 746
+    h: 533
   large:
-    url: /assets/media/story/31/large.webp
-    w: 1098
-    h: 1024
+    url: /assets/media/abstract/story-31/large.webp
+    w: 1400
+    h: 933
   share:
-    url: /assets/media/story/31/share.jpg
-  color: '#76816a'
-  alt: A Honda quad bike. Also known as four-wheeler or ATV (All-terrain vehicle)
-  artist: Felix I.
-  match: generic
-  licence: Public domain
-  licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:Honda_Quad_in_light_green.jpg
-  default: false
+    url: /assets/media/abstract/story-31/share.jpg
+  color: '#216b87'
+  alt: ''
+  abstract: true
+  default: true
 checked: '2026-10-27T19:17:22+00:00'
 related:
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/

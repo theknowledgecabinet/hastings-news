@@ -53,6 +53,8 @@
     {%- endif %}
     <nav class="nav" aria-label="Main">
       <a class="nav-text" href="{{ '/whats-on/' | relative_url }}">What's on</a>
+      <span class="nav-sep nav-text" aria-hidden="true">|</span>
+      <a class="nav-text" href="{{ '/representatives/' | relative_url }}">Who represents you</a>
       <a href="{{ '/podcast/' | relative_url }}" aria-label="Podcast">🎧</a>
       <button class="theme-toggle" type="button" data-theme-toggle aria-label="Theme: system">
         <svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg>
@@ -69,7 +71,8 @@
       <a style="--topic: {{ s.colour }}" href="{{ s.url | relative_url }}"{% if page.section == s.key and page.layout == 'section' %} aria-current="page"{% endif %}>{{ s.label }}</a>
       {%- endfor %}
       <a style="--topic: #7a5c3e" href="{{ '/on-this-day/' | relative_url }}">On this day</a>
-      <a style="--topic: #b0487a" href="{{ '/whats-on/' | relative_url }}">What's on</a>
+      <a class="sec-extra" style="--topic: #b0487a" href="{{ '/whats-on/' | relative_url }}">What's on</a>
+      <a class="sec-extra" style="--topic: #1f6f8b" href="{{ '/representatives/' | relative_url }}">Who represents you</a>
     </div>
   </nav>
 </header>

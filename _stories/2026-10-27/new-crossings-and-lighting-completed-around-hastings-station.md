@@ -24,27 +24,23 @@ sources:
   name: East Sussex Highways
 image:
   card:
-    url: /assets/media/story/25/card.webp
+    url: /assets/media/abstract/story-25/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
-    url: /assets/media/story/25/medium.webp
+    url: /assets/media/abstract/story-25/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
-    url: /assets/media/story/25/large.webp
+    url: /assets/media/abstract/story-25/large.webp
     w: 1400
-    h: 1050
+    h: 933
   share:
-    url: /assets/media/story/25/share.jpg
-  color: '#86847c'
-  alt: Front of Hastings Station
-  artist: Paul Gillett
-  match: exact
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Front_of_Hastings_Station_-_geograph.org.uk_-_1751004.jpg
-  default: false
+    url: /assets/media/abstract/story-25/share.jpg
+  color: '#6c560e'
+  alt: ''
+  abstract: true
+  default: true
 related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property

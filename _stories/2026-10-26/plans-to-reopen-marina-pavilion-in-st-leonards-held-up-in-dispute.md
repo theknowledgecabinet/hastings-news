@@ -28,27 +28,23 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/story/21/card.webp
+    url: /assets/media/abstract/story-21/card.webp
     w: 400
-    h: 266
+    h: 267
   medium:
-    url: /assets/media/story/21/medium.webp
-    w: 640
-    h: 425
+    url: /assets/media/abstract/story-21/medium.webp
+    w: 800
+    h: 533
   large:
-    url: /assets/media/story/21/large.webp
-    w: 640
-    h: 425
+    url: /assets/media/abstract/story-21/large.webp
+    w: 1400
+    h: 933
   share:
-    url: /assets/media/story/21/share.jpg
-  color: '#555864'
-  alt: The Marina Pavilion
-  artist: Ian Taylor
-  match: exact
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:The_Marina_Pavilion_-_geograph.org.uk_-_3765428.jpg
-  default: false
+    url: /assets/media/abstract/story-21/share.jpg
+  color: '#0c202a'
+  alt: ''
+  abstract: true
+  default: true
 checked: '2026-10-27T06:13:00+00:00'
 related:
 - url: /2026/10/27/bexhill-seafront-fountain-replacement-reaches-procurement-stage/

@@ -293,3 +293,9 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
   .theme-toggle { padding: 6px 8px; }
   .brand { font-size: 1.15rem; }
 }
+
+.nav-sep { color: var(--rule); padding: 0 2px; user-select: none; }
+/* What's on and Who represents you are in the top bar on wider screens, and in the
+   sections bar on phones (where the top bar has no room for them). */
+@media (min-width: 481px) { .sec-extra { display: none; } }
+@media (max-width: 760px) { .nav .nav-text { font-size: .85rem; } }
