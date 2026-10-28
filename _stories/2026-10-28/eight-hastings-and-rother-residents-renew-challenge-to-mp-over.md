@@ -32,24 +32,24 @@ image:
   card:
     url: /assets/media/story/36/card.webp
     w: 400
-    h: 300
+    h: 158
   medium:
     url: /assets/media/story/36/medium.webp
     w: 800
-    h: 600
+    h: 315
   large:
     url: /assets/media/story/36/large.webp
     w: 1400
-    h: 1051
+    h: 552
   share:
     url: /assets/media/story/36/share.jpg
-  color: '#86909a'
-  alt: The Houses of Parliament, seen across Westminster Bridge.
-  artist: Adrian Pingstone ( talk · contribs )
+  color: '#656a7e'
+  alt: 'The Palace of Westminster at night as seen from the opposite side of the River Thames . Victoria Tower and the House of Lords is on the left. The Clock Tower of Big Ben and the House of Commons is on '
+  artist: Diliff
   match: generic
-  licence: Public domain
-  licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:Houses.of.parliament.overall.arp.jpg
+  licence: CC BY-SA 2.5
+  licence_url: https://creativecommons.org/licenses/by-sa/2.5
+  page: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg
   default: false
 related:
 - url: /2026/10/27/173-residents-urge-hastings-mp-to-publicly-oppose-rosebank-oil-field/

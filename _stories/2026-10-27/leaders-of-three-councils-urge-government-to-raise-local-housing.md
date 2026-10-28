@@ -31,24 +31,24 @@ image:
   card:
     url: /assets/media/story/22/card.webp
     w: 400
-    h: 283
+    h: 269
   medium:
     url: /assets/media/story/22/medium.webp
-    w: 800
-    h: 566
+    w: 640
+    h: 430
   large:
     url: /assets/media/story/22/large.webp
-    w: 928
-    h: 656
+    w: 640
+    h: 430
   share:
     url: /assets/media/story/22/share.jpg
-  color: '#818181'
-  alt: 26 December 1915 Soldiers Dinner in Lewes Town Hall the Kiss is under the cover photo assigned to E Reeves who died some years before. The business still operates. In 1915 yje owner would have been Be
-  artist: maybe Benjamin V Reeves 1875–1948
-  match: exact
-  licence: Public domain
-  licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:26_December_1915_Soldiers_Dinner_in_Lewes_Town_Hall_the_Kiss_is_under_the_cover.jpg
+  color: '#8b8884'
+  alt: Terraced houses, Devonshire Rd
+  artist: Nigel Chadwick
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Terraced_houses,_Devonshire_Rd_-_geograph.org.uk_-_1773637.jpg
   default: false
 checked: '2026-10-27T09:14:07+00:00'
 related:
