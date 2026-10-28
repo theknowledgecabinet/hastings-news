@@ -26,23 +26,27 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/council-0/card.webp
+    url: /assets/media/story/30/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/council-0/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/30/medium.webp
+    w: 640
+    h: 480
   large:
-    url: /assets/media/abstract/council-0/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/30/large.webp
+    w: 640
+    h: 480
   share:
-    url: /assets/media/abstract/council-0/share.jpg
-  color: '#1e4858'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/30/share.jpg
+  color: '#888b8e'
+  alt: New residential & retail building In Milton Keynes' theatre district, this rather new building homes several retail units on the ground floor and flats on the upper floors.
+  artist: Mr Biz
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:New_residential_and_retail_building_-_geograph.org.uk_-_746595.jpg
+  default: false
 checked: '2026-10-27T19:16:31+00:00'
 related:
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/

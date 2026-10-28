@@ -25,23 +25,27 @@ sources:
   name: Hastings Independent Press
 image:
   card:
-    url: /assets/media/abstract/politics-0/card.webp
+    url: /assets/media/story/15/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/politics-0/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/15/medium.webp
+    w: 640
+    h: 480
   large:
-    url: /assets/media/abstract/politics-0/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/15/large.webp
+    w: 640
+    h: 480
   share:
-    url: /assets/media/abstract/politics-0/share.jpg
-  color: '#462e62'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/15/share.jpg
+  color: '#3c3830'
+  alt: The council chamber in Swansea Guildhall This chamber is extensively covered in exotic hardwood and has a tapestry running all around it below the ceiling. For example, the supporting steel & concrete
+  artist: Nigel Davies
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:The_council_chamber_in_Swansea_Guildhall_-_geograph.org.uk_-_1491171.jpg
+  default: false
 checked: '2026-10-27T05:48:45+00:00'
 ---
 {% raw %}

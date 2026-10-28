@@ -26,23 +26,27 @@ sources:
 comment: It is the sort of event that is easy to skip until a storm overflow lands in the river outside your window. Worth an hour if you have a question for the people who run the pipes.
 image:
   card:
-    url: /assets/media/abstract/community-0/card.webp
+    url: /assets/media/story/24/card.webp
     w: 400
-    h: 267
+    h: 225
   medium:
-    url: /assets/media/abstract/community-0/medium.webp
+    url: /assets/media/story/24/medium.webp
     w: 800
-    h: 533
+    h: 450
   large:
-    url: /assets/media/abstract/community-0/large.webp
+    url: /assets/media/story/24/large.webp
     w: 1400
-    h: 933
+    h: 788
   share:
-    url: /assets/media/abstract/community-0/share.jpg
-  color: '#744b22'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/24/share.jpg
+  color: '#8697a4'
+  alt: Stade Hall, Rock–a–Nore Road, Old Town, Hastings, Borough of Hastings, East Sussex, England.
+  artist: Hassocks5489
+  match: exact
+  licence: CC0
+  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  page: https://commons.wikimedia.org/wiki/File:Stade_Hall,_Rock-a-Nore_Road,_Old_Town,_Hastings_(October_2020).JPG
+  default: false
 ---
 {% raw %}
 Southern Water is coming to the town to hear from residents directly, with a drop-in at The Stade Hall on Wednesday 4 November, from 1.30pm to 6pm.

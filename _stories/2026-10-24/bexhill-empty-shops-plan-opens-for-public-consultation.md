@@ -26,23 +26,27 @@ sources:
   name: Rother District Council
 image:
   card:
-    url: /assets/media/abstract/council-2/card.webp
+    url: /assets/media/story/8/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/council-2/medium.webp
+    url: /assets/media/story/8/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/council-2/large.webp
+    url: /assets/media/story/8/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/council-2/share.jpg
-  color: '#1d4858'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/8/share.jpg
+  color: '#888784'
+  alt: 'Haverfordwest, High Street: A row of empty shops'
+  artist: Michael Garlick
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Haverfordwest,_High_Street,_A_row_of_empty_shops_-_geograph.org.uk_-_6882639.jpg
+  default: false
 checked: '2026-10-26T18:35:58+00:00'
 related:
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/

@@ -27,23 +27,27 @@ sources:
 comment: A letter from 173 constituents is a fair way to ask an MP to make up her mind on Rosebank. Whatever she intends to do about it, the town might at least want to hear the reasoning.
 image:
   card:
-    url: /assets/media/abstract/politics-2/card.webp
+    url: /assets/media/story/23/card.webp
     w: 400
-    h: 267
+    h: 225
   medium:
-    url: /assets/media/abstract/politics-2/medium.webp
+    url: /assets/media/story/23/medium.webp
     w: 800
-    h: 533
+    h: 450
   large:
-    url: /assets/media/abstract/politics-2/large.webp
+    url: /assets/media/story/23/large.webp
     w: 1400
-    h: 933
+    h: 788
   share:
-    url: /assets/media/abstract/politics-2/share.jpg
-  color: '#462f62'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/23/share.jpg
+  color: '#91a8c1'
+  alt: North Sea, Oil Rig
+  artist: Banja-Frans Mulder
+  match: generic
+  licence: CC BY 3.0
+  licence_url: https://creativecommons.org/licenses/by/3.0
+  page: https://commons.wikimedia.org/wiki/File:North_Sea,_Oil_Rig_-_panoramio.jpg
+  default: false
 related:
 - url: /2026/10/28/eight-hastings-and-rother-residents-renew-challenge-to-mp-over/
   title: Eight Hastings and Rother residents renew challenge to MP over Palestine Action ban

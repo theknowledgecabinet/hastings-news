@@ -27,23 +27,27 @@ sources:
   name: Chichester Observer (SussexWorld)
 image:
   card:
-    url: /assets/media/abstract/council-2/card.webp
+    url: /assets/media/story/2/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/council-2/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/2/medium.webp
+    w: 640
+    h: 480
   large:
-    url: /assets/media/abstract/council-2/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/2/large.webp
+    w: 640
+    h: 480
   share:
-    url: /assets/media/abstract/council-2/share.jpg
-  color: '#1d4858'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/2/share.jpg
+  color: '#6e726c'
+  alt: West Hill Lift, Hastings
+  artist: Stacey Harris
+  match: exact
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:West_Hill_Lift,_Hastings_-_geograph.org.uk_-_1529537.jpg
+  default: false
 checked: '2026-10-26T18:20:02+00:00'
 related:
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/

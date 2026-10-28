@@ -25,23 +25,27 @@ sources:
   name: Hastings Online Times
 image:
   card:
-    url: /assets/media/abstract/community-0/card.webp
+    url: /assets/media/story/6/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/community-0/medium.webp
+    url: /assets/media/story/6/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/community-0/large.webp
+    url: /assets/media/story/6/large.webp
     w: 1400
-    h: 933
+    h: 1050
   share:
-    url: /assets/media/abstract/community-0/share.jpg
-  color: '#744b22'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/6/share.jpg
+  color: '#6e7577'
+  alt: 'All Saints Church, All Saints Street, Old Town, Hastings, East Sussex, England. One of the two surviving medieval churches in the Old Town area of Hastings. Listed at Grade B by English Heritage (IoE '
+  artist: The Voice of Hassocks
+  match: exact
+  licence: Public domain
+  licence_url: null
+  page: https://commons.wikimedia.org/wiki/File:All_Saints_Church,_Old_Town,_Hastings_(IoE_Code_293639).JPG
+  default: false
 checked: '2026-10-26T18:21:29+00:00'
 related:
 - url: /2026/10/22/alabama-3-acoustic-show-at-st-leonard-s-church/

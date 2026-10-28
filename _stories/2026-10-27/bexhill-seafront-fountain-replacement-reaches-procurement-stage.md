@@ -26,23 +26,27 @@ sources:
 comment: Three partners pulling the same direction is a model worth watching, because Bexhill's seafront has waited a long time for this. The test now is whether the procurement runs on time for a 2027 start.
 image:
   card:
-    url: /assets/media/abstract/council-0/card.webp
+    url: /assets/media/story/27/card.webp
     w: 400
-    h: 267
+    h: 225
   medium:
-    url: /assets/media/abstract/council-0/medium.webp
+    url: /assets/media/story/27/medium.webp
     w: 800
-    h: 533
+    h: 450
   large:
-    url: /assets/media/abstract/council-0/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/27/large.webp
+    w: 1024
+    h: 576
   share:
-    url: /assets/media/abstract/council-0/share.jpg
-  color: '#1e4858'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/27/share.jpg
+  color: '#85847b'
+  alt: Fountain, Dunfermline Public Park
+  artist: Ian Dodds
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Fountain,_Dunfermline_Public_Park_-_geograph.org.uk_-_7484110.jpg
+  default: false
 checked: '2026-10-27T12:47:44+00:00'
 related:
 - url: /2026/10/26/plans-to-reopen-marina-pavilion-in-st-leonards-held-up-in-dispute/

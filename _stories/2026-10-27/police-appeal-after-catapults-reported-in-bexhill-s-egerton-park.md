@@ -25,23 +25,27 @@ sources:
   name: BBC News
 image:
   card:
-    url: /assets/media/abstract/crime-2/card.webp
+    url: /assets/media/story/26/card.webp
     w: 400
-    h: 267
+    h: 319
   medium:
-    url: /assets/media/abstract/crime-2/medium.webp
+    url: /assets/media/story/26/medium.webp
     w: 800
-    h: 533
+    h: 638
   large:
-    url: /assets/media/abstract/crime-2/large.webp
+    url: /assets/media/story/26/large.webp
     w: 1400
-    h: 933
+    h: 1117
   share:
-    url: /assets/media/abstract/crime-2/share.jpg
-  color: '#6c2c25'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/26/share.jpg
+  color: '#efeeea'
+  alt: Slingshot
+  artist: Jacek Halicki
+  match: generic
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0
+  page: https://commons.wikimedia.org/wiki/File:2023_Proca_neurobalistyczna.jpg
+  default: false
 checked: '2026-10-27T12:46:56+00:00'
 related:
 - url: /2026/10/27/appeal-for-information-after-quad-bikes-stolen-from-nurdle-charity/

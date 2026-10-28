@@ -27,23 +27,27 @@ corrections:
   note: An earlier version of this story gave the street where the man lives. We have removed it; he was found not guilty.
 image:
   card:
-    url: /assets/media/abstract/crime-0/card.webp
+    url: /assets/media/story/12/card.webp
     w: 400
-    h: 267
+    h: 247
   medium:
-    url: /assets/media/abstract/crime-0/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/12/medium.webp
+    w: 640
+    h: 395
   large:
-    url: /assets/media/abstract/crime-0/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/12/large.webp
+    w: 640
+    h: 395
   share:
-    url: /assets/media/abstract/crime-0/share.jpg
-  color: '#6b2b24'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/12/share.jpg
+  color: '#a7a4a4'
+  alt: Camber Sands beach
+  artist: N Chadwick
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Camber_Sands_beach_-_geograph.org.uk_-_2176274.jpg
+  default: false
 checked: '2026-10-27T05:24:20+00:00'
 ---
 {% raw %}
