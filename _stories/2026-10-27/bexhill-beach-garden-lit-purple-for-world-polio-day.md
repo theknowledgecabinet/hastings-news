@@ -26,23 +26,27 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/community-1/card.webp
+    url: /assets/media/story/34/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/community-1/medium.webp
+    url: /assets/media/story/34/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/community-1/large.webp
+    url: /assets/media/story/34/large.webp
     w: 1400
-    h: 933
+    h: 1050
   share:
-    url: /assets/media/abstract/community-1/share.jpg
-  color: '#744b23'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/34/share.jpg
+  color: '#737b63'
+  alt: Seaside garden and house, Bexhill
+  artist: nick macneill
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Seaside_garden_and_house,_Bexhill_-_geograph.org.uk_-_2434942.jpg
+  default: false
 checked: '2026-10-27T19:43:17+00:00'
 ---
 {% raw %}

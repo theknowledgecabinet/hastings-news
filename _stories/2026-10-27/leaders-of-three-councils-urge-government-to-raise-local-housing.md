@@ -29,27 +29,23 @@ corrections:
   note: An earlier version of the correspondent's comment said the Local Housing Allowance is set in London. It is set by the Department for Work and Pensions.
 image:
   card:
-    url: /assets/media/story/22/card.webp
+    url: /assets/media/abstract/council-1/card.webp
     w: 400
-    h: 265
+    h: 267
   medium:
-    url: /assets/media/story/22/medium.webp
+    url: /assets/media/abstract/council-1/medium.webp
     w: 800
-    h: 530
+    h: 533
   large:
-    url: /assets/media/story/22/large.webp
-    w: 851
-    h: 564
+    url: /assets/media/abstract/council-1/large.webp
+    w: 1400
+    h: 933
   share:
-    url: /assets/media/story/22/share.jpg
-  color: '#fbfcfc'
-  alt: Graph of homelessness in the UK 1997-2014 using data from ONS Tables of Statistics on Homelessness and ONS Population Data
-  artist: Absolutelypuremilk
-  match: generic
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:Homelessness_in_UK_per_100,000.png
-  default: false
+    url: /assets/media/abstract/council-1/share.jpg
+  color: '#1e4858'
+  alt: ''
+  abstract: true
+  default: true
 checked: '2026-10-27T09:14:07+00:00'
 related:
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/

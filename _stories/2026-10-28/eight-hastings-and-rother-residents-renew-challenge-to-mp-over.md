@@ -30,23 +30,27 @@ sources:
 comment: With the Supreme Court due to hear the ban's appeal on 4 and 5 November, the outcome will shape how much room there is for protest about arms sales. The fair question for the MP is whether she will explain her vote to her constituents.
 image:
   card:
-    url: /assets/media/abstract/politics-0/card.webp
+    url: /assets/media/story/36/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/politics-0/medium.webp
+    url: /assets/media/story/36/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/politics-0/large.webp
+    url: /assets/media/story/36/large.webp
     w: 1400
-    h: 933
+    h: 1051
   share:
-    url: /assets/media/abstract/politics-0/share.jpg
-  color: '#462e62'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/36/share.jpg
+  color: '#86909a'
+  alt: The Houses of Parliament, seen across Westminster Bridge.
+  artist: Adrian Pingstone ( talk · contribs )
+  match: generic
+  licence: Public domain
+  licence_url: null
+  page: https://commons.wikimedia.org/wiki/File:Houses.of.parliament.overall.arp.jpg
+  default: false
 related:
 - url: /2026/10/27/173-residents-urge-hastings-mp-to-publicly-oppose-rosebank-oil-field/
   title: 173 residents urge Hastings MP to publicly oppose Rosebank oil field

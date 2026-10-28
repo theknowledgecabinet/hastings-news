@@ -26,24 +26,24 @@ image:
   card:
     url: /assets/media/story/37/card.webp
     w: 400
-    h: 300
+    h: 238
   medium:
     url: /assets/media/story/37/medium.webp
     w: 800
-    h: 600
+    h: 476
   large:
     url: /assets/media/story/37/large.webp
-    w: 1400
-    h: 1049
+    w: 1238
+    h: 737
   share:
     url: /assets/media/story/37/share.jpg
-  color: '#fbfbfc'
-  alt: 'Data for 1881–1970 from Unemployment statistics from 1881 to the present day (1996) by James Madden and Paul McDonald. Data for 1971–2025 from ONS unemployment rate bulletin8 (Unemployment rate (aged '
-  artist: Firebrace
+  color: '#75736c'
+  alt: Young and Adult Starlings, London N14
+  artist: Christine Matthews
   match: generic
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:UK_unemployment_rate.png
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Young_and_Adult_Starlings,_London_N14_-_geograph.org.uk_-_4510599.jpg
   default: false
 related:
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
