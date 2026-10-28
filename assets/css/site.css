@@ -281,3 +281,15 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
   .grid .card { grid-template-columns: 132px 1fr; align-items: start; gap: 14px; }
   .grid .card-media { aspect-ratio: 4 / 3; }
 }
+
+/* Small phones: everything in the top bar fits; the logo scales with the screen. */
+.d-short { display: none; }
+.mast-title { font-size: clamp(1.9rem, 10.5vw, 4.6rem); }
+@media (max-width: 480px) {
+  .d-long { display: none; }
+  .d-short { display: inline; }
+  .nav-text { display: none; }
+  .nav a { padding: 8px 7px; }
+  .theme-toggle { padding: 6px 8px; }
+  .brand { font-size: 1.15rem; }
+}

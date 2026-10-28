@@ -27,20 +27,20 @@ sources:
   name: Sussex Express
 image:
   card:
-    url: /assets/media/abstract/community-2/card.webp
+    url: /assets/media/abstract/story-17/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/community-2/medium.webp
+    url: /assets/media/abstract/story-17/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/community-2/large.webp
+    url: /assets/media/abstract/story-17/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/community-2/share.jpg
-  color: '#744b23'
+    url: /assets/media/abstract/story-17/share.jpg
+  color: '#b17238'
   alt: ''
   abstract: true
   default: true
