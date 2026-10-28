@@ -25,6 +25,9 @@ sources:
 - url: https://www.sussexexpress.co.uk/news/people/hastings-and-rye-firefighter-receives-30-year-service-award-9315105
   name: Hastings Observer
 comment: A fitting tribute to three decades of service and to a family tradition that has run through the Rye fire crews for generations.
+corrections:
+- at: '2026-10-28T13:18:15+00:00'
+  note: An earlier version said crews across the Rother villages had five minutes to reach a station; Mr Bourn described the five-minute turnaround and up to 20 minutes for backup specifically for Rye and rural areas.
 image:
   card:
     url: /assets/media/abstract/community/card.webp
@@ -52,5 +55,5 @@ Mr Bourn serves with both the Hastings and Rye fire crews and follows a family t
 
 Reflecting on three decades of call-outs, he named the 20-appliance warehouse fire at Rye Harbour, the days-long clearing of 500,000 litres of unknown chemical waste at Tradebe, also at the Harbour, and the fire at St Michael's Hospice as the incidents that most stuck in his memory.
 
-He said the job differs sharply between town and country. In the Rother villages, crews have just five minutes to reach the station and get an engine on the road, and can wait up to 20 minutes for backup, whereas extra help in Hastings usually arrives much more quickly.
+He said the job differs sharply between town and country. At Rye, he said, crews have just five minutes to get to the station and get an engine on the road when the pager goes off, and in rural areas they can wait up to 20 minutes for extra help, whereas in Hastings additional fire engines and other emergency services can usually reach them much more quickly.
 {% endraw %}
