@@ -29,23 +29,27 @@ sources:
   name: Network Rail Media Centre
 image:
   card:
-    url: /assets/media/abstract/traffic-0/card.webp
+    url: /assets/media/story/9/card.webp
     w: 400
-    h: 267
+    h: 266
   medium:
-    url: /assets/media/abstract/traffic-0/medium.webp
+    url: /assets/media/story/9/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/traffic-0/large.webp
+    url: /assets/media/story/9/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/traffic-0/share.jpg
-  color: '#604f16'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/9/share.jpg
+  color: '#515c71'
+  alt: Rail Replacement Bus
+  artist: Bob Harvey
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Rail_Replacement_Bus_-_geograph.org.uk_-_7224585.jpg
+  default: false
 checked: '2026-10-26T18:36:00+00:00'
 related:
 - url: /2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/

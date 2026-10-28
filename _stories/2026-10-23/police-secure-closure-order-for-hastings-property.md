@@ -25,23 +25,27 @@ sources:
   name: Sussex Express
 image:
   card:
-    url: /assets/media/abstract/crime-0/card.webp
+    url: /assets/media/story/18/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/crime-0/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/18/medium.webp
+    w: 640
+    h: 480
   large:
-    url: /assets/media/abstract/crime-0/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/18/large.webp
+    w: 640
+    h: 480
   share:
-    url: /assets/media/abstract/crime-0/share.jpg
-  color: '#6b2b24'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/18/share.jpg
+  color: '#7b7d92'
+  alt: The Old Police Station, High Street. Pevsner says "..the plain POLICE STATION of 1847 by the County Surveyor, J.S.Padley, originally symmetrical and all single-storeyed." For another Police Station by
+  artist: David Wright
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:The_Old_Police_Station,_High_Street_-_geograph.org.uk_-_202297.jpg
+  default: false
 checked: '2026-10-27T05:54:39+00:00'
 related:
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
