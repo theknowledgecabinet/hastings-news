@@ -10,7 +10,7 @@ layout: default
   <div class="ear ear-weather" aria-label="Weather for Hastings">
     {%- for w in L.forecast %}
     <div class="wx" title="{{ w.summary | escape }}">
-      <span class="wx-day">{% if w.label == "Today" %}Today, {% endif %}{{ w.weekday }}</span>
+      <span class="wx-day">{{ w.weekday }}</span>
       <span class="wx-icon" aria-hidden="true">{{ w.icon }}</span>
       <span class="wx-temp"><strong>{{ w.high }}°</strong> / {{ w.low }}°</span>
       <span class="wx-words">{{ w.words }}</span>
