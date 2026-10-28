@@ -44,6 +44,10 @@ image:
   alt: ''
   abstract: true
   default: true
+related:
+- url: /2026/10/28/eight-hastings-and-rother-residents-renew-challenge-to-mp-over/
+  title: Eight Hastings and Rother residents renew challenge to MP over Palestine Action ban
+  day: '2026-10-28'
 ---
 {% raw %}
 A letter signed by 173 residents of the Hastings and Rye constituency has called on local MP Helena Dollimore to "get off the fence and publicly oppose all new oil and gas projects in the North Sea".

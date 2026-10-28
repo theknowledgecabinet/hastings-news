@@ -1,8 +1,8 @@
 {
- "day": "2026-10-27",
- "label": "Tuesday 27 October 2026",
- "issue": 7,
- "edition_label": "Evening edition",
+ "day": "2026-10-28",
+ "label": "Wednesday 28 October 2026",
+ "issue": 8,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-10-28",
@@ -32,12 +32,12 @@
    "low": 11,
    "rain_chance": 4,
    "rain_mm": 0.0,
-   "wind": 6,
-   "gusts": 11,
-   "direction": "north-easterly",
+   "wind": 7,
+   "gusts": 15,
+   "direction": "south-easterly",
    "sunrise": "06:44",
    "sunset": "16:37",
-   "summary": "Cloudy. A high of 15°C and a low of 11°C, light winds from the north east. Sunrise 06:44, sunset 16:37.",
+   "summary": "Cloudy. A high of 15°C and a low of 11°C, light winds from the south-east. Sunrise 06:44, sunset 16:37.",
    "label": "Tomorrow",
    "weekday": "Thu 29 Oct",
    "long": "Thursday 29 October"
@@ -49,46 +49,6 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-10-27",
-    "code": 53,
-    "words": "drizzle",
-    "icon": "🌦️",
-    "high": 16,
-    "low": 9,
-    "rain_chance": 100,
-    "rain_mm": 2.2,
-    "wind": 25,
-    "gusts": 48,
-    "direction": "south-westerly",
-    "sunrise": "06:40",
-    "sunset": "16:41",
-    "summary": "Drizzle likely. A high of 16°C and a low of 9°C, strong winds from the south-west, gusting 48 mph. Sunrise 06:40, sunset 16:41."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-10-27",
-    "code": 63,
-    "words": "rain",
-    "icon": "🌧️",
-    "high": 16,
-    "low": 9,
-    "rain_chance": 100,
-    "rain_mm": 4.6,
-    "wind": 22,
-    "gusts": 44,
-    "direction": "south-westerly",
-    "sunrise": "06:40",
-    "sunset": "16:41",
-    "summary": "Rain likely. A high of 16°C and a low of 9°C, a fresh breeze from the south-west, gusting 44 mph. Sunrise 06:40, sunset 16:41."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-10-28",
     "code": 3,
     "words": "cloudy",
@@ -97,8 +57,8 @@
     "low": 8,
     "rain_chance": 0,
     "rain_mm": 0.0,
-    "wind": 10,
-    "gusts": 22,
+    "wind": 12,
+    "gusts": 23,
     "direction": "westerly",
     "sunrise": "06:42",
     "sunset": "16:39",
@@ -115,8 +75,8 @@
   "low": 8,
   "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 10,
-  "gusts": 22,
+  "wind": 12,
+  "gusts": 23,
   "direction": "westerly",
   "sunrise": "06:42",
   "sunset": "16:39",
@@ -136,6 +96,11 @@
   "title": "The opening of St Leonards Pier"
  },
  "days": [
+  {
+   "day": "2026-10-28",
+   "url": "/2026/10/28/",
+   "label": "Wed 28 Oct"
+  },
   {
    "day": "2026-10-27",
    "url": "/2026/10/27/",

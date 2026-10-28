@@ -44,6 +44,9 @@ image:
   default: true
 checked: '2026-10-26T18:20:42+00:00'
 related:
+- url: /2026/10/28/local-energy-advice-service-backs-campaign-to-save-radio-4-s-you-and/
+  title: Local energy advice service backs campaign to save Radio 4's You and Yours
+  day: '2026-10-28'
 - url: /2026/10/25/fears-of-hungry-children-over-half-term-after-holiday-food-vouchers/
   title: Fears of hungry children over half-term after holiday food vouchers axed
   day: '2026-10-25'

@@ -48,12 +48,15 @@ image:
   default: true
 checked: '2026-10-27T09:14:07+00:00'
 related:
+- url: /2026/10/28/local-energy-advice-service-backs-campaign-to-save-radio-4-s-you-and/
+  title: Local energy advice service backs campaign to save Radio 4's You and Yours
+  day: '2026-10-28'
 - url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
   title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
   day: '2026-10-21'
-- url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
-  title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
-  day: '2026-10-21'
+- url: /2026/10/28/one-in-ten-young-adults-in-hastings-on-unemployment-benefits/
+  title: One in ten young adults in Hastings on unemployment benefits
+  day: '2026-10-28'
 ---
 {% raw %}
 Councillors in Hastings, Lewes and Eastbourne have asked the government to raise the housing benefit rates that help people pay private rents.
