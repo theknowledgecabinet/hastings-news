@@ -49,11 +49,11 @@ related:
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
   title: Hastings Castle to get £288,500 from Historic England for repairs
   day: '2026-10-25'
+- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
+  title: Hastings to get £1.2 million Fairness Fund for community projects
+  day: '2026-10-28'
 - url: /2026/10/27/white-rock-gardens-could-get-covered-padel-and-tennis-courts/
   title: White Rock Gardens could get covered padel and tennis courts
-  day: '2026-10-27'
-- url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
-  title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
   day: '2026-10-27'
 ---
 {% raw %}

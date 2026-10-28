@@ -51,11 +51,11 @@ related:
 - url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
   title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
   day: '2026-10-21'
+- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
+  title: Hastings to get £1.2 million Fairness Fund for community projects
+  day: '2026-10-28'
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
   title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
-  day: '2026-10-27'
-- url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
-  title: New crossings and lighting completed around Hastings station
   day: '2026-10-27'
 ---
 {% raw %}

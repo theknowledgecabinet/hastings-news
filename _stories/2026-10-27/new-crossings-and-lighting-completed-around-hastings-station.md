@@ -48,9 +48,9 @@ related:
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
   title: Hastings Castle to get £288,500 from Historic England for repairs
   day: '2026-10-25'
-- url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
-  title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
-  day: '2026-10-21'
+- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
+  title: Hastings to get £1.2 million Fairness Fund for community projects
+  day: '2026-10-28'
 ---
 {% raw %}
 The improvement works around Hastings railway station have been completed, East Sussex County Council has said.

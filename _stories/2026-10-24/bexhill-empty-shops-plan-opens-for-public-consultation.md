@@ -45,6 +45,9 @@ image:
   default: true
 checked: '2026-10-26T18:35:58+00:00'
 related:
+- url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
+  title: Residents call for action over former Hastings public toilets site
+  day: '2026-10-28'
 - url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
   title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
   day: '2026-10-21'

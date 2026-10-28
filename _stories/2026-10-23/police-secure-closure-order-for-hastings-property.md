@@ -44,15 +44,15 @@ image:
   default: true
 checked: '2026-10-27T05:54:39+00:00'
 related:
+- url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
+  title: Residents call for action over former Hastings public toilets site
+  day: '2026-10-28'
 - url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
   title: New crossings and lighting completed around Hastings station
   day: '2026-10-27'
 - url: /2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/
   title: Storm power cuts threatened water supply to the Hastings area
   day: '2026-10-26'
-- url: /2026/10/27/holiday-lets-flats-and-shops-approved-for-arcade-blaze-site-in-george/
-  title: Holiday lets, flats and shops approved for arcade blaze site in George Street
-  day: '2026-10-27'
 ---
 {% raw %}
 Officers from the Hastings Neighbourhood Policing Team have secured a Closure Order for a property in Cornwallis Terrace, Hastings.

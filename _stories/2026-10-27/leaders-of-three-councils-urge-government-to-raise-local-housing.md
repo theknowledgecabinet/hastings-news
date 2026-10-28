@@ -48,15 +48,15 @@ image:
   default: true
 checked: '2026-10-27T09:14:07+00:00'
 related:
+- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
+  title: Hastings to get £1.2 million Fairness Fund for community projects
+  day: '2026-10-28'
 - url: /2026/10/28/local-energy-advice-service-backs-campaign-to-save-radio-4-s-you-and/
   title: Local energy advice service backs campaign to save Radio 4's You and Yours
   day: '2026-10-28'
 - url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
   title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
   day: '2026-10-21'
-- url: /2026/10/28/one-in-ten-young-adults-in-hastings-on-unemployment-benefits/
-  title: One in ten young adults in Hastings on unemployment benefits
-  day: '2026-10-28'
 ---
 {% raw %}
 Councillors in Hastings, Lewes and Eastbourne have asked the government to raise the housing benefit rates that help people pay private rents.
