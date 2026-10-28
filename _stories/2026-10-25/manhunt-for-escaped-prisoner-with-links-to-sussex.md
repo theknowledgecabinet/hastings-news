@@ -25,19 +25,19 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/abstract/crime/card.webp
+    url: /assets/media/abstract/crime-1/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/crime/medium.webp
+    url: /assets/media/abstract/crime-1/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/crime/large.webp
+    url: /assets/media/abstract/crime-1/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/crime/share.jpg
+    url: /assets/media/abstract/crime-1/share.jpg
   color: '#6b2b24'
   alt: ''
   abstract: true

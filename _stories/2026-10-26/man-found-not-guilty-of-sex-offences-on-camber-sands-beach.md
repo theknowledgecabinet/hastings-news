@@ -27,19 +27,19 @@ corrections:
   note: An earlier version of this story gave the street where the man lives. We have removed it; he was found not guilty.
 image:
   card:
-    url: /assets/media/abstract/crime/card.webp
+    url: /assets/media/abstract/crime-0/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/crime/medium.webp
+    url: /assets/media/abstract/crime-0/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/crime/large.webp
+    url: /assets/media/abstract/crime-0/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/crime/share.jpg
+    url: /assets/media/abstract/crime-0/share.jpg
   color: '#6b2b24'
   alt: ''
   abstract: true

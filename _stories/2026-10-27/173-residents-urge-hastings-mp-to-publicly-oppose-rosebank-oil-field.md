@@ -27,19 +27,19 @@ sources:
 comment: A letter from 173 constituents is a fair way to ask an MP to make up her mind on Rosebank. Whatever she intends to do about it, the town might at least want to hear the reasoning.
 image:
   card:
-    url: /assets/media/abstract/politics/card.webp
+    url: /assets/media/abstract/politics-2/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/politics/medium.webp
+    url: /assets/media/abstract/politics-2/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/politics/large.webp
+    url: /assets/media/abstract/politics-2/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/politics/share.jpg
+    url: /assets/media/abstract/politics-2/share.jpg
   color: '#462f62'
   alt: ''
   abstract: true

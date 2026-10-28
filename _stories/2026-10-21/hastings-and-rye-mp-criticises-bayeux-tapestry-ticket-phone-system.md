@@ -36,20 +36,20 @@ sources:
   name: BBC News
 image:
   card:
-    url: /assets/media/abstract/politics/card.webp
+    url: /assets/media/abstract/politics-1/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/politics/medium.webp
+    url: /assets/media/abstract/politics-1/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/politics/large.webp
+    url: /assets/media/abstract/politics-1/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/politics/share.jpg
-  color: '#462f62'
+    url: /assets/media/abstract/politics-1/share.jpg
+  color: '#462f63'
   alt: ''
   abstract: true
   default: true

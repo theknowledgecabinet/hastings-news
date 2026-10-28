@@ -24,19 +24,19 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/abstract/business/card.webp
+    url: /assets/media/abstract/business-1/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/business/medium.webp
+    url: /assets/media/abstract/business-1/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/business/large.webp
+    url: /assets/media/abstract/business-1/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/business/share.jpg
+    url: /assets/media/abstract/business-1/share.jpg
   color: '#255037'
   alt: ''
   abstract: true

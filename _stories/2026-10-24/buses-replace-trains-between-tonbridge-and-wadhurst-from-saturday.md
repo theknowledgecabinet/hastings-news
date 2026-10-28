@@ -29,20 +29,20 @@ sources:
   name: Network Rail Media Centre
 image:
   card:
-    url: /assets/media/abstract/traffic/card.webp
+    url: /assets/media/abstract/traffic-0/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/traffic/medium.webp
+    url: /assets/media/abstract/traffic-0/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/traffic/large.webp
+    url: /assets/media/abstract/traffic-0/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/traffic/share.jpg
-  color: '#604f17'
+    url: /assets/media/abstract/traffic-0/share.jpg
+  color: '#604f16'
   alt: ''
   abstract: true
   default: true

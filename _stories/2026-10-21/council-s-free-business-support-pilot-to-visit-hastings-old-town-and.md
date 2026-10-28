@@ -30,20 +30,20 @@ sources:
   name: Sussex Express
 image:
   card:
-    url: /assets/media/abstract/business/card.webp
+    url: /assets/media/abstract/business-2/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/business/medium.webp
+    url: /assets/media/abstract/business-2/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/business/large.webp
+    url: /assets/media/abstract/business-2/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/business/share.jpg
-  color: '#255037'
+    url: /assets/media/abstract/business-2/share.jpg
+  color: '#255038'
   alt: ''
   abstract: true
   default: true

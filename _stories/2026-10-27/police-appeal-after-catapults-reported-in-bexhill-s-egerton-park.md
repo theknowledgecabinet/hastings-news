@@ -25,20 +25,20 @@ sources:
   name: BBC News
 image:
   card:
-    url: /assets/media/abstract/crime/card.webp
+    url: /assets/media/abstract/crime-2/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/crime/medium.webp
+    url: /assets/media/abstract/crime-2/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/crime/large.webp
+    url: /assets/media/abstract/crime-2/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/crime/share.jpg
-  color: '#6b2b24'
+    url: /assets/media/abstract/crime-2/share.jpg
+  color: '#6c2c25'
   alt: ''
   abstract: true
   default: true

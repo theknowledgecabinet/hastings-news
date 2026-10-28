@@ -29,20 +29,20 @@ corrections:
   note: An earlier version of the correspondent's comment said the Local Housing Allowance is set in London. It is set by the Department for Work and Pensions.
 image:
   card:
-    url: /assets/media/abstract/council/card.webp
+    url: /assets/media/abstract/council-1/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/council/medium.webp
+    url: /assets/media/abstract/council-1/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/council/large.webp
+    url: /assets/media/abstract/council-1/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/council/share.jpg
-  color: '#1d4858'
+    url: /assets/media/abstract/council-1/share.jpg
+  color: '#1e4858'
   alt: ''
   abstract: true
   default: true

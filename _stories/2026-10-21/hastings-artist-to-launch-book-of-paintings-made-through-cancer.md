@@ -25,19 +25,19 @@ sources:
   name: Hastings Online Times
 image:
   card:
-    url: /assets/media/abstract/community/card.webp
+    url: /assets/media/abstract/community-1/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/community/medium.webp
+    url: /assets/media/abstract/community-1/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/community/large.webp
+    url: /assets/media/abstract/community-1/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/community/share.jpg
+    url: /assets/media/abstract/community-1/share.jpg
   color: '#744b23'
   alt: ''
   abstract: true

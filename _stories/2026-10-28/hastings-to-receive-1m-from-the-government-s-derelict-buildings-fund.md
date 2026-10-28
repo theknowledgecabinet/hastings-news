@@ -27,23 +27,27 @@ sources:
 comment: 'A million pounds and a list of famous empty buildings. The survey is the interesting part: residents get to pick which buildings matter most. The bigger question is what happens afterwards, with the council still not using rental auction powers other councils have already taken up.'
 image:
   card:
-    url: /assets/media/abstract/council/card.webp
+    url: /assets/media/story/46/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/council/medium.webp
+    url: /assets/media/story/46/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/council/large.webp
+    url: /assets/media/story/46/large.webp
     w: 1400
-    h: 933
+    h: 1050
   share:
-    url: /assets/media/abstract/council/share.jpg
-  color: '#1d4858'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/46/share.jpg
+  color: '#818586'
+  alt: St Mary in the Castle, Hastings
+  artist: Colin Smith
+  match: exact
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:St_Mary_in_the_Castle,_Hastings_-_geograph.org.uk_-_2017268.jpg
+  default: false
 related:
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
   title: Hastings Castle to get £288,500 from Historic England for repairs
