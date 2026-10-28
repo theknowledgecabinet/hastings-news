@@ -25,23 +25,27 @@ sources:
   name: Hastings Online Times
 image:
   card:
-    url: /assets/media/abstract/community-1/card.webp
+    url: /assets/media/story/4/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/community-1/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/4/medium.webp
+    w: 640
+    h: 480
   large:
-    url: /assets/media/abstract/community-1/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/4/large.webp
+    w: 640
+    h: 480
   share:
-    url: /assets/media/abstract/community-1/share.jpg
-  color: '#744b23'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/4/share.jpg
+  color: '#928780'
+  alt: Hastings seafront and pier Orange, pink and cloud...
+  artist: Matthew C Baines
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Hastings_seafront_and_pier_-_geograph.org.uk_-_1604606.jpg
+  default: false
 checked: '2026-10-26T18:20:45+00:00'
 ---
 {% raw %}

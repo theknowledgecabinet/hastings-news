@@ -28,23 +28,27 @@ corrections:
   note: An earlier version of this story described Odom-Kunkel as a New Orleans duo. They are members of the Californian band Thin White Rope.
 image:
   card:
-    url: /assets/media/abstract/community-1/card.webp
+    url: /assets/media/story/10/card.webp
     w: 400
-    h: 267
+    h: 261
   medium:
-    url: /assets/media/abstract/community-1/medium.webp
+    url: /assets/media/story/10/medium.webp
     w: 800
-    h: 533
+    h: 522
   large:
-    url: /assets/media/abstract/community-1/large.webp
+    url: /assets/media/story/10/large.webp
     w: 1400
-    h: 933
+    h: 914
   share:
-    url: /assets/media/abstract/community-1/share.jpg
-  color: '#744b23'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/10/share.jpg
+  color: '#9ea1b9'
+  alt: Hastings Seafront from the pier
+  artist: Barry Shimmon
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Hastings_Seafront_from_the_pier_-_geograph.org.uk_-_2687868.jpg
+  default: false
 checked: '2026-10-26T18:36:01+00:00'
 ---
 {% raw %}

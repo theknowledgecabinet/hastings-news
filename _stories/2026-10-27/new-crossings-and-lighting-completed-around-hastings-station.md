@@ -24,23 +24,27 @@ sources:
   name: East Sussex Highways
 image:
   card:
-    url: /assets/media/abstract/traffic-1/card.webp
+    url: /assets/media/story/25/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/traffic-1/medium.webp
+    url: /assets/media/story/25/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/traffic-1/large.webp
+    url: /assets/media/story/25/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/traffic-1/share.jpg
-  color: '#604f17'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/25/share.jpg
+  color: '#80706a'
+  alt: Lighting being installed for the recently-opened underpass of Myton Bridge in Kingston upon Hull, constructed as part of the Lowgate junction realignment works for the A63 Castle Street Improvement Sc
+  artist: Hullian111
+  match: generic
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0
+  page: https://commons.wikimedia.org/wiki/File:New_Myton_Bridge_Underpass_Lighting_Installation,_Kingston_upon_Hull_Apr24.jpg
+  default: false
 related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property

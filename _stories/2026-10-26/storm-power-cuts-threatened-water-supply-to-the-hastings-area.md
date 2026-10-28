@@ -26,23 +26,27 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/council-2/card.webp
+    url: /assets/media/story/20/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/council-2/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/20/medium.webp
+    w: 640
+    h: 480
   large:
-    url: /assets/media/abstract/council-2/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/20/large.webp
+    w: 640
+    h: 480
   share:
-    url: /assets/media/abstract/council-2/share.jpg
-  color: '#1d4858'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/20/share.jpg
+  color: '#767c80'
+  alt: Water Treatment Plant
+  artist: martin dawes
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Water_Treatment_Plant_-_geograph.org.uk_-_1181542.jpg
+  default: false
 checked: '2026-10-27T06:00:46+00:00'
 related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/

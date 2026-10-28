@@ -29,23 +29,27 @@ corrections:
   note: An earlier version of the correspondent's comment said the Local Housing Allowance is set in London. It is set by the Department for Work and Pensions.
 image:
   card:
-    url: /assets/media/abstract/council-1/card.webp
+    url: /assets/media/story/22/card.webp
     w: 400
-    h: 267
+    h: 283
   medium:
-    url: /assets/media/abstract/council-1/medium.webp
+    url: /assets/media/story/22/medium.webp
     w: 800
-    h: 533
+    h: 566
   large:
-    url: /assets/media/abstract/council-1/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/22/large.webp
+    w: 928
+    h: 656
   share:
-    url: /assets/media/abstract/council-1/share.jpg
-  color: '#1e4858'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/22/share.jpg
+  color: '#818181'
+  alt: 26 December 1915 Soldiers Dinner in Lewes Town Hall the Kiss is under the cover photo assigned to E Reeves who died some years before. The business still operates. In 1915 yje owner would have been Be
+  artist: maybe Benjamin V Reeves 1875–1948
+  match: exact
+  licence: Public domain
+  licence_url: null
+  page: https://commons.wikimedia.org/wiki/File:26_December_1915_Soldiers_Dinner_in_Lewes_Town_Hall_the_Kiss_is_under_the_cover.jpg
+  default: false
 checked: '2026-10-27T09:14:07+00:00'
 related:
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
