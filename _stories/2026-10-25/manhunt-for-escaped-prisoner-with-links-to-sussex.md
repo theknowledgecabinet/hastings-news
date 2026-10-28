@@ -44,6 +44,9 @@ image:
   default: true
 checked: '2026-10-27T05:59:16+00:00'
 related:
+- url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
+  title: Police launch Safer Town Centres campaign and new ASB powers
+  day: '2026-10-28'
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'

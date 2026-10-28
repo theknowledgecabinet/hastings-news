@@ -50,9 +50,9 @@ related:
 - url: /2026/10/25/manhunt-for-escaped-prisoner-with-links-to-sussex/
   title: Manhunt for escaped prisoner with links to Sussex
   day: '2026-10-25'
-- url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
-  title: Bexhill empty shops plan opens for public consultation
-  day: '2026-10-24'
+- url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
+  title: Police launch Safer Town Centres campaign and new ASB powers
+  day: '2026-10-28'
 ---
 {% raw %}
 Police are appealing for information after reports of animals being targeted with catapults in Egerton Park, Bexhill-on-Sea.
