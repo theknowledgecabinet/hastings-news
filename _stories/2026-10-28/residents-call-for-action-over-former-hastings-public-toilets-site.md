@@ -26,23 +26,27 @@ sources:
 comment: The site has sat empty since 2017 and a restaurant scheme was knocked back in 2022, so residents may well have the more workable ideas of the two.
 image:
   card:
-    url: /assets/media/abstract/community-2/card.webp
+    url: /assets/media/story/41/card.webp
     w: 400
-    h: 267
+    h: 269
   medium:
-    url: /assets/media/abstract/community-2/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/41/medium.webp
+    w: 640
+    h: 430
   large:
-    url: /assets/media/abstract/community-2/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/41/large.webp
+    w: 640
+    h: 430
   share:
-    url: /assets/media/abstract/community-2/share.jpg
-  color: '#744b23'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/41/share.jpg
+  color: '#8a847d'
+  alt: Public Conveniences, Harold Place
+  artist: Nigel Chadwick
+  match: exact
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Public_Conveniences,_Harold_Place_-_geograph.org.uk_-_1190402.jpg
+  default: false
 checked: '2026-10-28T13:07:09+00:00'
 related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/

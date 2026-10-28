@@ -30,23 +30,27 @@ corrections:
   note: An earlier version said crews across the Rother villages had five minutes to reach a station; Mr Bourn described the five-minute turnaround and up to 20 minutes for backup specifically for Rye and rural areas.
 image:
   card:
-    url: /assets/media/abstract/community-1/card.webp
+    url: /assets/media/story/40/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/community-1/medium.webp
+    url: /assets/media/story/40/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/community-1/large.webp
+    url: /assets/media/story/40/large.webp
     w: 1400
-    h: 933
+    h: 1050
   share:
-    url: /assets/media/abstract/community-1/share.jpg
-  color: '#744b23'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/40/share.jpg
+  color: '#7f6a64'
+  alt: Open day at Newhaven fire station, East Sussex, UK. Vehicles operated by East Sussex Fire and Rescue Service
+  artist: HJ Mitchell
+  match: generic
+  licence: CC BY 4.0
+  licence_url: https://creativecommons.org/licenses/by/4.0
+  page: https://commons.wikimedia.org/wiki/File:Fire_station_open_day_in_Newhaven_04.jpg
+  default: false
 ---
 {% raw %}
 Gary Bourn, from Rye, has been presented with a special award by East Sussex Fire and Rescue Service after 30 years of service, the Observer reported.

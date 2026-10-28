@@ -26,23 +26,27 @@ sources:
 comment: Cutting gorse feels backwards in a place that owes its name to it. In practice, a third cut-and-collect round is how Firehills stays a mosaic of heath rather than a wall of spines.
 image:
   card:
-    url: /assets/media/abstract/council-2/card.webp
+    url: /assets/media/story/44/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/council-2/medium.webp
+    url: /assets/media/story/44/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/council-2/large.webp
+    url: /assets/media/story/44/large.webp
     w: 1400
-    h: 933
+    h: 1050
   share:
-    url: /assets/media/abstract/council-2/share.jpg
-  color: '#1d4858'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/44/share.jpg
+  color: '#898e7c'
+  alt: Tractor cutting gorse
+  artist: Philip Halling
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Tractor_cutting_gorse_-_geograph.org.uk_-_7024692.jpg
+  default: false
 checked: '2026-10-28T19:05:17+00:00'
 related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/

@@ -30,23 +30,27 @@ corrections:
   note: An earlier version said the Hastings area would be in scope of the campaign; the source only says Sussex Police is launching the month-long Safer Town Centres campaign across Sussex.
 image:
   card:
-    url: /assets/media/abstract/crime-0/card.webp
+    url: /assets/media/story/42/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/crime-0/medium.webp
+    url: /assets/media/story/42/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/crime-0/large.webp
+    url: /assets/media/story/42/large.webp
     w: 1400
-    h: 933
+    h: 1050
   share:
-    url: /assets/media/abstract/crime-0/share.jpg
-  color: '#6b2b24'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/42/share.jpg
+  color: '#878b80'
+  alt: Police Car on Western Lawns Eastbourne
+  artist: PAUL FARMER
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Police_Car_on_Western_Lawns_Eastbourne_-_geograph.org.uk_-_4080224.jpg
+  default: false
 related:
 - url: /2026/10/28/police-step-up-evening-patrols-in-rye-after-reports-of-anti-social/
   title: Police step up evening patrols in Rye after reports of anti-social behaviour
