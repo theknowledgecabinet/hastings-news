@@ -28,24 +28,24 @@ image:
   card:
     url: /assets/media/story/41/card.webp
     w: 400
-    h: 300
+    h: 269
   medium:
     url: /assets/media/story/41/medium.webp
-    w: 800
-    h: 600
+    w: 640
+    h: 430
   large:
     url: /assets/media/story/41/large.webp
-    w: 1000
-    h: 750
+    w: 640
+    h: 430
   share:
     url: /assets/media/story/41/share.jpg
-  color: '#838282'
-  alt: Disused public toilets
-  artist: Norman Caesar
-  match: generic
+  color: '#8a847d'
+  alt: Public Conveniences, Harold Place
+  artist: Nigel Chadwick
+  match: exact
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Disused_public_toilets_-_geograph.org.uk_-_4053150.jpg
+  page: https://commons.wikimedia.org/wiki/File:Public_Conveniences,_Harold_Place_-_geograph.org.uk_-_1190402.jpg
   default: false
 checked: '2026-10-28T13:07:09+00:00'
 related:

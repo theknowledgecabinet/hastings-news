@@ -30,24 +30,24 @@ image:
   card:
     url: /assets/media/story/21/card.webp
     w: 400
-    h: 267
+    h: 266
   medium:
     url: /assets/media/story/21/medium.webp
-    w: 800
-    h: 533
+    w: 640
+    h: 425
   large:
     url: /assets/media/story/21/large.webp
-    w: 1400
-    h: 933
+    w: 640
+    h: 425
   share:
     url: /assets/media/story/21/share.jpg
-  color: '#654b37'
-  alt: Here is an hdr photograph taken from the council chamber inside Glasgow City Chambers. Located in Glasgow, Scotland, UK. (Taken with kind permission of the administration).
-  artist: Michael D Beckwith
-  match: generic
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_The_Council_Chamber.jpg
+  color: '#555864'
+  alt: The Marina Pavilion
+  artist: Ian Taylor
+  match: exact
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:The_Marina_Pavilion_-_geograph.org.uk_-_3765428.jpg
   default: false
 checked: '2026-10-27T06:13:00+00:00'
 related:

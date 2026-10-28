@@ -24,23 +24,27 @@ sources:
   name: Sussex Express
 image:
   card:
-    url: /assets/media/abstract/story-7/card.webp
+    url: /assets/media/story/7/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/story-7/medium.webp
+    url: /assets/media/story/7/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/story-7/large.webp
+    url: /assets/media/story/7/large.webp
     w: 1400
-    h: 933
+    h: 1050
   share:
-    url: /assets/media/abstract/story-7/share.jpg
-  color: '#64431a'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/7/share.jpg
+  color: '#5f6669'
+  alt: The Stade, Hastings
+  artist: nick macneill
+  match: exact
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:The_Stade,_Hastings_-_geograph.org.uk_-_2463902.jpg
+  default: false
 checked: '2026-10-26T18:21:38+00:00'
 related:
 - url: /2026/10/27/remembrance-day-service-and-civic-parade-for-alexandra-park/

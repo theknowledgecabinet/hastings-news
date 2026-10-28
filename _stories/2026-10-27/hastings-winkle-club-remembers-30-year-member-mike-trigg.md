@@ -25,23 +25,27 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/story-32/card.webp
+    url: /assets/media/story/32/card.webp
     w: 400
-    h: 267
+    h: 269
   medium:
-    url: /assets/media/abstract/story-32/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/32/medium.webp
+    w: 640
+    h: 430
   large:
-    url: /assets/media/abstract/story-32/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/32/large.webp
+    w: 640
+    h: 430
   share:
-    url: /assets/media/abstract/story-32/share.jpg
-  color: '#573418'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/32/share.jpg
+  color: '#a29f9c'
+  alt: East Hastings Sea Angling Association
+  artist: Nigel Chadwick
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:East_Hastings_Sea_Angling_Association_-_geograph.org.uk_-_1196162.jpg
+  default: false
 checked: '2026-10-27T19:18:51+00:00'
 ---
 {% raw %}

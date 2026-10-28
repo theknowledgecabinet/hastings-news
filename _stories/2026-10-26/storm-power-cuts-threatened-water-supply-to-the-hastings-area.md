@@ -28,24 +28,24 @@ image:
   card:
     url: /assets/media/story/20/card.webp
     w: 400
-    h: 225
+    h: 300
   medium:
     url: /assets/media/story/20/medium.webp
-    w: 800
-    h: 450
+    w: 640
+    h: 480
   large:
     url: /assets/media/story/20/large.webp
-    w: 1400
-    h: 788
+    w: 640
+    h: 480
   share:
     url: /assets/media/story/20/share.jpg
-  color: '#716f70'
-  alt: This past week the United Kingdom (UK) has experienced nasty weather and torrential rains, which brought flooding, power outages, and fallen trees in addition to the cancellation of various summertime
-  artist: NOAA
+  color: '#767c80'
+  alt: Water Treatment Plant
+  artist: martin dawes
   match: generic
-  licence: Public domain
-  licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:Low_Pressure_System_Over_Atlantic_Ocean_is_Hurtling_Toward_the_United_Kingdom_(NESDIS_2019-08-09).jpg
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Water_Treatment_Plant_-_geograph.org.uk_-_1181542.jpg
   default: false
 checked: '2026-10-27T06:00:46+00:00'
 related:

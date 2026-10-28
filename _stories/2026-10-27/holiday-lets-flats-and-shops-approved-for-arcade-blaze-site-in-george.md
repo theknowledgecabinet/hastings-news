@@ -28,24 +28,24 @@ image:
   card:
     url: /assets/media/story/30/card.webp
     w: 400
-    h: 225
+    h: 300
   medium:
     url: /assets/media/story/30/medium.webp
-    w: 800
-    h: 450
+    w: 640
+    h: 480
   large:
     url: /assets/media/story/30/large.webp
-    w: 1400
-    h: 788
+    w: 640
+    h: 480
   share:
     url: /assets/media/story/30/share.jpg
-  color: '#898d8f'
-  alt: Redevelopment of the Pier Head site, High Street, Swanage
-  artist: Phil Champion
+  color: '#888b8e'
+  alt: New residential & retail building In Milton Keynes' theatre district, this rather new building homes several retail units on the ground floor and flats on the upper floors.
+  artist: Mr Biz
   match: generic
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Redevelopment_of_the_Pier_Head_site,_High_Street,_Swanage_-_geograph.org.uk_-_6062026.jpg
+  page: https://commons.wikimedia.org/wiki/File:New_residential_and_retail_building_-_geograph.org.uk_-_746595.jpg
   default: false
 checked: '2026-10-27T19:16:31+00:00'
 related:

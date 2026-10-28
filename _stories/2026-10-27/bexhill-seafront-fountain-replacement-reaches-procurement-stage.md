@@ -28,24 +28,24 @@ image:
   card:
     url: /assets/media/story/27/card.webp
     w: 400
-    h: 300
+    h: 225
   medium:
     url: /assets/media/story/27/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 450
   large:
     url: /assets/media/story/27/large.webp
-    w: 640
-    h: 480
+    w: 1024
+    h: 576
   share:
     url: /assets/media/story/27/share.jpg
-  color: '#9da7a8'
-  alt: Bexhill seafront
-  artist: Malc McDonald
+  color: '#85847b'
+  alt: Fountain, Dunfermline Public Park
+  artist: Ian Dodds
   match: generic
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Bexhill_seafront_-_geograph.org.uk_-_2680330.jpg
+  page: https://commons.wikimedia.org/wiki/File:Fountain,_Dunfermline_Public_Park_-_geograph.org.uk_-_7484110.jpg
   default: false
 checked: '2026-10-27T12:47:44+00:00'
 related:

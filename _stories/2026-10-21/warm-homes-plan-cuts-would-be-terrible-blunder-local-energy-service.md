@@ -30,21 +30,21 @@ image:
     h: 300
   medium:
     url: /assets/media/story/3/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 600
   large:
     url: /assets/media/story/3/large.webp
-    w: 640
-    h: 480
+    w: 1400
+    h: 1050
   share:
     url: /assets/media/story/3/share.jpg
-  color: '#7e7a72'
-  alt: Residential Home, Bexhill-on-Sea A Methodist Housing Association Home
-  artist: Bill Johnson
+  color: '#71685c'
+  alt: Heat pump installation
+  artist: Jim Barton
   match: generic
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Residential_Home,_Bexhill-on-Sea_-_geograph.org.uk_-_701982.jpg
+  page: https://commons.wikimedia.org/wiki/File:Heat_pump_installation_-_geograph.org.uk_-_7495844.jpg
   default: false
 checked: '2026-10-26T18:20:42+00:00'
 related:

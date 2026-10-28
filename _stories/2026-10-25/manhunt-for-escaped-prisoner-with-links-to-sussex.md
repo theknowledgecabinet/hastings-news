@@ -25,23 +25,27 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/abstract/story-19/card.webp
+    url: /assets/media/story/19/card.webp
     w: 400
-    h: 267
+    h: 269
   medium:
-    url: /assets/media/abstract/story-19/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/19/medium.webp
+    w: 640
+    h: 430
   large:
-    url: /assets/media/abstract/story-19/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/19/large.webp
+    w: 640
+    h: 430
   share:
-    url: /assets/media/abstract/story-19/share.jpg
-  color: '#913830'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/19/share.jpg
+  color: '#757679'
+  alt: Crown Court building
+  artist: N Chadwick
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Crown_Court_building_-_geograph.org.uk_-_4312529.jpg
+  default: false
 checked: '2026-10-27T05:59:16+00:00'
 related:
 - url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/

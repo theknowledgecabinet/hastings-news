@@ -25,23 +25,27 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/story-29/card.webp
+    url: /assets/media/story/29/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/story-29/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/29/medium.webp
+    w: 640
+    h: 480
   large:
-    url: /assets/media/abstract/story-29/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/29/large.webp
+    w: 640
+    h: 480
   share:
-    url: /assets/media/abstract/story-29/share.jpg
-  color: '#5d3918'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/29/share.jpg
+  color: '#7a8177'
+  alt: 'Conquest Hospital St Leonards East Sussex Main entrance to the Conquest Hospital on The Ridge St Leonards.The Conquest is a modern district hospital built on a gentle sloping site with 4 levels. Most '
+  artist: Janet Richardson
+  match: exact
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Conquest_Hospital_St_Leonards_East_Sussex_-_geograph.org.uk_-_154875.jpg
+  default: false
 checked: '2026-10-27T12:49:25+00:00'
 related:
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/

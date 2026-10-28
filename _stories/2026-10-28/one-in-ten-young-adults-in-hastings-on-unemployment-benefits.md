@@ -24,23 +24,27 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/abstract/story-37/card.webp
+    url: /assets/media/story/37/card.webp
     w: 400
-    h: 267
+    h: 269
   medium:
-    url: /assets/media/abstract/story-37/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/37/medium.webp
+    w: 640
+    h: 430
   large:
-    url: /assets/media/abstract/story-37/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/37/large.webp
+    w: 640
+    h: 430
   share:
-    url: /assets/media/abstract/story-37/share.jpg
-  color: '#102618'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/37/share.jpg
+  color: '#8d847d'
+  alt: High Street shops
+  artist: N Chadwick
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:High_Street_shops_-_geograph.org.uk_-_2352028.jpg
+  default: false
 related:
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
   title: Hastings to receive £1m from the government's derelict buildings fund

@@ -28,24 +28,24 @@ image:
   card:
     url: /assets/media/story/34/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
     url: /assets/media/story/34/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
     url: /assets/media/story/34/large.webp
-    w: 1200
-    h: 800
+    w: 1400
+    h: 1050
   share:
     url: /assets/media/story/34/share.jpg
-  color: '#875e55'
-  alt: 'A young Indian girl receiving a dose of oral polio vaccine by a trained healthcare worker. Original image sourced from US Government department: Public Health Image Library, Centers for Disease Contro'
-  artist: Centers for Disease Control and Prevention
+  color: '#737b63'
+  alt: Seaside garden and house, Bexhill
+  artist: nick macneill
   match: generic
-  licence: Public domain
-  licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:Oral_Polio_Vaccine.jpg
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Seaside_garden_and_house,_Bexhill_-_geograph.org.uk_-_2434942.jpg
   default: false
 checked: '2026-10-27T19:43:17+00:00'
 ---

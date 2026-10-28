@@ -32,24 +32,24 @@ image:
   card:
     url: /assets/media/story/14/card.webp
     w: 400
-    h: 267
+    h: 269
   medium:
     url: /assets/media/story/14/medium.webp
-    w: 800
-    h: 534
+    w: 640
+    h: 430
   large:
     url: /assets/media/story/14/large.webp
-    w: 1024
-    h: 683
+    w: 640
+    h: 430
   share:
     url: /assets/media/story/14/share.jpg
-  color: '#6d7277'
-  alt: Independent shops on the High Street
-  artist: Roger Cornfoot
+  color: '#8d847d'
+  alt: High Street shops
+  artist: N Chadwick
   match: generic
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Independent_shops_on_the_High_Street_-_geograph.org.uk_-_6930683.jpg
+  page: https://commons.wikimedia.org/wiki/File:High_Street_shops_-_geograph.org.uk_-_2352028.jpg
   default: false
 checked: '2026-10-27T05:39:16+00:00'
 related:

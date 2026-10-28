@@ -38,24 +38,24 @@ image:
   card:
     url: /assets/media/story/1/card.webp
     w: 400
-    h: 267
+    h: 298
   medium:
     url: /assets/media/story/1/medium.webp
-    w: 800
-    h: 533
+    w: 624
+    h: 465
   large:
     url: /assets/media/story/1/large.webp
-    w: 1400
-    h: 933
+    w: 624
+    h: 465
   share:
     url: /assets/media/story/1/share.jpg
-  color: '#322b27'
-  alt: '500px provided description: Waiting For A Call [#art ,#50mm ,#canon ,#lowkey ,#Old ,#Retro ,#Telephone ,#Phone ,#RAW]'
-  artist: Tim Gotzkowsky
+  color: '#7a6e63'
+  alt: The Entrance to the British Museum. The museum as seen from the entrance in Great Russell Street.
+  artist: Pam Brophy
   match: generic
-  licence: CC BY 3.0
-  licence_url: https://creativecommons.org/licenses/by/3.0
-  page: https://commons.wikimedia.org/wiki/File:Waiting_For_A_Call_(61020722).jpeg
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:The_Entrance_to_the_British_Museum_-_geograph.org.uk_-_7173.jpg
   default: false
 checked: '2026-10-26T18:19:29+00:00'
 ---

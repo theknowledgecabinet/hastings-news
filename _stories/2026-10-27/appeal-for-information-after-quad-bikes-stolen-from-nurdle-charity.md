@@ -29,24 +29,24 @@ image:
   card:
     url: /assets/media/story/31/card.webp
     w: 400
-    h: 300
+    h: 373
   medium:
     url: /assets/media/story/31/medium.webp
     w: 800
-    h: 600
+    h: 746
   large:
     url: /assets/media/story/31/large.webp
-    w: 1400
-    h: 1050
+    w: 1098
+    h: 1024
   share:
     url: /assets/media/story/31/share.jpg
-  color: '#9e9e9b'
-  alt: Sifting sand Beach cleaning equipment South Sands
-  artist: Martin Dawes
+  color: '#76816a'
+  alt: A Honda quad bike. Also known as four-wheeler or ATV (All-terrain vehicle)
+  artist: Felix I.
   match: generic
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Sifting_sand_Beach_cleaning_equipment_South_Sands_-_geograph.org.uk_-_5376133.jpg
+  licence: Public domain
+  licence_url: null
+  page: https://commons.wikimedia.org/wiki/File:Honda_Quad_in_light_green.jpg
   default: false
 checked: '2026-10-27T19:17:22+00:00'
 related:

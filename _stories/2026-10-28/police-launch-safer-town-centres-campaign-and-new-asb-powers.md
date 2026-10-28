@@ -32,24 +32,24 @@ image:
   card:
     url: /assets/media/story/42/card.webp
     w: 400
-    h: 305
+    h: 300
   medium:
     url: /assets/media/story/42/medium.webp
     w: 800
-    h: 610
+    h: 600
   large:
     url: /assets/media/story/42/large.webp
-    w: 800
-    h: 610
+    w: 1400
+    h: 1050
   share:
     url: /assets/media/story/42/share.jpg
-  color: '#73797b'
-  alt: Police Station and police car, St David's
-  artist: Jaggery
+  color: '#878b80'
+  alt: Police Car on Western Lawns Eastbourne
+  artist: PAUL FARMER
   match: generic
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Police_Station_and_police_car,_St_David%27s_-_geograph.org.uk_-_4086733.jpg
+  page: https://commons.wikimedia.org/wiki/File:Police_Car_on_Western_Lawns_Eastbourne_-_geograph.org.uk_-_4080224.jpg
   default: false
 related:
 - url: /2026/10/28/police-step-up-evening-patrols-in-rye-after-reports-of-anti-social/

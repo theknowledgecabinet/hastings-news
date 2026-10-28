@@ -29,24 +29,24 @@ image:
   card:
     url: /assets/media/story/46/card.webp
     w: 400
-    h: 291
+    h: 300
   medium:
     url: /assets/media/story/46/medium.webp
-    w: 640
-    h: 466
+    w: 800
+    h: 600
   large:
     url: /assets/media/story/46/large.webp
-    w: 640
-    h: 466
+    w: 1400
+    h: 1050
   share:
     url: /assets/media/story/46/share.jpg
-  color: '#938e8f'
-  alt: 1 High Street When photographed in April 2009 the ground floor "shops", at these premises, appeared to be empty. The sign above the shop front on the left says "Gallery No.1 High Street". Above the sh
-  artist: P L Chadwick
-  match: generic
+  color: '#818586'
+  alt: St Mary in the Castle, Hastings
+  artist: Colin Smith
+  match: exact
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:1_High_Street_-_geograph.org.uk_-_1250903.jpg
+  page: https://commons.wikimedia.org/wiki/File:St_Mary_in_the_Castle,_Hastings_-_geograph.org.uk_-_2017268.jpg
   default: false
 related:
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
