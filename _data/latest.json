@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-10-27",
-   "code": 63,
-   "words": "rain",
-   "icon": "🌧️",
-   "high": 16,
-   "low": 9,
-   "rain_chance": 100,
-   "rain_mm": 4.3,
-   "wind": 22,
-   "gusts": 44,
-   "direction": "south-westerly",
-   "sunrise": "06:40",
-   "sunset": "16:41",
-   "summary": "Rain likely. A high of 16°C and a low of 9°C, a fresh breeze from the south-west, gusting 44 mph. Sunrise 06:40, sunset 16:41.",
-   "label": "Today",
-   "weekday": "Tue 27 Oct",
-   "long": "Tuesday 27 October"
-  },
-  {
    "day": "2026-10-28",
    "code": 3,
    "words": "cloudy",
@@ -38,12 +19,31 @@
    "sunrise": "06:42",
    "sunset": "16:39",
    "summary": "Cloudy. A high of 15°C and a low of 8°C, a moderate breeze from the west. Sunrise 06:42, sunset 16:39.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Wed 28 Oct",
    "long": "Wednesday 28 October"
+  },
+  {
+   "day": "2026-10-29",
+   "code": 3,
+   "words": "cloudy",
+   "icon": "☁️",
+   "high": 15,
+   "low": 11,
+   "rain_chance": 4,
+   "rain_mm": 0.0,
+   "wind": 7,
+   "gusts": 15,
+   "direction": "easterly",
+   "sunrise": "06:44",
+   "sunset": "16:37",
+   "summary": "Cloudy. A high of 15°C and a low of 11°C, light winds from the east. Sunrise 06:44, sunset 16:37.",
+   "label": "Tomorrow",
+   "weekday": "Thu 29 Oct",
+   "long": "Thursday 29 October"
   }
  ],
- "today_label": "Tuesday 27 October 2026",
+ "today_label": "Wednesday 28 October 2026",
  "editions": [
   {
    "name": "morning",
