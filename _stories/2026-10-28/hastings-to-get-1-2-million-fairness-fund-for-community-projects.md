@@ -27,23 +27,27 @@ sources:
 comment: With the flagship children's programme already earmarked, it will be worth watching how much of the £1.2 million reaches the smaller grassroots groups the fund is meant to serve.
 image:
   card:
-    url: /assets/media/abstract/council-0/card.webp
+    url: /assets/media/story/39/card.webp
     w: 400
-    h: 267
+    h: 187
   medium:
-    url: /assets/media/abstract/council-0/medium.webp
+    url: /assets/media/story/39/medium.webp
     w: 800
-    h: 533
+    h: 374
   large:
-    url: /assets/media/abstract/council-0/large.webp
+    url: /assets/media/story/39/large.webp
     w: 1400
-    h: 933
+    h: 654
   share:
-    url: /assets/media/abstract/council-0/share.jpg
-  color: '#1e4858'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/39/share.jpg
+  color: '#949791'
+  alt: Town centre, Hastings, England.
+  artist: Ross Burgess
+  match: generic
+  licence: CC BY-SA 3.0
+  licence_url: http://creativecommons.org/licenses/by-sa/3.0/
+  page: https://commons.wikimedia.org/wiki/File:Hastings_town_centre.JPG
+  default: false
 checked: '2026-10-28T13:05:34+00:00'
 related:
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/

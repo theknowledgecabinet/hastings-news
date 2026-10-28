@@ -12,7 +12,7 @@
   --sea: #1a5d79;          /* accent: Channel blue */
   --wash: #dde8ee;
   --signal: #9a5b08;       /* attention: updated / held */
-  --mast: "UnifrakturMaguntia", "Old English Text MT", "Textura", serif;
+  --mast: "Archivo", "Arial Black", "Helvetica Neue", system-ui, sans-serif;   /* modern wordmark */
   --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
   --sans: "Archivo Narrow", "Arial Narrow", "Roboto Condensed", system-ui, sans-serif;
   --radius: 6px;
@@ -74,7 +74,8 @@ main.wrap { padding-block: 24px 56px; }
 .site-header { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper); border-bottom: 1px solid var(--rule); }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
 .header-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; height: 56px; }
-.brand { font: 400 1.7rem/1 var(--mast); text-decoration: none; color: var(--ink); white-space: nowrap; }
+.brand { font: 800 1.35rem/1 var(--mast); font-stretch: 112%; letter-spacing: -.035em; text-decoration: none; color: var(--ink); white-space: nowrap; }
+.wm-accent { color: var(--sea); }
 .nav { display: flex; align-items: center; gap: 2px; }
 .nav a { text-decoration: none; padding: 8px 10px; color: var(--ink-2); font-size: .95rem; display: flex; }
 .nav a:hover { color: var(--ink); }
@@ -91,7 +92,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 
 /* Masthead (home) */
 .masthead { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 20px; padding-block: 8px 14px; }
-.mast-title { font: 400 clamp(2.9rem, 9vw, 5.4rem)/1 var(--mast); text-align: center; margin: 0; white-space: nowrap; }
+.mast-title { font: 800 clamp(2.4rem, 8vw, 4.6rem)/1 var(--mast); font-stretch: 112%; letter-spacing: -.045em;
+  text-align: center; margin: 0; white-space: nowrap; }
 .mast-title a { text-decoration: none; }
 .ear { font-family: var(--sans); font-size: .85rem; color: var(--ink-2); display: flex; gap: 10px; align-items: center; min-width: 0; }
 .ear-right { justify-content: flex-end; text-align: right; }
@@ -246,7 +248,7 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
 
 /* Footer */
 .site-footer { border-top: 3px double var(--ink); padding-block: 28px 44px; color: var(--ink-2); font: .95rem var(--sans); }
-.site-footer .brand { font-size: 1.6rem; display: inline-block; margin-bottom: 10px; }
+.site-footer .brand { font-size: 1.3rem; display: inline-block; margin-bottom: 10px; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 

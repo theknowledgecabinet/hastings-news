@@ -24,23 +24,27 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/abstract/business-1/card.webp
+    url: /assets/media/story/37/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/business-1/medium.webp
+    url: /assets/media/story/37/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/business-1/large.webp
+    url: /assets/media/story/37/large.webp
     w: 1400
-    h: 933
+    h: 1049
   share:
-    url: /assets/media/abstract/business-1/share.jpg
-  color: '#255037'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/37/share.jpg
+  color: '#fbfbfc'
+  alt: 'Data for 1881–1970 from Unemployment statistics from 1881 to the present day (1996) by James Madden and Paul McDonald. Data for 1971–2025 from ONS unemployment rate bulletin8 (Unemployment rate (aged '
+  artist: Firebrace
+  match: generic
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0
+  page: https://commons.wikimedia.org/wiki/File:UK_unemployment_rate.png
+  default: false
 related:
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
   title: Hastings to receive £1m from the government's derelict buildings fund

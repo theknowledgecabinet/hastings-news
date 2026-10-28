@@ -27,23 +27,27 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/traffic-1/card.webp
+    url: /assets/media/story/43/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/traffic-1/medium.webp
+    url: /assets/media/story/43/medium.webp
     w: 800
-    h: 533
+    h: 534
   large:
-    url: /assets/media/abstract/traffic-1/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/43/large.webp
+    w: 1024
+    h: 684
   share:
-    url: /assets/media/abstract/traffic-1/share.jpg
-  color: '#604f17'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/43/share.jpg
+  color: '#7a928d'
+  alt: A2690 Combe Valley Way
+  artist: Robin Webster
+  match: exact
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:A2690_Combe_Valley_Way_-_geograph.org.uk_-_6140964.jpg
+  default: false
 checked: '2026-10-28T19:04:32+00:00'
 ---
 {% raw %}
