@@ -36,23 +36,27 @@ sources:
   name: BBC News
 image:
   card:
-    url: /assets/media/abstract/story-1/card.webp
+    url: /assets/media/story/1/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-1/medium.webp
+    url: /assets/media/story/1/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-1/large.webp
+    url: /assets/media/story/1/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/story-1/share.jpg
-  color: '#613f8a'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/1/share.jpg
+  color: '#322b27'
+  alt: '500px provided description: Waiting For A Call [#art ,#50mm ,#canon ,#lowkey ,#Old ,#Retro ,#Telephone ,#Phone ,#RAW]'
+  artist: Tim Gotzkowsky
+  match: generic
+  licence: CC BY 3.0
+  licence_url: https://creativecommons.org/licenses/by/3.0
+  page: https://commons.wikimedia.org/wiki/File:Waiting_For_A_Call_(61020722).jpeg
+  default: false
 checked: '2026-10-26T18:19:29+00:00'
 ---
 {% raw %}

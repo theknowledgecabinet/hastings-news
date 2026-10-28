@@ -27,23 +27,27 @@ sources:
   name: Rother District Council
 image:
   card:
-    url: /assets/media/abstract/story-31/card.webp
+    url: /assets/media/story/31/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/story-31/medium.webp
+    url: /assets/media/story/31/medium.webp
     w: 800
-    h: 533
+    h: 600
   large:
-    url: /assets/media/abstract/story-31/large.webp
+    url: /assets/media/story/31/large.webp
     w: 1400
-    h: 933
+    h: 1050
   share:
-    url: /assets/media/abstract/story-31/share.jpg
-  color: '#216b87'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/31/share.jpg
+  color: '#9e9e9b'
+  alt: Sifting sand Beach cleaning equipment South Sands
+  artist: Martin Dawes
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Sifting_sand_Beach_cleaning_equipment_South_Sands_-_geograph.org.uk_-_5376133.jpg
+  default: false
 checked: '2026-10-27T19:17:22+00:00'
 related:
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/

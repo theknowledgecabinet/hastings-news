@@ -25,23 +25,27 @@ sources:
   name: Hastings Online Times
 image:
   card:
-    url: /assets/media/abstract/story-3/card.webp
+    url: /assets/media/story/3/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
-    url: /assets/media/abstract/story-3/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/3/medium.webp
+    w: 640
+    h: 480
   large:
-    url: /assets/media/abstract/story-3/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/3/large.webp
+    w: 640
+    h: 480
   share:
-    url: /assets/media/abstract/story-3/share.jpg
-  color: '#533174'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/3/share.jpg
+  color: '#7e7a72'
+  alt: Residential Home, Bexhill-on-Sea A Methodist Housing Association Home
+  artist: Bill Johnson
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Residential_Home,_Bexhill-on-Sea_-_geograph.org.uk_-_701982.jpg
+  default: false
 checked: '2026-10-26T18:20:42+00:00'
 related:
 - url: /2026/10/28/local-energy-advice-service-backs-campaign-to-save-radio-4-s-you-and/

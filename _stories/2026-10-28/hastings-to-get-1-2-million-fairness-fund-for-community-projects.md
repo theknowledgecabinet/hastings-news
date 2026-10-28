@@ -29,24 +29,24 @@ image:
   card:
     url: /assets/media/story/39/card.webp
     w: 400
-    h: 187
+    h: 300
   medium:
     url: /assets/media/story/39/medium.webp
     w: 800
-    h: 374
+    h: 600
   large:
     url: /assets/media/story/39/large.webp
-    w: 1400
-    h: 654
+    w: 1024
+    h: 768
   share:
     url: /assets/media/story/39/share.jpg
-  color: '#949791'
-  alt: Town centre, Hastings, England.
-  artist: Ross Burgess
+  color: '#818283'
+  alt: Hastings Town Centre Large open pedestrianised area. Straight on to Priory Meadow shopping centre, Queens Road to right.
+  artist: Oast House Archive
   match: generic
-  licence: CC BY-SA 3.0
-  licence_url: http://creativecommons.org/licenses/by-sa/3.0/
-  page: https://commons.wikimedia.org/wiki/File:Hastings_town_centre.JPG
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Hastings_Town_Centre_-_geograph.org.uk_-_1773422.jpg
   default: false
 checked: '2026-10-28T13:05:34+00:00'
 related:

@@ -26,27 +26,23 @@ sources:
   name: Hastings Online Times
 image:
   card:
-    url: /assets/media/story/38/card.webp
+    url: /assets/media/abstract/story-38/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
-    url: /assets/media/story/38/medium.webp
-    w: 640
-    h: 480
+    url: /assets/media/abstract/story-38/medium.webp
+    w: 800
+    h: 533
   large:
-    url: /assets/media/story/38/large.webp
-    w: 640
-    h: 480
+    url: /assets/media/abstract/story-38/large.webp
+    w: 1400
+    h: 933
   share:
-    url: /assets/media/story/38/share.jpg
-  color: '#898583'
-  alt: Hastings Seafront Looking towards St Leonards.
-  artist: JThomas
-  match: generic
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Seafront_-_geograph.org.uk_-_1276110.jpg
-  default: false
+    url: /assets/media/abstract/story-38/share.jpg
+  color: '#8d4621'
+  alt: ''
+  abstract: true
+  default: true
 checked: '2026-10-28T10:39:49+00:00'
 related:
 - url: /2026/10/21/warm-homes-plan-cuts-would-be-terrible-blunder-local-energy-service/

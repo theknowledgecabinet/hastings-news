@@ -26,23 +26,27 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/story-30/card.webp
+    url: /assets/media/story/30/card.webp
     w: 400
-    h: 267
+    h: 225
   medium:
-    url: /assets/media/abstract/story-30/medium.webp
+    url: /assets/media/story/30/medium.webp
     w: 800
-    h: 533
+    h: 450
   large:
-    url: /assets/media/abstract/story-30/large.webp
+    url: /assets/media/story/30/large.webp
     w: 1400
-    h: 933
+    h: 788
   share:
-    url: /assets/media/abstract/story-30/share.jpg
-  color: '#164d60'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/30/share.jpg
+  color: '#898d8f'
+  alt: Redevelopment of the Pier Head site, High Street, Swanage
+  artist: Phil Champion
+  match: generic
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Redevelopment_of_the_Pier_Head_site,_High_Street,_Swanage_-_geograph.org.uk_-_6062026.jpg
+  default: false
 checked: '2026-10-27T19:16:31+00:00'
 related:
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/

@@ -29,24 +29,24 @@ image:
   card:
     url: /assets/media/story/43/card.webp
     w: 400
-    h: 267
+    h: 300
   medium:
     url: /assets/media/story/43/medium.webp
-    w: 800
-    h: 534
+    w: 640
+    h: 480
   large:
     url: /assets/media/story/43/large.webp
-    w: 1024
-    h: 684
+    w: 640
+    h: 480
   share:
     url: /assets/media/story/43/share.jpg
-  color: '#7a928d'
-  alt: A2690 Combe Valley Way
-  artist: Robin Webster
-  match: exact
+  color: '#857579'
+  alt: Colourful Roadworks
+  artist: Anne Burgess
+  match: generic
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:A2690_Combe_Valley_Way_-_geograph.org.uk_-_6140964.jpg
+  page: https://commons.wikimedia.org/wiki/File:Colourful_Roadworks_-_geograph.org.uk_-_5013810.jpg
   default: false
 checked: '2026-10-28T19:04:32+00:00'
 ---

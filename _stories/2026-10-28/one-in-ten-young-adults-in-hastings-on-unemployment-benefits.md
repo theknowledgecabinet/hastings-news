@@ -24,27 +24,23 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/story/37/card.webp
+    url: /assets/media/abstract/story-37/card.webp
     w: 400
-    h: 238
+    h: 267
   medium:
-    url: /assets/media/story/37/medium.webp
+    url: /assets/media/abstract/story-37/medium.webp
     w: 800
-    h: 476
+    h: 533
   large:
-    url: /assets/media/story/37/large.webp
-    w: 1238
-    h: 737
+    url: /assets/media/abstract/story-37/large.webp
+    w: 1400
+    h: 933
   share:
-    url: /assets/media/story/37/share.jpg
-  color: '#75736c'
-  alt: Young and Adult Starlings, London N14
-  artist: Christine Matthews
-  match: generic
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Young_and_Adult_Starlings,_London_N14_-_geograph.org.uk_-_4510599.jpg
-  default: false
+    url: /assets/media/abstract/story-37/share.jpg
+  color: '#102618'
+  alt: ''
+  abstract: true
+  default: true
 related:
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
   title: Hastings to receive £1m from the government's derelict buildings fund

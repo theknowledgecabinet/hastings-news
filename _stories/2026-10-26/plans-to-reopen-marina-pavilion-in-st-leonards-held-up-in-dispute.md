@@ -28,23 +28,27 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/abstract/story-21/card.webp
+    url: /assets/media/story/21/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-21/medium.webp
+    url: /assets/media/story/21/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-21/large.webp
+    url: /assets/media/story/21/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/story-21/share.jpg
-  color: '#0c202a'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/21/share.jpg
+  color: '#654b37'
+  alt: Here is an hdr photograph taken from the council chamber inside Glasgow City Chambers. Located in Glasgow, Scotland, UK. (Taken with kind permission of the administration).
+  artist: Michael D Beckwith
+  match: generic
+  licence: CC0
+  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  page: https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_The_Council_Chamber.jpg
+  default: false
 checked: '2026-10-27T06:13:00+00:00'
 related:
 - url: /2026/10/27/bexhill-seafront-fountain-replacement-reaches-procurement-stage/

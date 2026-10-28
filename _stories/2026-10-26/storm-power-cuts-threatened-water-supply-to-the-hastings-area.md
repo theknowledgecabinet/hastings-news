@@ -26,23 +26,27 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/story-20/card.webp
+    url: /assets/media/story/20/card.webp
     w: 400
-    h: 267
+    h: 225
   medium:
-    url: /assets/media/abstract/story-20/medium.webp
+    url: /assets/media/story/20/medium.webp
     w: 800
-    h: 533
+    h: 450
   large:
-    url: /assets/media/abstract/story-20/large.webp
+    url: /assets/media/story/20/large.webp
     w: 1400
-    h: 933
+    h: 788
   share:
-    url: /assets/media/abstract/story-20/share.jpg
-  color: '#1b5169'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/20/share.jpg
+  color: '#716f70'
+  alt: This past week the United Kingdom (UK) has experienced nasty weather and torrential rains, which brought flooding, power outages, and fallen trees in addition to the cancellation of various summertime
+  artist: NOAA
+  match: generic
+  licence: Public domain
+  licence_url: null
+  page: https://commons.wikimedia.org/wiki/File:Low_Pressure_System_Over_Atlantic_Ocean_is_Hurtling_Toward_the_United_Kingdom_(NESDIS_2019-08-09).jpg
+  default: false
 checked: '2026-10-27T06:00:46+00:00'
 related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
