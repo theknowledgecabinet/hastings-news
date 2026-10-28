@@ -50,9 +50,9 @@ related:
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
   title: Hastings Castle to get £288,500 from Historic England for repairs
   day: '2026-10-25'
-- url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
-  title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
-  day: '2026-10-21'
+- url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
+  title: Hastings to receive £1m from the government's derelict buildings fund
+  day: '2026-10-28'
 ---
 {% raw %}
 Hastings Round Table has given £10,000 to the Friends of Conquest Hospital's 2026 Equipment Appeal, one of the largest grants the Round Table has made in recent years.

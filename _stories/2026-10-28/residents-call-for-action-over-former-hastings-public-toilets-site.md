@@ -48,12 +48,12 @@ related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
+- url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
+  title: Hastings to receive £1m from the government's derelict buildings fund
+  day: '2026-10-28'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
-- url: /2026/10/27/holiday-lets-flats-and-shops-approved-for-arcade-blaze-site-in-george/
-  title: Holiday lets, flats and shops approved for arcade blaze site in George Street
-  day: '2026-10-27'
 ---
 {% raw %}
 Residents have called for the disused public toilets site in Harold Place, Hastings town centre, to be put to use, after stormy weather left a trail of debris at the site, the Observer reported.

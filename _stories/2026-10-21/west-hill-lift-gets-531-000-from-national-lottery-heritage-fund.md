@@ -49,12 +49,12 @@ related:
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
   title: Hastings Castle to get £288,500 from Historic England for repairs
   day: '2026-10-25'
+- url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
+  title: Hastings to receive £1m from the government's derelict buildings fund
+  day: '2026-10-28'
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
-- url: /2026/10/27/white-rock-gardens-could-get-covered-padel-and-tennis-courts/
-  title: White Rock Gardens could get covered padel and tennis courts
-  day: '2026-10-27'
 ---
 {% raw %}
 The National Lottery Heritage Fund has offered £531,000 in development funding to Hastings Borough Council to secure the long-term future of the West Hill Lift, the Grade II listed lift that runs up the cliff from George Street to Hastings Castle.
