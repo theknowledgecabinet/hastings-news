@@ -1,8 +1,8 @@
 {
- "day": "2026-10-28",
- "label": "Wednesday 28 October 2026",
- "issue": 8,
- "edition_label": "Evening edition",
+ "day": "2026-10-29",
+ "label": "Thursday 29 October 2026",
+ "issue": 9,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-10-29",
@@ -50,78 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-10-28",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 15,
-    "low": 8,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 23,
-    "direction": "westerly",
-    "sunrise": "06:42",
-    "sunset": "16:39",
-    "summary": "Cloudy. A high of 15°C and a low of 8°C, a moderate breeze from the west. Sunrise 06:42, sunset 16:39."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-10-28",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 15,
-    "low": 8,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 24,
-    "direction": "westerly",
-    "sunrise": "06:42",
-    "sunset": "16:39",
-    "summary": "Cloudy. A high of 15°C and a low of 8°C, a moderate breeze from the west. Sunrise 06:42, sunset 16:39."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-10-29",
-    "code": 51,
-    "words": "light drizzle",
-    "icon": "🌦️",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
     "high": 15,
-    "low": 11,
+    "low": 12,
     "rain_chance": 2,
-    "rain_mm": 0.2,
-    "wind": 5,
-    "gusts": 11,
+    "rain_mm": 0.0,
+    "wind": 6,
+    "gusts": 13,
     "direction": "north-easterly",
     "sunrise": "06:44",
     "sunset": "16:37",
-    "summary": "Light drizzle possible (2% chance). A high of 15°C and a low of 11°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
+    "summary": "Cloudy. A high of 15°C and a low of 12°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
    }
   }
  ],
  "weather": {
   "day": "2026-10-29",
-  "code": 51,
-  "words": "light drizzle",
-  "icon": "🌦️",
+  "code": 3,
+  "words": "cloudy",
+  "icon": "☁️",
   "high": 15,
-  "low": 11,
+  "low": 12,
   "rain_chance": 2,
-  "rain_mm": 0.2,
-  "wind": 5,
-  "gusts": 11,
+  "rain_mm": 0.0,
+  "wind": 6,
+  "gusts": 13,
   "direction": "north-easterly",
   "sunrise": "06:44",
   "sunset": "16:37",
-  "summary": "Light drizzle possible (2% chance). A high of 15°C and a low of 11°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
+  "summary": "Cloudy. A high of 15°C and a low of 12°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
  },
  "briefing": {
   "day": "2026-10-28",
@@ -137,6 +97,11 @@
   "title": "The Queen and Prince Philip visit the Hastings Embroidery on the pier"
  },
  "days": [
+  {
+   "day": "2026-10-29",
+   "url": "/2026/10/29/",
+   "label": "Thu 29 Oct"
+  },
   {
    "day": "2026-10-28",
    "url": "/2026/10/28/",

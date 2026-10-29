@@ -49,15 +49,15 @@ image:
   default: false
 checked: '2026-10-26T18:35:58+00:00'
 related:
+- url: /2026/10/29/rother-district-council-pre-election-event-for-would-be-candidates-in/
+  title: Rother District Council pre-election event for would-be candidates in May 2027
+  day: '2026-10-29'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
 - url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
   title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
   day: '2026-10-21'
-- url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
-  title: Police appeal after catapults reported in Bexhill's Egerton Park
-  day: '2026-10-27'
 ---
 {% raw %}
 Rother District Council has asked residents and businesses to have their say on a plan to tackle long-term empty shops in Bexhill.

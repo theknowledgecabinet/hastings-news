@@ -45,6 +45,10 @@ image:
   abstract: true
   default: true
 checked: '2026-10-27T05:53:46+00:00'
+related:
+- url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
+  title: New litter bins appear in Hastings under Pride in Place funding
+  day: '2026-10-29'
 ---
 {% raw %}
 A Hastings mother has won a national award for her campaign to make the roads safer, following the death of her son in a road accident.

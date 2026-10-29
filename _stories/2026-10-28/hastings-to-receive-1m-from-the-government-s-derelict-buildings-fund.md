@@ -55,9 +55,9 @@ related:
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
-- url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
-  title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
-  day: '2026-10-21'
+- url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
+  title: New litter bins appear in Hastings under Pride in Place funding
+  day: '2026-10-29'
 ---
 {% raw %}
 Hastings has been awarded £1 million from the government's Derelict Buildings Fund, according to the Hastings Observer.
