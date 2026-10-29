@@ -28,7 +28,7 @@
    "code": 2,
    "words": "partly cloudy",
    "icon": "⛅",
-   "high": 15,
+   "high": 14,
    "low": 9,
    "rain_chance": 0,
    "rain_mm": 0.0,
@@ -37,7 +37,7 @@
    "direction": "easterly",
    "sunrise": "06:45",
    "sunset": "16:36",
-   "summary": "Partly cloudy. A high of 15°C and a low of 9°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36.",
+   "summary": "Partly cloudy. A high of 14°C and a low of 9°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36.",
    "label": "Tomorrow",
    "weekday": "Fri 30 Oct",
    "long": "Friday 30 October"
