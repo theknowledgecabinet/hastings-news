@@ -13,8 +13,8 @@
    "low": 12,
    "rain_chance": 4,
    "rain_mm": 0.0,
-   "wind": 6,
-   "gusts": 14,
+   "wind": 7,
+   "gusts": 15,
    "direction": "easterly",
    "sunrise": "06:44",
    "sunset": "16:37",
@@ -126,8 +126,8 @@
  "briefing": {
   "day": "2026-10-29",
   "url": "/assets/podcast/2026-10-29.mp3",
-  "seconds": 940,
-  "bytes": 3759692,
+  "seconds": 976,
+  "bytes": 3903116,
   "length": "16 min"
  },
  "otd": {
