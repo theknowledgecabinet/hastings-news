@@ -53,6 +53,9 @@ related:
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'
+- url: /2026/10/29/beach-cleaners-remove-more-than-15kg-of-rubbish-from-local-beaches/
+  title: Beach cleaners remove more than 15kg of rubbish from local beaches
+  day: '2026-10-29'
 ---
 {% raw %}
 Beach cleaning charity Nurdle is appealing for information after three quad bikes and specialist equipment were stolen from secure shipping containers in the early hours of Sunday 25 October.

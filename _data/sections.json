@@ -18,21 +18,21 @@
   "label": "Council",
   "colour": "#1f6f8b",
   "url": "/section/council/",
-  "count": 16
+  "count": 17
  },
  {
   "key": "community",
   "label": "Community & people",
   "colour": "#c0742a",
   "url": "/section/community/",
-  "count": 15
+  "count": 17
  },
  {
   "key": "business",
   "label": "Business",
   "colour": "#2e7d4f",
   "url": "/section/business/",
-  "count": 3
+  "count": 4
  },
  {
   "key": "traffic",

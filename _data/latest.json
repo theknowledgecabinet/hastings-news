@@ -2,7 +2,7 @@
  "day": "2026-10-29",
  "label": "Thursday 29 October 2026",
  "issue": 9,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-10-29",
@@ -65,6 +65,26 @@
     "sunset": "16:37",
     "summary": "Cloudy. A high of 15°C and a low of 12°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-10-29",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 15,
+    "low": 11,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
+    "wind": 6,
+    "gusts": 12,
+    "direction": "north-easterly",
+    "sunrise": "06:44",
+    "sunset": "16:37",
+    "summary": "Cloudy. A high of 15°C and a low of 11°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
+   }
   }
  ],
  "weather": {
@@ -73,15 +93,15 @@
   "words": "cloudy",
   "icon": "☁️",
   "high": 15,
-  "low": 12,
-  "rain_chance": 2,
+  "low": 11,
+  "rain_chance": 0,
   "rain_mm": 0.0,
   "wind": 6,
-  "gusts": 13,
+  "gusts": 12,
   "direction": "north-easterly",
   "sunrise": "06:44",
   "sunset": "16:37",
-  "summary": "Cloudy. A high of 15°C and a low of 12°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
+  "summary": "Cloudy. A high of 15°C and a low of 11°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
  },
  "briefing": {
   "day": "2026-10-28",
