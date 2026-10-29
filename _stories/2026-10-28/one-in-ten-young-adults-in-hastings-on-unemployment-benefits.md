@@ -49,12 +49,12 @@ related:
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
   title: Hastings to receive £1m from the government's derelict buildings fund
   day: '2026-10-28'
+- url: /2026/10/29/hastings-business-group-welcomes-budget-rates-relief-package/
+  title: Hastings business group welcomes Budget rates relief package
+  day: '2026-10-29'
 - url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
   title: Leaders of three councils urge government to raise Local Housing Allowance
   day: '2026-10-27'
-- url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
-  title: New litter bins appear in Hastings under Pride in Place funding
-  day: '2026-10-29'
 ---
 {% raw %}
 More than one in ten young adults in Hastings are claiming unemployment-related benefits, Office for National Statistics figures show, according to The Argus.

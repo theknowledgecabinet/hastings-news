@@ -53,15 +53,15 @@ image:
   default: false
 checked: '2026-10-27T05:39:16+00:00'
 related:
+- url: /2026/10/29/hastings-business-group-welcomes-budget-rates-relief-package/
+  title: Hastings business group welcomes Budget rates relief package
+  day: '2026-10-29'
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
 - url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
   title: New litter bins appear in Hastings under Pride in Place funding
   day: '2026-10-29'
-- url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
-  title: Leaders of three councils urge government to raise Local Housing Allowance
-  day: '2026-10-27'
 ---
 {% raw %}
 A new free business support pilot will reach independent shops and businesses in selected East Sussex high streets, including Hastings Old Town and Rye, the county council said.
