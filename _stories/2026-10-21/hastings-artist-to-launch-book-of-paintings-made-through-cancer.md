@@ -47,6 +47,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:%27Abstract_landscape_with_sun%27_-_large_acrylic_painting_on_canvas,_painted_in_1990_by_Dutch_artist_Fons_Heijnsbroek,_free_image_of_art_in_high_resolutions.jpg
   default: false
 checked: '2026-10-26T18:20:45+00:00'
+related:
+- url: /2026/10/29/hastings-butcher-releases-calendar-of-12-butchers-for-mental-health-uk/
+  title: Hastings butcher releases calendar of 12 butchers for Mental Health UK
+  day: '2026-10-29'
 ---
 {% raw %}
 Hastings artist Helen Slater will launch her book Uninvited on the afternoon of Sunday 25 October, hosted by The Peripheral Space Project.

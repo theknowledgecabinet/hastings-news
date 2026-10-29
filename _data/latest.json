@@ -2,7 +2,7 @@
  "day": "2026-10-29",
  "label": "Thursday 29 October 2026",
  "issue": 9,
- "edition_label": "Midday edition",
+ "edition_label": "Evening edition",
  "forecast": [
   {
    "day": "2026-10-29",
@@ -85,29 +85,49 @@
     "sunset": "16:37",
     "summary": "Cloudy. A high of 15°C and a low of 11°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
    }
+  },
+  {
+   "name": "evening",
+   "label": "Evening edition",
+   "weather": {
+    "day": "2026-10-30",
+    "code": 2,
+    "words": "partly cloudy",
+    "icon": "⛅",
+    "high": 15,
+    "low": 10,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
+    "wind": 10,
+    "gusts": 20,
+    "direction": "easterly",
+    "sunrise": "06:45",
+    "sunset": "16:36",
+    "summary": "Partly cloudy. A high of 15°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
+   }
   }
  ],
  "weather": {
-  "day": "2026-10-29",
-  "code": 3,
-  "words": "cloudy",
-  "icon": "☁️",
+  "day": "2026-10-30",
+  "code": 2,
+  "words": "partly cloudy",
+  "icon": "⛅",
   "high": 15,
-  "low": 11,
+  "low": 10,
   "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 6,
-  "gusts": 12,
-  "direction": "north-easterly",
-  "sunrise": "06:44",
-  "sunset": "16:37",
-  "summary": "Cloudy. A high of 15°C and a low of 11°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
+  "wind": 10,
+  "gusts": 20,
+  "direction": "easterly",
+  "sunrise": "06:45",
+  "sunset": "16:36",
+  "summary": "Partly cloudy. A high of 15°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
  },
  "briefing": {
-  "day": "2026-10-28",
-  "url": "/assets/podcast/2026-10-28.mp3",
-  "seconds": 945,
-  "bytes": 3781004,
+  "day": "2026-10-29",
+  "url": "/assets/podcast/2026-10-29.mp3",
+  "seconds": 940,
+  "bytes": 3759692,
   "length": "16 min"
  },
  "otd": {

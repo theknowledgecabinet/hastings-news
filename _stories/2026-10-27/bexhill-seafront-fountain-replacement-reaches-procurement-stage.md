@@ -3,6 +3,7 @@ layout: story
 title: Bexhill seafront fountain replacement reaches procurement stage
 permalink: /2026/10/27/bexhill-seafront-fountain-replacement-reaches-procurement-stage/
 date: 2026-10-27 12:46:07 +0000
+updated: '2026-10-29T19:47:30+00:00'
 sid: 27
 day: '2026-10-27'
 edition: midday
@@ -24,6 +25,15 @@ sources:
 - url: https://www.rother.gov.uk/news/bexhill-seafront-fountain-replacement-moves-a-step-closer/
   name: Rother District Council
 comment: Three partners pulling the same direction is a model worth watching, because Bexhill's seafront has waited a long time for this. The test now is whether the procurement runs on time for a 2027 start.
+updates:
+- date: '2026-10-29T19:47:30+00:00'
+  edition: evening
+  text: Rother's Cabinet has formally agreed to use funding from the Pride in Place programme budget to replace the Bexhill seafront fountain and splashpad, the council said. Cllr Hazel Timpe described the fountain as "a much-loved community asset" whose loss had been "keenly felt".
+  sources:
+  - url: https://www.rother.gov.uk/news/cabinet-decisions-26-october-2026/
+    name: Rother District Council
+  - url: https://www.sussexexpress.co.uk/news/politics/bexhill-seafront-fountain-plans-move-a-step-closer-says-partnership-9318178
+    name: Hastings Observer
 image:
   card:
     url: /assets/media/story/27/card.webp
