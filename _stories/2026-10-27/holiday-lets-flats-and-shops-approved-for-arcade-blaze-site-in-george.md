@@ -3,6 +3,7 @@ layout: story
 title: Holiday lets, flats and shops approved for arcade blaze site in George Street
 permalink: /2026/10/27/holiday-lets-flats-and-shops-approved-for-arcade-blaze-site-in-george/
 date: 2026-10-27 19:15:41 +0000
+updated: '2026-10-30T13:07:16+00:00'
 sid: 30
 day: '2026-10-27'
 edition: evening
@@ -24,6 +25,13 @@ what_next: Construction must start within two years of approval, the council sai
 sources:
 - url: https://www.sussexexpress.co.uk/news/politics/council/holiday-lets-flats-and-shops-on-hastings-arcade-blaze-site-approved-9312460
   name: Hastings Observer
+updates:
+- date: '2026-10-30T13:07:16+00:00'
+  edition: midday
+  text: 'Residents have divided over the approved scheme. One, writing on the Observer''s Facebook page, said: "We don''t need holiday lets and more shops; we need housing." Others suggested affordable bedsits or a hub for young people, while a handful backed the development.'
+  sources:
+  - url: https://www.sussexexpress.co.uk/news/people/we-need-homes-not-holiday-lets-opposition-over-approved-holiday-lets-flats-and-shops-development-on-hastings-arcade-blaze-site-9320078
+    name: Hastings Observer
 image:
   card:
     url: /assets/media/story/30/card.webp
