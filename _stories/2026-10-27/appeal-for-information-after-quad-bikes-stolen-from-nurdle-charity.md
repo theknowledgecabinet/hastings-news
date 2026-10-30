@@ -50,6 +50,9 @@ image:
   default: false
 checked: '2026-10-27T19:17:22+00:00'
 related:
+- url: /2026/10/30/new-police-policy-will-see-illegal-e-bikes-and-e-scooters-seized-from/
+  title: New police policy will see illegal e-bikes and e-scooters seized from Sunday
+  day: '2026-10-30'
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'

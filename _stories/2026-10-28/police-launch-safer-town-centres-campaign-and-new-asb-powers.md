@@ -55,12 +55,12 @@ related:
 - url: /2026/10/28/police-step-up-evening-patrols-in-rye-after-reports-of-anti-social/
   title: Police step up evening patrols in Rye after reports of anti-social behaviour
   day: '2026-10-28'
+- url: /2026/10/30/new-police-policy-will-see-illegal-e-bikes-and-e-scooters-seized-from/
+  title: New police policy will see illegal e-bikes and e-scooters seized from Sunday
+  day: '2026-10-30'
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
   title: New road signs installed in Bexhill for horse and rider safety
   day: '2026-10-29'
-- url: /2026/10/25/manhunt-for-escaped-prisoner-with-links-to-sussex/
-  title: Manhunt for escaped prisoner with links to Sussex
-  day: '2026-10-25'
 ---
 {% raw %}
 Sussex Police is launching a month-long Safer Town Centres campaign across Sussex, backed by new powers to tackle anti-social behaviour, a police spokesperson said.
