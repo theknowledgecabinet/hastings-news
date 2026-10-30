@@ -1,8 +1,8 @@
 {
- "day": "2026-10-29",
- "label": "Thursday 29 October 2026",
- "issue": 9,
- "edition_label": "Evening edition",
+ "day": "2026-10-30",
+ "label": "Friday 30 October 2026",
+ "issue": 10,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-10-30",
@@ -50,60 +50,20 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-10-29",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 15,
-    "low": 12,
-    "rain_chance": 2,
-    "rain_mm": 0.0,
-    "wind": 6,
-    "gusts": 13,
-    "direction": "north-easterly",
-    "sunrise": "06:44",
-    "sunset": "16:37",
-    "summary": "Cloudy. A high of 15°C and a low of 12°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-10-29",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 15,
-    "low": 11,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 6,
-    "gusts": 12,
-    "direction": "north-easterly",
-    "sunrise": "06:44",
-    "sunset": "16:37",
-    "summary": "Cloudy. A high of 15°C and a low of 11°C, light winds from the north east. Sunrise 06:44, sunset 16:37."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-10-30",
     "code": 2,
     "words": "partly cloudy",
     "icon": "⛅",
-    "high": 15,
+    "high": 13,
     "low": 10,
     "rain_chance": 0,
     "rain_mm": 0.0,
-    "wind": 10,
-    "gusts": 20,
+    "wind": 9,
+    "gusts": 19,
     "direction": "easterly",
     "sunrise": "06:45",
     "sunset": "16:36",
-    "summary": "Partly cloudy. A high of 15°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
+    "summary": "Partly cloudy. A high of 13°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
    }
   }
  ],
@@ -112,16 +72,16 @@
   "code": 2,
   "words": "partly cloudy",
   "icon": "⛅",
-  "high": 15,
+  "high": 13,
   "low": 10,
   "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 10,
-  "gusts": 20,
+  "wind": 9,
+  "gusts": 19,
   "direction": "easterly",
   "sunrise": "06:45",
   "sunset": "16:36",
-  "summary": "Partly cloudy. A high of 15°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
+  "summary": "Partly cloudy. A high of 13°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
  },
  "briefing": {
   "day": "2026-10-29",
@@ -137,6 +97,11 @@
   "title": "Frederick North, MP for Hastings, dies at 69"
  },
  "days": [
+  {
+   "day": "2026-10-30",
+   "url": "/2026/10/30/",
+   "label": "Fri 30 Oct"
+  },
   {
    "day": "2026-10-29",
    "url": "/2026/10/29/",
