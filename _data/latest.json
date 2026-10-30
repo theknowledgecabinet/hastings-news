@@ -2,7 +2,7 @@
  "day": "2026-10-30",
  "label": "Friday 30 October 2026",
  "issue": 10,
- "edition_label": "Midday edition",
+ "edition_label": "Evening edition",
  "forecast": [
   {
    "day": "2026-10-30",
@@ -85,30 +85,50 @@
     "sunset": "16:36",
     "summary": "Partly cloudy. A high of 14°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
    }
+  },
+  {
+   "name": "evening",
+   "label": "Evening edition",
+   "weather": {
+    "day": "2026-10-31",
+    "code": 2,
+    "words": "partly cloudy",
+    "icon": "⛅",
+    "high": 14,
+    "low": 8,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
+    "wind": 9,
+    "gusts": 18,
+    "direction": "north-easterly",
+    "sunrise": "06:47",
+    "sunset": "16:34",
+    "summary": "Partly cloudy. A high of 14°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
+   }
   }
  ],
  "weather": {
-  "day": "2026-10-30",
+  "day": "2026-10-31",
   "code": 2,
   "words": "partly cloudy",
   "icon": "⛅",
   "high": 14,
-  "low": 10,
+  "low": 8,
   "rain_chance": 0,
   "rain_mm": 0.0,
   "wind": 9,
-  "gusts": 19,
-  "direction": "easterly",
-  "sunrise": "06:45",
-  "sunset": "16:36",
-  "summary": "Partly cloudy. A high of 14°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
+  "gusts": 18,
+  "direction": "north-easterly",
+  "sunrise": "06:47",
+  "sunset": "16:34",
+  "summary": "Partly cloudy. A high of 14°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
  },
  "briefing": {
-  "day": "2026-10-29",
-  "url": "/assets/podcast/2026-10-29.mp3",
-  "seconds": 968,
-  "bytes": 3872396,
-  "length": "16 min"
+  "day": "2026-10-30",
+  "url": "/assets/podcast/2026-10-30.mp3",
+  "seconds": 701,
+  "bytes": 2802764,
+  "length": "12 min"
  },
  "otd": {
   "day": "2026-10-30",

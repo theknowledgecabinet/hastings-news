@@ -3,6 +3,7 @@ layout: story
 title: Eastbourne MP calls for shuttle bus between Eastbourne and Hastings hospitals
 permalink: /2026/10/29/eastbourne-mp-calls-for-shuttle-bus-between-eastbourne-and-hastings/
 date: 2026-10-29 08:01:21 +0000
+updated: '2026-10-30T19:19:29+00:00'
 sid: 49
 day: '2026-10-29'
 edition: morning
@@ -22,6 +23,13 @@ description: Eastbourne MP Josh Babarinde has called for a dedicated shuttle bus
 sources:
 - url: https://www.sussexexpress.co.uk/news/politics/mp-calls-for-shuttle-bus-between-eastbourne-and-hastings-hospitals-9315923
   name: Hastings Observer
+updates:
+- date: '2026-10-30T19:19:29+00:00'
+  edition: evening
+  text: The call for a shuttle bus between Eastbourne District General Hospital and the Conquest Hospital in Hastings has sparked widespread debate on The Herald's Facebook page, according to the paper. Many people commented in favour of the suggestion, while others asked practical questions, including what happens when a bus is full or whether people would need to book. Some readers said the focus should instead be on restoring all of Eastbourne DGH's services.
+  sources:
+  - url: https://www.sussexexpress.co.uk/health/it-needs-this-desperately-readers-react-to-calls-for-shuttle-bus-between-eastbourne-and-hastings-hospitals-9319869
+    name: Hastings Observer
 image:
   card:
     url: /assets/media/story/49/card.webp

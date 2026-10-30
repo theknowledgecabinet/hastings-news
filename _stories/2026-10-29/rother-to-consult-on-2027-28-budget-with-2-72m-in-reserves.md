@@ -56,6 +56,9 @@ related:
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
+- url: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
+  title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
+  day: '2026-10-30'
 ---
 {% raw %}
 Residents of Rother are set to be consulted on how the council will balance its 2027/28 budget, after Cabinet agreed on 26 October to consult staff, the public and, for the first time, individual organisations likely to be affected by savings decisions.

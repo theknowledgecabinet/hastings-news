@@ -25,4 +25,4 @@ Commons and credited on each page.
 **Corrections:** if something is wrong, please open an issue in this repository.
 
 This repository is rebuilt automatically after each edition and served by GitHub
-Pages, so edits made here are overwritten. 62 stories so far.
+Pages, so edits made here are overwritten. 64 stories so far.

@@ -54,9 +54,9 @@ related:
 - url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
   title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
   day: '2026-10-21'
-- url: /2026/10/28/one-in-ten-young-adults-in-hastings-on-unemployment-benefits/
-  title: One in ten young adults in Hastings on unemployment benefits
-  day: '2026-10-28'
+- url: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
+  title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
+  day: '2026-10-30'
 ---
 {% raw %}
 Business representatives in Hastings have welcomed the government's package of rates relief for small businesses, announced by the chancellor, John Healey, in his Autumn Budget on Wednesday.
