@@ -3,6 +3,7 @@ layout: story
 title: Bexhill empty shops plan opens for public consultation
 permalink: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
 date: 2026-10-24 07:00:00 +0100
+updated: '2026-10-30T13:12:53+00:00'
 sid: 8
 day: '2026-10-24'
 edition: morning
@@ -24,6 +25,13 @@ what_next: The consultation runs until Friday, November 27. The feedback will be
 sources:
 - url: https://www.rother.gov.uk/news/public-asked-for-views-on-long-term-empty-shops-plan/
   name: Rother District Council
+updates:
+- date: '2026-10-30T13:12:53+00:00'
+  edition: midday
+  text: The council leader says the draft Local Plan consultation remains open until Tuesday, November 24, and the Tapestry development in Battle, which will provide 200 energy-efficient homes, has been shortlisted for the Best Development Award at the Inside Housing Development Awards.
+  sources:
+  - url: https://www.rother.gov.uk/news/from-the-leader-friday-october-30/
+    name: Rother District Council
 image:
   card:
     url: /assets/media/story/8/card.webp
