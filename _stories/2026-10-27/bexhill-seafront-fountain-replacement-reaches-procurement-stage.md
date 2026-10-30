@@ -3,7 +3,7 @@ layout: story
 title: Bexhill seafront fountain replacement reaches procurement stage
 permalink: /2026/10/27/bexhill-seafront-fountain-replacement-reaches-procurement-stage/
 date: 2026-10-27 12:46:07 +0000
-updated: '2026-10-29T19:47:30+00:00'
+updated: '2026-10-30T08:15:30+00:00'
 sid: 27
 day: '2026-10-27'
 edition: midday
@@ -34,6 +34,12 @@ updates:
     name: Rother District Council
   - url: https://www.sussexexpress.co.uk/news/politics/bexhill-seafront-fountain-plans-move-a-step-closer-says-partnership-9318178
     name: Hastings Observer
+- date: '2026-10-30T08:15:30+00:00'
+  edition: morning
+  text: More has emerged on the plans to reinstate the fountain on the front lawns of the De La Warr Pavilion in Bexhill. Rother District Council will lead the procurement process as both landowner and accountable body for the funding, and Bexhill-on-Sea Town Council has agreed in principle to take on future maintenance responsibilities, subject to lease and construction quality arrangements, The Argus reported. The project forms part of the Bexhill Neighbourhood Board's four-year Regeneration Investment Plan and is funded through the Government's Pride in Place programme.
+  sources:
+  - url: https://www.theargus.co.uk/news/26676349.bexhill-seafront-fountain-restoration-plans-move-forward/
+    name: The Argus
 image:
   card:
     url: /assets/media/story/27/card.webp
