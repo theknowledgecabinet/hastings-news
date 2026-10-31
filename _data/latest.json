@@ -1,8 +1,8 @@
 {
- "day": "2026-10-30",
- "label": "Friday 30 October 2026",
- "issue": 10,
- "edition_label": "Evening edition",
+ "day": "2026-10-31",
+ "label": "Saturday 31 October 2026",
+ "issue": 11,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-10-31",
@@ -50,51 +50,11 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-10-30",
-    "code": 2,
-    "words": "partly cloudy",
-    "icon": "⛅",
-    "high": 13,
-    "low": 10,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 9,
-    "gusts": 19,
-    "direction": "easterly",
-    "sunrise": "06:45",
-    "sunset": "16:36",
-    "summary": "Partly cloudy. A high of 13°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-10-30",
-    "code": 2,
-    "words": "partly cloudy",
-    "icon": "⛅",
-    "high": 14,
-    "low": 10,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 9,
-    "gusts": 19,
-    "direction": "easterly",
-    "sunrise": "06:45",
-    "sunset": "16:36",
-    "summary": "Partly cloudy. A high of 14°C and a low of 10°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-10-31",
-    "code": 2,
-    "words": "partly cloudy",
-    "icon": "⛅",
-    "high": 14,
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 12,
     "low": 8,
     "rain_chance": 0,
     "rain_mm": 0.0,
@@ -103,16 +63,16 @@
     "direction": "north-easterly",
     "sunrise": "06:47",
     "sunset": "16:34",
-    "summary": "Partly cloudy. A high of 14°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
+    "summary": "Cloudy. A high of 12°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
    }
   }
  ],
  "weather": {
   "day": "2026-10-31",
-  "code": 2,
-  "words": "partly cloudy",
-  "icon": "⛅",
-  "high": 14,
+  "code": 3,
+  "words": "cloudy",
+  "icon": "☁️",
+  "high": 12,
   "low": 8,
   "rain_chance": 0,
   "rain_mm": 0.0,
@@ -121,7 +81,7 @@
   "direction": "north-easterly",
   "sunrise": "06:47",
   "sunset": "16:34",
-  "summary": "Partly cloudy. A high of 14°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
+  "summary": "Cloudy. A high of 12°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
  },
  "briefing": {
   "day": "2026-10-30",
@@ -137,6 +97,11 @@
   "title": "The official end of the Battle of Britain, 31 October 1940"
  },
  "days": [
+  {
+   "day": "2026-10-31",
+   "url": "/2026/10/31/",
+   "label": "Sat 31 Oct"
+  },
   {
    "day": "2026-10-30",
    "url": "/2026/10/30/",

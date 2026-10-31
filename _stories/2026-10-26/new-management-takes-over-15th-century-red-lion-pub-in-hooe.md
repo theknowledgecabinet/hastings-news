@@ -46,6 +46,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Red_Lion_Pub,_Hooe_-_geograph.org.uk_-_1277396.jpg
   default: false
 checked: '2026-10-27T05:35:15+00:00'
+related:
+- url: /2026/10/31/iden-s-the-bell-pub-moves-closer-to-reopening-after-plans-submitted/
+  title: Iden's The Bell pub moves closer to reopening after plans submitted
+  day: '2026-10-31'
 ---
 {% raw %}
 The Red Lion, a 15th century pub in Denbigh Road, Hooe, near Battle, has been taken over by new management.
