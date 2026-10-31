@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-10-30",
-   "code": 2,
-   "words": "partly cloudy",
-   "icon": "⛅",
-   "high": 16,
-   "low": 11,
-   "rain_chance": 0,
-   "rain_mm": 0.0,
-   "wind": 9,
-   "gusts": 20,
-   "direction": "easterly",
-   "sunrise": "06:45",
-   "sunset": "16:36",
-   "summary": "Partly cloudy. A high of 16°C and a low of 11°C, a moderate breeze from the east. Sunrise 06:45, sunset 16:36.",
-   "label": "Today",
-   "weekday": "Fri 30 Oct",
-   "long": "Friday 30 October"
-  },
-  {
    "day": "2026-10-31",
    "code": 2,
    "words": "partly cloudy",
@@ -38,13 +19,32 @@
    "sunrise": "06:47",
    "sunset": "16:34",
    "summary": "Partly cloudy. A high of 14°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Sat 31 Oct",
    "long": "Saturday 31 October"
+  },
+  {
+   "day": "2026-11-01",
+   "code": 3,
+   "words": "cloudy",
+   "icon": "☁️",
+   "high": 13,
+   "low": 7,
+   "rain_chance": 5,
+   "rain_mm": 0.0,
+   "wind": 7,
+   "gusts": 15,
+   "direction": "northerly",
+   "sunrise": "06:49",
+   "sunset": "16:32",
+   "summary": "Cloudy. A high of 13°C and a low of 7°C, light winds from the north. Sunrise 06:49, sunset 16:32.",
+   "label": "Tomorrow",
+   "weekday": "Sun 1 Nov",
+   "long": "Sunday 1 November"
   }
  ],
- "today_label": "Friday 30 October 2026",
- "today_short": "Fri 30 Oct",
+ "today_label": "Saturday 31 October 2026",
+ "today_short": "Sat 31 Oct",
  "editions": [
   {
    "name": "morning",
