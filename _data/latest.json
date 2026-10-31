@@ -28,7 +28,7 @@
    "code": 3,
    "words": "cloudy",
    "icon": "☁️",
-   "high": 12,
+   "high": 11,
    "low": 8,
    "rain_chance": 0,
    "rain_mm": 0.0,
@@ -37,7 +37,7 @@
    "direction": "north-easterly",
    "sunrise": "06:49",
    "sunset": "16:32",
-   "summary": "Cloudy. A high of 12°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:49, sunset 16:32.",
+   "summary": "Cloudy. A high of 11°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:49, sunset 16:32.",
    "label": "Tomorrow",
    "weekday": "Sun 1 Nov",
    "long": "Sunday 1 November"
