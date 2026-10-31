@@ -53,6 +53,9 @@ image:
   default: false
 checked: '2026-10-27T05:20:48+00:00'
 related:
+- url: /2026/10/31/secondary-school-applications-close-at-midnight-today/
+  title: Secondary school applications close at midnight today
+  day: '2026-10-31'
 - url: /2026/10/21/warm-homes-plan-cuts-would-be-terrible-blunder-local-energy-service/
   title: Warm Homes Plan cuts would be 'terrible blunder', local energy service warns
   day: '2026-10-21'

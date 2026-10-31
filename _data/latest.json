@@ -2,7 +2,7 @@
  "day": "2026-10-31",
  "label": "Saturday 31 October 2026",
  "issue": 11,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-10-31",
@@ -65,6 +65,26 @@
     "sunset": "16:34",
     "summary": "Cloudy. A high of 12°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-10-31",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 12,
+    "low": 8,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
+    "wind": 8,
+    "gusts": 18,
+    "direction": "north-easterly",
+    "sunrise": "06:47",
+    "sunset": "16:34",
+    "summary": "Cloudy. A high of 12°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
+   }
   }
  ],
  "weather": {
@@ -76,7 +96,7 @@
   "low": 8,
   "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 9,
+  "wind": 8,
   "gusts": 18,
   "direction": "north-easterly",
   "sunrise": "06:47",
