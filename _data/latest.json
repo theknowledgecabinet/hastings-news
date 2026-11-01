@@ -2,7 +2,7 @@
  "day": "2026-11-01",
  "label": "Sunday 1 November 2026",
  "issue": 12,
- "edition_label": "Midday edition",
+ "edition_label": "Evening edition",
  "forecast": [
   {
    "day": "2026-11-01",
@@ -85,30 +85,50 @@
     "sunset": "16:32",
     "summary": "Cloudy. A high of 11°C and a low of 7°C, light winds from the north east. Sunrise 06:49, sunset 16:32."
    }
+  },
+  {
+   "name": "evening",
+   "label": "Evening edition",
+   "weather": {
+    "day": "2026-11-02",
+    "code": 53,
+    "words": "drizzle",
+    "icon": "🌦️",
+    "high": 12,
+    "low": 9,
+    "rain_chance": 18,
+    "rain_mm": 1.1,
+    "wind": 14,
+    "gusts": 30,
+    "direction": "northerly",
+    "sunrise": "06:51",
+    "sunset": "16:30",
+    "summary": "Drizzle possible (18% chance). A high of 12°C and a low of 9°C, a moderate breeze from the north, gusting 30 mph. Sunrise 06:51, sunset 16:30."
+   }
   }
  ],
  "weather": {
-  "day": "2026-11-01",
-  "code": 3,
-  "words": "cloudy",
-  "icon": "☁️",
-  "high": 11,
-  "low": 7,
-  "rain_chance": 0,
-  "rain_mm": 0.0,
-  "wind": 7,
-  "gusts": 15,
-  "direction": "north-easterly",
-  "sunrise": "06:49",
-  "sunset": "16:32",
-  "summary": "Cloudy. A high of 11°C and a low of 7°C, light winds from the north east. Sunrise 06:49, sunset 16:32."
+  "day": "2026-11-02",
+  "code": 53,
+  "words": "drizzle",
+  "icon": "🌦️",
+  "high": 12,
+  "low": 9,
+  "rain_chance": 18,
+  "rain_mm": 1.1,
+  "wind": 14,
+  "gusts": 30,
+  "direction": "northerly",
+  "sunrise": "06:51",
+  "sunset": "16:30",
+  "summary": "Drizzle possible (18% chance). A high of 12°C and a low of 9°C, a moderate breeze from the north, gusting 30 mph. Sunrise 06:51, sunset 16:30."
  },
  "briefing": {
-  "day": "2026-10-31",
-  "url": "/assets/podcast/2026-10-31.mp3",
-  "seconds": 489,
-  "bytes": 1957676,
-  "length": "8 min"
+  "day": "2026-11-01",
+  "url": "/assets/podcast/2026-11-01.mp3",
+  "seconds": 200,
+  "bytes": 799340,
+  "length": "3 min"
  },
  "otd": {
   "day": "2026-11-01",

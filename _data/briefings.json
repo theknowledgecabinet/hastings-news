@@ -1,5 +1,12 @@
 [
  {
+  "day": "2026-11-01",
+  "url": "/assets/podcast/2026-11-01.mp3",
+  "seconds": 200,
+  "bytes": 799340,
+  "length": "3 min"
+ },
+ {
   "day": "2026-10-31",
   "url": "/assets/podcast/2026-10-31.mp3",
   "seconds": 489,
