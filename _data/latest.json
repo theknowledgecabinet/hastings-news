@@ -1,8 +1,8 @@
 {
- "day": "2026-10-31",
- "label": "Saturday 31 October 2026",
- "issue": 11,
- "edition_label": "Evening edition",
+ "day": "2026-11-01",
+ "label": "Sunday 1 November 2026",
+ "issue": 12,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-01",
@@ -50,52 +50,12 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-10-31",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 12,
-    "low": 8,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 9,
-    "gusts": 18,
-    "direction": "north-easterly",
-    "sunrise": "06:47",
-    "sunset": "16:34",
-    "summary": "Cloudy. A high of 12°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-10-31",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 12,
-    "low": 8,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 8,
-    "gusts": 18,
-    "direction": "north-easterly",
-    "sunrise": "06:47",
-    "sunset": "16:34",
-    "summary": "Cloudy. A high of 12°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-01",
     "code": 3,
     "words": "cloudy",
     "icon": "☁️",
-    "high": 11,
-    "low": 8,
+    "high": 12,
+    "low": 7,
     "rain_chance": 0,
     "rain_mm": 0.0,
     "wind": 8,
@@ -103,7 +63,7 @@
     "direction": "north-easterly",
     "sunrise": "06:49",
     "sunset": "16:32",
-    "summary": "Cloudy. A high of 11°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:49, sunset 16:32."
+    "summary": "Cloudy. A high of 12°C and a low of 7°C, a moderate breeze from the north east. Sunrise 06:49, sunset 16:32."
    }
   }
  ],
@@ -112,8 +72,8 @@
   "code": 3,
   "words": "cloudy",
   "icon": "☁️",
-  "high": 11,
-  "low": 8,
+  "high": 12,
+  "low": 7,
   "rain_chance": 0,
   "rain_mm": 0.0,
   "wind": 8,
@@ -121,7 +81,7 @@
   "direction": "north-easterly",
   "sunrise": "06:49",
   "sunset": "16:32",
-  "summary": "Cloudy. A high of 11°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:49, sunset 16:32."
+  "summary": "Cloudy. A high of 12°C and a low of 7°C, a moderate breeze from the north east. Sunrise 06:49, sunset 16:32."
  },
  "briefing": {
   "day": "2026-10-31",
@@ -131,12 +91,17 @@
   "length": "8 min"
  },
  "otd": {
-  "day": "2026-10-31",
-  "url": "/on-this-day/2026-10-31/",
-  "year": 2006,
-  "title": "The last traders left Hastings Pier"
+  "day": "2026-11-01",
+  "url": "/on-this-day/2026-11-01/",
+  "year": 1597,
+  "title": "A storm swept away the old Hastings harbour"
  },
  "days": [
+  {
+   "day": "2026-11-01",
+   "url": "/2026/11/01/",
+   "label": "Sun 1 Nov"
+  },
   {
    "day": "2026-10-31",
    "url": "/2026/10/31/",

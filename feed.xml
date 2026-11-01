@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 31 Oct 2026 13:11:38 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 07:00:00 +0000</lastBuildDate>
+  <item>
+    <title>On this day, 1597: A storm swept away the old Hastings harbour</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-01/</link>
+    <guid isPermaLink="false">otd-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 07:00:00 +0000</pubDate>
+    <category>On this day</category>
+    <description>A storm swept away the town&#x27;s harbour on this day in 1597. Between 1595 and 1597, a large and expensive harbour, known as the &#x27;pier&#x27;, was built in front of Hastings Old Town. On 1 November 1597, a storm swept it away.</description>
+  </item>
   <item>
     <title>Secondary school applications close at midnight today</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/31/secondary-school-applications-close-at-midnight-today/</link>
@@ -638,14 +646,6 @@
     <pubDate>Wed, 21 Oct 2026 07:00:00 +0100</pubDate>
     <category>Politics</category>
     <description>The MP for Hastings and Rye has criticised the phone line the British Museum set up for local residents to book tickets for the Bayeux tapestry exhibition.</description>
-  </item>
-  <item>
-    <title>West Hill Lift gets £531,000 from National Lottery Heritage Fund</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/</link>
-    <guid isPermaLink="false">story-2</guid>
-    <pubDate>Wed, 21 Oct 2026 07:00:00 +0100</pubDate>
-    <category>Council</category>
-    <description>The National Lottery Heritage Fund has offered £531,000 in development funding to Hastings Borough Council to secure the long-term future of the West Hill Lift, the Grade II listed lift that runs up the cliff from George Street to Hastings Castle.</description>
   </item>
 </channel>
 </rss>
