@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-10-31",
-   "code": 3,
-   "words": "cloudy",
-   "icon": "☁️",
-   "high": 14,
-   "low": 9,
-   "rain_chance": 0,
-   "rain_mm": 0.0,
-   "wind": 8,
-   "gusts": 18,
-   "direction": "north-easterly",
-   "sunrise": "06:47",
-   "sunset": "16:34",
-   "summary": "Cloudy. A high of 14°C and a low of 9°C, a moderate breeze from the north east. Sunrise 06:47, sunset 16:34.",
-   "label": "Today",
-   "weekday": "Sat 31 Oct",
-   "long": "Saturday 31 October"
-  },
-  {
    "day": "2026-11-01",
    "code": 3,
    "words": "cloudy",
@@ -38,13 +19,32 @@
    "sunrise": "06:49",
    "sunset": "16:32",
    "summary": "Cloudy. A high of 12°C and a low of 8°C, light winds from the north east. Sunrise 06:49, sunset 16:32.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Sun 1 Nov",
    "long": "Sunday 1 November"
+  },
+  {
+   "day": "2026-11-02",
+   "code": 51,
+   "words": "light drizzle",
+   "icon": "🌦️",
+   "high": 12,
+   "low": 8,
+   "rain_chance": 4,
+   "rain_mm": 0.7,
+   "wind": 16,
+   "gusts": 32,
+   "direction": "northerly",
+   "sunrise": "06:51",
+   "sunset": "16:30",
+   "summary": "Light drizzle possible (4% chance). A high of 12°C and a low of 8°C, a moderate breeze from the north, gusting 32 mph. Sunrise 06:51, sunset 16:30.",
+   "label": "Tomorrow",
+   "weekday": "Mon 2 Nov",
+   "long": "Monday 2 November"
   }
  ],
- "today_label": "Saturday 31 October 2026",
- "today_short": "Sat 31 Oct",
+ "today_label": "Sunday 1 November 2026",
+ "today_short": "Sun 1 Nov",
  "editions": [
   {
    "name": "morning",
