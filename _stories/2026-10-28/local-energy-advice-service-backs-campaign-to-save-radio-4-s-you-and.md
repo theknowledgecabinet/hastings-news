@@ -52,6 +52,9 @@ related:
 - url: /2026/10/21/warm-homes-plan-cuts-would-be-terrible-blunder-local-energy-service/
   title: Warm Homes Plan cuts would be 'terrible blunder', local energy service warns
   day: '2026-10-21'
+- url: /2026/11/02/free-off-grid-solar-workshops-coming-to-hastings-and-battle/
+  title: Free off-grid solar workshops coming to Hastings and Battle
+  day: '2026-11-02'
 - url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
   title: Leaders of three councils urge government to raise Local Housing Allowance
   day: '2026-10-27'
