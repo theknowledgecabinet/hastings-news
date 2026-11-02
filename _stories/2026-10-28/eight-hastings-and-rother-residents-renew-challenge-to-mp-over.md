@@ -52,6 +52,9 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg
   default: false
 related:
+- url: /2026/11/02/eight-hastings-and-bexhill-residents-arrested-outside-us-embassy/
+  title: Eight Hastings and Bexhill residents arrested outside US embassy
+  day: '2026-11-02'
 - url: /2026/10/27/173-residents-urge-hastings-mp-to-publicly-oppose-rosebank-oil-field/
   title: 173 residents urge Hastings MP to publicly oppose Rosebank oil field
   day: '2026-10-27'

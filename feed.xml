@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 02 Nov 2026 08:39:57 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 09:30:40 +0000</lastBuildDate>
+  <item>
+    <title>Eight Hastings and Bexhill residents arrested outside US embassy</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/eight-hastings-and-bexhill-residents-arrested-outside-us-embassy/</link>
+    <guid isPermaLink="false">story-78</guid>
+    <pubDate>Mon, 02 Nov 2026 09:30:40 +0000</pubDate>
+    <category>Politics</category>
+    <description>Eight residents of Hastings and Bexhill were arrested outside the US embassy in London on Saturday 31 October, the Hastings Online Times reported. The group was peacefully holding signs reading &#x27;I oppose genocide. I support Palestine Action&#x27;.</description>
+  </item>
   <item>
     <title>Coalition says October&#x27;s budget cut the Warm Homes Plan by up to £5.7bn</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/coalition-says-october-s-budget-cut-the-warm-homes-plan-by-up-to-5-7bn/</link>
@@ -638,14 +646,6 @@
     <pubDate>Fri, 23 Oct 2026 07:00:00 +0100</pubDate>
     <category>Community &amp; people</category>
     <description>A Hastings mother has won a national award for her campaign to make the roads safer, following the death of her son in a road accident.</description>
-  </item>
-  <item>
-    <title>Police secure closure order for Hastings property</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/23/police-secure-closure-order-for-hastings-property/</link>
-    <guid isPermaLink="false">story-18</guid>
-    <pubDate>Fri, 23 Oct 2026 07:00:00 +0100</pubDate>
-    <category>Crime &amp; courts</category>
-    <description>Officers from the Hastings Neighbourhood Policing Team have secured a Closure Order for a property in Cornwallis Terrace, Hastings.</description>
   </item>
 </channel>
 </rss>
