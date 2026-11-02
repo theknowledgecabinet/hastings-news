@@ -47,6 +47,10 @@ image:
   licence_url: https://creativecommons.org/licenses/by/4.0
   page: https://commons.wikimedia.org/wiki/File:Siskin_is_trapped.jpg
   default: false
+related:
+- url: /2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/
+  title: Bird deaths spark campaign to remove netting in Hastings and Rother
+  day: '2026-11-02'
 ---
 {% raw %}
 A pigeon that was rescued after being snared in bird netting at the Hastings Library building is on the road to recovery.

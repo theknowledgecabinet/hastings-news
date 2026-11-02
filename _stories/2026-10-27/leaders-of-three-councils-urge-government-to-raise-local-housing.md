@@ -58,9 +58,9 @@ related:
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
-- url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
-  title: New litter bins appear in Hastings under Pride in Place funding
-  day: '2026-10-29'
+- url: /2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/
+  title: Developers reveal bid to build 120 new Hastings homes
+  day: '2026-11-02'
 ---
 {% raw %}
 Councillors in Hastings, Lewes and Eastbourne have asked the government to raise the housing benefit rates that help people pay private rents.

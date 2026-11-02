@@ -6,7 +6,31 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 02 Nov 2026 13:07:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 19:24:23 +0000</lastBuildDate>
+  <item>
+    <title>Bird deaths spark campaign to remove netting in Hastings and Rother</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/</link>
+    <guid isPermaLink="false">story-83</guid>
+    <pubDate>Mon, 02 Nov 2026 19:24:23 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A new local campaign is calling for safer ways to manage birds around buildings after three incidents in which birds became trapped in netting.</description>
+  </item>
+  <item>
+    <title>Residents brand St Leonards metal supports an &#x27;eyesore&#x27;</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/residents-brand-st-leonards-metal-supports-an-eyesore/</link>
+    <guid isPermaLink="false">story-84</guid>
+    <pubDate>Mon, 02 Nov 2026 19:24:23 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Residents have branded large metal supports in St Leonards an &#x27;eyesore&#x27;.</description>
+  </item>
+  <item>
+    <title>Developers reveal bid to build 120 new Hastings homes</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/</link>
+    <guid isPermaLink="false">story-85</guid>
+    <pubDate>Mon, 02 Nov 2026 19:24:23 +0000</pubDate>
+    <category>Business</category>
+    <description>Catesby Estates and Rurban Estates have revealed a bid to build about 120 new homes in Hastings.</description>
+  </item>
   <item>
     <title>Battle Bonfire returns to the Abbey Green on Saturday</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/battle-bonfire-returns-to-the-abbey-green-on-saturday/</link>
@@ -622,30 +646,6 @@
     <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has been awarded £288,500 from Historic England&#x27;s Heritage at Risk Capital Fund for repairs to Hastings Castle.</description>
-  </item>
-  <item>
-    <title>Hastings Philharmonic Choir to sing Schubert and Saint-Saëns</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/25/hastings-philharmonic-choir-to-sing-schubert-and-saint-saens/</link>
-    <guid isPermaLink="false">story-6</guid>
-    <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Hastings Philharmonic Choir&#x27;s next concert, Songs of Light, brings two choral masterpieces to All Saints Church in the Old Town on Saturday 7 November.</description>
-  </item>
-  <item>
-    <title>Gruffalo parade to close Hastings Storytelling Festival on the Stade</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/25/gruffalo-parade-to-close-hastings-storytelling-festival-on-the-stade/</link>
-    <guid isPermaLink="false">story-7</guid>
-    <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Hastings Storytelling Festival comes to a close on Sunday, October 25, with a free Children&#x27;s Day on the Stade and a Gruffalo themed parade through the Old Town.</description>
-  </item>
-  <item>
-    <title>On this day, 1823: New town hall market opens in the High Street</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-10-25/</link>
-    <guid isPermaLink="false">otd-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
-    <category>On this day</category>
-    <description>On 25 October 1823, the new town hall in the High Street opened its ground floor to the market traders, with 14 stalls taking up their positions.</description>
   </item>
 </channel>
 </rss>

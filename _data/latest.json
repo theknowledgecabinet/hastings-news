@@ -2,7 +2,7 @@
  "day": "2026-11-02",
  "label": "Monday 2 November 2026",
  "issue": 13,
- "edition_label": "Midday edition",
+ "edition_label": "Evening edition",
  "forecast": [
   {
    "day": "2026-11-02",
@@ -85,30 +85,50 @@
     "sunset": "16:30",
     "summary": "Drizzle possible (53% chance). A high of 12°C and a low of 8°C, a moderate breeze from the north. Sunrise 06:51, sunset 16:30."
    }
+  },
+  {
+   "name": "evening",
+   "label": "Evening edition",
+   "weather": {
+    "day": "2026-11-03",
+    "code": 61,
+    "words": "light rain",
+    "icon": "🌦️",
+    "high": 11,
+    "low": 9,
+    "rain_chance": 78,
+    "rain_mm": 7.1,
+    "wind": 13,
+    "gusts": 28,
+    "direction": "north-easterly",
+    "sunrise": "06:52",
+    "sunset": "16:29",
+    "summary": "Light rain likely. A high of 11°C and a low of 9°C, a moderate breeze from the north east. Sunrise 06:52, sunset 16:29."
+   }
   }
  ],
  "weather": {
-  "day": "2026-11-02",
-  "code": 53,
-  "words": "drizzle",
+  "day": "2026-11-03",
+  "code": 61,
+  "words": "light rain",
   "icon": "🌦️",
-  "high": 12,
-  "low": 8,
-  "rain_chance": 53,
-  "rain_mm": 1.7,
-  "wind": 15,
-  "gusts": 29,
-  "direction": "northerly",
-  "sunrise": "06:51",
-  "sunset": "16:30",
-  "summary": "Drizzle possible (53% chance). A high of 12°C and a low of 8°C, a moderate breeze from the north. Sunrise 06:51, sunset 16:30."
+  "high": 11,
+  "low": 9,
+  "rain_chance": 78,
+  "rain_mm": 7.1,
+  "wind": 13,
+  "gusts": 28,
+  "direction": "north-easterly",
+  "sunrise": "06:52",
+  "sunset": "16:29",
+  "summary": "Light rain likely. A high of 11°C and a low of 9°C, a moderate breeze from the north east. Sunrise 06:52, sunset 16:29."
  },
  "briefing": {
-  "day": "2026-11-01",
-  "url": "/assets/podcast/2026-11-01.mp3",
-  "seconds": 198,
-  "bytes": 793004,
-  "length": "3 min"
+  "day": "2026-11-02",
+  "url": "/assets/podcast/2026-11-02.mp3",
+  "seconds": 773,
+  "bytes": 3092972,
+  "length": "13 min"
  },
  "otd": {
   "day": "2026-11-02",
