@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-11-01",
-   "code": 3,
-   "words": "cloudy",
-   "icon": "☁️",
-   "high": 11,
-   "low": 7,
-   "rain_chance": 0,
-   "rain_mm": 0.0,
-   "wind": 8,
-   "gusts": 15,
-   "direction": "north-easterly",
-   "sunrise": "06:49",
-   "sunset": "16:32",
-   "summary": "Cloudy. A high of 11°C and a low of 7°C, a moderate breeze from the north east. Sunrise 06:49, sunset 16:32.",
-   "label": "Today",
-   "weekday": "Sun 1 Nov",
-   "long": "Sunday 1 November"
-  },
-  {
    "day": "2026-11-02",
    "code": 51,
    "words": "light drizzle",
@@ -38,13 +19,32 @@
    "sunrise": "06:51",
    "sunset": "16:30",
    "summary": "Light drizzle possible (18% chance). A high of 11°C and a low of 9°C, a moderate breeze from the north, gusting 32 mph. Sunrise 06:51, sunset 16:30.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Mon 2 Nov",
    "long": "Monday 2 November"
+  },
+  {
+   "day": "2026-11-03",
+   "code": 55,
+   "words": "heavy drizzle",
+   "icon": "🌧️",
+   "high": 12,
+   "low": 9,
+   "rain_chance": 59,
+   "rain_mm": 1.7,
+   "wind": 15,
+   "gusts": 32,
+   "direction": "north-easterly",
+   "sunrise": "06:52",
+   "sunset": "16:29",
+   "summary": "Heavy drizzle possible (59% chance). A high of 12°C and a low of 9°C, a moderate breeze from the north east, gusting 32 mph. Sunrise 06:52, sunset 16:29.",
+   "label": "Tomorrow",
+   "weekday": "Tue 3 Nov",
+   "long": "Tuesday 3 November"
   }
  ],
- "today_label": "Sunday 1 November 2026",
- "today_short": "Sun 1 Nov",
+ "today_label": "Monday 2 November 2026",
+ "today_short": "Mon 2 Nov",
  "editions": [
   {
    "name": "morning",
