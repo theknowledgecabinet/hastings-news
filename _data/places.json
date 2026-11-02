@@ -3,13 +3,13 @@
   "name": "Hastings",
   "slug": "hastings",
   "url": "/place/hastings/",
-  "count": 47
+  "count": 49
  },
  {
   "name": "St Leonards",
   "slug": "st-leonards",
   "url": "/place/st-leonards/",
-  "count": 9
+  "count": 10
  },
  {
   "name": "Bexhill",
@@ -39,6 +39,6 @@
   "name": "East Sussex",
   "slug": "east-sussex",
   "url": "/place/east-sussex/",
-  "count": 9
+  "count": 10
  }
 ]

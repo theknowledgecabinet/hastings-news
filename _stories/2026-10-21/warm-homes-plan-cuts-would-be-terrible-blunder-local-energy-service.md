@@ -51,6 +51,9 @@ related:
 - url: /2026/10/28/local-energy-advice-service-backs-campaign-to-save-radio-4-s-you-and/
   title: Local energy advice service backs campaign to save Radio 4's You and Yours
   day: '2026-10-28'
+- url: /2026/11/02/coalition-says-october-s-budget-cut-the-warm-homes-plan-by-up-to-5-7bn/
+  title: Coalition says October's budget cut the Warm Homes Plan by up to £5.7bn
+  day: '2026-11-02'
 - url: /2026/10/25/fears-of-hungry-children-over-half-term-after-holiday-food-vouchers/
   title: Fears of hungry children over half-term after holiday food vouchers axed
   day: '2026-10-25'

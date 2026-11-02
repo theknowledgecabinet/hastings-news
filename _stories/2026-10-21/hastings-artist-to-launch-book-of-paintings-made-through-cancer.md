@@ -51,6 +51,9 @@ related:
 - url: /2026/10/29/hastings-butcher-releases-calendar-of-12-butchers-for-mental-health-uk/
   title: Hastings butcher releases calendar of 12 butchers for Mental Health UK
   day: '2026-10-29'
+- url: /2026/11/02/martin-cohen-to-launch-new-book-at-hastings-palestine-solidarity-event/
+  title: Martin Cohen to launch new book at Hastings Palestine Solidarity event
+  day: '2026-11-02'
 ---
 {% raw %}
 Hastings artist Helen Slater will launch her book Uninvited on the afternoon of Sunday 25 October, hosted by The Peripheral Space Project.
