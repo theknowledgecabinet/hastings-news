@@ -51,6 +51,9 @@ related:
 - url: /2026/10/30/st-michael-s-hospice-opens-festive-market-in-st-leonards/
   title: St Michael's Hospice opens Festive Market in St Leonards
   day: '2026-10-30'
+- url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
+  title: Police increase patrols in Eldridge Way area of St Leonards
+  day: '2026-11-03'
 - url: /2026/11/02/residents-brand-st-leonards-metal-supports-an-eyesore/
   title: Residents brand St Leonards metal supports an 'eyesore'
   day: '2026-11-02'

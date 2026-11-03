@@ -47,15 +47,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Police_Car_on_Western_Lawns_Eastbourne_-_geograph.org.uk_-_4080224.jpg
   default: false
 related:
+- url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
+  title: Police increase patrols in Eldridge Way area of St Leonards
+  day: '2026-11-03'
 - url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
   title: Police launch Safer Town Centres campaign and new ASB powers
   day: '2026-10-28'
 - url: /2026/10/30/new-police-policy-will-see-illegal-e-bikes-and-e-scooters-seized-from/
   title: New police policy will see illegal e-bikes and e-scooters seized from Sunday
   day: '2026-10-30'
-- url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
-  title: Police appeal after catapults reported in Bexhill's Egerton Park
-  day: '2026-10-27'
 ---
 {% raw %}
 Officers and police community support officers have continued with reassurance patrols in Rye and the surrounding areas, with particular attention given to Love Lane, Sussex Police has said.

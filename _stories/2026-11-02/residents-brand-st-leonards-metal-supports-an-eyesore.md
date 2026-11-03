@@ -47,6 +47,9 @@ image:
   default: false
 checked: '2026-11-02T19:26:57+00:00'
 related:
+- url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
+  title: Police increase patrols in Eldridge Way area of St Leonards
+  day: '2026-11-03'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'

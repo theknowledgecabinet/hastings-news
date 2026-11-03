@@ -56,6 +56,9 @@ image:
   page: https://commons.wikimedia.org/wiki/File:St_Leonards_Warrior_Square_railway_station_-_geograph.org.uk_-_2143824.jpg
   default: false
 related:
+- url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
+  title: Police increase patrols in Eldridge Way area of St Leonards
+  day: '2026-11-03'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
