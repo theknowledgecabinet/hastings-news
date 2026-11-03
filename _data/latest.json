@@ -2,7 +2,7 @@
  "day": "2026-11-03",
  "label": "Tuesday 3 November 2026",
  "issue": 14,
- "edition_label": "Midday edition",
+ "edition_label": "Evening edition",
  "forecast": [
   {
    "day": "2026-11-03",
@@ -85,30 +85,50 @@
     "sunset": "16:29",
     "summary": "Light rain likely. A high of 10°C and a low of 8°C, a moderate breeze from the north east, gusting 30 mph. Sunrise 06:52, sunset 16:29."
    }
+  },
+  {
+   "name": "evening",
+   "label": "Evening edition",
+   "weather": {
+    "day": "2026-11-04",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 10,
+    "low": 8,
+    "rain_chance": 2,
+    "rain_mm": 0.0,
+    "wind": 15,
+    "gusts": 32,
+    "direction": "easterly",
+    "sunrise": "06:54",
+    "sunset": "16:27",
+    "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the east, gusting 32 mph. Sunrise 06:54, sunset 16:27."
+   }
   }
  ],
  "weather": {
-  "day": "2026-11-03",
-  "code": 61,
-  "words": "light rain",
-  "icon": "🌦️",
+  "day": "2026-11-04",
+  "code": 3,
+  "words": "cloudy",
+  "icon": "☁️",
   "high": 10,
   "low": 8,
-  "rain_chance": 63,
-  "rain_mm": 6.6,
-  "wind": 14,
-  "gusts": 30,
-  "direction": "north-easterly",
-  "sunrise": "06:52",
-  "sunset": "16:29",
-  "summary": "Light rain likely. A high of 10°C and a low of 8°C, a moderate breeze from the north east, gusting 30 mph. Sunrise 06:52, sunset 16:29."
+  "rain_chance": 2,
+  "rain_mm": 0.0,
+  "wind": 15,
+  "gusts": 32,
+  "direction": "easterly",
+  "sunrise": "06:54",
+  "sunset": "16:27",
+  "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the east, gusting 32 mph. Sunrise 06:54, sunset 16:27."
  },
  "briefing": {
-  "day": "2026-11-02",
-  "url": "/assets/podcast/2026-11-02.mp3",
-  "seconds": 787,
-  "bytes": 3146252,
-  "length": "13 min"
+  "day": "2026-11-03",
+  "url": "/assets/podcast/2026-11-03.mp3",
+  "seconds": 879,
+  "bytes": 3515660,
+  "length": "15 min"
  },
  "otd": {
   "day": "2026-11-03",
