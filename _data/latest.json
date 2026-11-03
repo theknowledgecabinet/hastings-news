@@ -6,19 +6,19 @@
  "forecast": [
   {
    "day": "2026-11-03",
-   "code": 61,
-   "words": "light rain",
+   "code": 53,
+   "words": "drizzle",
    "icon": "🌦️",
    "high": 11,
    "low": 8,
    "rain_chance": 63,
-   "rain_mm": 6.9,
+   "rain_mm": 3.7,
    "wind": 14,
    "gusts": 30,
    "direction": "north-easterly",
    "sunrise": "06:52",
    "sunset": "16:29",
-   "summary": "Light rain likely. A high of 11°C and a low of 8°C, a moderate breeze from the north east, gusting 30 mph. Sunrise 06:52, sunset 16:29.",
+   "summary": "Drizzle likely. A high of 11°C and a low of 8°C, a moderate breeze from the north east, gusting 30 mph. Sunrise 06:52, sunset 16:29.",
    "label": "Today",
    "weekday": "Tue 3 Nov",
    "long": "Tuesday 3 November"
