@@ -47,6 +47,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:St_Michael%27s_Hospice_-_geograph.org.uk_-_2363743.jpg
   default: false
 checked: '2026-10-30T13:07:59+00:00'
+related:
+- url: /2026/11/03/former-st-leonards-church-becomes-community-hub-with-weekly-market/
+  title: Former St Leonards church becomes community hub with weekly market
+  day: '2026-11-03'
 ---
 {% raw %}
 St Michael's Hospice is holding a two-day Festive Market at its Upper Maze Hill site in St Leonards on Saturday, November 14, and Sunday, November 15.
