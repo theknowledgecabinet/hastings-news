@@ -6,7 +6,31 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 03 Nov 2026 08:17:08 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 13:10:26 +0000</lastBuildDate>
+  <item>
+    <title>Update: Developers reveal bid to build 120 new Hastings homes</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/</link>
+    <guid isPermaLink="false">story-85-update-2026-11-03T13:10:26+00:00</guid>
+    <pubDate>Tue, 03 Nov 2026 13:10:26 +0000</pubDate>
+    <category>Business</category>
+    <description>Catesby Estates and Rurban Estates are now inviting people to have a say on the proposals before finalising them and submitting planning applications to Hastings Borough Council and Rother District Council. The development would include approximately 120 new homes, of which 30 per cent would be affordable housing, a care home, a new landscaped public open green space and children&#x27;s play area. Many readers have voiced concerns about traffic on The Ridge and pressure on local services, according to the Hastings Observer. Feedback can be shared via a consultation at www.catesby-hastings.co.uk.</description>
+  </item>
+  <item>
+    <title>Free parking at Hastings council car parks in December</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/free-parking-at-hastings-council-car-parks-in-december/</link>
+    <guid isPermaLink="false">story-91</guid>
+    <pubDate>Tue, 03 Nov 2026 13:10:26 +0000</pubDate>
+    <category>Council</category>
+    <description>Hastings Borough Council has agreed plans to provide free parking at its council-owned car parks on specific dates in the run-up to Christmas.</description>
+  </item>
+  <item>
+    <title>Bexhill councillor calls parking permit charges &#x27;extortionate&#x27;</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/</link>
+    <guid isPermaLink="false">story-92</guid>
+    <pubDate>Tue, 03 Nov 2026 13:10:26 +0000</pubDate>
+    <category>Politics</category>
+    <description>A Bexhill town councillor has branded the price of residential parking permits in the town &#x27;extortionate and over the top&#x27;.</description>
+  </item>
   <item>
     <title>Toilets top of residents&#x27; list in £21.5m Pride in Place survey</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/toilets-top-of-residents-list-in-21-5m-pride-in-place-survey/</link>
@@ -622,30 +646,6 @@
     <pubDate>Tue, 27 Oct 2026 09:13:10 +0000</pubDate>
     <category>Politics</category>
     <description>A letter signed by 173 residents of the Hastings and Rye constituency has called on local MP Helena Dollimore to &quot;get off the fence and publicly oppose all new oil and gas projects in the North Sea&quot;.</description>
-  </item>
-  <item>
-    <title>Residents can quiz Southern Water at drop-in at The Stade Hall</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/27/residents-can-quiz-southern-water-at-drop-in-at-the-stade-hall/</link>
-    <guid isPermaLink="false">story-24</guid>
-    <pubDate>Tue, 27 Oct 2026 09:13:10 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Southern Water is coming to the town to hear from residents directly, with a drop-in at The Stade Hall on Wednesday 4 November, from 1.30pm to 6pm.</description>
-  </item>
-  <item>
-    <title>New crossings and lighting completed around Hastings station</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/</link>
-    <guid isPermaLink="false">story-25</guid>
-    <pubDate>Tue, 27 Oct 2026 09:13:10 +0000</pubDate>
-    <category>Traffic &amp; roadworks</category>
-    <description>The improvement works around Hastings railway station have been completed, East Sussex County Council has said.</description>
-  </item>
-  <item>
-    <title>On this day, 1891: The opening of St Leonards Pier</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-10-27/</link>
-    <guid isPermaLink="false">otd-2026-10-27</guid>
-    <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
-    <category>On this day</category>
-    <description>This week in local history: on 28 October 1891, St Leonards held the opening ceremony of its pier.</description>
   </item>
 </channel>
 </rss>

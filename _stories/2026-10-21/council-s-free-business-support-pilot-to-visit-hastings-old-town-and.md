@@ -56,12 +56,12 @@ related:
 - url: /2026/11/02/free-off-grid-solar-workshops-coming-to-hastings-and-battle/
   title: Free off-grid solar workshops coming to Hastings and Battle
   day: '2026-11-02'
+- url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
+  title: Free parking at Hastings council car parks in December
+  day: '2026-11-03'
 - url: /2026/10/29/hastings-business-group-welcomes-budget-rates-relief-package/
   title: Hastings business group welcomes Budget rates relief package
   day: '2026-10-29'
-- url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
-  title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
-  day: '2026-11-03'
 ---
 {% raw %}
 A new free business support pilot will reach independent shops and businesses in selected East Sussex high streets, including Hastings Old Town and Rye, the county council said.

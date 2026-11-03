@@ -54,9 +54,9 @@ related:
 - url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
   title: Police launch Safer Town Centres campaign and new ASB powers
   day: '2026-10-28'
-- url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
-  title: Bexhill empty shops plan opens for public consultation
-  day: '2026-10-24'
+- url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
+  title: Bexhill councillor calls parking permit charges 'extortionate'
+  day: '2026-11-03'
 ---
 {% raw %}
 New road signs have been installed in Bexhill as part of a campaign to make roads safer for horses and riders, a town councillor said.

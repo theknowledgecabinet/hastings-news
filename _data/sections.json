@@ -11,14 +11,14 @@
   "label": "Politics",
   "colour": "#6b3fa0",
   "url": "/section/politics/",
-  "count": 9
+  "count": 10
  },
  {
   "key": "council",
   "label": "Council",
   "colour": "#1f6f8b",
   "url": "/section/council/",
-  "count": 21
+  "count": 22
  },
  {
   "key": "community",

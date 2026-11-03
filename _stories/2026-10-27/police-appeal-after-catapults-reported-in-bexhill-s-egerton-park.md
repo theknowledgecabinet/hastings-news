@@ -51,12 +51,12 @@ related:
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
   title: New road signs installed in Bexhill for horse and rider safety
   day: '2026-10-29'
+- url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
+  title: Bexhill councillor calls parking permit charges 'extortionate'
+  day: '2026-11-03'
 - url: /2026/10/27/appeal-for-information-after-quad-bikes-stolen-from-nurdle-charity/
   title: Appeal for information after quad bikes stolen from Nurdle charity
   day: '2026-10-27'
-- url: /2026/10/28/police-step-up-evening-patrols-in-rye-after-reports-of-anti-social/
-  title: Police step up evening patrols in Rye after reports of anti-social behaviour
-  day: '2026-10-28'
 ---
 {% raw %}
 Police are appealing for information after reports of animals being targeted with catapults in Egerton Park, Bexhill-on-Sea.

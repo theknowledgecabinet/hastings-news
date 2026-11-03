@@ -3,6 +3,7 @@ layout: story
 title: Developers reveal bid to build 120 new Hastings homes
 permalink: /2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/
 date: 2026-11-02 19:24:23 +0000
+updated: '2026-11-03T13:10:26+00:00'
 sid: 85
 day: '2026-11-02'
 edition: evening
@@ -24,6 +25,13 @@ sources:
 - url: https://www.sussexexpress.co.uk/business/developers-reveal-bid-to-build-120-new-hastings-homes-9325307
   name: Hastings Observer
 comment: If this goes ahead, the consultation is the moment to have a say on layout and affordable housing before it is fixed. An outline application is a first step, not a green light.
+updates:
+- date: '2026-11-03T13:10:26+00:00'
+  edition: midday
+  text: Catesby Estates and Rurban Estates are now inviting people to have a say on the proposals before finalising them and submitting planning applications to Hastings Borough Council and Rother District Council. The development would include approximately 120 new homes, of which 30 per cent would be affordable housing, a care home, a new landscaped public open green space and children's play area. Many readers have voiced concerns about traffic on The Ridge and pressure on local services, according to the Hastings Observer. Feedback can be shared via a consultation at www.catesby-hastings.co.uk.
+  sources:
+  - url: https://www.sussexexpress.co.uk/business/concern-at-developers-bid-to-build-120-new-hastings-homes-there-will-be-no-green-space-left-at-this-rate-9325307
+    name: Hastings Observer
 image:
   card:
     url: /assets/media/story/85/card.webp

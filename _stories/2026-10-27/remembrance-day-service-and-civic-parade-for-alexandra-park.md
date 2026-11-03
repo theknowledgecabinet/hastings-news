@@ -51,6 +51,9 @@ related:
 - url: /2026/10/25/gruffalo-parade-to-close-hastings-storytelling-festival-on-the-stade/
   title: Gruffalo parade to close Hastings Storytelling Festival on the Stade
   day: '2026-10-25'
+- url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
+  title: Free parking at Hastings council car parks in December
+  day: '2026-11-03'
 ---
 {% raw %}
 Hastings' annual Act of Remembrance will take place at the war memorial in Alexandra Park at 11am on Sunday 8 November.

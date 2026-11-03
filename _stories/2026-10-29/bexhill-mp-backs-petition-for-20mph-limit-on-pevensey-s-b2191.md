@@ -49,6 +49,9 @@ image:
   default: false
 checked: '2026-10-29T19:28:40+00:00'
 related:
+- url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
+  title: Bexhill councillor calls parking permit charges 'extortionate'
+  day: '2026-11-03'
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
   title: New road signs installed in Bexhill for horse and rider safety
   day: '2026-10-29'

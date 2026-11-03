@@ -49,15 +49,15 @@ image:
   default: false
 checked: '2026-10-30T19:35:01+00:00'
 related:
+- url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
+  title: Free parking at Hastings council car parks in December
+  day: '2026-11-03'
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
   title: Hastings Castle to get £288,500 from Historic England for repairs
   day: '2026-10-25'
 - url: /2026/10/29/hastings-business-group-welcomes-budget-rates-relief-package/
   title: Hastings business group welcomes Budget rates relief package
   day: '2026-10-29'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
 ---
 {% raw %}
 Hastings Borough Council's Cabinet will meet on Monday 9 November to discuss a range of reports, the council said.

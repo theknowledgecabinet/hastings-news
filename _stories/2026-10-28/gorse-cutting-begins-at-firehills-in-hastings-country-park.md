@@ -52,12 +52,12 @@ related:
 - url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
   title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
   day: '2026-11-03'
+- url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
+  title: Free parking at Hastings council car parks in December
+  day: '2026-11-03'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
-- url: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
-  title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
-  day: '2026-10-30'
 ---
 {% raw %}
 Hastings Borough Council is to cut back the gorse that grows in the Firehills area of Hastings Country Park.
