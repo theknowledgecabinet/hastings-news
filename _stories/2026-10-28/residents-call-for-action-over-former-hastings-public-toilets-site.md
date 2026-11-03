@@ -49,15 +49,15 @@ image:
   default: false
 checked: '2026-10-28T13:07:09+00:00'
 related:
+- url: /2026/11/03/toilets-top-of-residents-list-in-21-5m-pride-in-place-survey/
+  title: Toilets top of residents' list in £21.5m Pride in Place survey
+  day: '2026-11-03'
 - url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
   title: New litter bins appear in Hastings under Pride in Place funding
   day: '2026-10-29'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
-- url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
-  title: Hastings to receive £1m from the government's derelict buildings fund
-  day: '2026-10-28'
 ---
 {% raw %}
 Residents have called for the disused public toilets site in Harold Place, Hastings town centre, to be put to use, after stormy weather left a trail of debris at the site, the Observer reported.

@@ -58,6 +58,9 @@ related:
 - url: /2026/10/27/173-residents-urge-hastings-mp-to-publicly-oppose-rosebank-oil-field/
   title: 173 residents urge Hastings MP to publicly oppose Rosebank oil field
   day: '2026-10-27'
+- url: /2026/11/03/toilets-top-of-residents-list-in-21-5m-pride-in-place-survey/
+  title: Toilets top of residents' list in £21.5m Pride in Place survey
+  day: '2026-11-03'
 ---
 {% raw %}
 Eight residents of Hastings, Bexhill and St Leonards who were arrested under the Terrorism Act have sent an open letter to Helena Dollimore MP, renewing their call for her to meet them on film to defend her vote to ban Palestine Action, according to the Hastings Online Times.

@@ -48,15 +48,15 @@ image:
   default: false
 checked: '2026-10-29T08:02:06+00:00'
 related:
+- url: /2026/11/03/toilets-top-of-residents-list-in-21-5m-pride-in-place-survey/
+  title: Toilets top of residents' list in £21.5m Pride in Place survey
+  day: '2026-11-03'
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
   title: Hastings to receive £1m from the government's derelict buildings fund
   day: '2026-10-28'
-- url: /2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/
-  title: Developers reveal bid to build 120 new Hastings homes
-  day: '2026-11-02'
 ---
 {% raw %}
 New litter bins are being installed around Hastings as part of the government's Pride in Place scheme, which saw the town awarded £20 million.
