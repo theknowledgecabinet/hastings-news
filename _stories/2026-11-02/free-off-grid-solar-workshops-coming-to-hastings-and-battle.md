@@ -57,6 +57,9 @@ related:
 - url: /2026/10/28/local-energy-advice-service-backs-campaign-to-save-radio-4-s-you-and/
   title: Local energy advice service backs campaign to save Radio 4's You and Yours
   day: '2026-10-28'
+- url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
+  title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
+  day: '2026-11-03'
 ---
 {% raw %}
 Energise Sussex Coast, a local community benefit society, is holding free workshops on off-grid solar power in Hastings and Battle this month. The sessions are aimed at anyone who wants to build a small, fully off-grid solar system for a shed, workshop, van or truck, and no technical background is needed.

@@ -55,9 +55,9 @@ related:
 - url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
   title: Leaders of three councils urge government to raise Local Housing Allowance
   day: '2026-10-27'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
+- url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
+  title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
+  day: '2026-11-03'
 ---
 {% raw %}
 Catesby Estates and Rurban Estates have revealed a bid to build about 120 new homes in Hastings.

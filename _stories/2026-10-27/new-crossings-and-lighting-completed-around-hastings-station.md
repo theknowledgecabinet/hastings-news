@@ -46,15 +46,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Front_of_Hastings_Station_-_geograph.org.uk_-_1751004.jpg
   default: false
 related:
+- url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
+  title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
+  day: '2026-11-03'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
   title: Hastings Castle to get £288,500 from Historic England for repairs
   day: '2026-10-25'
-- url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
-  title: New litter bins appear in Hastings under Pride in Place funding
-  day: '2026-10-29'
 ---
 {% raw %}
 The improvement works around Hastings railway station have been completed, East Sussex County Council has said.

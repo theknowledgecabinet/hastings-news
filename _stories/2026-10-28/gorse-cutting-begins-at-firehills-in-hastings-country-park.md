@@ -49,6 +49,9 @@ image:
   default: false
 checked: '2026-10-28T19:05:17+00:00'
 related:
+- url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
+  title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
+  day: '2026-11-03'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'

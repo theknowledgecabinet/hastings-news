@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-10-27T09:14:07+00:00'
 related:
+- url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
+  title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
+  day: '2026-11-03'
 - url: /2026/10/29/hastings-business-group-welcomes-budget-rates-relief-package/
   title: Hastings business group welcomes Budget rates relief package
   day: '2026-10-29'
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
-- url: /2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/
-  title: Developers reveal bid to build 120 new Hastings homes
-  day: '2026-11-02'
 ---
 {% raw %}
 Councillors in Hastings, Lewes and Eastbourne have asked the government to raise the housing benefit rates that help people pay private rents.

@@ -59,9 +59,9 @@ related:
 - url: /2026/10/29/hastings-business-group-welcomes-budget-rates-relief-package/
   title: Hastings business group welcomes Budget rates relief package
   day: '2026-10-29'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
+- url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
+  title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
+  day: '2026-11-03'
 ---
 {% raw %}
 A new free business support pilot will reach independent shops and businesses in selected East Sussex high streets, including Hastings Old Town and Rye, the county council said.
