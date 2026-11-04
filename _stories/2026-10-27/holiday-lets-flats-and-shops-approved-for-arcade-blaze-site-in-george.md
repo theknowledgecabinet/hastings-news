@@ -60,12 +60,12 @@ related:
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
+- url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
+  title: Work begins on 27 'luxury flats' development in St Leonards
+  day: '2026-11-04'
 - url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
   title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
   day: '2026-10-21'
-- url: /2026/10/23/police-secure-closure-order-for-hastings-property/
-  title: Police secure closure order for Hastings property
-  day: '2026-10-23'
 ---
 {% raw %}
 Hastings Borough Council has approved plans for 20 flats, six holiday lets and four commercial units on the site of the former amusement arcade in George Street, Old Town, which was destroyed in a fire in January 2023.

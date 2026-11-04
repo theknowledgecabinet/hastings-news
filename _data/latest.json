@@ -2,7 +2,7 @@
  "day": "2026-11-04",
  "label": "Wednesday 4 November 2026",
  "issue": 15,
- "edition_label": "Midday edition",
+ "edition_label": "Evening edition",
  "forecast": [
   {
    "day": "2026-11-04",
@@ -85,30 +85,50 @@
     "sunset": "16:27",
     "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the east, gusting 32 mph. Sunrise 06:54, sunset 16:27."
    }
+  },
+  {
+   "name": "evening",
+   "label": "Evening edition",
+   "weather": {
+    "day": "2026-11-05",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 10,
+    "low": 6,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
+    "wind": 10,
+    "gusts": 21,
+    "direction": "north-easterly",
+    "sunrise": "06:56",
+    "sunset": "16:25",
+    "summary": "Cloudy. A high of 10°C and a low of 6°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
+   }
   }
  ],
  "weather": {
-  "day": "2026-11-04",
+  "day": "2026-11-05",
   "code": 3,
   "words": "cloudy",
   "icon": "☁️",
   "high": 10,
-  "low": 8,
+  "low": 6,
   "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 15,
-  "gusts": 32,
-  "direction": "easterly",
-  "sunrise": "06:54",
-  "sunset": "16:27",
-  "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the east, gusting 32 mph. Sunrise 06:54, sunset 16:27."
+  "wind": 10,
+  "gusts": 21,
+  "direction": "north-easterly",
+  "sunrise": "06:56",
+  "sunset": "16:25",
+  "summary": "Cloudy. A high of 10°C and a low of 6°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
  },
  "briefing": {
-  "day": "2026-11-03",
-  "url": "/assets/podcast/2026-11-03.mp3",
-  "seconds": 865,
-  "bytes": 3461900,
-  "length": "14 min"
+  "day": "2026-11-04",
+  "url": "/assets/podcast/2026-11-04.mp3",
+  "seconds": 706,
+  "bytes": 2826092,
+  "length": "12 min"
  },
  "otd": {
   "day": "2026-11-03",

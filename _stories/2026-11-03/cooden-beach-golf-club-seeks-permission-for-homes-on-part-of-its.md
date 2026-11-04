@@ -52,6 +52,9 @@ related:
 - url: /2026/10/31/iden-s-the-bell-pub-moves-closer-to-reopening-after-plans-submitted/
   title: Iden's The Bell pub moves closer to reopening after plans submitted
   day: '2026-10-31'
+- url: /2026/11/04/council-to-seek-group-to-take-lease-of-hollington-community-centre/
+  title: Council to seek group to take lease of Hollington Community Centre
+  day: '2026-11-04'
 ---
 {% raw %}
 Cooden Beach Golf Club is seeking planning permission to build housing on part of its course on Cooden Sea Road, according to an application to Rother District Council.

@@ -59,9 +59,9 @@ related:
 - url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
   title: Leaders of three councils urge government to raise Local Housing Allowance
   day: '2026-10-27'
-- url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
-  title: New crossings and lighting completed around Hastings station
-  day: '2026-10-27'
+- url: /2026/11/04/council-to-seek-group-to-take-lease-of-hollington-community-centre/
+  title: Council to seek group to take lease of Hollington Community Centre
+  day: '2026-11-04'
 ---
 {% raw %}
 The Government has announced it is minded to proceed with local government reorganisation in East Sussex, Hastings Borough Council has said.
