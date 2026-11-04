@@ -3,6 +3,7 @@ layout: story
 title: Hastings Castle to get £288,500 from Historic England for repairs
 permalink: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
 date: 2026-10-25 07:00:00 +0000
+updated: '2026-11-04T12:47:52+00:00'
 sid: 5
 day: '2026-10-25'
 edition: morning
@@ -24,6 +25,13 @@ what_next: The council said the repairs will proceed while permissions for the w
 sources:
 - url: https://www.hastings.gov.uk/news/latest/funding-boost-hastings-castle/
   name: Hastings Borough Council
+updates:
+- date: '2026-11-04T12:47:52+00:00'
+  edition: midday
+  text: Following the £288,500 Historic England award and a £200,000 contribution from the council, the first phase of conservation works at Hastings Castle has begun, with specialist contractors removing vegetation from sections of the castle walls and the motte. The works are due to be completed by 16 November.
+  sources:
+  - url: https://www.hastings.gov.uk/news/latest/Hastings-Castle-conservation-works-begin/
+    name: Hastings Borough Council
 image:
   card:
     url: /assets/media/story/5/card.webp
