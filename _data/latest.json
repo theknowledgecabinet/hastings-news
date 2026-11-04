@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-11-03",
-   "code": 53,
-   "words": "drizzle",
-   "icon": "🌦️",
-   "high": 11,
-   "low": 8,
-   "rain_chance": 65,
-   "rain_mm": 3.1,
-   "wind": 16,
-   "gusts": 33,
-   "direction": "north-easterly",
-   "sunrise": "06:52",
-   "sunset": "16:29",
-   "summary": "Drizzle likely. A high of 11°C and a low of 8°C, a moderate breeze from the north east, gusting 33 mph. Sunrise 06:52, sunset 16:29.",
-   "label": "Today",
-   "weekday": "Tue 3 Nov",
-   "long": "Tuesday 3 November"
-  },
-  {
    "day": "2026-11-04",
    "code": 3,
    "words": "cloudy",
@@ -38,13 +19,32 @@
    "sunrise": "06:54",
    "sunset": "16:27",
    "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the east, gusting 32 mph. Sunrise 06:54, sunset 16:27.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Wed 4 Nov",
    "long": "Wednesday 4 November"
+  },
+  {
+   "day": "2026-11-05",
+   "code": 51,
+   "words": "light drizzle",
+   "icon": "🌦️",
+   "high": 10,
+   "low": 6,
+   "rain_chance": 0,
+   "rain_mm": 0.1,
+   "wind": 11,
+   "gusts": 23,
+   "direction": "north-easterly",
+   "sunrise": "06:56",
+   "sunset": "16:25",
+   "summary": "Light drizzle possible (0% chance). A high of 10°C and a low of 6°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25.",
+   "label": "Tomorrow",
+   "weekday": "Thu 5 Nov",
+   "long": "Thursday 5 November"
   }
  ],
- "today_label": "Tuesday 3 November 2026",
- "today_short": "Tue 3 Nov",
+ "today_label": "Wednesday 4 November 2026",
+ "today_short": "Wed 4 Nov",
  "editions": [
   {
    "name": "morning",
