@@ -53,15 +53,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Local_Government_offices_overlooking_the_bypass_-_geograph.org.uk_-_1792657.jpg
   default: false
 related:
+- url: /2026/11/04/devolution-measures-to-bring-8m-to-sussex-and-brighton/
+  title: Devolution measures to bring £8m to Sussex and Brighton
+  day: '2026-11-04'
 - url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
   title: Leaders of three councils urge government to raise Local Housing Allowance
   day: '2026-10-27'
 - url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
   title: New crossings and lighting completed around Hastings station
   day: '2026-10-27'
-- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
-  title: Hastings council to consider Age Friendly strategy for older residents
-  day: '2026-11-04'
 ---
 {% raw %}
 The Government has announced it is minded to proceed with local government reorganisation in East Sussex, Hastings Borough Council has said.
