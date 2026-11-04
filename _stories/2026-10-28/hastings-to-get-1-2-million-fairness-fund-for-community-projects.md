@@ -56,9 +56,9 @@ related:
 - url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
   title: New litter bins appear in Hastings under Pride in Place funding
   day: '2026-10-29'
-- url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
-  title: Hastings Castle to get £288,500 from Historic England for repairs
-  day: '2026-10-25'
+- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
+  title: Hastings council to consider Age Friendly strategy for older residents
+  day: '2026-11-04'
 ---
 {% raw %}
 Hastings Borough Council has launched The Fairness Fund, a £1.2 million programme to support community-led projects that improve opportunities, health and wellbeing in the parts of the town where funding is needed most.

@@ -51,6 +51,9 @@ related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
+- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
+  title: Hastings council to consider Age Friendly strategy for older residents
+  day: '2026-11-04'
 ---
 {% raw %}
 A new autumn ritual called 'Dusking' has reached the Hastings seafront, bringing morris dancing to the town's darkening days.

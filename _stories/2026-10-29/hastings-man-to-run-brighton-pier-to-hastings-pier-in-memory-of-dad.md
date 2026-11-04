@@ -50,6 +50,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:The_lonliness_of_the_long-distance_runner(s)_-_geograph.org.uk_-_1227468.jpg
   default: false
 checked: '2026-10-29T19:30:29+00:00'
+related:
+- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
+  title: Hastings council to consider Age Friendly strategy for older residents
+  day: '2026-11-04'
 ---
 {% raw %}
 Conor O'Brien from Hastings has organised a 75km run from Brighton Pier to Hastings Pier in memory of his father.

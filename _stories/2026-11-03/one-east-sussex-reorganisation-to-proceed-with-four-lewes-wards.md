@@ -59,9 +59,9 @@ related:
 - url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
   title: New crossings and lighting completed around Hastings station
   day: '2026-10-27'
-- url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
-  title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
-  day: '2026-10-21'
+- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
+  title: Hastings council to consider Age Friendly strategy for older residents
+  day: '2026-11-04'
 ---
 {% raw %}
 The Government has announced it is minded to proceed with local government reorganisation in East Sussex, Hastings Borough Council has said.
