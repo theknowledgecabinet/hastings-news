@@ -9,7 +9,7 @@
    "code": 3,
    "words": "cloudy",
    "icon": "☁️",
-   "high": 10,
+   "high": 9,
    "low": 8,
    "rain_chance": 0,
    "rain_mm": 0.0,
@@ -18,7 +18,7 @@
    "direction": "north-easterly",
    "sunrise": "06:56",
    "sunset": "16:25",
-   "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25.",
+   "summary": "Cloudy. A high of 9°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25.",
    "label": "Today",
    "weekday": "Thu 5 Nov",
    "long": "Thursday 5 November"
