@@ -27,23 +27,27 @@ sources:
 comment: Is the convent, which the plan itself describes as nationally important, being traded for density, or can it keep both? With the 12 November deadline approaching, the answer will shape the site for a generation.
 image:
   card:
-    url: /assets/media/abstract/story-107/card.webp
+    url: /assets/media/story/107/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-107/medium.webp
-    w: 800
-    h: 533
+    url: /assets/media/story/107/medium.webp
+    w: 640
+    h: 427
   large:
-    url: /assets/media/abstract/story-107/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/107/large.webp
+    w: 640
+    h: 427
   share:
-    url: /assets/media/abstract/story-107/share.jpg
-  color: '#154a59'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/107/share.jpg
+  color: '#84847b'
+  alt: Former Convent of Holy Child Jesus
+  artist: Oast House Archive
+  match: exact
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Former_Convent_of_Holy_Child_Jesus_-_geograph.org.uk_-_2849925.jpg
+  default: false
 related:
 - url: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
   title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
