@@ -2,7 +2,7 @@
  "day": "2026-11-05",
  "label": "Thursday 5 November 2026",
  "issue": 16,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-05",
@@ -65,6 +65,26 @@
     "sunset": "16:25",
     "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-05",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 10,
+    "low": 7,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
+    "wind": 10,
+    "gusts": 20,
+    "direction": "north-easterly",
+    "sunrise": "06:56",
+    "sunset": "16:25",
+    "summary": "Cloudy. A high of 10°C and a low of 7°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
+   }
   }
  ],
  "weather": {
@@ -73,7 +93,7 @@
   "words": "cloudy",
   "icon": "☁️",
   "high": 10,
-  "low": 8,
+  "low": 7,
   "rain_chance": 0,
   "rain_mm": 0.0,
   "wind": 10,
@@ -81,7 +101,7 @@
   "direction": "north-easterly",
   "sunrise": "06:56",
   "sunset": "16:25",
-  "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
+  "summary": "Cloudy. A high of 10°C and a low of 7°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
  },
  "briefing": {
   "day": "2026-11-04",

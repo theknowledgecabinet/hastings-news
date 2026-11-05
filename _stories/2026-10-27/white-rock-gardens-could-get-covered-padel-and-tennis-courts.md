@@ -3,6 +3,7 @@ layout: story
 title: White Rock Gardens could get covered padel and tennis courts
 permalink: /2026/10/27/white-rock-gardens-could-get-covered-padel-and-tennis-courts/
 date: 2026-10-27 12:46:07 +0000
+updated: '2026-11-05T13:47:17+00:00'
 sid: 28
 day: '2026-10-27'
 edition: midday
@@ -22,6 +23,19 @@ description: Hastings Borough Council says it is being considered to receive £1
 sources:
 - url: https://www.hastings.gov.uk/news/latest/funding-padel-white-rock-gardens/
   name: Hastings Borough Council
+updates:
+- date: '2026-11-05T13:47:17+00:00'
+  edition: midday
+  text: 'Hastings Borough Council has announced it is in line to receive £1.3million of investment funding to construct a new covered tennis and padel centre, with a projected overall cost of £1.8million and the council pledging £500,000 match funding.
+
+
+    The £1.3million would comprise £1million from the Department for Culture, Media and Sport via Sport England and £300,000 from the Lawn Tennis Association''s Tennis Foundation, with the deal still being ''considered'' by the LTA, the Hastings Independent Press reported.
+
+
+    A complex of three tennis courts and three padel courts would be built, at least partly on land currently used for bowls, following what the council described as high demand for the two temporary ''pop-up'' padel courts installed this summer.'
+  sources:
+  - url: https://www.hastingsindependentpress.co.uk/articles/sport/tennis-padel-rackets-for-bowls-at-white-rock-gardens/
+    name: Hastings Independent Press
 image:
   card:
     url: /assets/media/story/28/card.webp
