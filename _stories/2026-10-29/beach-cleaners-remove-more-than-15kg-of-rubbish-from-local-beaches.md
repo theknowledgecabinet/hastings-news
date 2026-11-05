@@ -57,6 +57,9 @@ related:
 - url: /2026/10/27/appeal-for-information-after-quad-bikes-stolen-from-nurdle-charity/
   title: Appeal for information after quad bikes stolen from Nurdle charity
   day: '2026-10-27'
+- url: /2026/11/05/man-pleads-guilty-to-shoplifting-across-hastings-and-rother/
+  title: Man pleads guilty to shoplifting across Hastings and Rother
+  day: '2026-11-05'
 ---
 {% raw %}
 The Strandliners ecology group has collected more than 15 kilogrammes of plastic and rubbish from beaches at Hastings, Bexhill and Pett Level this year.

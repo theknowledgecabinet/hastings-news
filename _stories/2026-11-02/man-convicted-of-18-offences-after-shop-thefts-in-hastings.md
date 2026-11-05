@@ -50,6 +50,9 @@ image:
   default: false
 checked: '2026-11-02T19:25:10+00:00'
 related:
+- url: /2026/11/05/man-pleads-guilty-to-shoplifting-across-hastings-and-rother/
+  title: Man pleads guilty to shoplifting across Hastings and Rother
+  day: '2026-11-05'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
