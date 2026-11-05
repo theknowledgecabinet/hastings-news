@@ -48,6 +48,9 @@ image:
   default: false
 checked: '2026-10-27T05:49:40+00:00'
 related:
+- url: /2026/11/05/from-hastings-to-the-royal-albert-hall-count-us-in-set-to-perform/
+  title: 'From Hastings to the Royal Albert Hall: Count Us IN set to perform'
+  day: '2026-11-05'
 - url: /2026/10/25/hastings-philharmonic-choir-to-sing-schubert-and-saint-saens/
   title: Hastings Philharmonic Choir to sing Schubert and Saint-Saëns
   day: '2026-10-25'

@@ -48,6 +48,9 @@ image:
   default: false
 checked: '2026-10-26T18:21:29+00:00'
 related:
+- url: /2026/11/05/from-hastings-to-the-royal-albert-hall-count-us-in-set-to-perform/
+  title: 'From Hastings to the Royal Albert Hall: Count Us IN set to perform'
+  day: '2026-11-05'
 - url: /2026/10/22/alabama-3-acoustic-show-at-st-leonard-s-church/
   title: Alabama 3 acoustic show at St Leonard's Church
   day: '2026-10-22'

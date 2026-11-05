@@ -48,9 +48,15 @@ image:
   default: false
 checked: '2026-11-02T13:09:48+00:00'
 related:
+- url: /2026/11/05/hastings-care-home-rated-good-across-all-five-cqc-areas/
+  title: Hastings care home rated 'Good' across all five CQC areas
+  day: '2026-11-05'
 - url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
   title: Hastings council to consider Age Friendly strategy for older residents
   day: '2026-11-04'
+- url: /2026/11/05/bexhill-family-featured-in-chestnut-tree-house-hospice-film/
+  title: Bexhill family featured in Chestnut Tree House hospice film
+  day: '2026-11-05'
 ---
 {% raw %}
 Elizabeth Court Rest Home in Hastings Road, Bexhill, has won the Pet Friendly Care Home Award for 2026. The home, which provides residential care for older people, lets its residents bring their own pets with them when they move in.

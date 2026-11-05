@@ -46,15 +46,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Front_of_Hastings_Station_-_geograph.org.uk_-_1751004.jpg
   default: false
 related:
+- url: /2026/11/05/hastings-care-home-rated-good-across-all-five-cqc-areas/
+  title: Hastings care home rated 'Good' across all five CQC areas
+  day: '2026-11-05'
 - url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
   title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
   day: '2026-11-03'
 - url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
   title: Free parking at Hastings council car parks in December
   day: '2026-11-03'
-- url: /2026/10/23/police-secure-closure-order-for-hastings-property/
-  title: Police secure closure order for Hastings property
-  day: '2026-10-23'
 ---
 {% raw %}
 The improvement works around Hastings railway station have been completed, East Sussex County Council has said.

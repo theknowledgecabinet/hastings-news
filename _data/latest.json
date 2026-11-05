@@ -1,8 +1,8 @@
 {
- "day": "2026-11-04",
- "label": "Wednesday 4 November 2026",
- "issue": 15,
- "edition_label": "Evening edition",
+ "day": "2026-11-05",
+ "label": "Thursday 5 November 2026",
+ "issue": 16,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-05",
@@ -50,60 +50,20 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-04",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 10,
-    "low": 8,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 16,
-    "gusts": 34,
-    "direction": "easterly",
-    "sunrise": "06:54",
-    "sunset": "16:27",
-    "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the east, gusting 34 mph. Sunrise 06:54, sunset 16:27."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-04",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 10,
-    "low": 8,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 15,
-    "gusts": 32,
-    "direction": "easterly",
-    "sunrise": "06:54",
-    "sunset": "16:27",
-    "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the east, gusting 32 mph. Sunrise 06:54, sunset 16:27."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-05",
     "code": 3,
     "words": "cloudy",
     "icon": "☁️",
     "high": 10,
-    "low": 6,
+    "low": 8,
     "rain_chance": 0,
     "rain_mm": 0.0,
     "wind": 10,
-    "gusts": 21,
+    "gusts": 20,
     "direction": "north-easterly",
     "sunrise": "06:56",
     "sunset": "16:25",
-    "summary": "Cloudy. A high of 10°C and a low of 6°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
+    "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
    }
   }
  ],
@@ -113,15 +73,15 @@
   "words": "cloudy",
   "icon": "☁️",
   "high": 10,
-  "low": 6,
+  "low": 8,
   "rain_chance": 0,
   "rain_mm": 0.0,
   "wind": 10,
-  "gusts": 21,
+  "gusts": 20,
   "direction": "north-easterly",
   "sunrise": "06:56",
   "sunset": "16:25",
-  "summary": "Cloudy. A high of 10°C and a low of 6°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
+  "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
  },
  "briefing": {
   "day": "2026-11-04",
@@ -137,6 +97,11 @@
   "title": "This week in 1896: first moving pictures shown on St Leonards Pier"
  },
  "days": [
+  {
+   "day": "2026-11-05",
+   "url": "/2026/11/05/",
+   "label": "Thu 5 Nov"
+  },
   {
    "day": "2026-11-04",
    "url": "/2026/11/04/",
@@ -201,11 +166,6 @@
    "day": "2026-10-23",
    "url": "/2026/10/23/",
    "label": "Fri 23 Oct"
-  },
-  {
-   "day": "2026-10-22",
-   "url": "/2026/10/22/",
-   "label": "Thu 22 Oct"
   }
  ]
 }
