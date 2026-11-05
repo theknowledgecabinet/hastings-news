@@ -47,6 +47,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:The_council_chamber_in_Swansea_Guildhall_-_geograph.org.uk_-_1491171.jpg
   default: false
 checked: '2026-10-27T05:48:45+00:00'
+related:
+- url: /2026/11/05/labour-ends-cooperation-with-greens-on-11-councils/
+  title: Labour ends cooperation with Greens on 11 councils
+  day: '2026-11-05'
 ---
 {% raw %}
 The chair of Hastings Greens, Justin Lee Wynne, resigned his post and cancelled his party membership on Friday, citing an internal dispute over alleged bullying and his 'deeply uncomfortable' reaction to the national party's October 4 conference vote declaring the party 'anti-Zionist' and labelling Zionism as racism, the Hastings Independent Press reported.

@@ -50,6 +50,9 @@ image:
   default: false
 checked: '2026-11-04T12:48:39+00:00'
 related:
+- url: /2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/
+  title: Sculptor Leigh Dyer's steel fins go on sale at At Sea
+  day: '2026-11-05'
 - url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
   title: New litter bins appear in Hastings under Pride in Place funding
   day: '2026-10-29'
