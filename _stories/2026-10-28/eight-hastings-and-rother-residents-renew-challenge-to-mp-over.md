@@ -58,8 +58,8 @@ related:
 - url: /2026/10/27/173-residents-urge-hastings-mp-to-publicly-oppose-rosebank-oil-field/
   title: 173 residents urge Hastings MP to publicly oppose Rosebank oil field
   day: '2026-10-27'
-- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
-  title: Have your say on renewal of five gated paths in Hastings and St Leonards
+- url: /2026/11/06/mp-joins-launch-of-hastings-st-leonards-poppy-appeal/
+  title: MP joins launch of Hastings & St Leonards Poppy Appeal
   day: '2026-11-06'
 ---
 {% raw %}

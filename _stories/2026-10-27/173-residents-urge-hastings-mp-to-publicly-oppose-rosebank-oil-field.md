@@ -52,6 +52,9 @@ related:
 - url: /2026/10/28/eight-hastings-and-rother-residents-renew-challenge-to-mp-over/
   title: Eight Hastings and Rother residents renew challenge to MP over Palestine Action ban
   day: '2026-10-28'
+- url: /2026/11/06/mp-joins-launch-of-hastings-st-leonards-poppy-appeal/
+  title: MP joins launch of Hastings & St Leonards Poppy Appeal
+  day: '2026-11-06'
 - url: /2026/11/03/toilets-top-of-residents-list-in-21-5m-pride-in-place-survey/
   title: Toilets top of residents' list in £21.5m Pride in Place survey
   day: '2026-11-03'

@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 06 Nov 2026 12:55:13 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 19:17:07 +0000</lastBuildDate>
+  <item>
+    <title>MP joins launch of Hastings &amp; St Leonards Poppy Appeal</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/mp-joins-launch-of-hastings-st-leonards-poppy-appeal/</link>
+    <guid isPermaLink="false">story-125</guid>
+    <pubDate>Fri, 06 Nov 2026 19:17:07 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Helena Dollimore, the MP for Hastings, Rye and the villages, has joined veterans and volunteers at the launch of this year&#x27;s Hastings &amp; St Leonards Poppy Appeal, held in Tesco, raising money for veterans and their families.</description>
+  </item>
   <item>
     <title>Ada the Asda car park fox has been relocated to a safer home</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/ada-the-asda-car-park-fox-has-been-relocated-to-a-safer-home/</link>
@@ -398,14 +406,6 @@
     <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The Hastings Philharmonic Choir&#x27;s next concert, Songs of Light, brings two choral masterpieces to All Saints Church in the Old Town on Saturday 7 November.</description>
-  </item>
-  <item>
-    <title>Gruffalo parade to close Hastings Storytelling Festival on the Stade</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/25/gruffalo-parade-to-close-hastings-storytelling-festival-on-the-stade/</link>
-    <guid isPermaLink="false">story-7</guid>
-    <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Hastings Storytelling Festival comes to a close on Sunday, October 25, with a free Children&#x27;s Day on the Stade and a Gruffalo themed parade through the Old Town.</description>
   </item>
 </channel>
 </rss>
