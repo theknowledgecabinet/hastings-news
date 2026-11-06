@@ -55,9 +55,9 @@ related:
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
-- url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
-  title: Free parking at Hastings council car parks in December
-  day: '2026-11-03'
+- url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
+  title: Call for interest in future use of Sandhurst Recreation Ground
+  day: '2026-11-06'
 ---
 {% raw %}
 The deadline for the public to comment on the Hastings Borough Council's Draft Local Plan is Thursday 12 November, and one of the most argued-over parts of it is what happens to the Convent of the Holy Child Jesus in Lower Bohemia.

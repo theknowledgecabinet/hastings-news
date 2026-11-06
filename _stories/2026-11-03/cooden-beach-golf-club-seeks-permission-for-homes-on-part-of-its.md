@@ -49,12 +49,15 @@ image:
   default: false
 checked: '2026-11-03T07:50:19+00:00'
 related:
+- url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
+  title: Call for interest in future use of Sandhurst Recreation Ground
+  day: '2026-11-06'
+- url: /2026/11/06/plans-for-up-to-125-homes-at-robertsbridge-mill-site/
+  title: Plans for up to 125 homes at Robertsbridge mill site
+  day: '2026-11-06'
 - url: /2026/10/31/iden-s-the-bell-pub-moves-closer-to-reopening-after-plans-submitted/
   title: Iden's The Bell pub moves closer to reopening after plans submitted
   day: '2026-10-31'
-- url: /2026/11/04/council-to-seek-group-to-take-lease-of-hollington-community-centre/
-  title: Council to seek group to take lease of Hollington Community Centre
-  day: '2026-11-04'
 ---
 {% raw %}
 Cooden Beach Golf Club is seeking planning permission to build housing on part of its course on Cooden Sea Road, according to an application to Rother District Council.

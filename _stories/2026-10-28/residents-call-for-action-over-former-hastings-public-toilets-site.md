@@ -52,12 +52,12 @@ related:
 - url: /2026/11/03/toilets-top-of-residents-list-in-21-5m-pride-in-place-survey/
   title: Toilets top of residents' list in £21.5m Pride in Place survey
   day: '2026-11-03'
+- url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
+  title: Call for interest in future use of Sandhurst Recreation Ground
+  day: '2026-11-06'
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
-- url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
-  title: New litter bins appear in Hastings under Pride in Place funding
-  day: '2026-10-29'
 ---
 {% raw %}
 Residents have called for the disused public toilets site in Harold Place, Hastings town centre, to be put to use, after stormy weather left a trail of debris at the site, the Observer reported.
