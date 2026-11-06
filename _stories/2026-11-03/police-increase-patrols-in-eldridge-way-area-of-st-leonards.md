@@ -54,9 +54,9 @@ related:
 - url: /2026/11/02/residents-brand-st-leonards-metal-supports-an-eyesore/
   title: Residents brand St Leonards metal supports an 'eyesore'
   day: '2026-11-02'
-- url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
-  title: Police launch Safer Town Centres campaign and new ASB powers
-  day: '2026-10-28'
+- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
+  title: Have your say on renewal of five gated paths in Hastings and St Leonards
+  day: '2026-11-06'
 ---
 {% raw %}
 Police said they are increasing patrols in and around Eldridge Way, St Leonards, near The Ridge, following reports of anti-social behaviour from local residents.

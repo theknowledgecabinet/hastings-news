@@ -48,6 +48,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Pumpkin_patch_-_geograph.org.uk_-_5516905.jpg
   default: false
 checked: '2026-10-30T07:51:29+00:00'
+related:
+- url: /2026/11/06/hole-park-near-rye-promises-a-top-christmas-tree-crop-after-summer/
+  title: Hole Park near Rye promises a top Christmas tree crop after summer drought
+  day: '2026-11-06'
 ---
 {% raw %}
 Pumpkin growers in Rye and the Sompting area near Lancing say they have produced a strong Halloween harvest, despite what the BBC described as the UK's hottest summer on record.

@@ -54,6 +54,9 @@ related:
 - url: /2026/10/27/bexhill-seafront-fountain-replacement-reaches-procurement-stage/
   title: Bexhill seafront fountain replacement reaches procurement stage
   day: '2026-10-27'
+- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
+  title: Have your say on renewal of five gated paths in Hastings and St Leonards
+  day: '2026-11-06'
 ---
 {% raw %}
 The reopening of the Marina Pavilion on the St Leonards seafront has been delayed amid a row over council repair demands.

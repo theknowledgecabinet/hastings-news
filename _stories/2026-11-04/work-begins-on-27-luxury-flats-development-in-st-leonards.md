@@ -50,12 +50,12 @@ related:
 - url: /2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/
   title: Developers reveal bid to build 120 new Hastings homes
   day: '2026-11-02'
+- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
+  title: Have your say on renewal of five gated paths in Hastings and St Leonards
+  day: '2026-11-06'
 - url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
   title: New litter bins appear in Hastings under Pride in Place funding
   day: '2026-10-29'
-- url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
-  title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
-  day: '2026-10-21'
 ---
 {% raw %}
 Work has started on a scheme of 27 flats in St Leonards. Scaffolding is going up and the first foundations are being built on a West Hill Road site, according to the Hastings Observer.

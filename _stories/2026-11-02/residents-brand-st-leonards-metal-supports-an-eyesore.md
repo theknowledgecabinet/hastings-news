@@ -53,9 +53,9 @@ related:
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
-- url: /2026/11/03/former-st-leonards-church-becomes-community-hub-with-weekly-market/
-  title: Former St Leonards church becomes community hub with weekly market
-  day: '2026-11-03'
+- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
+  title: Have your say on renewal of five gated paths in Hastings and St Leonards
+  day: '2026-11-06'
 ---
 {% raw %}
 Residents have branded large metal supports in St Leonards an 'eyesore'.

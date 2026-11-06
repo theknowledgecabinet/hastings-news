@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 05 Nov 2026 19:52:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 08:21:12 +0000</lastBuildDate>
+  <item>
+    <title>Seagull artist&#x27;s gull-version masterpieces on show in Crown pub</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/seagull-artist-s-gull-version-masterpieces-on-show-in-crown-pub/</link>
+    <guid isPermaLink="false">story-120</guid>
+    <pubDate>Fri, 06 Nov 2026 08:21:12 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings artist Bill Greenhead, known for his cartoon-style paintings of chip-stealing seagulls, has an exhibition in the Snug bar of the Crown in Hastings Old Town.</description>
+  </item>
   <item>
     <title>Sculptor Leigh Dyer&#x27;s steel fins go on sale at At Sea</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/</link>
@@ -398,14 +406,6 @@
     <pubDate>Fri, 23 Oct 2026 07:00:00 +0100</pubDate>
     <category>Community &amp; people</category>
     <description>A Hastings mother has won a national award for her campaign to make the roads safer, following the death of her son in a road accident.</description>
-  </item>
-  <item>
-    <title>Alabama 3 acoustic show at St Leonard&#x27;s Church</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/22/alabama-3-acoustic-show-at-st-leonard-s-church/</link>
-    <guid isPermaLink="false">story-16</guid>
-    <pubDate>Thu, 22 Oct 2026 07:00:00 +0100</pubDate>
-    <category>Community &amp; people</category>
-    <description>Alabama 3 are bringing their acoustic show to St Leonard&#x27;s Church, St Leonards-on-Sea, on Saturday 14 November, the Hastings Independent Press reported.</description>
   </item>
 </channel>
 </rss>

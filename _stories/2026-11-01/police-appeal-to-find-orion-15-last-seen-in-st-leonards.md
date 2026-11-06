@@ -56,6 +56,9 @@ image:
   page: https://commons.wikimedia.org/wiki/File:St_Leonards_Warrior_Square_railway_station_-_geograph.org.uk_-_2143824.jpg
   default: false
 related:
+- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
+  title: Have your say on renewal of five gated paths in Hastings and St Leonards
+  day: '2026-11-06'
 - url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
   title: Police increase patrols in Eldridge Way area of St Leonards
   day: '2026-11-03'

@@ -56,12 +56,12 @@ related:
 - url: /2026/10/29/hattrick-the-rescued-pigeon-is-on-the-road-to-recovery/
   title: Hattrick the rescued pigeon is on the road to recovery
   day: '2026-10-29'
+- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
+  title: Have your say on renewal of five gated paths in Hastings and St Leonards
+  day: '2026-11-06'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
-- url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
-  title: New litter bins appear in Hastings under Pride in Place funding
-  day: '2026-10-29'
 ---
 {% raw %}
 A new local campaign is calling for safer ways to manage birds around buildings after three incidents in which birds became trapped in netting.

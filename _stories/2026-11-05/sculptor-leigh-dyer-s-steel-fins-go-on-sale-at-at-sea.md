@@ -44,15 +44,15 @@ image:
   abstract: true
   default: true
 related:
+- url: /2026/11/06/seagull-artist-s-gull-version-masterpieces-on-show-in-crown-pub/
+  title: Seagull artist's gull-version masterpieces on show in Crown pub
+  day: '2026-11-06'
 - url: /2026/11/04/hastings-last-wooden-fishing-boat-felicity-to-be-restored-and/
   title: Hastings' last wooden fishing boat 'Felicity' to be restored and displayed in Rock-a-Nore
   day: '2026-11-04'
 - url: /2026/11/02/hastings-joins-in-the-dusking-morris-dancing-tradition/
   title: Hastings joins in the 'Dusking' morris-dancing tradition
   day: '2026-11-02'
-- url: /2026/10/29/hastings-butcher-releases-calendar-of-12-butchers-for-mental-health-uk/
-  title: Hastings butcher releases calendar of 12 butchers for Mental Health UK
-  day: '2026-10-29'
 ---
 {% raw %}
 The metal sculptor behind several well-known works around Hastings has opened a new line for sale at the At Sea gallery in the Old Town.

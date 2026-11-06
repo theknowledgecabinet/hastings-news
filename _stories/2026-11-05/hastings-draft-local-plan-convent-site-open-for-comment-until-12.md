@@ -52,12 +52,12 @@ related:
 - url: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
   title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
   day: '2026-10-30'
+- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
+  title: Have your say on renewal of five gated paths in Hastings and St Leonards
+  day: '2026-11-06'
 - url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
   title: Free parking at Hastings council car parks in December
   day: '2026-11-03'
-- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
-  title: Hastings council to consider Age Friendly strategy for older residents
-  day: '2026-11-04'
 ---
 {% raw %}
 The deadline for the public to comment on the Hastings Borough Council's Draft Local Plan is Thursday 12 November, and one of the most argued-over parts of it is what happens to the Convent of the Holy Child Jesus in Lower Bohemia.

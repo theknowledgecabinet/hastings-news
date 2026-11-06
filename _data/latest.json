@@ -1,8 +1,8 @@
 {
- "day": "2026-11-05",
- "label": "Thursday 5 November 2026",
- "issue": 16,
- "edition_label": "Evening edition",
+ "day": "2026-11-06",
+ "label": "Friday 6 November 2026",
+ "issue": 17,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-06",
@@ -50,78 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-05",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 10,
-    "low": 8,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 10,
-    "gusts": 20,
-    "direction": "north-easterly",
-    "sunrise": "06:56",
-    "sunset": "16:25",
-    "summary": "Cloudy. A high of 10°C and a low of 8°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-05",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
+    "day": "2026-11-06",
+    "code": 53,
+    "words": "drizzle",
+    "icon": "🌦️",
     "high": 10,
     "low": 7,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 10,
-    "gusts": 20,
-    "direction": "north-easterly",
-    "sunrise": "06:56",
-    "sunset": "16:25",
-    "summary": "Cloudy. A high of 10°C and a low of 7°C, a moderate breeze from the north east. Sunrise 06:56, sunset 16:25."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
-    "day": "2026-11-06",
-    "code": 51,
-    "words": "light drizzle",
-    "icon": "🌦️",
-    "high": 12,
-    "low": 8,
-    "rain_chance": 18,
-    "rain_mm": 0.2,
-    "wind": 5,
-    "gusts": 10,
+    "rain_chance": 51,
+    "rain_mm": 1.0,
+    "wind": 6,
+    "gusts": 12,
     "direction": "north-easterly",
     "sunrise": "06:58",
     "sunset": "16:24",
-    "summary": "Light drizzle possible (18% chance). A high of 12°C and a low of 8°C, light winds from the north east. Sunrise 06:58, sunset 16:24."
+    "summary": "Drizzle possible (51% chance). A high of 10°C and a low of 7°C, light winds from the north east. Sunrise 06:58, sunset 16:24."
    }
   }
  ],
  "weather": {
   "day": "2026-11-06",
-  "code": 51,
-  "words": "light drizzle",
+  "code": 53,
+  "words": "drizzle",
   "icon": "🌦️",
-  "high": 12,
-  "low": 8,
-  "rain_chance": 18,
-  "rain_mm": 0.2,
-  "wind": 5,
-  "gusts": 10,
+  "high": 10,
+  "low": 7,
+  "rain_chance": 51,
+  "rain_mm": 1.0,
+  "wind": 6,
+  "gusts": 12,
   "direction": "north-easterly",
   "sunrise": "06:58",
   "sunset": "16:24",
-  "summary": "Light drizzle possible (18% chance). A high of 12°C and a low of 8°C, light winds from the north east. Sunrise 06:58, sunset 16:24."
+  "summary": "Drizzle possible (51% chance). A high of 10°C and a low of 7°C, light winds from the north east. Sunrise 06:58, sunset 16:24."
  },
  "briefing": {
   "day": "2026-11-05",
@@ -137,6 +97,11 @@
   "title": "This week in 1896: first moving pictures shown on St Leonards Pier"
  },
  "days": [
+  {
+   "day": "2026-11-06",
+   "url": "/2026/11/06/",
+   "label": "Fri 6 Nov"
+  },
   {
    "day": "2026-11-05",
    "url": "/2026/11/05/",
@@ -201,11 +166,6 @@
    "day": "2026-10-24",
    "url": "/2026/10/24/",
    "label": "Sat 24 Oct"
-  },
-  {
-   "day": "2026-10-23",
-   "url": "/2026/10/23/",
-   "label": "Fri 23 Oct"
   }
  ]
 }
