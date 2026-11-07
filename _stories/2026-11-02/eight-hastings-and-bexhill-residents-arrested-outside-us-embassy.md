@@ -50,6 +50,9 @@ related:
 - url: /2026/10/28/eight-hastings-and-rother-residents-renew-challenge-to-mp-over/
   title: Eight Hastings and Rother residents renew challenge to MP over Palestine Action ban
   day: '2026-10-28'
+- url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
+  title: Police make 18 weekend arrests in Hastings and Rother
+  day: '2026-11-03'
 ---
 {% raw %}
 Eight residents of Hastings and Bexhill were arrested outside the US embassy in London on Saturday 31 October, the Hastings Online Times reported. The group was peacefully holding signs reading 'I oppose genocide. I support Palestine Action'.

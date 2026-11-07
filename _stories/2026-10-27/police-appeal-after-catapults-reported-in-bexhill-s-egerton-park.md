@@ -48,15 +48,15 @@ image:
   default: false
 checked: '2026-10-27T12:46:56+00:00'
 related:
+- url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/
+  title: Police appeal after car and horse rider incident in Bexhill
+  day: '2026-10-30'
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
   title: New road signs installed in Bexhill for horse and rider safety
   day: '2026-10-29'
 - url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
   title: Bexhill councillor calls parking permit charges 'extortionate'
   day: '2026-11-03'
-- url: /2026/10/27/appeal-for-information-after-quad-bikes-stolen-from-nurdle-charity/
-  title: Appeal for information after quad bikes stolen from Nurdle charity
-  day: '2026-10-27'
 ---
 {% raw %}
 Police are appealing for information after reports of animals being targeted with catapults in Egerton Park, Bexhill-on-Sea.

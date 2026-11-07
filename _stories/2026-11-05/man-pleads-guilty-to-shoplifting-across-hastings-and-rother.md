@@ -56,12 +56,12 @@ related:
 - url: /2026/11/02/man-convicted-of-18-offences-after-shop-thefts-in-hastings/
   title: Man convicted of 18 offences after shop thefts in Hastings
   day: '2026-11-02'
+- url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
+  title: Police make 18 weekend arrests in Hastings and Rother
+  day: '2026-11-03'
 - url: /2026/10/29/beach-cleaners-remove-more-than-15kg-of-rubbish-from-local-beaches/
   title: Beach cleaners remove more than 15kg of rubbish from local beaches
   day: '2026-10-29'
-- url: /2026/10/23/police-secure-closure-order-for-hastings-property/
-  title: Police secure closure order for Hastings property
-  day: '2026-10-23'
 ---
 {% raw %}
 A 45-year-old man from Winchelsea Beach has been charged in connection with a series of shop theft offences across Hastings and Rother.

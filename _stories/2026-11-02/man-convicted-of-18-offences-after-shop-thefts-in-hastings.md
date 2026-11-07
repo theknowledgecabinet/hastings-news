@@ -53,12 +53,12 @@ related:
 - url: /2026/11/05/man-pleads-guilty-to-shoplifting-across-hastings-and-rother/
   title: Man pleads guilty to shoplifting across Hastings and Rother
   day: '2026-11-05'
-- url: /2026/10/23/police-secure-closure-order-for-hastings-property/
-  title: Police secure closure order for Hastings property
-  day: '2026-10-23'
-- url: /2026/10/28/one-in-ten-young-adults-in-hastings-on-unemployment-benefits/
-  title: One in ten young adults in Hastings on unemployment benefits
-  day: '2026-10-28'
+- url: /2026/11/04/car-wash-owner-sentenced-over-illegal-workers/
+  title: Car wash owner sentenced over illegal workers
+  day: '2026-11-04'
+- url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
+  title: Police make 18 weekend arrests in Hastings and Rother
+  day: '2026-11-03'
 ---
 {% raw %}
 Tom Marchant, 44, of no fixed address, has been convicted of 18 offences after a series of shop thefts in Hastings, Sussex Police have reported.

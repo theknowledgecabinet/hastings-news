@@ -48,15 +48,15 @@ image:
   default: false
 checked: '2026-10-29T12:44:26+00:00'
 related:
+- url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/
+  title: Police appeal after car and horse rider incident in Bexhill
+  day: '2026-10-30'
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'
 - url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
   title: Police launch Safer Town Centres campaign and new ASB powers
   day: '2026-10-28'
-- url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
-  title: Bexhill councillor calls parking permit charges 'extortionate'
-  day: '2026-11-03'
 ---
 {% raw %}
 New road signs have been installed in Bexhill as part of a campaign to make roads safer for horses and riders, a town councillor said.

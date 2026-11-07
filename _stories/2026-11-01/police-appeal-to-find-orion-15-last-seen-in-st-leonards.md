@@ -59,12 +59,12 @@ related:
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
+- url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
+  title: Police make 18 weekend arrests in Hastings and Rother
+  day: '2026-11-03'
 - url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
   title: Police increase patrols in Eldridge Way area of St Leonards
   day: '2026-11-03'
-- url: /2026/10/23/police-secure-closure-order-for-hastings-property/
-  title: Police secure closure order for Hastings property
-  day: '2026-10-23'
 ---
 {% raw %}
 Police are appealing to the public to help find a missing 15-year-old boy who was last seen in St Leonards on Saturday (31 October).

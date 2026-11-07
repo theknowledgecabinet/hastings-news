@@ -60,11 +60,11 @@ related:
 - url: /2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/
   title: Rother to consult on 2027/28 budget with £2.72m in reserves
   day: '2026-10-29'
+- url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/
+  title: Police appeal after car and horse rider incident in Bexhill
+  day: '2026-10-30'
 - url: /2026/10/29/vacant-bexhill-bank-building-to-become-two-restaurants-and-eight-flats/
   title: Vacant Bexhill bank building to become two restaurants and eight flats
-  day: '2026-10-29'
-- url: /2026/10/29/rother-district-council-pre-election-event-for-would-be-candidates-in/
-  title: Rother District Council pre-election event for would-be candidates in May 2027
   day: '2026-10-29'
 ---
 {% raw %}

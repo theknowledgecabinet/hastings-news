@@ -48,15 +48,15 @@ image:
   default: false
 checked: '2026-10-27T05:54:39+00:00'
 related:
+- url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
+  title: Police make 18 weekend arrests in Hastings and Rother
+  day: '2026-11-03'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
 - url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
   title: New crossings and lighting completed around Hastings station
   day: '2026-10-27'
-- url: /2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/
-  title: Storm power cuts threatened water supply to the Hastings area
-  day: '2026-10-26'
 ---
 {% raw %}
 Officers from the Hastings Neighbourhood Policing Team have secured a Closure Order for a property in Cornwallis Terrace, Hastings.
