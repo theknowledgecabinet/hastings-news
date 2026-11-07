@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 06 Nov 2026 19:17:07 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 08:28:26 +0000</lastBuildDate>
+  <item>
+    <title>Hastings runner to take on 55-mile ultramarathon in jeans</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/07/hastings-runner-to-take-on-55-mile-ultramarathon-in-jeans/</link>
+    <guid isPermaLink="false">story-129</guid>
+    <pubDate>Sat, 07 Nov 2026 08:28:26 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A 21-year-old from Hastings is about to take on one of the country&#x27;s toughest challenges, and he is doing it in denim.</description>
+  </item>
   <item>
     <title>MP joins launch of Hastings &amp; St Leonards Poppy Appeal</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/mp-joins-launch-of-hastings-st-leonards-poppy-appeal/</link>
@@ -398,14 +406,6 @@
     <pubDate>Mon, 26 Oct 2026 18:30:00 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The Red Lion, a 15th century pub in Denbigh Road, Hooe, near Battle, has been taken over by new management.</description>
-  </item>
-  <item>
-    <title>Hastings Philharmonic Choir to sing Schubert and Saint-Saëns</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/25/hastings-philharmonic-choir-to-sing-schubert-and-saint-saens/</link>
-    <guid isPermaLink="false">story-6</guid>
-    <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Hastings Philharmonic Choir&#x27;s next concert, Songs of Light, brings two choral masterpieces to All Saints Church in the Old Town on Saturday 7 November.</description>
   </item>
 </channel>
 </rss>

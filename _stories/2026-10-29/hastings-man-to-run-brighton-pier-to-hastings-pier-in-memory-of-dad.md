@@ -51,6 +51,9 @@ image:
   default: false
 checked: '2026-10-29T19:30:29+00:00'
 related:
+- url: /2026/11/07/hastings-runner-to-take-on-55-mile-ultramarathon-in-jeans/
+  title: Hastings runner to take on 55-mile ultramarathon in jeans
+  day: '2026-11-07'
 - url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
   title: Hastings council to consider Age Friendly strategy for older residents
   day: '2026-11-04'

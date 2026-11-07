@@ -46,6 +46,10 @@ image:
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Mermaid_Inn,_Mermaid_Street,_Rye_(NHLE_Code_1251961)_(July_2011)_(4).jpg
   default: false
+related:
+- url: /2026/11/07/the-plough-in-rye-named-among-britain-s-best-pubs/
+  title: The Plough in Rye named among Britain's best pubs
+  day: '2026-11-07'
 ---
 {% raw %}
 The Mermaid Inn in Rye, a Grade II listed building, is said to be one of the UK's most haunted inns, according to The Argus.
