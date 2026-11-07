@@ -50,6 +50,9 @@ related:
 - url: /2026/11/07/the-plough-in-rye-named-among-britain-s-best-pubs/
   title: The Plough in Rye named among Britain's best pubs
   day: '2026-11-07'
+- url: /2026/11/07/camber-sands-holiday-park-ranked-among-worst-in-uk/
+  title: Camber Sands holiday park ranked among worst in UK
+  day: '2026-11-07'
 ---
 {% raw %}
 The Mermaid Inn in Rye, a Grade II listed building, is said to be one of the UK's most haunted inns, according to The Argus.

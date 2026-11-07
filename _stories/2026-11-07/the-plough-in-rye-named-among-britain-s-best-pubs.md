@@ -50,6 +50,9 @@ related:
 - url: /2026/10/30/rye-s-mermaid-inn-described-as-one-of-the-uk-s-most-haunted-pubs/
   title: Rye's Mermaid Inn described as one of the UK's most haunted pubs
   day: '2026-10-30'
+- url: /2026/11/07/camber-sands-holiday-park-ranked-among-worst-in-uk/
+  title: Camber Sands holiday park ranked among worst in UK
+  day: '2026-11-07'
 - url: /2026/10/28/police-step-up-evening-patrols-in-rye-after-reports-of-anti-social/
   title: Police step up evening patrols in Rye after reports of anti-social behaviour
   day: '2026-10-28'

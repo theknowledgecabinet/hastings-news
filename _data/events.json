@@ -44,6 +44,39 @@
   "when": "Sun 8 Nov"
  },
  {
+  "starts": "2026-11-08",
+  "ends": null,
+  "title": "Art Sundays: Magical Doorway",
+  "time": "",
+  "venue": "In The Studio, De La Warr Pavilion, Bexhill",
+  "places": "Bexhill",
+  "url": "https://www.dlwp.com/whats-on/",
+  "summary": "Free drop-in workshop, part of the Art Sundays programme at the De La Warr Pavilion's Studio.",
+  "when": "Sun 8 Nov"
+ },
+ {
+  "starts": "2026-11-10",
+  "ends": null,
+  "title": "Francis Rossi live at the De La Warr",
+  "time": "",
+  "venue": "De La Warr Pavilion, Bexhill",
+  "places": "Bexhill",
+  "url": "https://www.dlwp.com/whats-on/",
+  "summary": "AEG presents Francis Rossi in concert. Tickets from £45.",
+  "when": "Tue 10 Nov"
+ },
+ {
+  "starts": "2026-11-11",
+  "ends": null,
+  "title": "Bettany Hughes: Uncovering Ancient Egypt",
+  "time": "",
+  "venue": "De La Warr Pavilion, Bexhill",
+  "places": "Bexhill",
+  "url": "https://www.dlwp.com/whats-on/",
+  "summary": "DLWP and Fane present Bettany Hughes, 'Uncovering Ancient Egypt', on Wednesday 11 November. Tickets from £32.",
+  "when": "Wed 11 Nov"
+ },
+ {
   "starts": "2026-11-14",
   "ends": null,
   "title": "Rye Bonfire",

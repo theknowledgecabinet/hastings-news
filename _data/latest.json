@@ -2,7 +2,7 @@
  "day": "2026-11-07",
  "label": "Saturday 7 November 2026",
  "issue": 18,
- "edition_label": "Midday edition",
+ "edition_label": "Evening edition",
  "forecast": [
   {
    "day": "2026-11-07",
@@ -85,30 +85,50 @@
     "sunset": "16:22",
     "summary": "Light drizzle likely. A high of 9°C and a low of 6°C, light winds from the north. Sunrise 06:59, sunset 16:22."
    }
+  },
+  {
+   "name": "evening",
+   "label": "Evening edition",
+   "weather": {
+    "day": "2026-11-08",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 11,
+    "low": 5,
+    "rain_chance": 10,
+    "rain_mm": 0.0,
+    "wind": 5,
+    "gusts": 10,
+    "direction": "northerly",
+    "sunrise": "07:01",
+    "sunset": "16:20",
+    "summary": "Cloudy. A high of 11°C and a low of 5°C, light winds from the north. Sunrise 07:01, sunset 16:20."
+   }
   }
  ],
  "weather": {
-  "day": "2026-11-07",
-  "code": 51,
-  "words": "light drizzle",
-  "icon": "🌦️",
-  "high": 9,
-  "low": 6,
-  "rain_chance": 73,
-  "rain_mm": 0.6,
-  "wind": 6,
-  "gusts": 12,
+  "day": "2026-11-08",
+  "code": 3,
+  "words": "cloudy",
+  "icon": "☁️",
+  "high": 11,
+  "low": 5,
+  "rain_chance": 10,
+  "rain_mm": 0.0,
+  "wind": 5,
+  "gusts": 10,
   "direction": "northerly",
-  "sunrise": "06:59",
-  "sunset": "16:22",
-  "summary": "Light drizzle likely. A high of 9°C and a low of 6°C, light winds from the north. Sunrise 06:59, sunset 16:22."
+  "sunrise": "07:01",
+  "sunset": "16:20",
+  "summary": "Cloudy. A high of 11°C and a low of 5°C, light winds from the north. Sunrise 07:01, sunset 16:20."
  },
  "briefing": {
-  "day": "2026-11-06",
-  "url": "/assets/podcast/2026-11-06.mp3",
-  "seconds": 788,
-  "bytes": 3152492,
-  "length": "13 min"
+  "day": "2026-11-07",
+  "url": "/assets/podcast/2026-11-07.mp3",
+  "seconds": 485,
+  "bytes": 1938668,
+  "length": "8 min"
  },
  "otd": {
   "day": "2026-11-03",
