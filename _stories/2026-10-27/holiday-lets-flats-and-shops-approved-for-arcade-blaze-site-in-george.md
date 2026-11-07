@@ -57,15 +57,15 @@ image:
   default: false
 checked: '2026-10-27T19:16:31+00:00'
 related:
+- url: /2026/11/07/st-leonards-and-hastings-properties-sell-at-clive-emson-auction/
+  title: St Leonards and Hastings properties sell at Clive Emson auction
+  day: '2026-11-07'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
 - url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
   title: Work begins on 27 'luxury flats' development in St Leonards
   day: '2026-11-04'
-- url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
-  title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
-  day: '2026-10-21'
 ---
 {% raw %}
 Hastings Borough Council has approved plans for 20 flats, six holiday lets and four commercial units on the site of the former amusement arcade in George Street, Old Town, which was destroyed in a fire in January 2023.

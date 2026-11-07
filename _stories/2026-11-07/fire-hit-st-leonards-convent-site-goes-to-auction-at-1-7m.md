@@ -52,6 +52,9 @@ related:
 - url: /2026/11/03/former-st-leonards-church-becomes-community-hub-with-weekly-market/
   title: Former St Leonards church becomes community hub with weekly market
   day: '2026-11-03'
+- url: /2026/11/07/st-leonards-and-hastings-properties-sell-at-clive-emson-auction/
+  title: St Leonards and Hastings properties sell at Clive Emson auction
+  day: '2026-11-07'
 ---
 {% raw %}
 A former convent in St Leonards that was damaged in a major fire earlier this summer is going on the market, with a guide price of £1.7 million and a potential major housing scheme for the land.

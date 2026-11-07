@@ -54,6 +54,9 @@ related:
 - url: /2026/10/25/hastings-philharmonic-choir-to-sing-schubert-and-saint-saens/
   title: Hastings Philharmonic Choir to sing Schubert and Saint-Saëns
   day: '2026-10-25'
+- url: /2026/11/07/st-leonards-and-hastings-properties-sell-at-clive-emson-auction/
+  title: St Leonards and Hastings properties sell at Clive Emson auction
+  day: '2026-11-07'
 ---
 {% raw %}
 Alabama 3 are bringing their acoustic show to St Leonard's Church, St Leonards-on-Sea, on Saturday 14 November, the Hastings Independent Press reported.

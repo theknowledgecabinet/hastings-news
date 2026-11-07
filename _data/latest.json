@@ -2,7 +2,7 @@
  "day": "2026-11-07",
  "label": "Saturday 7 November 2026",
  "issue": 18,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-07",
@@ -65,23 +65,43 @@
     "sunset": "16:22",
     "summary": "Cloudy, with a 48% chance of rain. A high of 11°C and a low of 6°C, light winds from the north. Sunrise 06:59, sunset 16:22."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-07",
+    "code": 51,
+    "words": "light drizzle",
+    "icon": "🌦️",
+    "high": 9,
+    "low": 6,
+    "rain_chance": 73,
+    "rain_mm": 0.6,
+    "wind": 6,
+    "gusts": 12,
+    "direction": "northerly",
+    "sunrise": "06:59",
+    "sunset": "16:22",
+    "summary": "Light drizzle likely. A high of 9°C and a low of 6°C, light winds from the north. Sunrise 06:59, sunset 16:22."
+   }
   }
  ],
  "weather": {
   "day": "2026-11-07",
-  "code": 3,
-  "words": "cloudy",
-  "icon": "☁️",
-  "high": 11,
+  "code": 51,
+  "words": "light drizzle",
+  "icon": "🌦️",
+  "high": 9,
   "low": 6,
-  "rain_chance": 48,
-  "rain_mm": 0.0,
+  "rain_chance": 73,
+  "rain_mm": 0.6,
   "wind": 6,
-  "gusts": 11,
+  "gusts": 12,
   "direction": "northerly",
   "sunrise": "06:59",
   "sunset": "16:22",
-  "summary": "Cloudy, with a 48% chance of rain. A high of 11°C and a low of 6°C, light winds from the north. Sunrise 06:59, sunset 16:22."
+  "summary": "Light drizzle likely. A high of 9°C and a low of 6°C, light winds from the north. Sunrise 06:59, sunset 16:22."
  },
  "briefing": {
   "day": "2026-11-06",

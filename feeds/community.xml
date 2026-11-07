@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 07 Nov 2026 08:28:26 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 13:18:14 +0000</lastBuildDate>
+  <item>
+    <title>Local band raises £3,000 for Warming Up the Homeless</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/07/local-band-raises-3-000-for-warming-up-the-homeless/</link>
+    <guid isPermaLink="false">story-131</guid>
+    <pubDate>Sat, 07 Nov 2026 13:18:14 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A group of local musicians have raised around £3,000 for Warming Up the Homeless in the last couple of years by giving their CDs away free and encouraging audiences to donate to the charity instead.</description>
+  </item>
+  <item>
+    <title>Hastings swimmer plots route to 2028 Channel crossing</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/07/hastings-swimmer-plots-route-to-2028-channel-crossing/</link>
+    <guid isPermaLink="false">story-132</guid>
+    <pubDate>Sat, 07 Nov 2026 13:18:14 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings swimmer Sarah Milne has completed an endurance training camp in Dover with The King&#x27;s Swimmers and, in her latest diary for the Hastings Independent Press, says she is now preparing for a solo Channel crossing attempt in 2028.</description>
+  </item>
   <item>
     <title>Hastings runner to take on 55-mile ultramarathon in jeans</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/07/hastings-runner-to-take-on-55-mile-ultramarathon-in-jeans/</link>
@@ -390,22 +406,6 @@
     <pubDate>Tue, 27 Oct 2026 12:46:07 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Hastings Round Table has given £10,000 to the Friends of Conquest Hospital&#x27;s 2026 Equipment Appeal, one of the largest grants the Round Table has made in recent years.</description>
-  </item>
-  <item>
-    <title>Residents can quiz Southern Water at drop-in at The Stade Hall</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/27/residents-can-quiz-southern-water-at-drop-in-at-the-stade-hall/</link>
-    <guid isPermaLink="false">story-24</guid>
-    <pubDate>Tue, 27 Oct 2026 09:13:10 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Southern Water is coming to the town to hear from residents directly, with a drop-in at The Stade Hall on Wednesday 4 November, from 1.30pm to 6pm.</description>
-  </item>
-  <item>
-    <title>New management takes over 15th century Red Lion pub in Hooe</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/26/new-management-takes-over-15th-century-red-lion-pub-in-hooe/</link>
-    <guid isPermaLink="false">story-13</guid>
-    <pubDate>Mon, 26 Oct 2026 18:30:00 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Red Lion, a 15th century pub in Denbigh Road, Hooe, near Battle, has been taken over by new management.</description>
   </item>
 </channel>
 </rss>

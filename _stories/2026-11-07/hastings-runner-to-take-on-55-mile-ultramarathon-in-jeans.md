@@ -51,6 +51,9 @@ related:
 - url: /2026/10/29/hastings-man-to-run-brighton-pier-to-hastings-pier-in-memory-of-dad/
   title: Hastings man to run Brighton Pier to Hastings Pier in memory of dad
   day: '2026-10-29'
+- url: /2026/11/07/hastings-swimmer-plots-route-to-2028-channel-crossing/
+  title: Hastings swimmer plots route to 2028 Channel crossing
+  day: '2026-11-07'
 - url: /2026/10/28/one-in-ten-young-adults-in-hastings-on-unemployment-benefits/
   title: One in ten young adults in Hastings on unemployment benefits
   day: '2026-10-28'

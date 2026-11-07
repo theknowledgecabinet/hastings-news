@@ -59,11 +59,11 @@ related:
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
+- url: /2026/11/07/st-leonards-and-hastings-properties-sell-at-clive-emson-auction/
+  title: St Leonards and Hastings properties sell at Clive Emson auction
+  day: '2026-11-07'
 - url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
   title: Police make 18 weekend arrests in Hastings and Rother
-  day: '2026-11-03'
-- url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
-  title: Police increase patrols in Eldridge Way area of St Leonards
   day: '2026-11-03'
 ---
 {% raw %}
