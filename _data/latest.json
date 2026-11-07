@@ -12,7 +12,7 @@
    "high": 10,
    "low": 6,
    "rain_chance": 45,
-   "rain_mm": 0.9,
+   "rain_mm": 0.7,
    "wind": 6,
    "gusts": 12,
    "direction": "northerly",
