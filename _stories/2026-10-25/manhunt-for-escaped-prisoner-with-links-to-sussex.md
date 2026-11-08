@@ -48,6 +48,9 @@ image:
   default: false
 checked: '2026-10-27T05:59:16+00:00'
 related:
+- url: /2026/11/08/two-sussex-police-officers-charged-over-assault-of-detained-man/
+  title: Two Sussex police officers charged over assault of detained man
+  day: '2026-11-08'
 - url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
   title: Police launch Safer Town Centres campaign and new ASB powers
   day: '2026-10-28'

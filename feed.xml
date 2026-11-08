@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 07 Nov 2026 19:09:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 08:12:10 +0000</lastBuildDate>
+  <item>
+    <title>Two Sussex police officers charged over assault of detained man</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/08/two-sussex-police-officers-charged-over-assault-of-detained-man/</link>
+    <guid isPermaLink="false">story-134</guid>
+    <pubDate>Sun, 08 Nov 2026 08:12:10 +0000</pubDate>
+    <category>Crime &amp; courts</category>
+    <description>Two Sussex Police officers have been charged with assault occasioning actual bodily harm over an incident involving a man detained in hospital under the Mental Health Act, according to the Independent Office for Police Conduct (IOPC).</description>
+  </item>
+  <item>
+    <title>Swansea Sound to open tour at The Piper in St Leonards</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/08/swansea-sound-to-open-tour-at-the-piper-in-st-leonards/</link>
+    <guid isPermaLink="false">story-135</guid>
+    <pubDate>Sun, 08 Nov 2026 08:12:10 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Swansea Sound, who feature members of Heavenly and Talulah Gosh, are to kick off their tour in St Leonards at The Piper on 13 November.</description>
+  </item>
   <item>
     <title>Camber Sands holiday park ranked among worst in UK</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/07/camber-sands-holiday-park-ranked-among-worst-in-uk/</link>
@@ -630,22 +646,6 @@
     <pubDate>Fri, 30 Oct 2026 13:12:53 +0000</pubDate>
     <category>Council</category>
     <description>The council leader says the draft Local Plan consultation remains open until Tuesday, November 24, and the Tapestry development in Battle, which will provide 200 energy-efficient homes, has been shortlisted for the Best Development Award at the Inside Housing Development Awards.</description>
-  </item>
-  <item>
-    <title>Update: Holiday lets, flats and shops approved for arcade blaze site in George Street</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/27/holiday-lets-flats-and-shops-approved-for-arcade-blaze-site-in-george/</link>
-    <guid isPermaLink="false">story-30-update-2026-10-30T13:07:16+00:00</guid>
-    <pubDate>Fri, 30 Oct 2026 13:07:16 +0000</pubDate>
-    <category>Council</category>
-    <description>Residents have divided over the approved scheme. One, writing on the Observer&#x27;s Facebook page, said: &quot;We don&#x27;t need holiday lets and more shops; we need housing.&quot; Others suggested affordable bedsits or a hub for young people, while a handful backed the development.</description>
-  </item>
-  <item>
-    <title>St Michael&#x27;s Hospice opens Festive Market in St Leonards</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/30/st-michael-s-hospice-opens-festive-market-in-st-leonards/</link>
-    <guid isPermaLink="false">story-64</guid>
-    <pubDate>Fri, 30 Oct 2026 13:07:16 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>St Michael&#x27;s Hospice is holding a two-day Festive Market at its Upper Maze Hill site in St Leonards on Saturday, November 14, and Sunday, November 15.</description>
   </item>
 </channel>
 </rss>
