@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-11-07",
-   "code": 53,
-   "words": "drizzle",
-   "icon": "🌦️",
-   "high": 10,
-   "low": 6,
-   "rain_chance": 45,
-   "rain_mm": 0.7,
-   "wind": 6,
-   "gusts": 12,
-   "direction": "northerly",
-   "sunrise": "06:59",
-   "sunset": "16:22",
-   "summary": "Drizzle possible (45% chance). A high of 10°C and a low of 6°C, light winds from the north. Sunrise 06:59, sunset 16:22.",
-   "label": "Today",
-   "weekday": "Sat 7 Nov",
-   "long": "Saturday 7 November"
-  },
-  {
    "day": "2026-11-08",
    "code": 51,
    "words": "light drizzle",
@@ -38,13 +19,32 @@
    "sunrise": "07:01",
    "sunset": "16:20",
    "summary": "Light drizzle possible (10% chance). A high of 12°C and a low of 5°C, light winds from the north east. Sunrise 07:01, sunset 16:20.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Sun 8 Nov",
    "long": "Sunday 8 November"
+  },
+  {
+   "day": "2026-11-09",
+   "code": 51,
+   "words": "light drizzle",
+   "icon": "🌦️",
+   "high": 10,
+   "low": 8,
+   "rain_chance": 4,
+   "rain_mm": 0.2,
+   "wind": 10,
+   "gusts": 22,
+   "direction": "easterly",
+   "sunrise": "07:03",
+   "sunset": "16:19",
+   "summary": "Light drizzle possible (4% chance). A high of 10°C and a low of 8°C, a moderate breeze from the east. Sunrise 07:03, sunset 16:19.",
+   "label": "Tomorrow",
+   "weekday": "Mon 9 Nov",
+   "long": "Monday 9 November"
   }
  ],
- "today_label": "Saturday 7 November 2026",
- "today_short": "Sat 7 Nov",
+ "today_label": "Sunday 8 November 2026",
+ "today_short": "Sun 8 Nov",
  "editions": [
   {
    "name": "morning",
