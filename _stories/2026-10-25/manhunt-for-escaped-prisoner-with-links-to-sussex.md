@@ -48,15 +48,15 @@ image:
   default: false
 checked: '2026-10-27T05:59:16+00:00'
 related:
+- url: /2026/11/08/police-launch-manhunt-for-man-wanted-for-recall-to-prison/
+  title: Police launch manhunt for man wanted for recall to prison
+  day: '2026-11-08'
 - url: /2026/11/08/two-sussex-police-officers-charged-over-assault-of-detained-man/
   title: Two Sussex police officers charged over assault of detained man
   day: '2026-11-08'
 - url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
   title: Police launch Safer Town Centres campaign and new ASB powers
   day: '2026-10-28'
-- url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
-  title: Police appeal after catapults reported in Bexhill's Egerton Park
-  day: '2026-10-27'
 ---
 {% raw %}
 Police have launched a manhunt for a convicted prisoner with links to Sussex who escaped from a medical facility in South London on Friday.

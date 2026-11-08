@@ -9,7 +9,7 @@
   "name": "St Leonards",
   "slug": "st-leonards",
   "url": "/place/st-leonards/",
-  "count": 23
+  "count": 24
  },
  {
   "name": "Bexhill",
@@ -27,7 +27,7 @@
   "name": "Battle",
   "slug": "battle",
   "url": "/place/battle/",
-  "count": 5
+  "count": 6
  },
  {
   "name": "Rother villages",
@@ -39,6 +39,6 @@
   "name": "East Sussex",
   "slug": "east-sussex",
   "url": "/place/east-sussex/",
-  "count": 14
+  "count": 15
  }
 ]
