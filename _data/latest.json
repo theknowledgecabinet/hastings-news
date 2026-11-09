@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-11-08",
-   "code": 3,
-   "words": "cloudy",
-   "icon": "☁️",
-   "high": 13,
-   "low": 6,
-   "rain_chance": 4,
-   "rain_mm": 0.0,
-   "wind": 8,
-   "gusts": 16,
-   "direction": "westerly",
-   "sunrise": "07:01",
-   "sunset": "16:20",
-   "summary": "Cloudy. A high of 13°C and a low of 6°C, a moderate breeze from the west. Sunrise 07:01, sunset 16:20.",
-   "label": "Today",
-   "weekday": "Sun 8 Nov",
-   "long": "Sunday 8 November"
-  },
-  {
    "day": "2026-11-09",
    "code": 3,
    "words": "cloudy",
@@ -38,13 +19,32 @@
    "sunrise": "07:03",
    "sunset": "16:19",
    "summary": "Cloudy. A high of 10°C and a low of 7°C, a moderate breeze from the east. Sunrise 07:03, sunset 16:19.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Mon 9 Nov",
    "long": "Monday 9 November"
+  },
+  {
+   "day": "2026-11-10",
+   "code": 55,
+   "words": "heavy drizzle",
+   "icon": "🌧️",
+   "high": 10,
+   "low": 8,
+   "rain_chance": 80,
+   "rain_mm": 4.4,
+   "wind": 12,
+   "gusts": 24,
+   "direction": "easterly",
+   "sunrise": "07:04",
+   "sunset": "16:17",
+   "summary": "Heavy drizzle likely. A high of 10°C and a low of 8°C, a moderate breeze from the east. Sunrise 07:04, sunset 16:17.",
+   "label": "Tomorrow",
+   "weekday": "Tue 10 Nov",
+   "long": "Tuesday 10 November"
   }
  ],
- "today_label": "Sunday 8 November 2026",
- "today_short": "Sun 8 Nov",
+ "today_label": "Monday 9 November 2026",
+ "today_short": "Mon 9 Nov",
  "editions": [
   {
    "name": "morning",
