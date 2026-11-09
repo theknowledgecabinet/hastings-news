@@ -52,6 +52,9 @@ related:
 - url: /2026/11/06/hole-park-near-rye-promises-a-top-christmas-tree-crop-after-summer/
   title: Hole Park near Rye promises a top Christmas tree crop after summer drought
   day: '2026-11-06'
+- url: /2026/11/09/rye-bonfire-named-among-the-uk-s-best-bonfire-night-displays/
+  title: Rye Bonfire named among the UK's best Bonfire Night displays
+  day: '2026-11-09'
 ---
 {% raw %}
 Pumpkin growers in Rye and the Sompting area near Lancing say they have produced a strong Halloween harvest, despite what the BBC described as the UK's hottest summer on record.
