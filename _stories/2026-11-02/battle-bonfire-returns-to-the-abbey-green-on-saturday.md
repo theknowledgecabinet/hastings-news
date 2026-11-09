@@ -48,6 +48,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Battle_Abbey_2018.jpg
   default: false
 checked: '2026-11-02T13:08:57+00:00'
+related:
+- url: /2026/11/09/battle-bonfire-2026-guy-feaux-effigy-takes-a-swipe-at-ai/
+  title: 'Battle Bonfire 2026: ''Guy Feaux'' effigy takes a swipe at AI'
+  day: '2026-11-09'
 ---
 {% raw %}
 Battle holds what is said to be the oldest Guy Fawkes bonfire celebrations in England on Saturday 7 November, with the town's tradition tracing back to 1646. St Mary's Church then allocated two shillings and sixpence for gunpowder treason rejoicing, and the Battel Bonfire Boyes have kept the custom alive ever since.

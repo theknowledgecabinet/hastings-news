@@ -53,6 +53,9 @@ related:
 - url: /2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/
   title: Developers reveal bid to build 120 new Hastings homes
   day: '2026-11-02'
+- url: /2026/11/09/plans-for-42-new-homes-by-st-leonards-bannatyne-s-spa-hotel/
+  title: Plans for 42 new homes by St Leonards' Bannatyne's Spa Hotel
+  day: '2026-11-09'
 - url: /2026/11/03/cooden-beach-golf-club-seeks-permission-for-homes-on-part-of-its/
   title: Cooden Beach Golf Club seeks permission for homes on part of its course
   day: '2026-11-03'

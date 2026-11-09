@@ -2,7 +2,7 @@
  "day": "2026-11-09",
  "label": "Monday 9 November 2026",
  "issue": 20,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-09",
@@ -13,8 +13,8 @@
    "low": 6,
    "rain_chance": 6,
    "rain_mm": 0.1,
-   "wind": 9,
-   "gusts": 19,
+   "wind": 10,
+   "gusts": 20,
    "direction": "easterly",
    "sunrise": "07:03",
    "sunset": "16:19",
@@ -65,6 +65,26 @@
     "sunset": "16:19",
     "summary": "Light drizzle possible (6% chance). A high of 9°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:03, sunset 16:19."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-09",
+    "code": 51,
+    "words": "light drizzle",
+    "icon": "🌦️",
+    "high": 9,
+    "low": 6,
+    "rain_chance": 6,
+    "rain_mm": 0.1,
+    "wind": 10,
+    "gusts": 20,
+    "direction": "easterly",
+    "sunrise": "07:03",
+    "sunset": "16:19",
+    "summary": "Light drizzle possible (6% chance). A high of 9°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:03, sunset 16:19."
+   }
   }
  ],
  "weather": {
@@ -76,7 +96,7 @@
   "low": 6,
   "rain_chance": 6,
   "rain_mm": 0.1,
-  "wind": 9,
+  "wind": 10,
   "gusts": 20,
   "direction": "easterly",
   "sunrise": "07:03",

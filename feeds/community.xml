@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 09 Nov 2026 07:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 12:54:36 +0000</lastBuildDate>
+  <item>
+    <title>Battle Bonfire 2026: &#x27;Guy Feaux&#x27; effigy takes a swipe at AI</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/09/battle-bonfire-2026-guy-feaux-effigy-takes-a-swipe-at-ai/</link>
+    <guid isPermaLink="false">story-142</guid>
+    <pubDate>Mon, 09 Nov 2026 12:54:36 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Battle High Street became a &#x27;river of fire&#x27; on Saturday night as people turned out for the town&#x27;s annual bonfire celebrations, the Hastings Observer reported.</description>
+  </item>
   <item>
     <title>Rye Bonfire named among the UK&#x27;s best Bonfire Night displays</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/09/rye-bonfire-named-among-the-uk-s-best-bonfire-night-displays/</link>
@@ -398,14 +406,6 @@
     <pubDate>Wed, 28 Oct 2026 13:04:48 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Gary Bourn, from Rye, has been presented with a special award by East Sussex Fire and Rescue Service after 30 years of service, the Observer reported.</description>
-  </item>
-  <item>
-    <title>Residents call for action over former Hastings public toilets site</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/</link>
-    <guid isPermaLink="false">story-41</guid>
-    <pubDate>Wed, 28 Oct 2026 13:04:48 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Residents have called for the disused public toilets site in Harold Place, Hastings town centre, to be put to use, after stormy weather left a trail of debris at the site, the Observer reported.</description>
   </item>
 </channel>
 </rss>

@@ -63,9 +63,9 @@ related:
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
-- url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
-  title: Work begins on 27 'luxury flats' development in St Leonards
-  day: '2026-11-04'
+- url: /2026/11/09/plans-for-42-new-homes-by-st-leonards-bannatyne-s-spa-hotel/
+  title: Plans for 42 new homes by St Leonards' Bannatyne's Spa Hotel
+  day: '2026-11-09'
 ---
 {% raw %}
 Hastings Borough Council has approved plans for 20 flats, six holiday lets and four commercial units on the site of the former amusement arcade in George Street, Old Town, which was destroyed in a fire in January 2023.
