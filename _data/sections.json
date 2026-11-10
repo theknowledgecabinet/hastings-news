@@ -18,14 +18,14 @@
   "label": "Council",
   "colour": "#1f6f8b",
   "url": "/section/council/",
-  "count": 30
+  "count": 31
  },
  {
   "key": "community",
   "label": "Community & people",
   "colour": "#c0742a",
   "url": "/section/community/",
-  "count": 64
+  "count": 66
  },
  {
   "key": "business",

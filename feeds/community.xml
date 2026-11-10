@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 09 Nov 2026 12:54:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 12:50:32 +0000</lastBuildDate>
+  <item>
+    <title>Bexhill Leisure Centre named UK Active Awards finalist</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/10/bexhill-leisure-centre-named-uk-active-awards-finalist/</link>
+    <guid isPermaLink="false">story-145</guid>
+    <pubDate>Tue, 10 Nov 2026 12:50:32 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Bexhill Leisure Centre has been named a finalist for Regional Centre of the Year at the UK Active Awards, one of the leisure industry&#x27;s leading national award programmes.</description>
+  </item>
+  <item>
+    <title>Little Common Library marks annual volunteer lunch</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/10/little-common-library-marks-annual-volunteer-lunch/</link>
+    <guid isPermaLink="false">story-146</guid>
+    <pubDate>Tue, 10 Nov 2026 12:50:32 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Volunteers and supporters came together in Bexhill for Little Common Library&#x27;s annual fish and chip lunch, its chairman Connor Winter said.</description>
+  </item>
   <item>
     <title>Battle Bonfire 2026: &#x27;Guy Feaux&#x27; effigy takes a swipe at AI</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/09/battle-bonfire-2026-guy-feaux-effigy-takes-a-swipe-at-ai/</link>
@@ -390,22 +406,6 @@
     <pubDate>Thu, 29 Oct 2026 12:43:07 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A pigeon that was rescued after being snared in bird netting at the Hastings Library building is on the road to recovery.</description>
-  </item>
-  <item>
-    <title>Beach cleaners remove more than 15kg of rubbish from local beaches</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/29/beach-cleaners-remove-more-than-15kg-of-rubbish-from-local-beaches/</link>
-    <guid isPermaLink="false">story-54</guid>
-    <pubDate>Thu, 29 Oct 2026 12:43:07 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Strandliners ecology group has collected more than 15 kilogrammes of plastic and rubbish from beaches at Hastings, Bexhill and Pett Level this year.</description>
-  </item>
-  <item>
-    <title>Hastings and Rye firefighter receives 30-year service award</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/28/hastings-and-rye-firefighter-receives-30-year-service-award/</link>
-    <guid isPermaLink="false">story-40</guid>
-    <pubDate>Wed, 28 Oct 2026 13:04:48 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Gary Bourn, from Rye, has been presented with a special award by East Sussex Fire and Rescue Service after 30 years of service, the Observer reported.</description>
   </item>
 </channel>
 </rss>

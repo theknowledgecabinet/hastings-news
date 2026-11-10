@@ -1,7 +1,7 @@
 {
- "day": "2026-11-09",
- "label": "Monday 9 November 2026",
- "issue": 20,
+ "day": "2026-11-10",
+ "label": "Tuesday 10 November 2026",
+ "issue": 21,
  "edition_label": "Midday edition",
  "forecast": [
   {
@@ -47,61 +47,41 @@
  "today_short": "Tue 10 Nov",
  "editions": [
   {
-   "name": "morning",
-   "label": "Morning edition",
-   "weather": {
-    "day": "2026-11-09",
-    "code": 51,
-    "words": "light drizzle",
-    "icon": "🌦️",
-    "high": 9,
-    "low": 6,
-    "rain_chance": 6,
-    "rain_mm": 0.1,
-    "wind": 9,
-    "gusts": 20,
-    "direction": "easterly",
-    "sunrise": "07:03",
-    "sunset": "16:19",
-    "summary": "Light drizzle possible (6% chance). A high of 9°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:03, sunset 16:19."
-   }
-  },
-  {
    "name": "midday",
    "label": "Midday edition",
    "weather": {
-    "day": "2026-11-09",
-    "code": 51,
-    "words": "light drizzle",
-    "icon": "🌦️",
+    "day": "2026-11-10",
+    "code": 63,
+    "words": "rain",
+    "icon": "🌧️",
     "high": 9,
     "low": 6,
-    "rain_chance": 6,
-    "rain_mm": 0.1,
-    "wind": 10,
-    "gusts": 20,
+    "rain_chance": 100,
+    "rain_mm": 12.4,
+    "wind": 13,
+    "gusts": 26,
     "direction": "easterly",
-    "sunrise": "07:03",
-    "sunset": "16:19",
-    "summary": "Light drizzle possible (6% chance). A high of 9°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:03, sunset 16:19."
+    "sunrise": "07:04",
+    "sunset": "16:17",
+    "summary": "Rain likely. A high of 9°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:04, sunset 16:17."
    }
   }
  ],
  "weather": {
-  "day": "2026-11-09",
-  "code": 51,
-  "words": "light drizzle",
-  "icon": "🌦️",
+  "day": "2026-11-10",
+  "code": 63,
+  "words": "rain",
+  "icon": "🌧️",
   "high": 9,
   "low": 6,
-  "rain_chance": 6,
-  "rain_mm": 0.1,
-  "wind": 10,
-  "gusts": 20,
+  "rain_chance": 100,
+  "rain_mm": 12.4,
+  "wind": 13,
+  "gusts": 26,
   "direction": "easterly",
-  "sunrise": "07:03",
-  "sunset": "16:19",
-  "summary": "Light drizzle possible (6% chance). A high of 9°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:03, sunset 16:19."
+  "sunrise": "07:04",
+  "sunset": "16:17",
+  "summary": "Rain likely. A high of 9°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:04, sunset 16:17."
  },
  "briefing": {
   "day": "2026-11-08",
@@ -117,6 +97,11 @@
   "title": "Electric street lights trial switched on in Hastings"
  },
  "days": [
+  {
+   "day": "2026-11-10",
+   "url": "/2026/11/10/",
+   "label": "Tue 10 Nov"
+  },
   {
    "day": "2026-11-09",
    "url": "/2026/11/09/",
@@ -181,11 +166,6 @@
    "day": "2026-10-28",
    "url": "/2026/10/28/",
    "label": "Wed 28 Oct"
-  },
-  {
-   "day": "2026-10-27",
-   "url": "/2026/10/27/",
-   "label": "Tue 27 Oct"
   }
  ]
 }

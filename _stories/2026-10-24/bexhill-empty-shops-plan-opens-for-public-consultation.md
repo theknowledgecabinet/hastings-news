@@ -63,9 +63,9 @@ related:
 - url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/
   title: Police appeal after car and horse rider incident in Bexhill
   day: '2026-10-30'
-- url: /2026/10/29/vacant-bexhill-bank-building-to-become-two-restaurants-and-eight-flats/
-  title: Vacant Bexhill bank building to become two restaurants and eight flats
-  day: '2026-10-29'
+- url: /2026/11/10/residents-to-have-say-on-east-sussex-supported-housing-strategy/
+  title: Residents to have say on East Sussex supported housing strategy
+  day: '2026-11-10'
 ---
 {% raw %}
 Rother District Council has asked residents and businesses to have their say on a plan to tackle long-term empty shops in Bexhill.
