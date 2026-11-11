@@ -48,15 +48,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Parking_meter_-_The_Point_car_park_-_geograph.org.uk_-_5735698.jpg
   default: false
 related:
+- url: /2026/11/11/councillor-calls-500-home-bexhill-plan-a-disaster-zone-waiting-to/
+  title: Councillor calls 500-home Bexhill plan a 'disaster zone waiting to happen'
+  day: '2026-11-11'
 - url: /2026/10/29/bexhill-mp-backs-petition-for-20mph-limit-on-pevensey-s-b2191/
   title: Bexhill MP backs petition for 20mph limit on Pevensey's B2191
   day: '2026-10-29'
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
   title: New road signs installed in Bexhill for horse and rider safety
   day: '2026-10-29'
-- url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
-  title: Police appeal after catapults reported in Bexhill's Egerton Park
-  day: '2026-10-27'
 ---
 {% raw %}
 A Bexhill town councillor has branded the price of residential parking permits in the town 'extortionate and over the top'.

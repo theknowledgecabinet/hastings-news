@@ -52,6 +52,9 @@ related:
 - url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
   title: Bexhill councillor calls parking permit charges 'extortionate'
   day: '2026-11-03'
+- url: /2026/11/11/councillor-calls-500-home-bexhill-plan-a-disaster-zone-waiting-to/
+  title: Councillor calls 500-home Bexhill plan a 'disaster zone waiting to happen'
+  day: '2026-11-11'
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
   title: New road signs installed in Bexhill for horse and rider safety
   day: '2026-10-29'

@@ -6,7 +6,31 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 10 Nov 2026 12:50:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:25:29 +0000</lastBuildDate>
+  <item>
+    <title>Two men charged with murder of Bexhill cyclist</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/two-men-charged-with-murder-of-bexhill-cyclist/</link>
+    <guid isPermaLink="false">story-147</guid>
+    <pubDate>Wed, 11 Nov 2026 08:25:29 +0000</pubDate>
+    <category>Crime &amp; courts</category>
+    <description>Two men have appeared at Lewes Crown Court, charged with the murder of a Bexhill cyclist, Sussex Police have said.</description>
+  </item>
+  <item>
+    <title>Councillor calls 500-home Bexhill plan a &#x27;disaster zone waiting to happen&#x27;</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/councillor-calls-500-home-bexhill-plan-a-disaster-zone-waiting-to/</link>
+    <guid isPermaLink="false">story-148</guid>
+    <pubDate>Wed, 11 Nov 2026 08:25:29 +0000</pubDate>
+    <category>Politics</category>
+    <description>A Bexhill town councillor has described proposals for a potential 500 new homes in the town as a &#x27;disaster zone waiting to happen&#x27;.</description>
+  </item>
+  <item>
+    <title>Donations top £10,000 for Isfield farm shop after raid</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/donations-top-10-000-for-isfield-farm-shop-after-raid/</link>
+    <guid isPermaLink="false">story-149</guid>
+    <pubDate>Wed, 11 Nov 2026 08:25:29 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Donations totalling more than £10,000 have flowed in to help a family farm in Isfield after thieves ransacked its shop, the owners said.</description>
+  </item>
   <item>
     <title>Residents to have say on East Sussex supported housing strategy</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/10/residents-to-have-say-on-east-sussex-supported-housing-strategy/</link>
@@ -622,30 +646,6 @@
     <pubDate>Mon, 02 Nov 2026 08:39:57 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A new autumn ritual called &#x27;Dusking&#x27; has reached the Hastings seafront, bringing morris dancing to the town&#x27;s darkening days.</description>
-  </item>
-  <item>
-    <title>On this day, 1940: An air raid damages every house on The Lawn, St Leonards</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-02/</link>
-    <guid isPermaLink="false">otd-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 07:00:00 +0000</pubDate>
-    <category>On this day</category>
-    <description>On 11 November 1940, an air attack reached The Lawn, a road of semi-detached houses in St Leonards.</description>
-  </item>
-  <item>
-    <title>Police appeal to find Orion, 15, last seen in St Leonards</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/01/police-appeal-to-find-orion-15-last-seen-in-st-leonards/</link>
-    <guid isPermaLink="false">story-74</guid>
-    <pubDate>Sun, 01 Nov 2026 13:07:27 +0000</pubDate>
-    <category>Crime &amp; courts</category>
-    <description>Police are appealing to the public to help find a missing 15-year-old boy who was last seen in St Leonards on Saturday (31 October).</description>
-  </item>
-  <item>
-    <title>On this day, 1597: A storm swept away the old Hastings harbour</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-01/</link>
-    <guid isPermaLink="false">otd-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 07:00:00 +0000</pubDate>
-    <category>On this day</category>
-    <description>A storm swept away the town&#x27;s harbour on this day in 1597. Between 1595 and 1597, a large and expensive harbour, known as the &#x27;pier&#x27;, was built in front of Hastings Old Town. On 1 November 1597, a storm swept it away.</description>
   </item>
 </channel>
 </rss>

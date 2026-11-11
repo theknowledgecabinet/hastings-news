@@ -56,9 +56,9 @@ related:
 - url: /2026/11/09/plans-for-42-new-homes-by-st-leonards-bannatyne-s-spa-hotel/
   title: Plans for 42 new homes by St Leonards' Bannatyne's Spa Hotel
   day: '2026-11-09'
-- url: /2026/11/03/cooden-beach-golf-club-seeks-permission-for-homes-on-part-of-its/
-  title: Cooden Beach Golf Club seeks permission for homes on part of its course
-  day: '2026-11-03'
+- url: /2026/11/11/councillor-calls-500-home-bexhill-plan-a-disaster-zone-waiting-to/
+  title: Councillor calls 500-home Bexhill plan a 'disaster zone waiting to happen'
+  day: '2026-11-11'
 ---
 {% raw %}
 Proposals to build up to 125 homes on the Hodson's Mill site in Robertsbridge are set to go before Rother District Council's planning committee on Thursday, 12 November. The plans come from Homes England, the government's housing and regeneration agency.

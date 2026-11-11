@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 10 Nov 2026 12:50:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:25:29 +0000</lastBuildDate>
+  <item>
+    <title>Donations top £10,000 for Isfield farm shop after raid</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/donations-top-10-000-for-isfield-farm-shop-after-raid/</link>
+    <guid isPermaLink="false">story-149</guid>
+    <pubDate>Wed, 11 Nov 2026 08:25:29 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Donations totalling more than £10,000 have flowed in to help a family farm in Isfield after thieves ransacked its shop, the owners said.</description>
+  </item>
   <item>
     <title>Bexhill Leisure Centre named UK Active Awards finalist</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/10/bexhill-leisure-centre-named-uk-active-awards-finalist/</link>
@@ -398,14 +406,6 @@
     <pubDate>Thu, 29 Oct 2026 19:27:04 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Conor O&#x27;Brien from Hastings has organised a 75km run from Brighton Pier to Hastings Pier in memory of his father.</description>
-  </item>
-  <item>
-    <title>Hattrick the rescued pigeon is on the road to recovery</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/29/hattrick-the-rescued-pigeon-is-on-the-road-to-recovery/</link>
-    <guid isPermaLink="false">story-53</guid>
-    <pubDate>Thu, 29 Oct 2026 12:43:07 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A pigeon that was rescued after being snared in bird netting at the Hastings Library building is on the road to recovery.</description>
   </item>
 </channel>
 </rss>
