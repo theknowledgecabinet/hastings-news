@@ -44,6 +44,7 @@ image:
   alt: Queens Road, Hastings
   artist: Paul Gillett
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Queens_Road,_Hastings_-_geograph.org.uk_-_2897054.jpg

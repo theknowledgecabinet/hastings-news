@@ -31,23 +31,28 @@ sources:
 comment: Five years after the attack on Bexhill Road, the case has moved into the courts. What remains for the town is the long road from a street incident to a charge, and a family who, whatever the outcome, will not get their husband and father back.
 image:
   card:
-    url: /assets/media/abstract/story-147/card.webp
+    url: /assets/media/story/147/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-147/medium.webp
+    url: /assets/media/story/147/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-147/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/147/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-147/share.jpg
-  color: '#a03c34'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/147/share.jpg
+  color: '#64696d'
+  alt: Police car parked on wet street at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-11T08:26:27+00:00'
 ---
 {% raw %}

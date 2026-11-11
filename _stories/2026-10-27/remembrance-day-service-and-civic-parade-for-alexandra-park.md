@@ -42,6 +42,7 @@ image:
   alt: War Memorial, Alexandra Park
   artist: N Chadwick
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:War_Memorial,_Alexandra_Park_-_geograph.org.uk_-_2361096.jpg

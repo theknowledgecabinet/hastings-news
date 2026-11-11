@@ -47,6 +47,7 @@ image:
   alt: 'The Palace of Westminster at night as seen from the opposite side of the River Thames . Victoria Tower and the House of Lords is on the left. The Clock Tower of Big Ben and the House of Commons is on '
   artist: Diliff
   match: generic
+  ai: false
   licence: CC BY-SA 2.5
   licence_url: https://creativecommons.org/licenses/by-sa/2.5
   page: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg

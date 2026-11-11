@@ -46,6 +46,7 @@ image:
   alt: Police car, Dungannon The Skoda Octavia is favoured by all the emergency services, including Police, Fire and Rescue and Ambulance Services
   artist: Kenneth Allen
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Police_car,_Dungannon_-_geograph.org.uk_-_1470001.jpg

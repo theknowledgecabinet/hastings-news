@@ -42,6 +42,7 @@ image:
   alt: Mermaid Inn, Mermaid Street, Rye, Rother District, East Sussex, England. This is a photo of listed building number 1251961 .
   artist: User:Hassocks5489
   match: exact
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Mermaid_Inn,_Mermaid_Street,_Rye_(NHLE_Code_1251961)_(July_2011)_(4).jpg

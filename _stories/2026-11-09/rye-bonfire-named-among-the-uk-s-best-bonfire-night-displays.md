@@ -44,6 +44,7 @@ image:
   alt: Rye Bonfire 2024; picture of bonfire with silhouette of a person.
   artist: ResonantDistortion
   match: exact
+  ai: false
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:RyeBonfire2024_BonfireSilhouette.jpg

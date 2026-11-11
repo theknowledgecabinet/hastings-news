@@ -43,6 +43,7 @@ image:
   alt: Water Treatment Plant
   artist: martin dawes
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Water_Treatment_Plant_-_geograph.org.uk_-_1181542.jpg

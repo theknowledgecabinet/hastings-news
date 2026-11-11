@@ -44,6 +44,7 @@ image:
   alt: The Blade (an office building) just visible behind the Crown Court in the English town of Reading. Viewed from The Forbury.
   artist: Bill Nicholls
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Blade_behind_the_court_-_geograph.org.uk_-_2028955.jpg

@@ -44,6 +44,7 @@ image:
   alt: Dailly Village, Christmas Lights
   artist: Billy McCrorie
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Dailly_Village,_Christmas_Lights_-_geograph.org.uk_-_6006813.jpg

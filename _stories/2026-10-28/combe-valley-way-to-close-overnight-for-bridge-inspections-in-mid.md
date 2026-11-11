@@ -44,6 +44,7 @@ image:
   alt: A2690 Combe Valley Way
   artist: Robin Webster
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:A2690_Combe_Valley_Way_-_geograph.org.uk_-_6140964.jpg

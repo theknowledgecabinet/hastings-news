@@ -42,6 +42,7 @@ image:
   alt: East Hastings Sea Angling Association
   artist: Nigel Chadwick
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:East_Hastings_Sea_Angling_Association_-_geograph.org.uk_-_1196162.jpg

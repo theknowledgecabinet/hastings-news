@@ -41,6 +41,7 @@ image:
   alt: Red Lion Pub, Hooe
   artist: Julian P Guffogg
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Red_Lion_Pub,_Hooe_-_geograph.org.uk_-_1277396.jpg

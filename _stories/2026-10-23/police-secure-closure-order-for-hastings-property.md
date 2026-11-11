@@ -42,6 +42,7 @@ image:
   alt: The Old Police Station, High Street. Pevsner says "..the plain POLICE STATION of 1847 by the County Surveyor, J.S.Padley, originally symmetrical and all single-storeyed." For another Police Station by
   artist: David Wright
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Old_Police_Station,_High_Street_-_geograph.org.uk_-_202297.jpg

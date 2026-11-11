@@ -44,6 +44,7 @@ image:
   alt: West Hill Lift, Hastings
   artist: Stacey Harris
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:West_Hill_Lift,_Hastings_-_geograph.org.uk_-_1529537.jpg

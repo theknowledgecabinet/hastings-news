@@ -43,6 +43,7 @@ image:
   alt: A ultramarathoner running the 32 Mile Wyoming Ultramarathon in the Bighorn Mountains
   artist: Robeter at English Wikipedia
   match: generic
+  ai: false
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:Runner-1-.jpg

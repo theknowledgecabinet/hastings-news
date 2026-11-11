@@ -42,6 +42,7 @@ image:
   alt: e-Scooter in Berlin
   artist: Matti Blume
   match: generic
+  ai: false
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:Scooter,_Berlin_(P1080138).jpg

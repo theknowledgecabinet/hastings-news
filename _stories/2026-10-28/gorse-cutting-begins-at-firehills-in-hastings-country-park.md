@@ -43,6 +43,7 @@ image:
   alt: Tractor cutting gorse
   artist: Philip Halling
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Tractor_cutting_gorse_-_geograph.org.uk_-_7024692.jpg

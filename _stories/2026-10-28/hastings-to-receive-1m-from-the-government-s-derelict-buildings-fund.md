@@ -44,6 +44,7 @@ image:
   alt: St Mary in the Castle, Hastings
   artist: Colin Smith
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:St_Mary_in_the_Castle,_Hastings_-_geograph.org.uk_-_2017268.jpg

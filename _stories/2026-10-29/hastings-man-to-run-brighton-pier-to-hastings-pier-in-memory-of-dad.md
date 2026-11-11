@@ -45,6 +45,7 @@ image:
   alt: The lonliness of the long-distance runner(s) These two runners had just finished running along the foot/cycle path that runs along the side of the A14 here - which can't have been too nice for them. I
   artist: Oxymoron
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_lonliness_of_the_long-distance_runner(s)_-_geograph.org.uk_-_1227468.jpg

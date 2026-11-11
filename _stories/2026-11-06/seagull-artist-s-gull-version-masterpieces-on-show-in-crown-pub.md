@@ -43,6 +43,7 @@ image:
   alt: Seagulls by the beach at Walcott, Norfolk, UK. Some flying, some standing.
   artist: Whippetsgalore
   match: generic
+  ai: false
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:Seagulls_walcott.jpg

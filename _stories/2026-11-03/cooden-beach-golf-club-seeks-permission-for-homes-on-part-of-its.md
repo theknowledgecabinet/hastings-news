@@ -43,6 +43,7 @@ image:
   alt: 18 hole, par 72. Established 1912.
   artist: Alexis Markwick
   match: exact
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Cooden_Beach_Golf_Club,_Cooden_Sea_Road,_Bexhill.jpg

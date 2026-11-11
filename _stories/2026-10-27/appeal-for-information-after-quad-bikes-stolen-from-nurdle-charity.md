@@ -44,6 +44,7 @@ image:
   alt: A Honda quad bike. Also known as four-wheeler or ATV (All-terrain vehicle)
   artist: Felix I.
   match: generic
+  ai: false
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:Honda_Quad_in_light_green.jpg

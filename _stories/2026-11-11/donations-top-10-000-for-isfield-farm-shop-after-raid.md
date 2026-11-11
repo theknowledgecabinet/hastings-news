@@ -25,23 +25,28 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/story-149/card.webp
+    url: /assets/media/story/149/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-149/medium.webp
+    url: /assets/media/story/149/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-149/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/149/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-149/share.jpg
-  color: '#a56832'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/149/share.jpg
+  color: '#77756a'
+  alt: Distant figures outside a rural farm shop at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-11T08:29:58+00:00'
 related:
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/

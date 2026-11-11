@@ -41,6 +41,7 @@ image:
   alt: The Coach and Horses, Danehill. A cosy pub built out of local sandstone with a garden to enjoy the scenery. One of the best rural pubs in this part of Sussex.
   artist: Nigel Freeman
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Coach_and_Horses,_Danehill_-_geograph.org.uk_-_54541.jpg

@@ -41,6 +41,7 @@ image:
   alt: Behind the Flood Barrier, Upton Showing the structure of the newly erected temporary barrier. The metal support is covered with a plastic sheet held down with the weight of chains.
   artist: Bob Embleton
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Behind_the_Flood_Barrier,_Upton_-_geograph.org.uk_-_292014.jpg

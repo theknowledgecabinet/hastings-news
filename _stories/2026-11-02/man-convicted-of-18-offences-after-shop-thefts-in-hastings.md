@@ -44,6 +44,7 @@ image:
   alt: Hastings Town Centre Hastings town centre and suburbs viewed from the West Hill, near the castle. The sea and pier can be seen to the left, the large white building in the centre is the new Station Pl
   artist: Oast House Archive
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Hastings_Town_Centre_-_geograph.org.uk_-_1703970.jpg

@@ -41,6 +41,7 @@ image:
   alt: Front of Hastings Station
   artist: Paul Gillett
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Front_of_Hastings_Station_-_geograph.org.uk_-_1751004.jpg

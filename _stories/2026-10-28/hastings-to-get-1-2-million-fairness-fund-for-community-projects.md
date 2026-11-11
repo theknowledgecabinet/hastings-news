@@ -44,6 +44,7 @@ image:
   alt: Town centre, Hastings, England.
   artist: Ross Burgess
   match: generic
+  ai: false
   licence: CC BY-SA 3.0
   licence_url: http://creativecommons.org/licenses/by-sa/3.0/
   page: https://commons.wikimedia.org/wiki/File:Hastings_town_centre.JPG

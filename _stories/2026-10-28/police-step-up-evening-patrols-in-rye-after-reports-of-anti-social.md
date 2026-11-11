@@ -42,6 +42,7 @@ image:
   alt: Police Car on Western Lawns Eastbourne
   artist: PAUL FARMER
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Police_Car_on_Western_Lawns_Eastbourne_-_geograph.org.uk_-_4080224.jpg

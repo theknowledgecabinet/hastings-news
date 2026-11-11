@@ -43,6 +43,7 @@ image:
   alt: S.W.Doughty, family butcher This independent butcher shop on The Street, Doddington, is known for its sausages.
   artist: pam fray
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:S.W.Doughty,_family_butcher_-_geograph.org.uk_-_736416.jpg

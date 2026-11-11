@@ -42,6 +42,7 @@ image:
   alt: The council chamber in Swansea Guildhall This chamber is extensively covered in exotic hardwood and has a tapestry running all around it below the ceiling. For example, the supporting steel & concrete
   artist: Nigel Davies
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_council_chamber_in_Swansea_Guildhall_-_geograph.org.uk_-_1491171.jpg

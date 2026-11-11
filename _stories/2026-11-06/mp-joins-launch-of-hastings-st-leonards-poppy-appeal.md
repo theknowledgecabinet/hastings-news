@@ -46,6 +46,7 @@ image:
   alt: Remembrance poppies in the Imperial War Museum London
   artist: HH58
   match: generic
+  ai: false
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:Remembrance_poppies_in_the_Imperial_War_Museum_London.jpg

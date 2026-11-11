@@ -25,23 +25,28 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/story-148/card.webp
+    url: /assets/media/story/148/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-148/medium.webp
+    url: /assets/media/story/148/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-148/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/148/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-148/share.jpg
-  color: '#62408d'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/148/share.jpg
+  color: '#9c8e84'
+  alt: Wet residential street with orange barriers and distant pedestrians
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 related:
 - url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
   title: Bexhill councillor calls parking permit charges 'extortionate'

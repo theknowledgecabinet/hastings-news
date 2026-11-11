@@ -41,6 +41,7 @@ image:
   alt: New Residential Development - Falkland Way
   artist: David Wright
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:New_Residential_Development_-_Falkland_Way_-_geograph.org.uk_-_2602239.jpg

@@ -44,6 +44,7 @@ image:
   alt: Antique Shop
   artist: robert wade
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Antique_Shop_-_geograph.org.uk_-_968284.jpg

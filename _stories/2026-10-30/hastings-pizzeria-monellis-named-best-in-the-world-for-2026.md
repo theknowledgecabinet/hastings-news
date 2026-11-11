@@ -43,6 +43,7 @@ image:
   alt: Sourdough pizza
   artist: jeffreyw
   match: generic
+  ai: false
   licence: CC BY 2.0
   licence_url: https://creativecommons.org/licenses/by/2.0
   page: https://commons.wikimedia.org/wiki/File:Sourdough_pizza.jpg

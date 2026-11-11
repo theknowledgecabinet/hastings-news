@@ -43,6 +43,7 @@ image:
   alt: A guitarist plays on stage under bright lights at a concert in the evening. Fans watch and enjoy the music while capturing the moment. The energy is high as the band performs.
   artist: Shixart1985
   match: generic
+  ai: false
   licence: CC BY 2.0
   licence_url: https://creativecommons.org/licenses/by/2.0
   page: https://commons.wikimedia.org/wiki/File:Guitarist_performs_on_stage_during_a_nighttime_concert.jpg

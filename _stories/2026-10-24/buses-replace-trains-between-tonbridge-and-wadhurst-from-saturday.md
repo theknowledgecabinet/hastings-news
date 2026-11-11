@@ -46,6 +46,7 @@ image:
   alt: Rail Replacement Bus
   artist: Bob Harvey
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Rail_Replacement_Bus_-_geograph.org.uk_-_7224585.jpg

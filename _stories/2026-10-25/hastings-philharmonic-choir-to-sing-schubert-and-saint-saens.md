@@ -42,6 +42,7 @@ image:
   alt: 'All Saints Church, All Saints Street, Old Town, Hastings, East Sussex, England. One of the two surviving medieval churches in the Old Town area of Hastings. Listed at Grade B by English Heritage (IoE '
   artist: The Voice of Hassocks
   match: exact
+  ai: false
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:All_Saints_Church,_Old_Town,_Hastings_(IoE_Code_293639).JPG

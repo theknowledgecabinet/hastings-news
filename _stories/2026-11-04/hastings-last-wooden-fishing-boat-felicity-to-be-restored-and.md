@@ -44,6 +44,7 @@ image:
   alt: Felicity, RX58
   artist: Oast House Archive
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Felicity,_RX58_-_geograph.org.uk_-_2189616.jpg

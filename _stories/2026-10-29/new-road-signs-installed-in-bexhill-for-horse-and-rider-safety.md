@@ -42,6 +42,7 @@ image:
   alt: Warning sign - horse riders, Broughton Road, Lodge
   artist: Jaggery
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Warning_sign_-_horse_riders,_Broughton_Road,_Lodge_-_geograph.org.uk_-_6228596.jpg

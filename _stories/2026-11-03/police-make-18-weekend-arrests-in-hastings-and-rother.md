@@ -45,6 +45,7 @@ image:
   alt: Reading Crown Court, Berkshire, England
   artist: Harry Mitchell
   match: generic
+  ai: false
   licence: CC BY 4.0
   licence_url: https://creativecommons.org/licenses/by/4.0
   page: https://commons.wikimedia.org/wiki/File:Reading_Crown_Court_(1).JPG

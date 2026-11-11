@@ -48,6 +48,7 @@ image:
   alt: Supported housing
   artist: Jonathan Thacker
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Supported_housing_-_geograph.org.uk_-_4452536.jpg

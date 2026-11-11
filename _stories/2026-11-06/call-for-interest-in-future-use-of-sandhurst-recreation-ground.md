@@ -43,6 +43,7 @@ image:
   alt: 'Wells-next-the-Sea: the Seasiders'' football pitch Wells Town FC''s home ground - the gridline crosses the pitch roughly in tandem with the centre line (see also 1605338 ).'
   artist: Chris Downer
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Wells-next-the-Sea,_the_Seasiders%27_football_pitch_-_geograph.org.uk_-_1605336.jpg

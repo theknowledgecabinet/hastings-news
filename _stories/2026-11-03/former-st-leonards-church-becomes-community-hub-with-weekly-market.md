@@ -42,6 +42,7 @@ image:
   alt: Former Former St Leonards-on-Sea Congregational Church, London Road, St Leonards-on-Sea, Borough of Hastings, East Sussex, England.
   artist: Hassocks5489
   match: exact
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Former_St_Leonards-on-Sea_Congregational_Church,_London_Road,_St_Leonards-on-Sea_(NHLE_Code_1390718)_(June_2015)_(6).JPG

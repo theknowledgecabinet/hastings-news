@@ -41,6 +41,7 @@ image:
   alt: Ravenside Retail Leisure Park, Bexhill
   artist: Oast House Archive
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Ravenside_Retail_Leisure_Park,_Bexhill_-_geograph.org.uk_-_2220032.jpg

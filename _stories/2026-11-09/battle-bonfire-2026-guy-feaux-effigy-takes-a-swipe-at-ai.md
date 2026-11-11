@@ -42,6 +42,7 @@ image:
   alt: "Lewes Guy Fawkes Night Celebrations (2) The 5th of November is celebrated throughout England; in Lewes, Sussex, they do it in style. Below, is an extract from the Cliffe Bonfire Society website: \x93Foll"
   artist: Peter Trimming
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Lewes_Guy_Fawkes_Night_Celebrations_(2)_-_geograph.org.uk_-_1570186.jpg

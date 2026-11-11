@@ -44,6 +44,7 @@ image:
   alt: 'The Old School Centre, South Brent In 1997 Devon County Council built a new school in South Brent. The old Victorian school was bought by the local community with grant aid and is used as a community '
   artist: Adrian Platt
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Old_School_Centre,_South_Brent_-_geograph.org.uk_-_1010187.jpg

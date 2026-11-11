@@ -42,6 +42,7 @@ image:
   alt: Sign for Drumchapel Hospital Not a general use hospital, but a rehabilitation hospital for mainly older patients who have suffered strokes or are suffering from general ortho-geriatric conditions.
   artist: Stephen Sweeney
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Sign_for_Drumchapel_Hospital_-_geograph.org.uk_-_362957.jpg

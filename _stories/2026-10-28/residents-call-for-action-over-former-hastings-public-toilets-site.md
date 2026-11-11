@@ -43,6 +43,7 @@ image:
   alt: Public Conveniences, Harold Place
   artist: Nigel Chadwick
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Public_Conveniences,_Harold_Place_-_geograph.org.uk_-_1190402.jpg

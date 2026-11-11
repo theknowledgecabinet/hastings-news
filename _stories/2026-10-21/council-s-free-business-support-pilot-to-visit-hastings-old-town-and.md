@@ -47,6 +47,7 @@ image:
   alt: High Street shops
   artist: N Chadwick
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:High_Street_shops_-_geograph.org.uk_-_2352028.jpg

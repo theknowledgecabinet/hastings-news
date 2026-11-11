@@ -44,6 +44,7 @@ image:
   alt: The West Hill Cliff Railway at Hasting, East Sussex, England. For more information see the Wikipedia article West Hill Cliff Railway .
   artist: Patrick Johnson.
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:West_Cliff_Funicular_Railway,_Hastings.jpg

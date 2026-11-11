@@ -43,6 +43,7 @@ image:
   alt: bird trapped in Fringilla ornithological station
   artist: Екатерина Воеводина
   match: generic
+  ai: false
   licence: CC BY 4.0
   licence_url: https://creativecommons.org/licenses/by/4.0
   page: https://commons.wikimedia.org/wiki/File:Siskin_is_trapped.jpg

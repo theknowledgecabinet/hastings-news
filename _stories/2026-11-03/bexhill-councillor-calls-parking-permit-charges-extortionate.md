@@ -43,6 +43,7 @@ image:
   alt: Parking meter - The Point car park
   artist: John C
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Parking_meter_-_The_Point_car_park_-_geograph.org.uk_-_5735698.jpg

@@ -42,6 +42,7 @@ image:
   alt: Public toilet block
   artist: Jonathan Wilkins
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Public_toilet_block_-_geograph.org.uk_-_5952642.jpg

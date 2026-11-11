@@ -46,6 +46,7 @@ image:
   alt: Mixed business and residential property, Water Lane, Exeter
   artist: David Smith
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Mixed_business_and_residential_property,_Water_Lane,_Exeter_-_geograph.org.uk_-_6463094.jpg

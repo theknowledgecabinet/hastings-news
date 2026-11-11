@@ -42,6 +42,7 @@ image:
   alt: Hastings Seafront Looking towards St Leonards.
   artist: JThomas
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Hastings_Seafront_-_geograph.org.uk_-_1276110.jpg

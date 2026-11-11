@@ -42,6 +42,7 @@ image:
   alt: St Michael's Hospice
   artist: Oast House Archive
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:St_Michael%27s_Hospice_-_geograph.org.uk_-_2363743.jpg

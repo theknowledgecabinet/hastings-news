@@ -48,6 +48,7 @@ image:
   alt: Palace of Westminster, London , England , United Kingdom
   artist: Dietmar Rabich
   match: generic
+  ai: false
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:London,_Palace_of_Westminster_--_2016_--_4800.jpg

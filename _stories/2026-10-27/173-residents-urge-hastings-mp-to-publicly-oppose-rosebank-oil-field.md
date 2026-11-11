@@ -44,6 +44,7 @@ image:
   alt: North Sea, Oil Rig
   artist: Banja-Frans Mulder
   match: generic
+  ai: false
   licence: CC BY 3.0
   licence_url: https://creativecommons.org/licenses/by/3.0
   page: https://commons.wikimedia.org/wiki/File:North_Sea,_Oil_Rig_-_panoramio.jpg

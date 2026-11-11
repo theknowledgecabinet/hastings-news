@@ -43,6 +43,7 @@ image:
   alt: Seaside garden and house, Bexhill
   artist: nick macneill
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Seaside_garden_and_house,_Bexhill_-_geograph.org.uk_-_2434942.jpg

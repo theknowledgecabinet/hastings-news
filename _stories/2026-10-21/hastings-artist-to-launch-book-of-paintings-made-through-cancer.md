@@ -42,6 +42,7 @@ image:
   alt: '''Abstract landscape with sun'' - large acrylic painting on canvas in colors green and yellow, painted in 1990 by Dutch artist Fons Heijnsbroek, free image of art in high resolutions'
   artist: Fons Heijnsbroek
   match: generic
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:%27Abstract_landscape_with_sun%27_-_large_acrylic_painting_on_canvas,_painted_in_1990_by_Dutch_artist_Fons_Heijnsbroek,_free_image_of_art_in_high_resolutions.jpg

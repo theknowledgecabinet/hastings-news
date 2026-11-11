@@ -43,6 +43,7 @@ image:
   alt: Battle Abbey in 2018
   artist: WikJonah
   match: generic
+  ai: false
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:Battle_Abbey_2018.jpg

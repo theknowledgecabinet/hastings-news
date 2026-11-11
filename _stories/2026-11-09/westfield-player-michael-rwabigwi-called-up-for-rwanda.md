@@ -42,6 +42,7 @@ image:
   alt: Sunday League. Sunday League football at Appleton near Warrington. Irlam Vale (under 15's) in blue playing Appleton JFC (under 15's). The match was a draw! SJ61978294.
   artist: Keith Williamson
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Sunday_League_-_geograph.org.uk_-_64149.jpg

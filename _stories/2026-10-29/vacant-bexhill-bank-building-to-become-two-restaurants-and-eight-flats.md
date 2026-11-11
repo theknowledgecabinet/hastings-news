@@ -43,6 +43,7 @@ image:
   alt: Former bank building, Rosebery Avenue
   artist: Jim Osley
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Former_bank_building,_Rosebery_Avenue_-_geograph.org.uk_-_5272105.jpg

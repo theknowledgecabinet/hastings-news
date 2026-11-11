@@ -43,6 +43,7 @@ image:
   alt: Rye railway station
   artist: DimiTalen
   match: exact
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Rye_railway_station.jpg

@@ -43,6 +43,7 @@ image:
   alt: Stade Hall, Rock–a–Nore Road, Old Town, Hastings, Borough of Hastings, East Sussex, England.
   artist: Hassocks5489
   match: exact
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Stade_Hall,_Rock-a-Nore_Road,_Old_Town,_Hastings_(October_2020).JPG

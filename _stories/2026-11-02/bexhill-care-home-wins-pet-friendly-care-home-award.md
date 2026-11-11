@@ -42,6 +42,7 @@ image:
   alt: Pre-1805, converted to a care home in 1967.
   artist: Paul Adams
   match: exact
+  ai: false
   licence: CC BY 4.0
   licence_url: https://creativecommons.org/licenses/by/4.0
   page: https://commons.wikimedia.org/wiki/File:Elizabeth_Court_Rest_Home,_4_Hastings_Road,_Bexhill.jpg

@@ -43,6 +43,7 @@ image:
   alt: Crawley_town centre at night - Queen's Square
   artist: jeffwarder
   match: generic
+  ai: false
   licence: CC BY-SA 3.0
   licence_url: https://creativecommons.org/licenses/by-sa/3.0
   page: https://commons.wikimedia.org/wiki/File:Crawley_town_centre_at_night_-_Queen%27s_Square_-_panoramio.jpg

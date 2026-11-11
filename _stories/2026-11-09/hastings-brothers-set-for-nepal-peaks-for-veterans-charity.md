@@ -42,6 +42,7 @@ image:
   alt: Lobuche East from the southeast
   artist: Theprotrekker
   match: generic
+  ai: false
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:Lobuche_East_Peak.jpg

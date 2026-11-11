@@ -44,6 +44,7 @@ image:
   alt: Bell Inn, Main Road, Iden, Rother District, East Sussex, England. This is a photo of listed building number 1234752 .
   artist: User:Hassocks5489
   match: exact
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Bell_Inn,_Main_Road,_Iden_(NHLE_Code_1234752)_(May_2023)_(2).jpg

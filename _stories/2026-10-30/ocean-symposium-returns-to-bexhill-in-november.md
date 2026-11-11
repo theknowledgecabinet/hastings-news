@@ -42,6 +42,7 @@ image:
   alt: St Peter's Community Centre, Church Street, Bexhill, Rother District, East Sussex, England.
   artist: User:Hassocks5489
   match: exact
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:St_Peter%27s_Community_Centre,_Church_Street,_Bexhill_(May_2025).jpg

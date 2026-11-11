@@ -51,6 +51,7 @@ image:
   alt: Hastings Castle with town in the background
   artist: Kreepin Deth
   match: exact
+  ai: false
   licence: CC BY-SA 3.0
   licence_url: https://creativecommons.org/licenses/by-sa/3.0
   page: https://commons.wikimedia.org/wiki/File:Hastings_Castle_2012-07-28.jpg

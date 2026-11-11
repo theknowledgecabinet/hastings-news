@@ -51,6 +51,7 @@ image:
   alt: New residential & retail building In Milton Keynes' theatre district, this rather new building homes several retail units on the ground floor and flats on the upper floors.
   artist: Mr Biz
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:New_residential_and_retail_building_-_geograph.org.uk_-_746595.jpg

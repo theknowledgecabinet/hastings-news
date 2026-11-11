@@ -43,6 +43,7 @@ image:
   alt: '500px provided description: Here is an hdr photograph taken from the council cambers inside Glasgow City Chambers. Located in Glasgow, Scotland, UK. (Taken with kind permission of the administration).'
   artist: Michael D Beckwith
   match: generic
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_The_Council_Chamber_(215139877).jpeg

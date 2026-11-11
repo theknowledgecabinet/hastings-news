@@ -43,6 +43,7 @@ image:
   alt: Former St Michael's Chapel at the Convent of the Holy Child Jesus, Magdalen Road, St Leonards-on-Sea, Hastings, East Sussex, England. Built in 1848 by A.W.N. Pugin in the Decorated Gothic Revival styl
   artist: The Voice of Hassocks
   match: exact
+  ai: false
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:Former_St_Michael%27s_RC_Chapel,_Holy_Child_of_Jesus_Convent,_St_Leonards_(IoE_Code_293987).JPG

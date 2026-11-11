@@ -42,6 +42,7 @@ image:
   alt: Camber Sands Holiday Park
   artist: N Chadwick
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Camber_Sands_Holiday_Park_-_geograph.org.uk_-_5212344.jpg

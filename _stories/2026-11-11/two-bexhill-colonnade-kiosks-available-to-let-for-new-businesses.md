@@ -41,6 +41,7 @@ image:
   alt: The Colonnade at Bexhill
   artist: Steve Daniels
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Colonnade_at_Bexhill_-_geograph.org.uk_-_3000047.jpg

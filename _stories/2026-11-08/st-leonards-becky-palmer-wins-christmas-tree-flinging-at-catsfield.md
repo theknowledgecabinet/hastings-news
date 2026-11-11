@@ -44,6 +44,7 @@ image:
   alt: Young Norway Spruce ( Picea abies ) in the Freisinger Forst, South of the Bunker Fridolin
   artist: Flocci Nivis
   match: generic
+  ai: false
   licence: CC BY 4.0
   licence_url: https://creativecommons.org/licenses/by/4.0
   page: https://commons.wikimedia.org/wiki/File:20250322_Picea_abies.jpg

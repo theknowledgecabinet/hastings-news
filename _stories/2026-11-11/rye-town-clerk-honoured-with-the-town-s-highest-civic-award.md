@@ -42,6 +42,7 @@ image:
   alt: The Town Clerk's Door On west side of the Moot Hall
   artist: John Winfield
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Town_Clerk%27s_Door_-_geograph.org.uk_-_463015.jpg

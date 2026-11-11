@@ -43,6 +43,7 @@ image:
   alt: Children's playground equipment
   artist: Richard Law
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Children%27s_playground_equipment_-_geograph.org.uk_-_3799941.jpg

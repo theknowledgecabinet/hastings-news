@@ -42,6 +42,7 @@ image:
   alt: 'This is an image with the theme " Rites and Rituals " from:'
   artist: Jameswasswa
   match: generic
+  ai: false
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:Professional_Eyelash_Extension_Preparation.jpg

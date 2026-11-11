@@ -44,6 +44,7 @@ image:
   alt: Former Convent of Holy Child Jesus
   artist: Oast House Archive
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Former_Convent_of_Holy_Child_Jesus_-_geograph.org.uk_-_2849925.jpg

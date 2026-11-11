@@ -42,6 +42,7 @@ image:
   alt: Former St Mary-in-the-Castle Church, Pelham Crescent, Hastings, East Sussex, England. Built in 1828 by Joseph Kay as the centrepiece of the residential Pelham Crescent. Now an arts centre. Listed at G
   artist: The Voice of Hassocks
   match: exact
+  ai: false
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:Former_St_Mary-in-the-Castle_Church,_Old_Town,_Hastings_(IoE_Code_294035).JPG

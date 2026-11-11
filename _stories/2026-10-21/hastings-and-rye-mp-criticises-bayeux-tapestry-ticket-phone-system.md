@@ -53,6 +53,7 @@ image:
   alt: The Entrance to the British Museum. The museum as seen from the entrance in Great Russell Street.
   artist: Pam Brophy
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Entrance_to_the_British_Museum_-_geograph.org.uk_-_7173.jpg

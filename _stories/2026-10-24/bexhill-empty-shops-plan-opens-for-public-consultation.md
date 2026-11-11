@@ -51,6 +51,7 @@ image:
   alt: 'Haverfordwest, High Street: A row of empty shops'
   artist: Michael Garlick
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Haverfordwest,_High_Street,_A_row_of_empty_shops_-_geograph.org.uk_-_6882639.jpg

@@ -45,6 +45,7 @@ image:
   alt: Volunteers clean up beach debris.jpg
   artist: CapeHatterasNPS
   match: generic
+  ai: false
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:Volunteers_clean_up_beach_debris.jpg

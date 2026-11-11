@@ -46,6 +46,7 @@ image:
   alt: Terraced houses, Devonshire Rd
   artist: Nigel Chadwick
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Terraced_houses,_Devonshire_Rd_-_geograph.org.uk_-_1773637.jpg

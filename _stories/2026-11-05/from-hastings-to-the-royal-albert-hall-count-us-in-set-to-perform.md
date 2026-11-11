@@ -45,6 +45,7 @@ image:
   alt: The entrance to the Royal College of Music, a conservatoire in South Kensington, from Prince Consort Road, down the steps from the Royal Albert Hall
   artist: Shadowssettle
   match: generic
+  ai: false
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:Royal_College_of_Music_Entrance,_Prince_Consort_Road.jpg

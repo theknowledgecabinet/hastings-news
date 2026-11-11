@@ -43,6 +43,7 @@ image:
   alt: Town hall interior
   artist: Bob Harvey
   match: generic
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Town_hall_interior_-_geograph.org.uk_-_5138889.jpg

@@ -43,6 +43,7 @@ image:
   alt: Pett Wall Constructed between 1947-52 to protect the levels and road from the ravages of the sea. The shingle needs to be constantly replenished as the south westerly tides take it away and dump it fu
   artist: Simon Carey
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Pett_Wall_-_geograph.org.uk_-_907021.jpg

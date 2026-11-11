@@ -47,6 +47,7 @@ image:
   alt: Open day at Newhaven fire station, East Sussex, UK. Vehicles operated by East Sussex Fire and Rescue Service
   artist: HJ Mitchell
   match: generic
+  ai: false
   licence: CC BY 4.0
   licence_url: https://creativecommons.org/licenses/by/4.0
   page: https://commons.wikimedia.org/wiki/File:Fire_station_open_day_in_Newhaven_04.jpg

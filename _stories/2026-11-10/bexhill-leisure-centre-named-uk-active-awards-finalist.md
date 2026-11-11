@@ -41,6 +41,7 @@ image:
   alt: The Leisure Centre, Bexhill-on-Sea
   artist: Bill Johnson
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Leisure_Centre,_Bexhill-on-Sea_-_geograph.org.uk_-_685407.jpg

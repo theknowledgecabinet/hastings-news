@@ -42,6 +42,7 @@ image:
   alt: St Leonard's Church, Marina, St Leonards-on-Sea, Borough of Hastings, East Sussex, England. Built in 1832 by James Burton as part of his St Leonards-on-Sea development; rebuilt between 1953 and 1961 b
   artist: Hassocks5489
   match: exact
+  ai: false
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:St_Leonard%27s_Church,_Marina,_St_Leonards-on-Sea_(NHLE_Code_1376621)_(June_2015)_(8).JPG

@@ -42,6 +42,7 @@ image:
   alt: 'Conquest Hospital St Leonards East Sussex Main entrance to the Conquest Hospital on The Ridge St Leonards.The Conquest is a modern district hospital built on a gentle sloping site with 4 levels. Most '
   artist: Janet Richardson
   match: exact
+  ai: false
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Conquest_Hospital_St_Leonards_East_Sussex_-_geograph.org.uk_-_154875.jpg
