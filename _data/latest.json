@@ -5,25 +5,6 @@
  "edition_label": "Midday edition",
  "forecast": [
   {
-   "day": "2026-11-10",
-   "code": 63,
-   "words": "rain",
-   "icon": "🌧️",
-   "high": 9,
-   "low": 6,
-   "rain_chance": 98,
-   "rain_mm": 12.2,
-   "wind": 13,
-   "gusts": 26,
-   "direction": "easterly",
-   "sunrise": "07:04",
-   "sunset": "16:17",
-   "summary": "Rain likely. A high of 9°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:04, sunset 16:17.",
-   "label": "Today",
-   "weekday": "Tue 10 Nov",
-   "long": "Tuesday 10 November"
-  },
-  {
    "day": "2026-11-11",
    "code": 61,
    "words": "light rain",
@@ -38,13 +19,32 @@
    "sunrise": "07:06",
    "sunset": "16:16",
    "summary": "Light rain likely. A high of 10°C and a low of 8°C, a moderate breeze from the north east. Sunrise 07:06, sunset 16:16.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Wed 11 Nov",
    "long": "Wednesday 11 November"
+  },
+  {
+   "day": "2026-11-12",
+   "code": 51,
+   "words": "light drizzle",
+   "icon": "🌦️",
+   "high": 9,
+   "low": 4,
+   "rain_chance": 0,
+   "rain_mm": 0.1,
+   "wind": 16,
+   "gusts": 32,
+   "direction": "northerly",
+   "sunrise": "07:08",
+   "sunset": "16:14",
+   "summary": "Light drizzle possible (0% chance). A high of 9°C and a low of 4°C, a moderate breeze from the north, gusting 32 mph. Sunrise 07:08, sunset 16:14.",
+   "label": "Tomorrow",
+   "weekday": "Thu 12 Nov",
+   "long": "Thursday 12 November"
   }
  ],
- "today_label": "Tuesday 10 November 2026",
- "today_short": "Tue 10 Nov",
+ "today_label": "Wednesday 11 November 2026",
+ "today_short": "Wed 11 Nov",
  "editions": [
   {
    "name": "midday",
