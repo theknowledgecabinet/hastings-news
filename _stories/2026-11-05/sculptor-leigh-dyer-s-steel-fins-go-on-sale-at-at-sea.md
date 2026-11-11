@@ -26,23 +26,28 @@ sources:
 comment: Fins that have already sold quickly, from a man who made the winkle on Winkle Island, is about as Hastings as art gets. Worth a look at At Sea if you have been wondering who made the things you walk past every day.
 image:
   card:
-    url: /assets/media/abstract/story-117/card.webp
+    url: /assets/media/story/117/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-117/medium.webp
+    url: /assets/media/story/117/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-117/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/117/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-117/share.jpg
-  color: '#894c23'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/117/share.jpg
+  color: '#8e8980'
+  alt: Steel fin sculptures displayed on a table in a bright gallery.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 related:
 - url: /2026/11/06/seagull-artist-s-gull-version-masterpieces-on-show-in-crown-pub/
   title: Seagull artist's gull-version masterpieces on show in Crown pub

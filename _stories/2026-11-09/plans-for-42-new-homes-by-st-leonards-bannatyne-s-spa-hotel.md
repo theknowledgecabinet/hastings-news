@@ -29,23 +29,28 @@ sources:
 comment: Forty-two homes is a lot to add to one corner of Hastings Road. The reserved-matters approach means the real detail is still to come, and the public comment window is the one moment local people can weigh in before it is locked in.
 image:
   card:
-    url: /assets/media/abstract/story-141/card.webp
+    url: /assets/media/story/141/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-141/medium.webp
+    url: /assets/media/story/141/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-141/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/141/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-141/share.jpg
-  color: '#1c5c78'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/141/share.jpg
+  color: '#73726b'
+  alt: Empty grassy plot on a residential street in an English seaside town
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 related:
 - url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
   title: Work begins on 27 'luxury flats' development in St Leonards

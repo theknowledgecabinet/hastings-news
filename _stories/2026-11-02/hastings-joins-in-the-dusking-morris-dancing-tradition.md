@@ -27,23 +27,28 @@ sources:
 comment: There is something to be said for a ritual that simply asks people to stop, watch the sun go down, and sing together once in a while.
 image:
   card:
-    url: /assets/media/abstract/story-77/card.webp
+    url: /assets/media/story/77/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-77/medium.webp
+    url: /assets/media/story/77/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-77/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/77/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-77/share.jpg
-  color: '#9a632d'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/77/share.jpg
+  color: '#49373e'
+  alt: Morris dancers on a beach at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 related:
 - url: /2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/
   title: Sculptor Leigh Dyer's steel fins go on sale at At Sea

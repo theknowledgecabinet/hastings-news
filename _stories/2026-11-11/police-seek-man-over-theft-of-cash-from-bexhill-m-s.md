@@ -51,12 +51,12 @@ related:
 - url: /2026/10/25/manhunt-for-escaped-prisoner-with-links-to-sussex/
   title: Manhunt for escaped prisoner with links to Sussex
   day: '2026-10-25'
+- url: /2026/11/11/man-charged-with-theft-after-evading-police-across-railway-line-at-rye/
+  title: Man charged with theft after evading police across railway line at Rye
+  day: '2026-11-11'
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'
-- url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/
-  title: Police appeal after car and horse rider incident in Bexhill
-  day: '2026-10-30'
 ---
 {% raw %}
 Sussex Police is seeking a man in connection with the theft of cash from the Marks and Spencer store in Ravenside Retail Park, Bexhill.

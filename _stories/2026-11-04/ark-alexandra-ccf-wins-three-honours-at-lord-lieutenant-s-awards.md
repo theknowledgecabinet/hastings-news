@@ -26,23 +26,28 @@ sources:
 comment: Three honours in one evening say something about what a school CCF can achieve when its staff put the hours in.
 image:
   card:
-    url: /assets/media/abstract/story-99/card.webp
+    url: /assets/media/story/99/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-99/medium.webp
+    url: /assets/media/story/99/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-99/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/99/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-99/share.jpg
-  color: '#755120'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/99/share.jpg
+  color: '#5f5349'
+  alt: Silver trophy and certificate on a table in a formal hall
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-04T08:20:15+00:00'
 ---
 {% raw %}

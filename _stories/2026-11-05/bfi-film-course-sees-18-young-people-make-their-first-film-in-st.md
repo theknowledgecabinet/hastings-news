@@ -28,23 +28,28 @@ sources:
 comment: 'A short film made in a week by teenagers with no film experience, ending on the big screen at the Odeon: it is the sort of local story that makes the talent pipeline feel real. The December screening is one to mark down.'
 image:
   card:
-    url: /assets/media/abstract/story-112/card.webp
+    url: /assets/media/story/112/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-112/medium.webp
+    url: /assets/media/story/112/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-112/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/112/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-112/share.jpg
-  color: '#916024'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/112/share.jpg
+  color: '#a5a4a2'
+  alt: Film camera on tripod on pebbled beach with distant teenagers
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 ---
 {% raw %}
 A group of 18 young people under 19 have taken part in a six-day film course in St Leonards, making an original short film from scratch as part of the BFI Film Academy South East Introductory Course.

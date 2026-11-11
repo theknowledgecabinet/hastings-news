@@ -53,6 +53,9 @@ image:
   default: false
 checked: '2026-10-26T18:36:00+00:00'
 related:
+- url: /2026/11/11/southern-services-delayed-between-eastbourne-and-hastings-after/
+  title: Southern services delayed between Eastbourne and Hastings after trespassers
+  day: '2026-11-11'
 - url: /2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/
   title: Storm power cuts threatened water supply to the Hastings area
   day: '2026-10-26'

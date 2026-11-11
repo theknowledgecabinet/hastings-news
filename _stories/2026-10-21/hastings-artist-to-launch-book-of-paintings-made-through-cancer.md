@@ -52,6 +52,9 @@ related:
 - url: /2026/10/29/hastings-butcher-releases-calendar-of-12-butchers-for-mental-health-uk/
   title: Hastings butcher releases calendar of 12 butchers for Mental Health UK
   day: '2026-10-29'
+- url: /2026/11/11/liane-carroll-to-give-christmas-concert-at-st-clement-s-for-the-sara/
+  title: Liane Carroll to give Christmas concert at St Clement's for the Sara Lee Trust
+  day: '2026-11-11'
 - url: /2026/11/02/martin-cohen-to-launch-new-book-at-hastings-palestine-solidarity-event/
   title: Martin Cohen to launch new book at Hastings Palestine Solidarity event
   day: '2026-11-02'

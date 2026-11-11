@@ -27,23 +27,28 @@ sources:
 comment: A community centre is often the last public building in a village that no larger organisation runs. The real question is whether a volunteer group can be expected to find the capital for major repairs, and how much support the council will offer behind the lease.
 image:
   card:
-    url: /assets/media/abstract/story-103/card.webp
+    url: /assets/media/story/103/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-103/medium.webp
+    url: /assets/media/story/103/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-103/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/103/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-103/share.jpg
-  color: '#103743'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/103/share.jpg
+  color: '#918f8d'
+  alt: Worn brick community hall on a quiet street
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 related:
 - url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
   title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton

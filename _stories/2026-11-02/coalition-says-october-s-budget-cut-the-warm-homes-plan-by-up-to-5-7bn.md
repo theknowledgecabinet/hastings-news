@@ -26,23 +26,28 @@ sources:
 comment: The coalition calls the package piecemeal. If average bills really are set to rise by around £300 a year over 2027, the real test of whether that £100 payment helps is when the January bills land.
 image:
   card:
-    url: /assets/media/abstract/story-75/card.webp
+    url: /assets/media/story/75/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-75/medium.webp
+    url: /assets/media/story/75/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-75/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/75/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-75/share.jpg
-  color: '#593277'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/75/share.jpg
+  color: '#8f8d8b'
+  alt: Rusted gas boiler on wet pavement in English seaside town
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 related:
 - url: /2026/10/21/warm-homes-plan-cuts-would-be-terrible-blunder-local-energy-service/
   title: Warm Homes Plan cuts would be 'terrible blunder', local energy service warns

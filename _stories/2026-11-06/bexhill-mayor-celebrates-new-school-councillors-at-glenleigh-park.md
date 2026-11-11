@@ -25,23 +25,28 @@ sources:
 comment: Getting children to stand for school councillor is a fine introduction to how local democracy actually works. It is the sort of thing that tends to stay with them long after the assembly ends.
 image:
   card:
-    url: /assets/media/abstract/story-124/card.webp
+    url: /assets/media/story/124/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-124/medium.webp
+    url: /assets/media/story/124/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-124/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/124/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-124/share.jpg
-  color: '#a46734'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/124/share.jpg
+  color: '#948571'
+  alt: Empty school assembly hall with rows of chairs and a stage
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-06T12:58:28+00:00'
 related:
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/

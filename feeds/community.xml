@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 11 Nov 2026 12:47:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 19:18:20 +0000</lastBuildDate>
+  <item>
+    <title>Liane Carroll to give Christmas concert at St Clement&#x27;s for the Sara Lee Trust</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/liane-carroll-to-give-christmas-concert-at-st-clement-s-for-the-sara/</link>
+    <guid isPermaLink="false">story-159</guid>
+    <pubDate>Wed, 11 Nov 2026 19:18:20 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Award-winning jazz artist Liane Carroll is to give a Christmas concert in Hastings to raise vital funds for the Sara Lee Trust, the local cancer charity.</description>
+  </item>
   <item>
     <title>Rye Town Clerk honoured with the town&#x27;s highest civic award</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/rye-town-clerk-honoured-with-the-town-s-highest-civic-award/</link>
@@ -398,14 +406,6 @@
     <pubDate>Fri, 30 Oct 2026 07:50:10 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Pumpkin growers in Rye and the Sompting area near Lancing say they have produced a strong Halloween harvest, despite what the BBC described as the UK&#x27;s hottest summer on record.</description>
-  </item>
-  <item>
-    <title>Rye&#x27;s Mermaid Inn described as one of the UK&#x27;s most haunted pubs</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/30/rye-s-mermaid-inn-described-as-one-of-the-uk-s-most-haunted-pubs/</link>
-    <guid isPermaLink="false">story-61</guid>
-    <pubDate>Fri, 30 Oct 2026 07:50:10 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Mermaid Inn in Rye, a Grade II listed building, is said to be one of the UK&#x27;s most haunted inns, according to The Argus.</description>
   </item>
 </channel>
 </rss>

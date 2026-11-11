@@ -24,23 +24,28 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/story-146/card.webp
+    url: /assets/media/story/146/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-146/medium.webp
+    url: /assets/media/story/146/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-146/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/146/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-146/share.jpg
-  color: '#76401f'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/146/share.jpg
+  color: '#8b887c'
+  alt: Volunteers sharing a fish and chip lunch in a community hall.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-10T12:52:18+00:00'
 ---
 {% raw %}

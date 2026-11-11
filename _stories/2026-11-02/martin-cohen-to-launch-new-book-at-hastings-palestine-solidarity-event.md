@@ -26,23 +26,28 @@ sources:
 comment: An author who moved back to Hastings a year and a half ago, launching a book in his new town's town hall. Worth a look for those curious about the politics of the bookshelf.
 image:
   card:
-    url: /assets/media/abstract/story-76/card.webp
+    url: /assets/media/story/76/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-76/medium.webp
+    url: /assets/media/story/76/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-76/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/76/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-76/share.jpg
-  color: '#8a5627'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/76/share.jpg
+  color: '#5f5344'
+  alt: Empty community hall chairs and a table with books
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-02T08:41:29+00:00'
 related:
 - url: /2026/10/21/hastings-artist-to-launch-book-of-paintings-made-through-cancer/

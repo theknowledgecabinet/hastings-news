@@ -28,23 +28,28 @@ sources:
 comment: The ban's legality is now before the Supreme Court, so the coming ruling may decide how many more people across the country find themselves arrested for holding a sign. Worth watching, whatever side of the debate you sit on.
 image:
   card:
-    url: /assets/media/abstract/story-78/card.webp
+    url: /assets/media/story/78/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-78/medium.webp
+    url: /assets/media/story/78/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-78/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/78/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-78/share.jpg
-  color: '#593b81'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/78/share.jpg
+  color: '#918d8a'
+  alt: Distant figures holding blank signs on a wet seaside street.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-02T09:31:16+00:00'
 related:
 - url: /2026/10/28/eight-hastings-and-rother-residents-renew-challenge-to-mp-over/
