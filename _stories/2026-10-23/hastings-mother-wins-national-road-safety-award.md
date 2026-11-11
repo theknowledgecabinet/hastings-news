@@ -27,23 +27,28 @@ sources:
   name: Sussex Express
 image:
   card:
-    url: /assets/media/abstract/story-17/card.webp
+    url: /assets/media/story/17/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-17/medium.webp
+    url: /assets/media/story/17/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-17/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/17/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-17/share.jpg
-  color: '#b17238'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/17/share.jpg
+  color: '#6a7172'
+  alt: Secured flatbed truck on a wet street with distant figures
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-10-27T05:53:46+00:00'
 related:
 - url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/

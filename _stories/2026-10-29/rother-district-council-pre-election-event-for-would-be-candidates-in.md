@@ -25,23 +25,28 @@ sources:
   name: Rother District Council
 image:
   card:
-    url: /assets/media/abstract/story-48/card.webp
+    url: /assets/media/story/48/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-48/medium.webp
+    url: /assets/media/story/48/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-48/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/48/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-48/share.jpg
-  color: '#174754'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/48/share.jpg
+  color: '#716c61'
+  alt: Empty council meeting room with rows of chairs and a blank screen.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-10-29T08:03:01+00:00'
 related:
 - url: /2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/

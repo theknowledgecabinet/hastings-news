@@ -25,23 +25,28 @@ sources:
 comment: A 1690 naval battle fought off the coast near Rye deserves more attention than it gets. It is a shame the man who finally wrote about it is no longer around to see it in print.
 image:
   card:
-    url: /assets/media/abstract/story-72/card.webp
+    url: /assets/media/story/72/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-72/medium.webp
+    url: /assets/media/story/72/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-72/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/72/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-72/share.jpg
-  color: '#a36730'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/72/share.jpg
+  color: '#989692'
+  alt: Books on a pier bench overlooking a grey sea
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 ---
 {% raw %}
 The final book from late Shoreham-based lawyer Quintin Barry, Beachy Head 1690: The Grand Alliance at Bay, has been published after his death in January 2025, aged 88.
