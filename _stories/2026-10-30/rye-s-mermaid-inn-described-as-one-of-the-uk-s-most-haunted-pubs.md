@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Rye
@@ -43,6 +44,7 @@ image:
   artist: User:Hassocks5489
   match: exact
   ai: false
+  by: null
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Mermaid_Inn,_Mermaid_Street,_Rye_(NHLE_Code_1251961)_(July_2011)_(4).jpg

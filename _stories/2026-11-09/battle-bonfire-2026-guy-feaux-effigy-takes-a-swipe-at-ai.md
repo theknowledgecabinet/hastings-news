@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Battle
@@ -43,6 +44,7 @@ image:
   artist: Peter Trimming
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Lewes_Guy_Fawkes_Night_Celebrations_(2)_-_geograph.org.uk_-_1570186.jpg

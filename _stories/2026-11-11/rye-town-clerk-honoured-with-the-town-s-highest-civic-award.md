@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Rye
@@ -43,6 +44,7 @@ image:
   artist: John Winfield
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Town_Clerk%27s_Door_-_geograph.org.uk_-_463015.jpg

@@ -7,5 +7,7 @@ bio: Knows every lane closure on the A21 and the A259. Brisk and useful.
 beats:
 - traffic
 colour: '#9a7b12'
+photo: /assets/reporters/dave-baldslow.jpg
+artist: false
 description: Knows every lane closure on the A21 and the A259. Brisk and useful.
 ---

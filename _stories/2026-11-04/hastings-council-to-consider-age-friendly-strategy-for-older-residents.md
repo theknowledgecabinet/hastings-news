@@ -14,6 +14,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 lead: true
 places:
@@ -45,6 +46,7 @@ image:
   artist: Adrian Platt
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Old_School_Centre,_South_Brent_-_geograph.org.uk_-_1010187.jpg

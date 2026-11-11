@@ -14,6 +14,7 @@ reporter:
   slug: tom-bulverhythe
   title: Crime and courts correspondent
   url: /reporters/tom-bulverhythe/
+  photo: /assets/reporters/tom-bulverhythe.jpg
 colour: '#b03a2e'
 lead: true
 places:
@@ -43,6 +44,7 @@ image:
   artist: Jacek Halicki
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:2023_Proca_neurobalistyczna.jpg

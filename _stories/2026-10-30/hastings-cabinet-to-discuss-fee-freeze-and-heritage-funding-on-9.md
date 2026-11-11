@@ -14,6 +14,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 places:
 - name: Hastings
@@ -44,6 +45,7 @@ image:
   artist: Bob Harvey
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Town_hall_interior_-_geograph.org.uk_-_5138889.jpg

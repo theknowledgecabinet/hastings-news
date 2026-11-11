@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: St Leonards
@@ -43,6 +44,7 @@ image:
   artist: Oast House Archive
   match: exact
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:St_Michael%27s_Hospice_-_geograph.org.uk_-_2363743.jpg

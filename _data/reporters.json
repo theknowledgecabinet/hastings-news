@@ -4,83 +4,110 @@
   "slug": "ada-fairlight",
   "title": "Editor and briefing host",
   "url": "/reporters/ada-fairlight/",
+  "photo": "/assets/reporters/ada-fairlight.jpg",
   "bio": "Puts each edition together and presents the evening briefing. Calm, warm and to the point.",
   "beats": [],
-  "colour": "#14213d"
+  "colour": "#14213d",
+  "artist": false
  },
  {
   "name": "Tom Bulverhythe",
   "slug": "tom-bulverhythe",
   "title": "Crime and courts correspondent",
   "url": "/reporters/tom-bulverhythe/",
+  "photo": "/assets/reporters/tom-bulverhythe.jpg",
   "bio": "Covers police appeals, charges and court cases. Precise, careful and never sensational.",
   "beats": [
    "crime"
   ],
-  "colour": "#b03a2e"
+  "colour": "#b03a2e",
+  "artist": false
  },
  {
   "name": "Priya Ore",
   "slug": "priya-ore",
   "title": "Politics correspondent",
   "url": "/reporters/priya-ore/",
+  "photo": "/assets/reporters/priya-ore.jpg",
   "bio": "Follows the MP, the councils' politics and elections. Even-handed and clear about who decides what.",
   "beats": [
    "politics"
   ],
-  "colour": "#6b3fa0"
+  "colour": "#6b3fa0",
+  "artist": false
  },
  {
   "name": "Martin Gensing",
   "slug": "martin-gensing",
   "title": "Council and public services reporter",
   "url": "/reporters/martin-gensing/",
+  "photo": "/assets/reporters/martin-gensing.jpg",
   "bio": "Turns council decisions into what they mean for your street, your bins and your bills.",
   "beats": [
    "council"
   ],
-  "colour": "#1f6f8b"
+  "colour": "#1f6f8b",
+  "artist": false
  },
  {
   "name": "Rosie Winchelsea",
   "slug": "rosie-winchelsea",
   "title": "Community and people reporter",
   "url": "/reporters/rosie-winchelsea/",
+  "photo": "/assets/reporters/rosie-winchelsea.jpg",
   "bio": "Writes about local people, charities, schools and events, and picks what's on.",
   "beats": [
    "community"
   ],
-  "colour": "#c0742a"
+  "colour": "#c0742a",
+  "artist": false
  },
  {
   "name": "Sam Stade",
   "slug": "sam-stade",
   "title": "Business reporter",
   "url": "/reporters/sam-stade/",
+  "photo": "/assets/reporters/sam-stade.jpg",
   "bio": "Covers local shops, jobs, openings, closures and the town's economy.",
   "beats": [
    "business"
   ],
-  "colour": "#2e7d4f"
+  "colour": "#2e7d4f",
+  "artist": false
  },
  {
   "name": "Dave Baldslow",
   "slug": "dave-baldslow",
   "title": "Traffic and roadworks reporter",
   "url": "/reporters/dave-baldslow/",
+  "photo": "/assets/reporters/dave-baldslow.jpg",
   "bio": "Knows every lane closure on the A21 and the A259. Brisk and useful.",
   "beats": [
    "traffic"
   ],
-  "colour": "#9a7b12"
+  "colour": "#9a7b12",
+  "artist": false
  },
  {
   "name": "Edie Pelham",
   "slug": "edie-pelham",
   "title": "Local history writer",
   "url": "/reporters/edie-pelham/",
+  "photo": "/assets/reporters/edie-pelham.jpg",
   "bio": "Tells a story from the history of Hastings and the 1066 Country every morning.",
   "beats": [],
-  "colour": "#7a5c3e"
+  "colour": "#7a5c3e",
+  "artist": false
+ },
+ {
+  "name": "Iris Ecclesbourne",
+  "slug": "iris-ecclesbourne",
+  "title": "Picture editor and illustrator",
+  "url": "/reporters/iris-ecclesbourne/",
+  "photo": "/assets/reporters/iris-ecclesbourne.jpg",
+  "bio": "Finds a photo for every story and, when no real one fits, draws an illustration instead. Never pictures real people or makes a scene look like a photo of the actual event.",
+  "beats": [],
+  "colour": "#5b4a8b",
+  "artist": true
  }
 ]

@@ -6,5 +6,7 @@ role: Local history writer
 bio: Tells a story from the history of Hastings and the 1066 Country every morning.
 beats: []
 colour: '#7a5c3e'
+photo: /assets/reporters/edie-pelham.jpg
+artist: false
 description: Tells a story from the history of Hastings and the 1066 Country every morning.
 ---

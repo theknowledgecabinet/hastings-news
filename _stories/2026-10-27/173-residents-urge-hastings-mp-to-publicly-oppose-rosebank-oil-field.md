@@ -14,6 +14,7 @@ reporter:
   slug: priya-ore
   title: Politics correspondent
   url: /reporters/priya-ore/
+  photo: /assets/reporters/priya-ore.jpg
 colour: '#6b3fa0'
 places:
 - name: Hastings
@@ -45,6 +46,7 @@ image:
   artist: Banja-Frans Mulder
   match: generic
   ai: false
+  by: null
   licence: CC BY 3.0
   licence_url: https://creativecommons.org/licenses/by/3.0
   page: https://commons.wikimedia.org/wiki/File:North_Sea,_Oil_Rig_-_panoramio.jpg

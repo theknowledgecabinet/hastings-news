@@ -14,6 +14,7 @@ reporter:
   slug: priya-ore
   title: Politics correspondent
   url: /reporters/priya-ore/
+  photo: /assets/reporters/priya-ore.jpg
 colour: '#6b3fa0'
 places:
 - name: Hastings
@@ -48,6 +49,7 @@ image:
   artist: Diliff
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.5
   licence_url: https://creativecommons.org/licenses/by-sa/2.5
   page: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg

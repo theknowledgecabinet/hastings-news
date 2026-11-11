@@ -14,6 +14,7 @@ reporter:
   slug: sam-stade
   title: Business reporter
   url: /reporters/sam-stade/
+  photo: /assets/reporters/sam-stade.jpg
 colour: '#2e7d4f'
 lead: true
 places:
@@ -47,6 +48,7 @@ image:
   artist: David Smith
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Mixed_business_and_residential_property,_Water_Lane,_Exeter_-_geograph.org.uk_-_6463094.jpg

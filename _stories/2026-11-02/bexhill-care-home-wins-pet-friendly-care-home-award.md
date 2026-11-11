@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Bexhill
@@ -43,6 +44,7 @@ image:
   artist: Paul Adams
   match: exact
   ai: false
+  by: null
   licence: CC BY 4.0
   licence_url: https://creativecommons.org/licenses/by/4.0
   page: https://commons.wikimedia.org/wiki/File:Elizabeth_Court_Rest_Home,_4_Hastings_Road,_Bexhill.jpg

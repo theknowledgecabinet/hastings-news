@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Bexhill
@@ -44,6 +45,7 @@ image:
   artist: Shixart1985
   match: generic
   ai: false
+  by: null
   licence: CC BY 2.0
   licence_url: https://creativecommons.org/licenses/by/2.0
   page: https://commons.wikimedia.org/wiki/File:Guitarist_performs_on_stage_during_a_nighttime_concert.jpg

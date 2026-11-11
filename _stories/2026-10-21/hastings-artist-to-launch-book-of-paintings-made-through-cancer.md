@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Hastings
@@ -43,6 +44,7 @@ image:
   artist: Fons Heijnsbroek
   match: generic
   ai: false
+  by: null
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:%27Abstract_landscape_with_sun%27_-_large_acrylic_painting_on_canvas,_painted_in_1990_by_Dutch_artist_Fons_Heijnsbroek,_free_image_of_art_in_high_resolutions.jpg

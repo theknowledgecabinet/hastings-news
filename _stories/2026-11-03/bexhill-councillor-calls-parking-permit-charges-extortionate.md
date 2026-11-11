@@ -14,6 +14,7 @@ reporter:
   slug: priya-ore
   title: Politics correspondent
   url: /reporters/priya-ore/
+  photo: /assets/reporters/priya-ore.jpg
 colour: '#6b3fa0'
 places:
 - name: Bexhill
@@ -44,6 +45,7 @@ image:
   artist: John C
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Parking_meter_-_The_Point_car_park_-_geograph.org.uk_-_5735698.jpg

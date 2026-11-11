@@ -14,6 +14,7 @@ reporter:
   slug: priya-ore
   title: Politics correspondent
   url: /reporters/priya-ore/
+  photo: /assets/reporters/priya-ore.jpg
 colour: '#6b3fa0'
 places:
 - name: East Sussex
@@ -43,6 +44,7 @@ image:
   artist: Jim Barton
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Heat_pump_installation_-_geograph.org.uk_-_7495844.jpg

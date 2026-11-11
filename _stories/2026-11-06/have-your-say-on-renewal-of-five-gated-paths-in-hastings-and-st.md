@@ -14,6 +14,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 lead: true
 places:
@@ -47,6 +48,7 @@ image:
   artist: Evelyn Simak
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Pedestrian_gate_on_gated_track_-_geograph.org.uk_-_5546426.jpg

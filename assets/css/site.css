@@ -232,6 +232,11 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .topic-list { display: grid; gap: 0 32px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
 .topic-tile { display: flex; flex-direction: column; gap: 4px; padding: 16px 0; border-bottom: 1px solid var(--rule); text-decoration: none; }
 .topic-name { font-size: 1.2rem; font-weight: 600; }
+.portrait { width: 96px; height: 96px; border-radius: 50%; object-fit: cover; background: var(--paper-2);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--topic, var(--rule)) 45%, transparent); margin-bottom: 8px; }
+.portrait-lg { width: 160px; height: 160px; margin-bottom: 12px; }
+.portrait-note { font-size: .85rem; }
+.byline-face { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; vertical-align: middle; margin-right: 8px; }
 .search input { width: 100%; min-height: 50px; padding: 10px 14px; font: 1.05rem var(--sans); border: 1px solid var(--rule);
   border-radius: var(--radius); background: var(--paper); color: var(--ink); }
 .search { margin-bottom: 12px; }

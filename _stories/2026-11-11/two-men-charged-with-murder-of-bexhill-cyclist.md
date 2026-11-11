@@ -14,6 +14,7 @@ reporter:
   slug: tom-bulverhythe
   title: Crime and courts correspondent
   url: /reporters/tom-bulverhythe/
+  photo: /assets/reporters/tom-bulverhythe.jpg
 colour: '#b03a2e'
 lead: true
 places:
@@ -49,6 +50,12 @@ image:
   artist: AI-generated illustration
   match: ai
   ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
   licence: ''
   licence_url: null
   page: ''

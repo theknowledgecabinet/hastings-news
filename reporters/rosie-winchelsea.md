@@ -7,5 +7,7 @@ bio: Writes about local people, charities, schools and events, and picks what's 
 beats:
 - community
 colour: '#c0742a'
+photo: /assets/reporters/rosie-winchelsea.jpg
+artist: false
 description: Writes about local people, charities, schools and events, and picks what's on.
 ---

@@ -14,6 +14,7 @@ reporter:
   slug: sam-stade
   title: Business reporter
   url: /reporters/sam-stade/
+  photo: /assets/reporters/sam-stade.jpg
 colour: '#2e7d4f'
 lead: true
 places:
@@ -44,6 +45,7 @@ image:
   artist: The Voice of Hassocks
   match: exact
   ai: false
+  by: null
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:Former_St_Michael%27s_RC_Chapel,_Holy_Child_of_Jesus_Convent,_St_Leonards_(IoE_Code_293987).JPG

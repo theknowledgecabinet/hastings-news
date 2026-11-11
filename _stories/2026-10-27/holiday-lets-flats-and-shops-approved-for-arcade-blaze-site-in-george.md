@@ -15,6 +15,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 lead: true
 places:
@@ -52,6 +53,7 @@ image:
   artist: Mr Biz
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:New_residential_and_retail_building_-_geograph.org.uk_-_746595.jpg

@@ -14,6 +14,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 places:
 - name: Bexhill
@@ -43,6 +44,7 @@ image:
   artist: Jaggery
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Warning_sign_-_horse_riders,_Broughton_Road,_Lodge_-_geograph.org.uk_-_6228596.jpg

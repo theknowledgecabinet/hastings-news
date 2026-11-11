@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Hastings
@@ -46,6 +47,7 @@ image:
   artist: CapeHatterasNPS
   match: generic
   ai: false
+  by: null
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:Volunteers_clean_up_beach_debris.jpg

@@ -14,6 +14,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 places:
 - name: Hastings
@@ -43,6 +44,7 @@ image:
   artist: The Voice of Hassocks
   match: exact
   ai: false
+  by: null
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:Former_St_Mary-in-the-Castle_Church,_Old_Town,_Hastings_(IoE_Code_294035).JPG

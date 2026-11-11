@@ -7,5 +7,7 @@ bio: Covers police appeals, charges and court cases. Precise, careful and never 
 beats:
 - crime
 colour: '#b03a2e'
+photo: /assets/reporters/tom-bulverhythe.jpg
+artist: false
 description: Covers police appeals, charges and court cases. Precise, careful and never sensational.
 ---

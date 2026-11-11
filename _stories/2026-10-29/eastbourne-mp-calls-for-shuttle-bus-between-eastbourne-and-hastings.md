@@ -15,6 +15,7 @@ reporter:
   slug: priya-ore
   title: Politics correspondent
   url: /reporters/priya-ore/
+  photo: /assets/reporters/priya-ore.jpg
 colour: '#6b3fa0'
 places:
 - name: Hastings
@@ -50,6 +51,7 @@ image:
   artist: Julian P Guffogg
   match: exact
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Eastbourne_District_General_Hospital_-_geograph.org.uk_-_2321029.jpg

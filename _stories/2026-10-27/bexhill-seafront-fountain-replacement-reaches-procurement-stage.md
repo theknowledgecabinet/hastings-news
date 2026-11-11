@@ -15,6 +15,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 places:
 - name: Bexhill
@@ -60,6 +61,7 @@ image:
   artist: Ian Dodds
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Fountain,_Dunfermline_Public_Park_-_geograph.org.uk_-_7484110.jpg

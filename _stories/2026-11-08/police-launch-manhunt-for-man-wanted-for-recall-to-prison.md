@@ -14,6 +14,7 @@ reporter:
   slug: tom-bulverhythe
   title: Crime and courts correspondent
   url: /reporters/tom-bulverhythe/
+  photo: /assets/reporters/tom-bulverhythe.jpg
 colour: '#b03a2e'
 lead: true
 places:
@@ -44,6 +45,7 @@ image:
   artist: jeffwarder
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 3.0
   licence_url: https://creativecommons.org/licenses/by-sa/3.0
   page: https://commons.wikimedia.org/wiki/File:Crawley_town_centre_at_night_-_Queen%27s_Square_-_panoramio.jpg

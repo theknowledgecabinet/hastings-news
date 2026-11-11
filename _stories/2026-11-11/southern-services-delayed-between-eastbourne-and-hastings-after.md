@@ -14,6 +14,7 @@ reporter:
   slug: dave-baldslow
   title: Traffic and roadworks reporter
   url: /reporters/dave-baldslow/
+  photo: /assets/reporters/dave-baldslow.jpg
 colour: '#9a7b12'
 places:
 - name: Hastings
@@ -44,6 +45,7 @@ image:
   artist: Peter Skuce
   match: generic
   ai: false
+  by: null
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:SOUTHERN_377401.jpg

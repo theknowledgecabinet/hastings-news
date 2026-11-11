@@ -14,6 +14,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 lead: true
 places:
@@ -45,6 +46,7 @@ image:
   artist: Ross Burgess
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 3.0
   licence_url: http://creativecommons.org/licenses/by-sa/3.0/
   page: https://commons.wikimedia.org/wiki/File:Hastings_town_centre.JPG

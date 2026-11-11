@@ -14,6 +14,7 @@ reporter:
   slug: tom-bulverhythe
   title: Crime and courts correspondent
   url: /reporters/tom-bulverhythe/
+  photo: /assets/reporters/tom-bulverhythe.jpg
 colour: '#b03a2e'
 lead: true
 places:
@@ -46,6 +47,7 @@ image:
   artist: Harry Mitchell
   match: generic
   ai: false
+  by: null
   licence: CC BY 4.0
   licence_url: https://creativecommons.org/licenses/by/4.0
   page: https://commons.wikimedia.org/wiki/File:Reading_Crown_Court_(1).JPG

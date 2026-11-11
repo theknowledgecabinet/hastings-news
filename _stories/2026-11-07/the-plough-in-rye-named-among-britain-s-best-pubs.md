@@ -14,6 +14,7 @@ reporter:
   slug: sam-stade
   title: Business reporter
   url: /reporters/sam-stade/
+  photo: /assets/reporters/sam-stade.jpg
 colour: '#2e7d4f'
 places:
 - name: Rye
@@ -42,6 +43,7 @@ image:
   artist: Nigel Freeman
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:The_Coach_and_Horses,_Danehill_-_geograph.org.uk_-_54541.jpg

@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Hastings
@@ -44,6 +45,7 @@ image:
   artist: Hassocks5489
   match: exact
   ai: false
+  by: null
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Stade_Hall,_Rock-a-Nore_Road,_Old_Town,_Hastings_(October_2020).JPG

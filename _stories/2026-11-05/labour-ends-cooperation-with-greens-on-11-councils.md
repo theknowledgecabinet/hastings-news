@@ -14,6 +14,7 @@ reporter:
   slug: priya-ore
   title: Politics correspondent
   url: /reporters/priya-ore/
+  photo: /assets/reporters/priya-ore.jpg
 colour: '#6b3fa0'
 places:
 - name: East Sussex
@@ -44,6 +45,7 @@ image:
   artist: Michael D Beckwith
   match: generic
   ai: false
+  by: null
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_The_Council_Chamber_(215139877).jpeg

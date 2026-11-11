@@ -14,6 +14,7 @@ reporter:
   slug: priya-ore
   title: Politics correspondent
   url: /reporters/priya-ore/
+  photo: /assets/reporters/priya-ore.jpg
 colour: '#6b3fa0'
 places:
 - name: Bexhill
@@ -43,6 +44,12 @@ image:
   artist: AI-generated illustration
   match: ai
   ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
   licence: ''
   licence_url: null
   page: ''

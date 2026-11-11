@@ -14,6 +14,7 @@ reporter:
   slug: sam-stade
   title: Business reporter
   url: /reporters/sam-stade/
+  photo: /assets/reporters/sam-stade.jpg
 colour: '#2e7d4f'
 places:
 - name: Bexhill
@@ -44,6 +45,7 @@ image:
   artist: Alexis Markwick
   match: exact
   ai: false
+  by: null
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Cooden_Beach_Golf_Club,_Cooden_Sea_Road,_Bexhill.jpg

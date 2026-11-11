@@ -14,6 +14,7 @@ reporter:
   slug: tom-bulverhythe
   title: Crime and courts correspondent
   url: /reporters/tom-bulverhythe/
+  photo: /assets/reporters/tom-bulverhythe.jpg
 colour: '#b03a2e'
 lead: true
 places:
@@ -52,6 +53,7 @@ image:
   artist: Stacey Harris
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:St_Leonards_Warrior_Square_railway_station_-_geograph.org.uk_-_2143824.jpg

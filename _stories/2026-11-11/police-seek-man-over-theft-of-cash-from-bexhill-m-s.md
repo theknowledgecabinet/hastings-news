@@ -14,6 +14,7 @@ reporter:
   slug: tom-bulverhythe
   title: Crime and courts correspondent
   url: /reporters/tom-bulverhythe/
+  photo: /assets/reporters/tom-bulverhythe.jpg
 colour: '#b03a2e'
 places:
 - name: Bexhill
@@ -42,6 +43,7 @@ image:
   artist: Oast House Archive
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Ravenside_Retail_Leisure_Park,_Bexhill_-_geograph.org.uk_-_2220032.jpg

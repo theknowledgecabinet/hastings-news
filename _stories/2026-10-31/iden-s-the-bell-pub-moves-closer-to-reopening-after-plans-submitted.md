@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 lead: true
 places:
@@ -45,6 +46,7 @@ image:
   artist: User:Hassocks5489
   match: exact
   ai: false
+  by: null
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Bell_Inn,_Main_Road,_Iden_(NHLE_Code_1234752)_(May_2023)_(2).jpg

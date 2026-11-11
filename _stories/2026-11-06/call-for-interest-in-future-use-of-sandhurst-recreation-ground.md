@@ -14,6 +14,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 places:
 - name: Hastings
@@ -44,6 +45,7 @@ image:
   artist: Chris Downer
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Wells-next-the-Sea,_the_Seasiders%27_football_pitch_-_geograph.org.uk_-_1605336.jpg

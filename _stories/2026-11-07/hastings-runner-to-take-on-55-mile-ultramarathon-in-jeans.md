@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Hastings
@@ -44,6 +45,7 @@ image:
   artist: Robeter at English Wikipedia
   match: generic
   ai: false
+  by: null
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:Runner-1-.jpg

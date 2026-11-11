@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Hastings
@@ -48,6 +49,7 @@ image:
   artist: CGP Grey
   match: generic
   ai: false
+  by: null
   licence: CC BY 2.0
   licence_url: https://creativecommons.org/licenses/by/2.0
   page: https://commons.wikimedia.org/wiki/File:Waterloo_Station_statues_trapped_in_pigeon_netting_4887889232.jpg

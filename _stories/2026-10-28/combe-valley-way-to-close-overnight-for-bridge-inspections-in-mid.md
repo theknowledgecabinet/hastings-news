@@ -14,6 +14,7 @@ reporter:
   slug: dave-baldslow
   title: Traffic and roadworks reporter
   url: /reporters/dave-baldslow/
+  photo: /assets/reporters/dave-baldslow.jpg
 colour: '#9a7b12'
 places:
 - name: Hastings
@@ -45,6 +46,7 @@ image:
   artist: Robin Webster
   match: exact
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:A2690_Combe_Valley_Way_-_geograph.org.uk_-_6140964.jpg

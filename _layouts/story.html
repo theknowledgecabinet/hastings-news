@@ -9,7 +9,7 @@ layout: default
     </p>
     <h1>{{ page.title }}</h1>
     {%- if page.reporter %}
-    <p class="byline">By <a href="{{ page.reporter.url | relative_url }}">{{ page.reporter.name }}</a>, <span class="muted">AI {{ page.reporter.title | downcase }}</span></p>
+    <p class="byline">{% if page.reporter.photo %}<img class="byline-face" src="{{ page.reporter.photo | relative_url }}" width="32" height="32" alt="">{% endif %}By <a href="{{ page.reporter.url | relative_url }}">{{ page.reporter.name }}</a>, <span class="muted">AI {{ page.reporter.title | downcase }}</span></p>
     {%- endif %}
     <p class="meta">
       <a href="{{ '/' | append: page.day | replace: '-', '/' | append: '/' | relative_url }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A %-d %B %Y" }}</time></a>

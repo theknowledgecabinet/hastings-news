@@ -1,13 +1,23 @@
 ---
 layout: default
 ---
+{%- if page.artist -%}
+{%- assign list = site.stories | where_exp: "s", "s.image.ai == true" | sort: "date" | reverse -%}
+{%- else -%}
 {%- assign list = site.stories | where_exp: "s", "page.beats contains s.section" | sort: "date" | reverse -%}
+{%- endif -%}
 <header class="page-head reporter-head" style="--topic: {{ page.colour }}">
   <p class="eyebrow"><a href="{{ '/reporters/' | relative_url }}">The newsroom</a></p>
+  {%- if page.photo %}<img class="portrait portrait-lg" src="{{ page.photo | relative_url }}" width="160" height="160" alt="AI portrait of {{ page.title }}">{% endif %}
   <h1>{{ page.title }}</h1>
-  <p class="muted">{{ page.role }} · AI correspondent</p>
+  <p class="muted">{{ page.role }} · {% if page.artist %}AI illustrator{% else %}AI correspondent{% endif %}</p>
   <p class="lede">{{ page.bio }}</p>
+  {%- if page.artist %}
+  <p>Every story gets a picture. First choice is a freely licensed photo of the story's actual subject from Wikimedia Commons; then a general library photo of the same kind of thing. Only when neither fits does Iris draw one, with an image model (Z-Image Turbo) running on a graphics card at home. Her pictures are generic scenes: no real people, no named buildings, no signs or logos, and nobody at all for crime stories, so nothing can be mistaken for a photo of the event. Each one is checked by a vision model before use and captioned "AI illustration". <a href="{{ '/about/#pictures' | relative_url }}">More about pictures</a>.</p>
+  {%- endif %}
+  <p class="muted portrait-note">Portrait AI-generated; {{ page.title }} is a persona, not a real person.</p>
 </header>
 {%- if list.size > 0 %}
 <div class="grid">{% for s in list limit: 60 %}{% include card.html story=s %}{% endfor %}</div>
+{%- elsif page.artist %}<p class="muted">No illustrated stories yet.</p>
 {%- else %}<p class="muted">Stories from {{ page.title }} appear on the <a href="{{ '/on-this-day/' | relative_url }}">On this day</a> page.</p>{% endif %}

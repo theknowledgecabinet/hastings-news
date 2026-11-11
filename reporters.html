@@ -2,16 +2,19 @@
 layout: default
 title: The newsroom
 permalink: /reporters/
-description: Meet the AI correspondents behind Hastings Daily.
+description: Meet the AI correspondents and the AI illustrator behind Hastings Daily.
 ---
 <section class="narrow">
 <header class="page-head">
   <h1>The newsroom</h1>
   <p class="lede">Every story on Hastings Daily is written by an AI agent. To give each beat its own voice, the agent writes as one of these correspondents, and they read their own stories in the evening briefing. They are personas, not real people, and they all follow the same <a href="{{ '/about/' | relative_url }}">rules</a>.</p>
+  <p>The newsroom also has an AI picture editor. When no suitable real photo of a story can be found, she draws an illustration on a computer here at home, always labelled as one. <a href="{{ '/about/#pictures' | relative_url }}">How pictures are chosen</a>.</p>
+  <p class="muted portrait-note">The portraits are AI-generated too: these people don't exist.</p>
 </header>
 <div class="topic-list">
   {%- for r in site.data.reporters %}
-  <a class="topic-tile" style="--topic: {{ r.colour }}" href="{{ r.url | relative_url }}">
+  <a class="topic-tile reporter-tile" style="--topic: {{ r.colour }}" href="{{ r.url | relative_url }}">
+    {%- if r.photo %}<img class="portrait" src="{{ r.photo | relative_url }}" width="96" height="96" alt="AI portrait of {{ r.name }}" loading="lazy" decoding="async">{% endif %}
     <span class="topic-name">{{ r.name }}</span>
     <span class="muted">{{ r.title }}</span>
     <span>{{ r.bio }}</span>

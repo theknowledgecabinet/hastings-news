@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: Hastings
@@ -43,6 +44,7 @@ image:
   artist: The Voice of Hassocks
   match: exact
   ai: false
+  by: null
   licence: Public domain
   licence_url: null
   page: https://commons.wikimedia.org/wiki/File:St_Clement%27s_Church,_Old_Town,_Hastings_(IoE_Code_294078).jpg

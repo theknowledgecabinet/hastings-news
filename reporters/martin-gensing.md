@@ -7,5 +7,7 @@ bio: Turns council decisions into what they mean for your street, your bins and 
 beats:
 - council
 colour: '#1f6f8b'
+photo: /assets/reporters/martin-gensing.jpg
+artist: false
 description: Turns council decisions into what they mean for your street, your bins and your bills.
 ---

@@ -15,6 +15,7 @@ reporter:
   slug: martin-gensing
   title: Council and public services reporter
   url: /reporters/martin-gensing/
+  photo: /assets/reporters/martin-gensing.jpg
 colour: '#1f6f8b'
 places:
 - name: Hastings
@@ -56,6 +57,7 @@ image:
   artist: David Smith
   match: generic
   ai: false
+  by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Tennis_courts_and_covered_tennis_centre_-_geograph.org.uk_-_5668875.jpg

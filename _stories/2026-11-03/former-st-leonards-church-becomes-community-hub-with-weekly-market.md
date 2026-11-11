@@ -14,6 +14,7 @@ reporter:
   slug: rosie-winchelsea
   title: Community and people reporter
   url: /reporters/rosie-winchelsea/
+  photo: /assets/reporters/rosie-winchelsea.jpg
 colour: '#c0742a'
 places:
 - name: St Leonards
@@ -43,6 +44,7 @@ image:
   artist: Hassocks5489
   match: exact
   ai: false
+  by: null
   licence: CC0
   licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   page: https://commons.wikimedia.org/wiki/File:Former_St_Leonards-on-Sea_Congregational_Church,_London_Road,_St_Leonards-on-Sea_(NHLE_Code_1390718)_(June_2015)_(6).JPG
