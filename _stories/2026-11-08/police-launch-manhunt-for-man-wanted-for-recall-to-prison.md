@@ -51,6 +51,9 @@ related:
 - url: /2026/10/25/manhunt-for-escaped-prisoner-with-links-to-sussex/
   title: Manhunt for escaped prisoner with links to Sussex
   day: '2026-10-25'
+- url: /2026/11/11/police-seek-man-over-theft-of-cash-from-bexhill-m-s/
+  title: Police seek man over theft of cash from Bexhill M&S
+  day: '2026-11-11'
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'

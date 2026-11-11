@@ -47,6 +47,9 @@ image:
   default: false
 checked: '2026-10-26T18:21:38+00:00'
 related:
+- url: /2026/11/11/st-leonards-frost-fair-returns-on-november-28-with-snow-queen-parade/
+  title: St Leonards Frost Fair returns on November 28 with Snow Queen parade
+  day: '2026-11-11'
 - url: /2026/10/27/remembrance-day-service-and-civic-parade-for-alexandra-park/
   title: Remembrance Day service and civic parade for Alexandra Park
   day: '2026-10-27'

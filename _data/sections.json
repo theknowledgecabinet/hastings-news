@@ -4,14 +4,14 @@
   "label": "Crime & courts",
   "colour": "#b03a2e",
   "url": "/section/crime/",
-  "count": 19
+  "count": 20
  },
  {
   "key": "politics",
   "label": "Politics",
   "colour": "#6b3fa0",
   "url": "/section/politics/",
-  "count": 13
+  "count": 14
  },
  {
   "key": "council",
@@ -25,14 +25,14 @@
   "label": "Community & people",
   "colour": "#c0742a",
   "url": "/section/community/",
-  "count": 67
+  "count": 69
  },
  {
   "key": "business",
   "label": "Business",
   "colour": "#2e7d4f",
   "url": "/section/business/",
-  "count": 16
+  "count": 17
  },
  {
   "key": "traffic",

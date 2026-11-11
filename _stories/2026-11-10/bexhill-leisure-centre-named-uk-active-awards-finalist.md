@@ -52,6 +52,9 @@ related:
 - url: /2026/11/02/bexhill-care-home-wins-pet-friendly-care-home-award/
   title: Bexhill care home wins Pet Friendly Care Home Award
   day: '2026-11-02'
+- url: /2026/11/11/two-bexhill-colonnade-kiosks-available-to-let-for-new-businesses/
+  title: Two Bexhill Colonnade kiosks available to let for new businesses
+  day: '2026-11-11'
 ---
 {% raw %}
 Bexhill Leisure Centre has been named a finalist for Regional Centre of the Year at the UK Active Awards, one of the leisure industry's leading national award programmes.

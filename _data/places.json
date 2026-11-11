@@ -3,25 +3,25 @@
   "name": "Hastings",
   "slug": "hastings",
   "url": "/place/hastings/",
-  "count": 88
+  "count": 89
  },
  {
   "name": "St Leonards",
   "slug": "st-leonards",
   "url": "/place/st-leonards/",
-  "count": 26
+  "count": 27
  },
  {
   "name": "Bexhill",
   "slug": "bexhill",
   "url": "/place/bexhill/",
-  "count": 30
+  "count": 32
  },
  {
   "name": "Rye",
   "slug": "rye",
   "url": "/place/rye/",
-  "count": 17
+  "count": 19
  },
  {
   "name": "Battle",
@@ -33,7 +33,7 @@
   "name": "Rother villages",
   "slug": "rother-villages",
   "url": "/place/rother-villages/",
-  "count": 17
+  "count": 18
  },
  {
   "name": "East Sussex",

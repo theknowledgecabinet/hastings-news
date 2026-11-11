@@ -52,12 +52,12 @@ related:
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
+- url: /2026/11/11/two-bexhill-colonnade-kiosks-available-to-let-for-new-businesses/
+  title: Two Bexhill Colonnade kiosks available to let for new businesses
+  day: '2026-11-11'
 - url: /2026/11/10/bexhill-leisure-centre-named-uk-active-awards-finalist/
   title: Bexhill Leisure Centre named UK Active Awards finalist
   day: '2026-11-10'
-- url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
-  title: Work begins on 27 'luxury flats' development in St Leonards
-  day: '2026-11-04'
 ---
 {% raw %}
 Plans to convert the former Lloyds Bank building in Bexhill town centre into two restaurants and eight apartments have been unveiled.
