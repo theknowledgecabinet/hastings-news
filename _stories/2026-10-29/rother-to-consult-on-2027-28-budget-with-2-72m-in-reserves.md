@@ -3,6 +3,7 @@ layout: story
 title: Rother to consult on 2027/28 budget with £2.72m in reserves
 permalink: /2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/
 date: 2026-10-29 19:27:04 +0000
+updated: '2026-11-11T09:32:48+00:00'
 sid: 55
 day: '2026-10-29'
 edition: evening
@@ -25,6 +26,15 @@ sources:
 - url: https://www.rother.gov.uk/news/cabinet-decisions-26-october-2026/
   name: Rother District Council
 comment: For the first time, the organisations affected by possible savings will be formally consulted, which is a step worth noting. The test will be whether "savings" read as "cutbacks" when the budget is finalised, and which services feel it first.
+updates:
+- date: '2026-11-11T09:32:48+00:00'
+  edition: morning
+  text: Rother District Council has launched its public consultation on the draft 2027/28 revenue budget, which runs until 5pm on Wednesday 16 December 2026. The authority said it faces a funding gap of £1.2 million while planning to spend £38m on services, and council leader Doug Oliver urged residents, businesses and community groups to have their say.
+  sources:
+  - url: https://www.rother.gov.uk/news/rother-budget-challenges-people-urged-to-have-their-say/
+    name: Rother District Council
+  - url: https://www.rother.gov.uk/news/cabinet-decisions-26-october-2026/
+    name: Rother District Council
 image:
   card:
     url: /assets/media/story/55/card.webp

@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 11 Nov 2026 08:25:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:32:48 +0000</lastBuildDate>
+  <item>
+    <title>Update: Rother to consult on 2027/28 budget with £2.72m in reserves</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/</link>
+    <guid isPermaLink="false">story-55-update-2026-11-11T09:32:48+00:00</guid>
+    <pubDate>Wed, 11 Nov 2026 09:32:48 +0000</pubDate>
+    <category>Council</category>
+    <description>Rother District Council has launched its public consultation on the draft 2027/28 revenue budget, which runs until 5pm on Wednesday 16 December 2026. The authority said it faces a funding gap of £1.2 million while planning to spend £38m on services, and council leader Doug Oliver urged residents, businesses and community groups to have their say.</description>
+  </item>
   <item>
     <title>Two men charged with murder of Bexhill cyclist</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/two-men-charged-with-murder-of-bexhill-cyclist/</link>
@@ -638,14 +646,6 @@
     <pubDate>Mon, 02 Nov 2026 08:39:57 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Bestselling philosophy writer Martin Cohen is returning to Hastings to launch his latest book on Wednesday 11 November.</description>
-  </item>
-  <item>
-    <title>Hastings joins in the &#x27;Dusking&#x27; morris-dancing tradition</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/hastings-joins-in-the-dusking-morris-dancing-tradition/</link>
-    <guid isPermaLink="false">story-77</guid>
-    <pubDate>Mon, 02 Nov 2026 08:39:57 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A new autumn ritual called &#x27;Dusking&#x27; has reached the Hastings seafront, bringing morris dancing to the town&#x27;s darkening days.</description>
   </item>
 </channel>
 </rss>
