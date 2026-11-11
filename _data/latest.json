@@ -31,7 +31,7 @@
    "high": 9,
    "low": 4,
    "rain_chance": 0,
-   "rain_mm": 0.1,
+   "rain_mm": 0.2,
    "wind": 16,
    "gusts": 32,
    "direction": "northerly",
