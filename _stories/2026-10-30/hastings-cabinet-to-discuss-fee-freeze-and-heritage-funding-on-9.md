@@ -55,9 +55,9 @@ related:
 - url: /2026/11/05/hastings-draft-local-plan-convent-site-open-for-comment-until-12/
   title: 'Hastings Draft Local Plan: Convent site open for comment until 12 November'
   day: '2026-11-05'
-- url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
-  title: Hastings Castle to get £288,500 from Historic England for repairs
-  day: '2026-10-25'
+- url: /2026/11/11/hastings-council-budgets-1-937-861-for-st-mary-in-the-castle-in-2026/
+  title: Hastings council budgets £1,937,861 for St Mary in the Castle in 2026/27
+  day: '2026-11-11'
 ---
 {% raw %}
 Hastings Borough Council's Cabinet will meet on Monday 9 November to discuss a range of reports, the council said.

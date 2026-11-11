@@ -60,12 +60,12 @@ related:
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
   title: Hastings to receive £1m from the government's derelict buildings fund
   day: '2026-10-28'
+- url: /2026/11/11/hastings-council-budgets-1-937-861-for-st-mary-in-the-castle-in-2026/
+  title: Hastings council budgets £1,937,861 for St Mary in the Castle in 2026/27
+  day: '2026-11-11'
 - url: /2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/
   title: West Hill Lift gets £531,000 from National Lottery Heritage Fund
   day: '2026-10-21'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
 ---
 {% raw %}
 Hastings Borough Council has been awarded £288,500 from Historic England's Heritage at Risk Capital Fund for repairs to Hastings Castle.

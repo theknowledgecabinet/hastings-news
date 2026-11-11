@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:32:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:35:20 +0000</lastBuildDate>
+  <item>
+    <title>Update: Rother to consult on 2027/28 budget with £2.72m in reserves</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/</link>
+    <guid isPermaLink="false">story-55-update-2026-11-11T09:35:20+00:00</guid>
+    <pubDate>Wed, 11 Nov 2026 09:35:20 +0000</pubDate>
+    <category>Council</category>
+    <description>Rother District Council has launched its public consultation on the draft 2027/28 revenue budget, which runs until 5pm on Wednesday 16 December 2026. The authority said it faces a funding gap of £1.2 million while planning to spend £38m on services, and council leader Doug Oliver urged residents, businesses and community groups to have their say.</description>
+  </item>
+  <item>
+    <title>Hastings council budgets £1,937,861 for St Mary in the Castle in 2026/27</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/hastings-council-budgets-1-937-861-for-st-mary-in-the-castle-in-2026/</link>
+    <guid isPermaLink="false">story-150</guid>
+    <pubDate>Wed, 11 Nov 2026 09:35:20 +0000</pubDate>
+    <category>Council</category>
+    <description>Hastings Borough Council has budgeted spending of £1,937,861 on the Grade II* listed seafront building St Mary in the Castle in the 2026/27 financial year, with the majority set to come forward as capital spending.</description>
+  </item>
   <item>
     <title>Update: Rother to consult on 2027/28 budget with £2.72m in reserves</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/</link>
@@ -38,6 +54,14 @@
     <pubDate>Wed, 11 Nov 2026 08:25:29 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Donations totalling more than £10,000 have flowed in to help a family farm in Isfield after thieves ransacked its shop, the owners said.</description>
+  </item>
+  <item>
+    <title>On this day, 1918: The Armistice reaches the East Sussex papers, 1918</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-11/</link>
+    <guid isPermaLink="false">otd-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 07:00:00 +0000</pubDate>
+    <category>On this day</category>
+    <description>When news of the Armistice reached Britain on 11 November 1918, newspapers in East Sussex reported on the joy and the solemn reflection of the county.</description>
   </item>
   <item>
     <title>Residents to have say on East Sussex supported housing strategy</title>
@@ -622,30 +646,6 @@
     <pubDate>Mon, 02 Nov 2026 13:07:56 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Energise Sussex Coast, a local community benefit society, is holding free workshops on off-grid solar power in Hastings and Battle this month. The sessions are aimed at anyone who wants to build a small, fully off-grid solar system for a shed, workshop, van or truck, and no technical background is needed.</description>
-  </item>
-  <item>
-    <title>Eight Hastings and Bexhill residents arrested outside US embassy</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/eight-hastings-and-bexhill-residents-arrested-outside-us-embassy/</link>
-    <guid isPermaLink="false">story-78</guid>
-    <pubDate>Mon, 02 Nov 2026 09:30:40 +0000</pubDate>
-    <category>Politics</category>
-    <description>Eight residents of Hastings and Bexhill were arrested outside the US embassy in London on Saturday 31 October, the Hastings Online Times reported. The group was peacefully holding signs reading &#x27;I oppose genocide. I support Palestine Action&#x27;.</description>
-  </item>
-  <item>
-    <title>Coalition says October&#x27;s budget cut the Warm Homes Plan by up to £5.7bn</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/coalition-says-october-s-budget-cut-the-warm-homes-plan-by-up-to-5-7bn/</link>
-    <guid isPermaLink="false">story-75</guid>
-    <pubDate>Mon, 02 Nov 2026 08:39:57 +0000</pubDate>
-    <category>Politics</category>
-    <description>A fuel poverty coalition says the government&#x27;s October budget failed to protect households on the coast from volatile gas prices, and cut the Warm Homes Plan by up to £5.7 billion.</description>
-  </item>
-  <item>
-    <title>Martin Cohen to launch new book at Hastings Palestine Solidarity event</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/martin-cohen-to-launch-new-book-at-hastings-palestine-solidarity-event/</link>
-    <guid isPermaLink="false">story-76</guid>
-    <pubDate>Mon, 02 Nov 2026 08:39:57 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Bestselling philosophy writer Martin Cohen is returning to Hastings to launch his latest book on Wednesday 11 November.</description>
   </item>
 </channel>
 </rss>
