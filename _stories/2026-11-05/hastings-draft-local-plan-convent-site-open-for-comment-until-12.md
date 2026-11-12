@@ -55,11 +55,11 @@ related:
 - url: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
   title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
   day: '2026-10-30'
+- url: /2026/11/12/hastings-council-rejects-community-asset-bid-for-st-leonards-convent/
+  title: Hastings council rejects community asset bid for St Leonards convent site
+  day: '2026-11-12'
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
-  day: '2026-11-06'
-- url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
-  title: Call for interest in future use of Sandhurst Recreation Ground
   day: '2026-11-06'
 ---
 {% raw %}

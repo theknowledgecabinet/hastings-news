@@ -58,12 +58,12 @@ related:
 - url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
   title: Work begins on 27 'luxury flats' development in St Leonards
   day: '2026-11-04'
+- url: /2026/11/12/hastings-council-rejects-community-asset-bid-for-st-leonards-convent/
+  title: Hastings council rejects community asset bid for St Leonards convent site
+  day: '2026-11-12'
 - url: /2026/11/07/fire-hit-st-leonards-convent-site-goes-to-auction-at-1-7m/
   title: Fire-hit St Leonards convent site goes to auction at £1.7m
   day: '2026-11-07'
-- url: /2026/11/09/plans-for-42-new-homes-by-st-leonards-bannatyne-s-spa-hotel/
-  title: Plans for 42 new homes by St Leonards' Bannatyne's Spa Hotel
-  day: '2026-11-09'
 ---
 {% raw %}
 A mixed-use property at 32 Kings Road, St Leonards, has been sold before the auction in one of the latest Clive Emson Auctioneers sales, which listed 174 lots across southern England.

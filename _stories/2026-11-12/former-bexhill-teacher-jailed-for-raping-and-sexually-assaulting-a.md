@@ -55,12 +55,12 @@ related:
 - url: /2026/10/28/portslade-man-jailed-for-eight-years-for-rape-and-abusive-behaviour/
   title: Portslade man jailed for eight years for rape and abusive behaviour
   day: '2026-10-28'
+- url: /2026/11/12/police-urgently-searching-for-14-year-old-girl-missing-from-bexhill/
+  title: Police 'urgently searching' for 14-year-old girl missing from Bexhill
+  day: '2026-11-12'
 - url: /2026/11/11/police-seek-man-over-theft-of-cash-from-bexhill-m-s/
   title: Police seek man over theft of cash from Bexhill M&S
   day: '2026-11-11'
-- url: /2026/11/08/two-sussex-police-officers-charged-over-assault-of-detained-man/
-  title: Two Sussex police officers charged over assault of detained man
-  day: '2026-11-08'
 ---
 {% raw %}
 A former teacher from Bexhill has been jailed for raping and sexually assaulting a child, Sussex Police said.

@@ -59,15 +59,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:St_Leonards_Warrior_Square_railway_station_-_geograph.org.uk_-_2143824.jpg
   default: false
 related:
+- url: /2026/11/12/police-urgently-searching-for-14-year-old-girl-missing-from-bexhill/
+  title: Police 'urgently searching' for 14-year-old girl missing from Bexhill
+  day: '2026-11-12'
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
 - url: /2026/11/07/st-leonards-and-hastings-properties-sell-at-clive-emson-auction/
   title: St Leonards and Hastings properties sell at Clive Emson auction
   day: '2026-11-07'
-- url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
-  title: Police make 18 weekend arrests in Hastings and Rother
-  day: '2026-11-03'
 ---
 {% raw %}
 Police are appealing to the public to help find a missing 15-year-old boy who was last seen in St Leonards on Saturday (31 October).

@@ -62,9 +62,9 @@ related:
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
-- url: /2026/11/10/residents-to-have-say-on-east-sussex-supported-housing-strategy/
-  title: Residents to have say on East Sussex supported housing strategy
-  day: '2026-11-10'
+- url: /2026/11/12/rother-council-to-invest-1-3m-in-seven-local-projects/
+  title: Rother council to invest £1.3m in seven local projects
+  day: '2026-11-12'
 ---
 {% raw %}
 Rother District Council is holding an online pre-election event for people considering standing as a councillor in May 2027.

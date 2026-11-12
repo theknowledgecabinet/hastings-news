@@ -57,9 +57,9 @@ related:
 - url: /2026/11/11/police-seek-man-over-theft-of-cash-from-bexhill-m-s/
   title: Police seek man over theft of cash from Bexhill M&S
   day: '2026-11-11'
-- url: /2026/11/08/two-sussex-police-officers-charged-over-assault-of-detained-man/
-  title: Two Sussex police officers charged over assault of detained man
-  day: '2026-11-08'
+- url: /2026/11/12/police-urgently-searching-for-14-year-old-girl-missing-from-bexhill/
+  title: Police 'urgently searching' for 14-year-old girl missing from Bexhill
+  day: '2026-11-12'
 ---
 {% raw %}
 Police have launched a manhunt for a convicted prisoner with links to Sussex who escaped from a medical facility in South London on Friday.

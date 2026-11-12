@@ -57,9 +57,9 @@ related:
 - url: /2026/11/07/fire-hit-st-leonards-convent-site-goes-to-auction-at-1-7m/
   title: Fire-hit St Leonards convent site goes to auction at £1.7m
   day: '2026-11-07'
-- url: /2026/11/07/st-leonards-and-hastings-properties-sell-at-clive-emson-auction/
-  title: St Leonards and Hastings properties sell at Clive Emson auction
-  day: '2026-11-07'
+- url: /2026/11/12/hastings-council-rejects-community-asset-bid-for-st-leonards-convent/
+  title: Hastings council rejects community asset bid for St Leonards convent site
+  day: '2026-11-12'
 ---
 {% raw %}
 A former church in St Leonards has become a thriving community hub, hosting a popular weekly market and serving as a venue for concerts and events.
