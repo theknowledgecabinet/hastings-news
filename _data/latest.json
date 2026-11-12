@@ -2,23 +2,23 @@
  "day": "2026-11-12",
  "label": "Thursday 12 November 2026",
  "issue": 23,
- "edition_label": "Midday edition",
+ "edition_label": "Evening edition",
  "forecast": [
   {
    "day": "2026-11-12",
    "code": 3,
    "words": "cloudy",
    "icon": "☁️",
-   "high": 8,
+   "high": 9,
    "low": 4,
    "rain_chance": 2,
    "rain_mm": 0.0,
-   "wind": 13,
+   "wind": 14,
    "gusts": 27,
    "direction": "northerly",
    "sunrise": "07:08",
    "sunset": "16:14",
-   "summary": "Cloudy. A high of 8°C and a low of 4°C, a moderate breeze from the north. Sunrise 07:08, sunset 16:14.",
+   "summary": "Cloudy. A high of 9°C and a low of 4°C, a moderate breeze from the north. Sunrise 07:08, sunset 16:14.",
    "label": "Today",
    "weekday": "Thu 12 Nov",
    "long": "Thursday 12 November"
@@ -85,30 +85,50 @@
     "sunset": "16:14",
     "summary": "Cloudy. A high of 9°C and a low of 3°C, a moderate breeze from the north. Sunrise 07:08, sunset 16:14."
    }
+  },
+  {
+   "name": "evening",
+   "label": "Evening edition",
+   "weather": {
+    "day": "2026-11-13",
+    "code": 0,
+    "words": "clear skies",
+    "icon": "☀️",
+    "high": 7,
+    "low": 2,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
+    "wind": 11,
+    "gusts": 21,
+    "direction": "northerly",
+    "sunrise": "07:10",
+    "sunset": "16:13",
+    "summary": "Clear skies. A high of 7°C and a low of 2°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13."
+   }
   }
  ],
  "weather": {
-  "day": "2026-11-12",
-  "code": 3,
-  "words": "cloudy",
-  "icon": "☁️",
-  "high": 9,
-  "low": 3,
-  "rain_chance": 2,
+  "day": "2026-11-13",
+  "code": 0,
+  "words": "clear skies",
+  "icon": "☀️",
+  "high": 7,
+  "low": 2,
+  "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 14,
-  "gusts": 27,
+  "wind": 11,
+  "gusts": 21,
   "direction": "northerly",
-  "sunrise": "07:08",
-  "sunset": "16:14",
-  "summary": "Cloudy. A high of 9°C and a low of 3°C, a moderate breeze from the north. Sunrise 07:08, sunset 16:14."
+  "sunrise": "07:10",
+  "sunset": "16:13",
+  "summary": "Clear skies. A high of 7°C and a low of 2°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13."
  },
  "briefing": {
-  "day": "2026-11-11",
-  "url": "/assets/podcast/2026-11-11.mp3",
-  "seconds": 1165,
-  "bytes": 4660940,
-  "length": "19 min"
+  "day": "2026-11-12",
+  "url": "/assets/podcast/2026-11-12.mp3",
+  "seconds": 1187,
+  "bytes": 4747532,
+  "length": "20 min"
  },
  "otd": {
   "day": "2026-11-12",

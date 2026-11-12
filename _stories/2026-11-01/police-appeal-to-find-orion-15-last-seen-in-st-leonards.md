@@ -65,9 +65,9 @@ related:
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
-- url: /2026/11/07/st-leonards-and-hastings-properties-sell-at-clive-emson-auction/
-  title: St Leonards and Hastings properties sell at Clive Emson auction
-  day: '2026-11-07'
+- url: /2026/11/12/police-appeal-for-information-after-st-leonards-building-vandalised/
+  title: Police appeal for information after St Leonards building vandalised
+  day: '2026-11-12'
 ---
 {% raw %}
 Police are appealing to the public to help find a missing 15-year-old boy who was last seen in St Leonards on Saturday (31 October).

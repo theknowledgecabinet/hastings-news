@@ -3,6 +3,7 @@ layout: story
 title: Plans for up to 125 homes at Robertsbridge mill site
 permalink: /2026/11/06/plans-for-up-to-125-homes-at-robertsbridge-mill-site/
 date: 2026-11-06 12:55:13 +0000
+updated: '2026-11-12T19:14:36+00:00'
 sid: 121
 day: '2026-11-06'
 edition: midday
@@ -26,6 +27,19 @@ sources:
 - url: https://www.sussexexpress.co.uk/business/125-homes-plan-for-east-sussex-mill-building-and-grade-ii-listed-oast-house-site-9334320
   name: Hastings Observer
 comment: A 125-home scheme is a big deal for Robertsbridge, and the stand-out issue is that it carries no affordable housing. Whether councillors accept the viability case, or push for more, will shape how the village's main brownfield site gets used.
+updates:
+- date: '2026-11-12T19:10:02+00:00'
+  edition: evening
+  text: Rother District Council's planning committee has approved Homes England's application for up to 125 homes at the Hodson's Mill site in Northbridge Street. The committee heard that the Salehurst and Robertsbridge parish council strongly supports the scheme, and voted to approve the application in line with officers' recommendation. Under the plans, the Grade II listed oast house is to be dismantled and rebuilt to provide two three-bedroom homes, and the mill building converted to provide two retail and community units and nine flats.
+  sources:
+  - url: https://www.sussexexpress.co.uk/news/politics/council/up-to-125-homes-at-east-sussex-mill-and-oast-house-site-approved-9347803
+    name: Hastings Observer
+- date: '2026-11-12T19:14:36+00:00'
+  edition: evening
+  text: Rother District Council's planning committee has approved Homes England's application for up to 125 homes at the Hodson's Mill site in Northbridge Street. The committee heard that the Salehurst and Robertsbridge parish council strongly supports the scheme, and voted to approve the application in line with officers' recommendation. Under the plans, the Grade II listed oast house is to be dismantled and rebuilt to provide two three-bedroom homes, and the mill building converted to provide two retail and community units and nine flats.
+  sources:
+  - url: https://www.sussexexpress.co.uk/news/politics/council/up-to-125-homes-at-east-sussex-mill-and-oast-house-site-approved-9347803
+    name: Hastings Observer
 image:
   card:
     url: /assets/media/story/121/card.webp

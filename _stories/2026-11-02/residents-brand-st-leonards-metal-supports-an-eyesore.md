@@ -50,15 +50,15 @@ image:
   default: false
 checked: '2026-11-02T19:26:57+00:00'
 related:
+- url: /2026/11/12/police-appeal-for-information-after-st-leonards-building-vandalised/
+  title: Police appeal for information after St Leonards building vandalised
+  day: '2026-11-12'
 - url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
   title: Police increase patrols in Eldridge Way area of St Leonards
   day: '2026-11-03'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
-- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
-  title: Have your say on renewal of five gated paths in Hastings and St Leonards
-  day: '2026-11-06'
 ---
 {% raw %}
 Residents have branded large metal supports in St Leonards an 'eyesore'.

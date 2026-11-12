@@ -54,6 +54,9 @@ image:
   default: false
 checked: '2026-10-27T06:13:00+00:00'
 related:
+- url: /2026/11/12/police-appeal-for-information-after-st-leonards-building-vandalised/
+  title: Police appeal for information after St Leonards building vandalised
+  day: '2026-11-12'
 - url: /2026/10/27/bexhill-seafront-fountain-replacement-reaches-procurement-stage/
   title: Bexhill seafront fountain replacement reaches procurement stage
   day: '2026-10-27'
