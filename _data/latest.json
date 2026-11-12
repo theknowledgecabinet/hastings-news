@@ -14,11 +14,11 @@
    "rain_chance": 0,
    "rain_mm": 0.0,
    "wind": 15,
-   "gusts": 31,
+   "gusts": 30,
    "direction": "northerly",
    "sunrise": "07:08",
    "sunset": "16:14",
-   "summary": "Cloudy. A high of 9°C and a low of 4°C, a moderate breeze from the north, gusting 31 mph. Sunrise 07:08, sunset 16:14.",
+   "summary": "Cloudy. A high of 9°C and a low of 4°C, a moderate breeze from the north, gusting 30 mph. Sunrise 07:08, sunset 16:14.",
    "label": "Today",
    "weekday": "Thu 12 Nov",
    "long": "Thursday 12 November"
