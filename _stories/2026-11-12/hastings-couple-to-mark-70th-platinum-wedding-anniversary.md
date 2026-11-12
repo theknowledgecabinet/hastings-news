@@ -27,23 +27,34 @@ sources:
 comment: Seventy years, four schools, a war memorial and a first-of-its-kind town honour. The Pellings are a reminder that the town's civic life is carried, more than by institutions, by people who turn up for decades.
 image:
   card:
-    url: /assets/media/abstract/story-163/card.webp
+    url: /assets/media/story/163/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-163/medium.webp
+    url: /assets/media/story/163/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-163/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/163/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-163/share.jpg
-  color: '#a06b2d'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/163/share.jpg
+  color: '#a3a9ad'
+  alt: Elderly couple walking away on a pebbled seaside promenade
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-12T07:46:24+00:00'
 related:
 - url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
