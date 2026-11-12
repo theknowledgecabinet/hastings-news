@@ -3,7 +3,7 @@
   "name": "Hastings",
   "slug": "hastings",
   "url": "/place/hastings/",
-  "count": 91
+  "count": 93
  },
  {
   "name": "St Leonards",
@@ -15,7 +15,7 @@
   "name": "Bexhill",
   "slug": "bexhill",
   "url": "/place/bexhill/",
-  "count": 32
+  "count": 34
  },
  {
   "name": "Rye",
@@ -39,6 +39,6 @@
   "name": "East Sussex",
   "slug": "east-sussex",
   "url": "/place/east-sussex/",
-  "count": 16
+  "count": 17
  }
 ]

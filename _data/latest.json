@@ -1,8 +1,8 @@
 {
- "day": "2026-11-11",
- "label": "Wednesday 11 November 2026",
- "issue": 22,
- "edition_label": "Evening edition",
+ "day": "2026-11-12",
+ "label": "Thursday 12 November 2026",
+ "issue": 23,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-12",
@@ -50,60 +50,20 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-11",
-    "code": 55,
-    "words": "heavy drizzle",
-    "icon": "🌧️",
-    "high": 10,
-    "low": 8,
-    "rain_chance": 91,
-    "rain_mm": 6.5,
-    "wind": 10,
-    "gusts": 21,
-    "direction": "north-easterly",
-    "sunrise": "07:06",
-    "sunset": "16:16",
-    "summary": "Heavy drizzle likely. A high of 10°C and a low of 8°C, a moderate breeze from the north east. Sunrise 07:06, sunset 16:16."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-11",
-    "code": 61,
-    "words": "light rain",
-    "icon": "🌦️",
-    "high": 10,
-    "low": 8,
-    "rain_chance": 84,
-    "rain_mm": 7.0,
-    "wind": 10,
-    "gusts": 20,
-    "direction": "north-easterly",
-    "sunrise": "07:06",
-    "sunset": "16:16",
-    "summary": "Light rain likely. A high of 10°C and a low of 8°C, a moderate breeze from the north east. Sunrise 07:06, sunset 16:16."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-12",
     "code": 3,
     "words": "cloudy",
     "icon": "☁️",
     "high": 9,
     "low": 4,
-    "rain_chance": 0,
+    "rain_chance": 2,
     "rain_mm": 0.0,
-    "wind": 15,
-    "gusts": 30,
+    "wind": 14,
+    "gusts": 28,
     "direction": "northerly",
     "sunrise": "07:08",
     "sunset": "16:14",
-    "summary": "Cloudy. A high of 9°C and a low of 4°C, a moderate breeze from the north, gusting 30 mph. Sunrise 07:08, sunset 16:14."
+    "summary": "Cloudy. A high of 9°C and a low of 4°C, a moderate breeze from the north. Sunrise 07:08, sunset 16:14."
    }
   }
  ],
@@ -114,14 +74,14 @@
   "icon": "☁️",
   "high": 9,
   "low": 4,
-  "rain_chance": 0,
+  "rain_chance": 2,
   "rain_mm": 0.0,
-  "wind": 15,
-  "gusts": 30,
+  "wind": 14,
+  "gusts": 28,
   "direction": "northerly",
   "sunrise": "07:08",
   "sunset": "16:14",
-  "summary": "Cloudy. A high of 9°C and a low of 4°C, a moderate breeze from the north, gusting 30 mph. Sunrise 07:08, sunset 16:14."
+  "summary": "Cloudy. A high of 9°C and a low of 4°C, a moderate breeze from the north. Sunrise 07:08, sunset 16:14."
  },
  "briefing": {
   "day": "2026-11-11",
@@ -137,6 +97,11 @@
   "title": "The Armistice reaches the East Sussex papers, 1918"
  },
  "days": [
+  {
+   "day": "2026-11-12",
+   "url": "/2026/11/12/",
+   "label": "Thu 12 Nov"
+  },
   {
    "day": "2026-11-11",
    "url": "/2026/11/11/",
@@ -201,11 +166,6 @@
    "day": "2026-10-30",
    "url": "/2026/10/30/",
    "label": "Fri 30 Oct"
-  },
-  {
-   "day": "2026-10-29",
-   "url": "/2026/10/29/",
-   "label": "Thu 29 Oct"
   }
  ]
 }

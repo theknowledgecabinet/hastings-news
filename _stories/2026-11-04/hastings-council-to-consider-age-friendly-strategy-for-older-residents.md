@@ -56,12 +56,12 @@ related:
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
+- url: /2026/11/12/new-wheelchair-and-mobility-scooter-support-group-launched-in-hastings/
+  title: New wheelchair and mobility scooter support group launched in Hastings
+  day: '2026-11-12'
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
-- url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
-  title: Free parking at Hastings council car parks in December
-  day: '2026-11-03'
 ---
 {% raw %}
 Hastings Borough Council has drawn up an Age Friendly Hastings Strategy and Action Plan, with proposals to make the town more accessible and inclusive for people aged 50 and over.

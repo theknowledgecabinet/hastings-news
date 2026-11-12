@@ -54,15 +54,15 @@ image:
   default: false
 checked: '2026-11-02T13:10:46+00:00'
 related:
+- url: /2026/11/12/east-sussex-energy-group-urges-residents-to-contact-mps-on-heat-pumps/
+  title: East Sussex energy group urges residents to contact MPs on heat pumps and EV targets
+  day: '2026-11-12'
 - url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
   title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
   day: '2026-10-21'
 - url: /2026/10/28/local-energy-advice-service-backs-campaign-to-save-radio-4-s-you-and/
   title: Local energy advice service backs campaign to save Radio 4's You and Yours
   day: '2026-10-28'
-- url: /2026/11/04/council-to-seek-group-to-take-lease-of-hollington-community-centre/
-  title: Council to seek group to take lease of Hollington Community Centre
-  day: '2026-11-04'
 ---
 {% raw %}
 Energise Sussex Coast, a local community benefit society, is holding free workshops on off-grid solar power in Hastings and Battle this month. The sessions are aimed at anyone who wants to build a small, fully off-grid solar system for a shed, workshop, van or truck, and no technical background is needed.

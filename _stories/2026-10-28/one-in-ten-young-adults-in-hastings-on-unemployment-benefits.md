@@ -49,15 +49,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:High_Street_shops_-_geograph.org.uk_-_2352028.jpg
   default: false
 related:
+- url: /2026/11/12/new-wheelchair-and-mobility-scooter-support-group-launched-in-hastings/
+  title: New wheelchair and mobility scooter support group launched in Hastings
+  day: '2026-11-12'
 - url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
   title: Hastings council to consider Age Friendly strategy for older residents
   day: '2026-11-04'
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
   title: Hastings to receive £1m from the government's derelict buildings fund
   day: '2026-10-28'
-- url: /2026/10/29/hastings-business-group-welcomes-budget-rates-relief-package/
-  title: Hastings business group welcomes Budget rates relief package
-  day: '2026-10-29'
 ---
 {% raw %}
 More than one in ten young adults in Hastings are claiming unemployment-related benefits, Office for National Statistics figures show, according to The Argus.

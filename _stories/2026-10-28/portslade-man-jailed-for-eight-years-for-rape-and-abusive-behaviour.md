@@ -52,6 +52,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Crown_Court_building_-_geograph.org.uk_-_4312529.jpg
   default: false
 checked: '2026-10-28T10:37:01+00:00'
+related:
+- url: /2026/11/12/former-bexhill-teacher-jailed-for-raping-and-sexually-assaulting-a/
+  title: Former Bexhill teacher jailed for raping and sexually assaulting a child
+  day: '2026-11-12'
 ---
 {% raw %}
 Paul Savage, 50, of Carlton Terrace, Portslade, was sentenced to eight years' imprisonment at Lewes Crown Court, a Sussex Police spokesperson said.

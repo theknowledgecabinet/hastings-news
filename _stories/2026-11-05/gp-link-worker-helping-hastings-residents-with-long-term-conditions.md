@@ -51,14 +51,14 @@ image:
   default: false
 checked: '2026-11-05T13:49:55+00:00'
 related:
+- url: /2026/11/12/new-wheelchair-and-mobility-scooter-support-group-launched-in-hastings/
+  title: New wheelchair and mobility scooter support group launched in Hastings
+  day: '2026-11-12'
 - url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
   title: Hastings council to consider Age Friendly strategy for older residents
   day: '2026-11-04'
 - url: /2026/10/28/one-in-ten-young-adults-in-hastings-on-unemployment-benefits/
   title: One in ten young adults in Hastings on unemployment benefits
-  day: '2026-10-28'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
 ---
 {% raw %}

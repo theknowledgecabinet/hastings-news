@@ -57,9 +57,9 @@ related:
 - url: /2026/11/02/coalition-says-october-s-budget-cut-the-warm-homes-plan-by-up-to-5-7bn/
   title: Coalition says October's budget cut the Warm Homes Plan by up to £5.7bn
   day: '2026-11-02'
-- url: /2026/10/25/fears-of-hungry-children-over-half-term-after-holiday-food-vouchers/
-  title: Fears of hungry children over half-term after holiday food vouchers axed
-  day: '2026-10-25'
+- url: /2026/11/12/east-sussex-energy-group-urges-residents-to-contact-mps-on-heat-pumps/
+  title: East Sussex energy group urges residents to contact MPs on heat pumps and EV targets
+  day: '2026-11-12'
 ---
 {% raw %}
 A local energy advice service has warned that cuts to the government's Warm Homes Plan would be a 'terrible blunder' for households across East Sussex.

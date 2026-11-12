@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 11 Nov 2026 19:18:20 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 07:42:36 +0000</lastBuildDate>
+  <item>
+    <title>Hastings couple to mark 70th Platinum wedding anniversary</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/12/hastings-couple-to-mark-70th-platinum-wedding-anniversary/</link>
+    <guid isPermaLink="false">story-163</guid>
+    <pubDate>Thu, 12 Nov 2026 07:42:36 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A Hastings couple is to celebrate its 70th, or Platinum, wedding anniversary next month.</description>
+  </item>
   <item>
     <title>Liane Carroll to give Christmas concert at St Clement&#x27;s for the Sara Lee Trust</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/liane-carroll-to-give-christmas-concert-at-st-clement-s-for-the-sara/</link>
@@ -398,14 +406,6 @@
     <pubDate>Fri, 30 Oct 2026 12:54:17 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Bexhill is to host an Ocean Symposium and Marine Exhibition at St Peter&#x27;s Community Centre on Saturday, November 14.</description>
-  </item>
-  <item>
-    <title>Rye farm says pumpkin crop ripened despite dry summer</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/30/rye-farm-says-pumpkin-crop-ripened-despite-dry-summer/</link>
-    <guid isPermaLink="false">story-60</guid>
-    <pubDate>Fri, 30 Oct 2026 07:50:10 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Pumpkin growers in Rye and the Sompting area near Lancing say they have produced a strong Halloween harvest, despite what the BBC described as the UK&#x27;s hottest summer on record.</description>
   </item>
 </channel>
 </rss>

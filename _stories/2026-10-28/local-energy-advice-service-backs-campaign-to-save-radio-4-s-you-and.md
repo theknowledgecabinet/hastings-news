@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-10-28T10:39:49+00:00'
 related:
+- url: /2026/11/12/east-sussex-energy-group-urges-residents-to-contact-mps-on-heat-pumps/
+  title: East Sussex energy group urges residents to contact MPs on heat pumps and EV targets
+  day: '2026-11-12'
 - url: /2026/10/21/warm-homes-plan-cuts-would-be-terrible-blunder-local-energy-service/
   title: Warm Homes Plan cuts would be 'terrible blunder', local energy service warns
   day: '2026-10-21'
 - url: /2026/11/02/free-off-grid-solar-workshops-coming-to-hastings-and-battle/
   title: Free off-grid solar workshops coming to Hastings and Battle
   day: '2026-11-02'
-- url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
-  title: Leaders of three councils urge government to raise Local Housing Allowance
-  day: '2026-10-27'
 ---
 {% raw %}
 Energise Sussex Coast, the local energy advice service, is urging East Sussex residents to sign a national petition to save Radio 4's consumer programme You and Yours, according to the Hastings Online Times.
