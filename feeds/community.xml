@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 13 Nov 2026 12:52:54 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 20:15:06 +0000</lastBuildDate>
+  <item>
+    <title>Bexhill seafront kiosk owner Stella Brennan-Wright dies aged 79</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/13/bexhill-seafront-kiosk-owner-stella-brennan-wright-dies-aged-79/</link>
+    <guid isPermaLink="false">story-178</guid>
+    <pubDate>Fri, 13 Nov 2026 20:15:06 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A well-loved Bexhill seafront kiosk owner has died, her family has announced.</description>
+  </item>
   <item>
     <title>Kray twins&#x27; biographer Fred Dinenage to speak at Hastings White Rock</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/13/kray-twins-biographer-fred-dinenage-to-speak-at-hastings-white-rock/</link>
@@ -398,14 +406,6 @@
     <pubDate>Sat, 31 Oct 2026 13:11:38 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The final book from late Shoreham-based lawyer Quintin Barry, Beachy Head 1690: The Grand Alliance at Bay, has been published after his death in January 2025, aged 88.</description>
-  </item>
-  <item>
-    <title>Christmas Makers&#x27; Fair at De La Warr Pavilion on 7 November</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/31/christmas-makers-fair-at-de-la-warr-pavilion-on-7-november/</link>
-    <guid isPermaLink="false">story-73</guid>
-    <pubDate>Sat, 31 Oct 2026 13:11:38 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Bexhill Artists&#x27; Workspace is holding its Christmas Makers&#x27; Fair at The Studio, De La Warr Pavilion, Bexhill, on Saturday 7 November.</description>
   </item>
 </channel>
 </rss>

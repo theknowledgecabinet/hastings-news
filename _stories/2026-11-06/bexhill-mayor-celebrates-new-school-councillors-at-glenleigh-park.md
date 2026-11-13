@@ -62,6 +62,9 @@ related:
 - url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
   title: Bexhill councillor calls parking permit charges 'extortionate'
   day: '2026-11-03'
+- url: /2026/11/13/bexhill-county-councillor-leaves-reform-uk-to-join-conservatives/
+  title: Bexhill county councillor leaves Reform UK to join Conservatives
+  day: '2026-11-13'
 ---
 {% raw %}
 Glenleigh Park Primary Academy in Bexhill hosted a special assembly to celebrate student leadership, with the Mayor of Bexhill, Cllr Memish Huseyin, in attendance. The visit marked the appointment of the school's newly elected school and eco councillors, following an election campaign that involved all pupils.

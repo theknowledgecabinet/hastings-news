@@ -54,6 +54,9 @@ related:
 - url: /2026/10/28/portslade-man-jailed-for-eight-years-for-rape-and-abusive-behaviour/
   title: Portslade man jailed for eight years for rape and abusive behaviour
   day: '2026-10-28'
+- url: /2026/11/13/aldwick-man-jailed-for-15-years-over-murder-of-his-wife/
+  title: Aldwick man jailed for 15 years over murder of his wife
+  day: '2026-11-13'
 - url: /2026/11/02/man-convicted-of-18-offences-after-shop-thefts-in-hastings/
   title: Man convicted of 18 offences after shop thefts in Hastings
   day: '2026-11-02'
