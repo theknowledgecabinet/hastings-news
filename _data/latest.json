@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-11-12",
-   "code": 3,
-   "words": "cloudy",
-   "icon": "☁️",
-   "high": 9,
-   "low": 4,
-   "rain_chance": 2,
-   "rain_mm": 0.0,
-   "wind": 14,
-   "gusts": 27,
-   "direction": "northerly",
-   "sunrise": "07:08",
-   "sunset": "16:14",
-   "summary": "Cloudy. A high of 9°C and a low of 4°C, a moderate breeze from the north. Sunrise 07:08, sunset 16:14.",
-   "label": "Today",
-   "weekday": "Thu 12 Nov",
-   "long": "Thursday 12 November"
-  },
-  {
    "day": "2026-11-13",
    "code": 0,
    "words": "clear skies",
@@ -38,13 +19,32 @@
    "sunrise": "07:10",
    "sunset": "16:13",
    "summary": "Clear skies. A high of 8°C and a low of 2°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Fri 13 Nov",
    "long": "Friday 13 November"
+  },
+  {
+   "day": "2026-11-14",
+   "code": 3,
+   "words": "cloudy",
+   "icon": "☁️",
+   "high": 9,
+   "low": 1,
+   "rain_chance": 5,
+   "rain_mm": 0.0,
+   "wind": 13,
+   "gusts": 26,
+   "direction": "south-easterly",
+   "sunrise": "07:11",
+   "sunset": "16:11",
+   "summary": "Cloudy. A high of 9°C and a low of 1°C, a moderate breeze from the south-east. Sunrise 07:11, sunset 16:11.",
+   "label": "Tomorrow",
+   "weekday": "Sat 14 Nov",
+   "long": "Saturday 14 November"
   }
  ],
- "today_label": "Thursday 12 November 2026",
- "today_short": "Thu 12 Nov",
+ "today_label": "Friday 13 November 2026",
+ "today_short": "Fri 13 Nov",
  "editions": [
   {
    "name": "morning",
