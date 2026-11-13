@@ -10,7 +10,7 @@
    "words": "clear skies",
    "icon": "☀️",
    "high": 7,
-   "low": 2,
+   "low": 1,
    "rain_chance": 0,
    "rain_mm": 0.0,
    "wind": 10,
@@ -18,7 +18,7 @@
    "direction": "northerly",
    "sunrise": "07:10",
    "sunset": "16:13",
-   "summary": "Clear skies. A high of 7°C and a low of 2°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13.",
+   "summary": "Clear skies. A high of 7°C and a low of 1°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13.",
    "label": "Today",
    "weekday": "Fri 13 Nov",
    "long": "Friday 13 November"
