@@ -3,7 +3,7 @@ layout: story
 title: Plans for up to 125 homes at Robertsbridge mill site
 permalink: /2026/11/06/plans-for-up-to-125-homes-at-robertsbridge-mill-site/
 date: 2026-11-06 12:55:13 +0000
-updated: '2026-11-12T19:14:36+00:00'
+updated: '2026-11-13T08:05:49+00:00'
 sid: 121
 day: '2026-11-06'
 edition: midday
@@ -40,6 +40,12 @@ updates:
   sources:
   - url: https://www.sussexexpress.co.uk/news/politics/council/up-to-125-homes-at-east-sussex-mill-and-oast-house-site-approved-9347803
     name: Hastings Observer
+- date: '2026-11-13T08:05:49+00:00'
+  edition: morning
+  text: The approval is subject to conditions and the signing of a detailed legal agreement, expected to secure a 'late stage review' of the scheme's affordability, because a Financial Viability Appraisal had concluded the proposed development could not support the provision of any affordable housing.
+  sources:
+  - url: https://www.theargus.co.uk/news/26723410.125-home-development-robertsbridge-approved/?ref=rss
+    name: The Argus
 image:
   card:
     url: /assets/media/story/121/card.webp
