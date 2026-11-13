@@ -30,7 +30,7 @@
    "icon": "☁️",
    "high": 10,
    "low": 1,
-   "rain_chance": 4,
+   "rain_chance": 1,
    "rain_mm": 0.0,
    "wind": 13,
    "gusts": 27,
