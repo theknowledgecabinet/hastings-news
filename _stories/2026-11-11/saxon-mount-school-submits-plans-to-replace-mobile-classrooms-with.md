@@ -52,6 +52,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:New_classrooms,_Oakfield_School,_Ackworth_-_geograph.org.uk_-_93615.jpg
   default: false
 checked: '2026-11-11T19:19:22+00:00'
+related:
+- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
+  title: Police appeal for information over St Leonards burglary
+  day: '2026-11-13'
 ---
 {% raw %}
 Saxon Mount School, in Edinburgh Road, St Leonards, has submitted a planning application to replace its four single-storey mobile classrooms with a new two-storey building.

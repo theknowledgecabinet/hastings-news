@@ -54,12 +54,12 @@ related:
 - url: /2026/10/28/police-step-up-evening-patrols-in-rye-after-reports-of-anti-social/
   title: Police step up evening patrols in Rye after reports of anti-social behaviour
   day: '2026-10-28'
+- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
+  title: Police appeal for information over St Leonards burglary
+  day: '2026-11-13'
 - url: /2026/11/12/police-appeal-for-information-after-st-leonards-building-vandalised/
   title: Police appeal for information after St Leonards building vandalised
   day: '2026-11-12'
-- url: /2026/11/02/residents-brand-st-leonards-metal-supports-an-eyesore/
-  title: Residents brand St Leonards metal supports an 'eyesore'
-  day: '2026-11-02'
 ---
 {% raw %}
 Police said they are increasing patrols in and around Eldridge Way, St Leonards, near The Ridge, following reports of anti-social behaviour from local residents.

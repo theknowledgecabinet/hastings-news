@@ -53,15 +53,15 @@ image:
   default: false
 checked: '2026-10-27T19:17:22+00:00'
 related:
+- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
+  title: Police appeal for information over St Leonards burglary
+  day: '2026-11-13'
 - url: /2026/10/30/new-police-policy-will-see-illegal-e-bikes-and-e-scooters-seized-from/
   title: New police policy will see illegal e-bikes and e-scooters seized from Sunday
   day: '2026-10-30'
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'
-- url: /2026/10/29/beach-cleaners-remove-more-than-15kg-of-rubbish-from-local-beaches/
-  title: Beach cleaners remove more than 15kg of rubbish from local beaches
-  day: '2026-10-29'
 ---
 {% raw %}
 Beach cleaning charity Nurdle is appealing for information after three quad bikes and specialist equipment were stolen from secure shipping containers in the early hours of Sunday 25 October.

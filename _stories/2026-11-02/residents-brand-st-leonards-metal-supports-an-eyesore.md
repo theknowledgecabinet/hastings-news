@@ -56,9 +56,9 @@ related:
 - url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
   title: Police increase patrols in Eldridge Way area of St Leonards
   day: '2026-11-03'
-- url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
-  title: Residents call for action over former Hastings public toilets site
-  day: '2026-10-28'
+- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
+  title: Police appeal for information over St Leonards burglary
+  day: '2026-11-13'
 ---
 {% raw %}
 Residents have branded large metal supports in St Leonards an 'eyesore'.

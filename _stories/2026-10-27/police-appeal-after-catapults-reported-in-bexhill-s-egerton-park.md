@@ -54,12 +54,12 @@ related:
 - url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/
   title: Police appeal after car and horse rider incident in Bexhill
   day: '2026-10-30'
+- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
+  title: Police appeal for information over St Leonards burglary
+  day: '2026-11-13'
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
   title: New road signs installed in Bexhill for horse and rider safety
   day: '2026-10-29'
-- url: /2026/11/11/police-seek-man-over-theft-of-cash-from-bexhill-m-s/
-  title: Police seek man over theft of cash from Bexhill M&S
-  day: '2026-11-11'
 ---
 {% raw %}
 Police are appealing for information after reports of animals being targeted with catapults in Egerton Park, Bexhill-on-Sea.

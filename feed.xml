@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 13 Nov 2026 12:52:54 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 12:58:56 +0000</lastBuildDate>
+  <item>
+    <title>Police appeal for information over St Leonards burglary</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/13/police-appeal-for-information-over-st-leonards-burglary/</link>
+    <guid isPermaLink="false">story-176</guid>
+    <pubDate>Fri, 13 Nov 2026 12:58:56 +0000</pubDate>
+    <category>Crime &amp; courts</category>
+    <description>Sussex Police are appealing for information in connection with a burglary in Eversfield Place, St Leonards.</description>
+  </item>
   <item>
     <title>Kray twins&#x27; biographer Fred Dinenage to speak at Hastings White Rock</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/13/kray-twins-biographer-fred-dinenage-to-speak-at-hastings-white-rock/</link>
@@ -638,14 +646,6 @@
     <pubDate>Thu, 05 Nov 2026 08:19:34 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The family of a six-year-old Bexhill boy who died of a brain condition has featured in a new film as part of a campaign to show the vital role of hospices.</description>
-  </item>
-  <item>
-    <title>Council to seek group to take lease of Hollington Community Centre</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/04/council-to-seek-group-to-take-lease-of-hollington-community-centre/</link>
-    <guid isPermaLink="false">story-103</guid>
-    <pubDate>Wed, 04 Nov 2026 19:18:58 +0000</pubDate>
-    <category>Council</category>
-    <description>East Sussex County Council is looking for a local group to take on the lease of Hollington Community Centre in Old Church Road, after saying the building needs significant investment to bring it back into good repair.</description>
   </item>
 </channel>
 </rss>

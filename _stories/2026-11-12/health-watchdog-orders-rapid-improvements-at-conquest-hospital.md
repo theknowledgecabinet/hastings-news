@@ -58,9 +58,9 @@ related:
 - url: /2026/11/04/council-to-seek-group-to-take-lease-of-hollington-community-centre/
   title: Council to seek group to take lease of Hollington Community Centre
   day: '2026-11-04'
-- url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
-  title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
-  day: '2026-11-03'
+- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
+  title: Police appeal for information over St Leonards burglary
+  day: '2026-11-13'
 ---
 {% raw %}
 The Care Quality Commission has downgraded the urgent and emergency care service at the Conquest Hospital in St Leonards from 'good' to 'requires improvement' and ordered East Sussex Healthcare NHS Trust to submit an action plan showing what action it is taking to make immediate improvements. The hospital's overall rating has moved from 'outstanding' to 'good'.

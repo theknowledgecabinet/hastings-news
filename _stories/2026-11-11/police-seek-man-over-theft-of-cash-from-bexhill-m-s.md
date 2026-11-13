@@ -50,15 +50,15 @@ image:
   default: false
 checked: '2026-11-11T12:49:02+00:00'
 related:
+- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
+  title: Police appeal for information over St Leonards burglary
+  day: '2026-11-13'
 - url: /2026/11/12/police-urgently-searching-for-14-year-old-girl-missing-from-bexhill/
   title: Police 'urgently searching' for 14-year-old girl missing from Bexhill
   day: '2026-11-12'
 - url: /2026/10/25/manhunt-for-escaped-prisoner-with-links-to-sussex/
   title: Manhunt for escaped prisoner with links to Sussex
   day: '2026-10-25'
-- url: /2026/11/11/man-charged-with-theft-after-evading-police-across-railway-line-at-rye/
-  title: Man charged with theft after evading police across railway line at Rye
-  day: '2026-11-11'
 ---
 {% raw %}
 Sussex Police is seeking a man in connection with the theft of cash from the Marks and Spencer store in Ravenside Retail Park, Bexhill.
