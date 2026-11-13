@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 13 Nov 2026 08:05:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 12:52:54 +0000</lastBuildDate>
+  <item>
+    <title>Kray twins&#x27; biographer Fred Dinenage to speak at Hastings White Rock</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/13/kray-twins-biographer-fred-dinenage-to-speak-at-hastings-white-rock/</link>
+    <guid isPermaLink="false">story-175</guid>
+    <pubDate>Fri, 13 Nov 2026 12:52:54 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings White Rock is offering the chance to delve into the lives of Britain&#x27;s most notorious gangsters with the Krays&#x27; official biographer, Fred Dinenage.</description>
+  </item>
   <item>
     <title>Update: Plans for up to 125 homes at Robertsbridge mill site</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/plans-for-up-to-125-homes-at-robertsbridge-mill-site/</link>
@@ -638,14 +646,6 @@
     <pubDate>Wed, 04 Nov 2026 19:18:58 +0000</pubDate>
     <category>Council</category>
     <description>East Sussex County Council is looking for a local group to take on the lease of Hollington Community Centre in Old Church Road, after saying the building needs significant investment to bring it back into good repair.</description>
-  </item>
-  <item>
-    <title>Work begins on 27 &#x27;luxury flats&#x27; development in St Leonards</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/</link>
-    <guid isPermaLink="false">story-104</guid>
-    <pubDate>Wed, 04 Nov 2026 19:18:58 +0000</pubDate>
-    <category>Business</category>
-    <description>Work has started on a scheme of 27 flats in St Leonards. Scaffolding is going up and the first foundations are being built on a West Hill Road site, according to the Hastings Observer.</description>
   </item>
 </channel>
 </rss>

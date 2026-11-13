@@ -2,7 +2,7 @@
  "day": "2026-11-13",
  "label": "Friday 13 November 2026",
  "issue": 24,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-13",
@@ -65,6 +65,26 @@
     "sunset": "16:13",
     "summary": "Clear skies. A high of 7°C and a low of 2°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-13",
+    "code": 0,
+    "words": "clear skies",
+    "icon": "☀️",
+    "high": 7,
+    "low": 1,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
+    "wind": 10,
+    "gusts": 20,
+    "direction": "northerly",
+    "sunrise": "07:10",
+    "sunset": "16:13",
+    "summary": "Clear skies. A high of 7°C and a low of 1°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13."
+   }
   }
  ],
  "weather": {
@@ -73,7 +93,7 @@
   "words": "clear skies",
   "icon": "☀️",
   "high": 7,
-  "low": 2,
+  "low": 1,
   "rain_chance": 0,
   "rain_mm": 0.0,
   "wind": 10,
@@ -81,7 +101,7 @@
   "direction": "northerly",
   "sunrise": "07:10",
   "sunset": "16:13",
-  "summary": "Clear skies. A high of 7°C and a low of 2°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13."
+  "summary": "Clear skies. A high of 7°C and a low of 1°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13."
  },
  "briefing": {
   "day": "2026-11-12",
