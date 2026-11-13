@@ -1,8 +1,8 @@
 {
- "day": "2026-11-12",
- "label": "Thursday 12 November 2026",
- "issue": 23,
- "edition_label": "Evening edition",
+ "day": "2026-11-13",
+ "label": "Friday 13 November 2026",
+ "issue": 24,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-13",
@@ -50,46 +50,6 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-12",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 9,
-    "low": 4,
-    "rain_chance": 2,
-    "rain_mm": 0.0,
-    "wind": 14,
-    "gusts": 28,
-    "direction": "northerly",
-    "sunrise": "07:08",
-    "sunset": "16:14",
-    "summary": "Cloudy. A high of 9°C and a low of 4°C, a moderate breeze from the north. Sunrise 07:08, sunset 16:14."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-12",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 9,
-    "low": 3,
-    "rain_chance": 2,
-    "rain_mm": 0.0,
-    "wind": 14,
-    "gusts": 27,
-    "direction": "northerly",
-    "sunrise": "07:08",
-    "sunset": "16:14",
-    "summary": "Cloudy. A high of 9°C and a low of 3°C, a moderate breeze from the north. Sunrise 07:08, sunset 16:14."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-13",
     "code": 0,
     "words": "clear skies",
@@ -98,8 +58,8 @@
     "low": 2,
     "rain_chance": 0,
     "rain_mm": 0.0,
-    "wind": 11,
-    "gusts": 21,
+    "wind": 10,
+    "gusts": 20,
     "direction": "northerly",
     "sunrise": "07:10",
     "sunset": "16:13",
@@ -116,8 +76,8 @@
   "low": 2,
   "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 11,
-  "gusts": 21,
+  "wind": 10,
+  "gusts": 20,
   "direction": "northerly",
   "sunrise": "07:10",
   "sunset": "16:13",
@@ -137,6 +97,11 @@
   "title": "This day in 1964: Kevin Ball was born in Hastings"
  },
  "days": [
+  {
+   "day": "2026-11-13",
+   "url": "/2026/11/13/",
+   "label": "Fri 13 Nov"
+  },
   {
    "day": "2026-11-12",
    "url": "/2026/11/12/",
@@ -201,11 +166,6 @@
    "day": "2026-10-31",
    "url": "/2026/10/31/",
    "label": "Sat 31 Oct"
-  },
-  {
-   "day": "2026-10-30",
-   "url": "/2026/10/30/",
-   "label": "Fri 30 Oct"
   }
  ]
 }

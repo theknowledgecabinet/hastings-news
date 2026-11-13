@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 12 Nov 2026 19:10:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 07:45:28 +0000</lastBuildDate>
+  <item>
+    <title>Bexhill Christmas lights switch-on and market on December 5</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/13/bexhill-christmas-lights-switch-on-and-market-on-december-5/</link>
+    <guid isPermaLink="false">story-173</guid>
+    <pubDate>Fri, 13 Nov 2026 07:45:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Bexhill&#x27;s Christmas lights switch-on and festive market will take place on Saturday, December 5, from 3pm to 7pm in Western Road and Devonshire Square.</description>
+  </item>
+  <item>
+    <title>Rewilding sessions help children feel calmer, Hastings project says</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/13/rewilding-sessions-help-children-feel-calmer-hastings-project-says/</link>
+    <guid isPermaLink="false">story-174</guid>
+    <pubDate>Fri, 13 Nov 2026 07:45:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Children taking part in an outdoor rewilding scheme based in Hastings have described the sessions as helping them to feel calmer, according to the BBC.</description>
+  </item>
   <item>
     <title>Rye man named community champion in housing association awards</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/12/rye-man-named-community-champion-in-housing-association-awards/</link>
@@ -390,22 +406,6 @@
     <pubDate>Sat, 31 Oct 2026 07:53:46 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A village pub that has been closed for years could reopen with three new guest rooms, after renovation plans were submitted to Rother District Council.</description>
-  </item>
-  <item>
-    <title>Status Quo&#x27;s Francis Rossi to play De La Warr Pavilion, Bexhill</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/31/status-quo-s-francis-rossi-to-play-de-la-warr-pavilion-bexhill/</link>
-    <guid isPermaLink="false">story-69</guid>
-    <pubDate>Sat, 31 Oct 2026 07:53:46 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Francis Rossi is to bring his solo Status Quo show to Bexhill this month. The guitarist will perform his Songbook: Quo – Past, Present, Future tour at the De La Warr Pavilion on Tuesday, November 10, the Sussex Express reports.</description>
-  </item>
-  <item>
-    <title>Local author Elizabeth Webb&#x27;s new novel reviewed</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/31/local-author-elizabeth-webb-s-new-novel-reviewed/</link>
-    <guid isPermaLink="false">story-70</guid>
-    <pubDate>Sat, 31 Oct 2026 07:53:46 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A new book by locally based author Elizabeth Webb has been reviewed by Michael Salmon in the Hastings Online Times. Dexter&#x27;s Lot, published by BiblioMuso, follows its protagonist as he stumbles &quot;from the exciting world of rock music to the mundane world of the supermarket,&quot; enduring many trials along the way.</description>
   </item>
 </channel>
 </rss>

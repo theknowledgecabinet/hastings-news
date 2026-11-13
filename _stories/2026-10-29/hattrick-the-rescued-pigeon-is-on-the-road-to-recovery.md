@@ -54,6 +54,9 @@ related:
 - url: /2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/
   title: Bird deaths spark campaign to remove netting in Hastings and Rother
   day: '2026-11-02'
+- url: /2026/11/13/rewilding-sessions-help-children-feel-calmer-hastings-project-says/
+  title: Rewilding sessions help children feel calmer, Hastings project says
+  day: '2026-11-13'
 ---
 {% raw %}
 A pigeon that was rescued after being snared in bird netting at the Hastings Library building is on the road to recovery.

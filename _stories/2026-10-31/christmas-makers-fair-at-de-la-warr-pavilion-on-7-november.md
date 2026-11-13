@@ -48,6 +48,10 @@ image:
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
   page: https://commons.wikimedia.org/wiki/File:Craft_%5E_Design_Market_at_Creek_Creative_Art_%5E_Design_Studios._-_geograph.org.uk_-_2419672.jpg
   default: false
+related:
+- url: /2026/11/13/bexhill-christmas-lights-switch-on-and-market-on-december-5/
+  title: Bexhill Christmas lights switch-on and market on December 5
+  day: '2026-11-13'
 ---
 {% raw %}
 Bexhill Artists' Workspace is holding its Christmas Makers' Fair at The Studio, De La Warr Pavilion, Bexhill, on Saturday 7 November.

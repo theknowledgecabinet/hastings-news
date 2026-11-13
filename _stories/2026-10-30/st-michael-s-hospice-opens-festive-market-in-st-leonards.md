@@ -54,6 +54,9 @@ related:
 - url: /2026/11/03/former-st-leonards-church-becomes-community-hub-with-weekly-market/
   title: Former St Leonards church becomes community hub with weekly market
   day: '2026-11-03'
+- url: /2026/11/13/bexhill-christmas-lights-switch-on-and-market-on-december-5/
+  title: Bexhill Christmas lights switch-on and market on December 5
+  day: '2026-11-13'
 ---
 {% raw %}
 St Michael's Hospice is holding a two-day Festive Market at its Upper Maze Hill site in St Leonards on Saturday, November 14, and Sunday, November 15.
