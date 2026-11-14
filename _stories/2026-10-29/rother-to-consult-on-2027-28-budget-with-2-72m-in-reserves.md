@@ -3,7 +3,7 @@ layout: story
 title: Rother to consult on 2027/28 budget with £2.72m in reserves
 permalink: /2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/
 date: 2026-10-29 19:27:04 +0000
-updated: '2026-11-11T09:35:20+00:00'
+updated: '2026-11-14T13:08:46+00:00'
 sid: 55
 day: '2026-10-29'
 edition: evening
@@ -43,6 +43,14 @@ updates:
   - url: https://www.rother.gov.uk/news/rother-budget-challenges-people-urged-to-have-their-say/
     name: Rother District Council
   - url: https://www.rother.gov.uk/news/cabinet-decisions-26-october-2026/
+    name: Rother District Council
+- date: '2026-11-14T13:08:46+00:00'
+  edition: midday
+  text: The council's budget consultation has now opened and runs until 5pm on 16 December. People can take part via an online survey, by email to consultations@rother.gov.uk, or by post to the council's Town Hall in Bexhill. The council said it wants to understand the effect of the proposals before making final budget decisions.
+  sources:
+  - url: https://www.rother.gov.uk/consultations/council-budget-2027/
+    name: Rother District Council
+  - url: https://www.rother.gov.uk/news/cabinet-decisions-26-october-2026
     name: Rother District Council
 image:
   card:

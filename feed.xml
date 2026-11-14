@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 14 Nov 2026 13:03:25 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 13:08:46 +0000</lastBuildDate>
+  <item>
+    <title>Update: Rother to consult on 2027/28 budget with £2.72m in reserves</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/</link>
+    <guid isPermaLink="false">story-55-update-2026-11-14T13:08:46+00:00</guid>
+    <pubDate>Sat, 14 Nov 2026 13:08:46 +0000</pubDate>
+    <category>Council</category>
+    <description>The council&#x27;s budget consultation has now opened and runs until 5pm on 16 December. People can take part via an online survey, by email to consultations@rother.gov.uk, or by post to the council&#x27;s Town Hall in Bexhill. The council said it wants to understand the effect of the proposals before making final budget decisions.</description>
+  </item>
   <item>
     <title>Nova &#x27;78 documentary screens at the Electric Palace</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/nova-78-documentary-screens-at-the-electric-palace/</link>
@@ -638,14 +646,6 @@
     <pubDate>Thu, 05 Nov 2026 13:53:42 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A 45-year-old man from Winchelsea Beach has been charged in connection with a series of shop theft offences across Hastings and Rother.</description>
-  </item>
-  <item>
-    <title>Update: White Rock Gardens could get covered padel and tennis courts</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/27/white-rock-gardens-could-get-covered-padel-and-tennis-courts/</link>
-    <guid isPermaLink="false">story-28-update-2026-11-05T13:47:17+00:00</guid>
-    <pubDate>Thu, 05 Nov 2026 13:47:17 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Borough Council has announced it is in line to receive £1.3million of investment funding to construct a new covered tennis and padel centre, with a projected overall cost of £1.8million and the council pledging £500,000 match funding.</description>
   </item>
 </channel>
 </rss>
