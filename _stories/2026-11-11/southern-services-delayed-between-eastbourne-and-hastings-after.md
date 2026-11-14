@@ -51,15 +51,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:SOUTHERN_377401.jpg
   default: false
 related:
+- url: /2026/11/14/trains-between-bexhill-and-eastbourne-cut-short-by-signalling-fault/
+  title: Trains between Bexhill and Eastbourne cut short by signalling fault
+  day: '2026-11-14'
 - url: /2026/10/24/buses-replace-trains-between-tonbridge-and-wadhurst-from-saturday/
   title: Buses replace trains between Tonbridge and Wadhurst from Saturday
   day: '2026-10-24'
 - url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
   title: New crossings and lighting completed around Hastings station
   day: '2026-10-27'
-- url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
-  title: Residents call for action over former Hastings public toilets site
-  day: '2026-10-28'
 ---
 {% raw %}
 Travellers between Eastbourne and Hastings faced delays on Wednesday afternoon after trespassers were found on the railway.

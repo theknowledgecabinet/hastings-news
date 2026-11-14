@@ -61,6 +61,9 @@ related:
 - url: /2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/
   title: Storm power cuts threatened water supply to the Hastings area
   day: '2026-10-26'
+- url: /2026/11/14/trains-between-bexhill-and-eastbourne-cut-short-by-signalling-fault/
+  title: Trains between Bexhill and Eastbourne cut short by signalling fault
+  day: '2026-11-14'
 ---
 {% raw %}
 No trains will run between Tonbridge and Wadhurst from Saturday 24 October until Sunday 1 November, as Network Rail carries out major work on the Hastings line. Rail replacement buses will operate throughout, and the closure extends to Battle on the final day.

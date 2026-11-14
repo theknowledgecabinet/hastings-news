@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 14 Nov 2026 18:50:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 19:20:30 +0000</lastBuildDate>
+  <item>
+    <title>Trains between Bexhill and Eastbourne cut short by signalling fault</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/trains-between-bexhill-and-eastbourne-cut-short-by-signalling-fault/</link>
+    <guid isPermaLink="false">story-185</guid>
+    <pubDate>Sat, 14 Nov 2026 19:20:30 +0000</pubDate>
+    <category>Traffic &amp; roadworks</category>
+    <description>Southern services between Bexhill and Eastbourne have been disrupted by a signalling fault, The Argus has reported.</description>
+  </item>
   <item>
     <title>Sussex Police warn against uninsured drivers with roadside checks</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/sussex-police-warn-against-uninsured-drivers-with-roadside-checks/</link>
@@ -638,14 +646,6 @@
     <pubDate>Thu, 05 Nov 2026 19:52:43 +0000</pubDate>
     <category>Politics</category>
     <description>Labour has withdrawn from power-sharing agreements with Green councillors in 11 local authorities, including Arun, Lewes and Wealden district councils in Sussex, over the party&#x27;s ‘Zionism is Racism’ policy.</description>
-  </item>
-  <item>
-    <title>Sculptor Leigh Dyer&#x27;s steel fins go on sale at At Sea</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/</link>
-    <guid isPermaLink="false">story-117</guid>
-    <pubDate>Thu, 05 Nov 2026 19:52:43 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The metal sculptor behind several well-known works around Hastings has opened a new line for sale at the At Sea gallery in the Old Town.</description>
   </item>
 </channel>
 </rss>
