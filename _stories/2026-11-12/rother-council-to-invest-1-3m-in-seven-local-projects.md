@@ -54,15 +54,15 @@ image:
   default: false
 checked: '2026-11-12T12:51:42+00:00'
 related:
+- url: /2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/
+  title: Bexhill community hub to get more than £500,000 in developer funding
+  day: '2026-11-14'
 - url: /2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/
   title: Rother to consult on 2027/28 budget with £2.72m in reserves
   day: '2026-10-29'
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
-- url: /2026/10/29/rother-district-council-pre-election-event-for-would-be-candidates-in/
-  title: Rother District Council pre-election event for would-be candidates in May 2027
-  day: '2026-10-29'
 ---
 {% raw %}
 Rother District Council has approved £1.3m from its Community Infrastructure Levy (CIL) fund to support seven projects across the district, aimed at improving local facilities, enhancing accessibility and promoting sustainability.

@@ -1,8 +1,8 @@
 {
- "day": "2026-11-13",
- "label": "Friday 13 November 2026",
- "issue": 24,
- "edition_label": "Evening edition",
+ "day": "2026-11-14",
+ "label": "Saturday 14 November 2026",
+ "issue": 25,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-14",
@@ -50,60 +50,20 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-13",
-    "code": 0,
-    "words": "clear skies",
-    "icon": "☀️",
-    "high": 7,
-    "low": 2,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 10,
-    "gusts": 20,
-    "direction": "northerly",
-    "sunrise": "07:10",
-    "sunset": "16:13",
-    "summary": "Clear skies. A high of 7°C and a low of 2°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-13",
-    "code": 0,
-    "words": "clear skies",
-    "icon": "☀️",
-    "high": 7,
-    "low": 1,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 10,
-    "gusts": 20,
-    "direction": "northerly",
-    "sunrise": "07:10",
-    "sunset": "16:13",
-    "summary": "Clear skies. A high of 7°C and a low of 1°C, a moderate breeze from the north. Sunrise 07:10, sunset 16:13."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-14",
     "code": 3,
     "words": "cloudy",
     "icon": "☁️",
-    "high": 10,
-    "low": 2,
+    "high": 9,
+    "low": 1,
     "rain_chance": 0,
     "rain_mm": 0.0,
-    "wind": 13,
-    "gusts": 26,
-    "direction": "south-easterly",
+    "wind": 12,
+    "gusts": 24,
+    "direction": "easterly",
     "sunrise": "07:11",
     "sunset": "16:11",
-    "summary": "Cloudy. A high of 10°C and a low of 2°C, a moderate breeze from the south-east. Sunrise 07:11, sunset 16:11."
+    "summary": "Cloudy. A high of 9°C and a low of 1°C, a moderate breeze from the east. Sunrise 07:11, sunset 16:11."
    }
   }
  ],
@@ -112,16 +72,16 @@
   "code": 3,
   "words": "cloudy",
   "icon": "☁️",
-  "high": 10,
-  "low": 2,
+  "high": 9,
+  "low": 1,
   "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 13,
-  "gusts": 26,
-  "direction": "south-easterly",
+  "wind": 12,
+  "gusts": 24,
+  "direction": "easterly",
   "sunrise": "07:11",
   "sunset": "16:11",
-  "summary": "Cloudy. A high of 10°C and a low of 2°C, a moderate breeze from the south-east. Sunrise 07:11, sunset 16:11."
+  "summary": "Cloudy. A high of 9°C and a low of 1°C, a moderate breeze from the east. Sunrise 07:11, sunset 16:11."
  },
  "briefing": {
   "day": "2026-11-13",
@@ -137,6 +97,11 @@
   "title": "A wartime RAF training wing formed at the Eversfield Hotel"
  },
  "days": [
+  {
+   "day": "2026-11-14",
+   "url": "/2026/11/14/",
+   "label": "Sat 14 Nov"
+  },
   {
    "day": "2026-11-13",
    "url": "/2026/11/13/",
@@ -201,11 +166,6 @@
    "day": "2026-11-01",
    "url": "/2026/11/01/",
    "label": "Sun 1 Nov"
-  },
-  {
-   "day": "2026-10-31",
-   "url": "/2026/10/31/",
-   "label": "Sat 31 Oct"
   }
  ]
 }

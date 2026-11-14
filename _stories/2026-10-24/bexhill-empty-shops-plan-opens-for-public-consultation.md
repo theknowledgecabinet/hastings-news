@@ -66,9 +66,9 @@ related:
 - url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/
   title: Police appeal after car and horse rider incident in Bexhill
   day: '2026-10-30'
-- url: /2026/11/10/residents-to-have-say-on-east-sussex-supported-housing-strategy/
-  title: Residents to have say on East Sussex supported housing strategy
-  day: '2026-11-10'
+- url: /2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/
+  title: Bexhill community hub to get more than £500,000 in developer funding
+  day: '2026-11-14'
 ---
 {% raw %}
 Rother District Council has asked residents and businesses to have their say on a plan to tackle long-term empty shops in Bexhill.

@@ -54,6 +54,9 @@ related:
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
   title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
   day: '2026-10-27'
+- url: /2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/
+  title: Bexhill community hub to get more than £500,000 in developer funding
+  day: '2026-11-14'
 ---
 {% raw %}
 Becky, Sarah and Owen from the #DoItForJosh charity met the team at Bexhill Hospital’s Irvine Unit on Monday to mark the continuation of a vital local stroke rehabilitation programme.

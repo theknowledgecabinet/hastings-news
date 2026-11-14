@@ -51,6 +51,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Rye_railway_station.jpg
   default: false
 checked: '2026-11-03T19:19:07+00:00'
+related:
+- url: /2026/11/14/rye-bonfire-procession-starts-at-7pm-on-saturday-night/
+  title: Rye bonfire procession starts at 7pm on Saturday night
+  day: '2026-11-14'
 ---
 {% raw %}
 Southern has announced that Rye railway station will be closed from 3pm on the day of the town's bonfire celebrations, Saturday, 14 November, until the regular start of service the next day, Sunday.

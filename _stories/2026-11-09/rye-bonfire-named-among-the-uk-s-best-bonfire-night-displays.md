@@ -56,12 +56,12 @@ related:
 - url: /2026/11/07/the-plough-in-rye-named-among-britain-s-best-pubs/
   title: The Plough in Rye named among Britain's best pubs
   day: '2026-11-07'
+- url: /2026/11/14/rye-bonfire-procession-starts-at-7pm-on-saturday-night/
+  title: Rye bonfire procession starts at 7pm on Saturday night
+  day: '2026-11-14'
 - url: /2026/10/30/rye-s-mermaid-inn-described-as-one-of-the-uk-s-most-haunted-pubs/
   title: Rye's Mermaid Inn described as one of the UK's most haunted pubs
   day: '2026-10-30'
-- url: /2026/10/28/police-step-up-evening-patrols-in-rye-after-reports-of-anti-social/
-  title: Police step up evening patrols in Rye after reports of anti-social behaviour
-  day: '2026-10-28'
 ---
 {% raw %}
 The Rye and District Bonfire has been named among the best Bonfire Night displays in the country, The Argus reports.

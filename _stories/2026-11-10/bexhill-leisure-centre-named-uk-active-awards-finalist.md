@@ -49,15 +49,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:The_Leisure_Centre,_Bexhill-on-Sea_-_geograph.org.uk_-_685407.jpg
   default: false
 related:
+- url: /2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/
+  title: Bexhill community hub to get more than £500,000 in developer funding
+  day: '2026-11-14'
 - url: /2026/10/29/vacant-bexhill-bank-building-to-become-two-restaurants-and-eight-flats/
   title: Vacant Bexhill bank building to become two restaurants and eight flats
   day: '2026-10-29'
 - url: /2026/11/02/bexhill-care-home-wins-pet-friendly-care-home-award/
   title: Bexhill care home wins Pet Friendly Care Home Award
   day: '2026-11-02'
-- url: /2026/11/11/two-bexhill-colonnade-kiosks-available-to-let-for-new-businesses/
-  title: Two Bexhill Colonnade kiosks available to let for new businesses
-  day: '2026-11-11'
 ---
 {% raw %}
 Bexhill Leisure Centre has been named a finalist for Regional Centre of the Year at the UK Active Awards, one of the leisure industry's leading national award programmes.

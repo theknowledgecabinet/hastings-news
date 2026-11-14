@@ -55,15 +55,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/
+  title: Bexhill community hub to get more than £500,000 in developer funding
+  day: '2026-11-14'
 - url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
   title: Bexhill councillor calls parking permit charges 'extortionate'
   day: '2026-11-03'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
-- url: /2026/10/29/bexhill-mp-backs-petition-for-20mph-limit-on-pevensey-s-b2191/
-  title: Bexhill MP backs petition for 20mph limit on Pevensey's B2191
-  day: '2026-10-29'
 ---
 {% raw %}
 A Bexhill town councillor has described proposals for a potential 500 new homes in the town as a 'disaster zone waiting to happen'.
