@@ -2,7 +2,7 @@
  "day": "2026-11-14",
  "label": "Saturday 14 November 2026",
  "issue": 25,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-14",
@@ -65,6 +65,26 @@
     "sunset": "16:11",
     "summary": "Cloudy. A high of 9°C and a low of 1°C, a moderate breeze from the east. Sunrise 07:11, sunset 16:11."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-14",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 8,
+    "low": 1,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
+    "wind": 11,
+    "gusts": 23,
+    "direction": "easterly",
+    "sunrise": "07:11",
+    "sunset": "16:11",
+    "summary": "Cloudy. A high of 8°C and a low of 1°C, a moderate breeze from the east. Sunrise 07:11, sunset 16:11."
+   }
   }
  ],
  "weather": {
@@ -72,16 +92,16 @@
   "code": 3,
   "words": "cloudy",
   "icon": "☁️",
-  "high": 9,
+  "high": 8,
   "low": 1,
   "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 12,
-  "gusts": 24,
+  "wind": 11,
+  "gusts": 23,
   "direction": "easterly",
   "sunrise": "07:11",
   "sunset": "16:11",
-  "summary": "Cloudy. A high of 9°C and a low of 1°C, a moderate breeze from the east. Sunrise 07:11, sunset 16:11."
+  "summary": "Cloudy. A high of 8°C and a low of 1°C, a moderate breeze from the east. Sunrise 07:11, sunset 16:11."
  },
  "briefing": {
   "day": "2026-11-13",

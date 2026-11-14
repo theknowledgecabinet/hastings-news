@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 14 Nov 2026 07:22:18 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 13:03:25 +0000</lastBuildDate>
+  <item>
+    <title>Nova &#x27;78 documentary screens at the Electric Palace</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/nova-78-documentary-screens-at-the-electric-palace/</link>
+    <guid isPermaLink="false">story-183</guid>
+    <pubDate>Sat, 14 Nov 2026 13:03:25 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>An 80-minute documentary about the Nova Convention in 1978 New York is coming to Hastings this weekend.</description>
+  </item>
   <item>
     <title>Shoplifter jailed for thefts across Sussex after £31,000 spree</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/shoplifter-jailed-for-thefts-across-sussex-after-31-000-spree/</link>
@@ -638,14 +646,6 @@
     <pubDate>Thu, 05 Nov 2026 13:47:17 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has announced it is in line to receive £1.3million of investment funding to construct a new covered tennis and padel centre, with a projected overall cost of £1.8million and the council pledging £500,000 match funding.</description>
-  </item>
-  <item>
-    <title>West Hill Lift closed for urgent surveys and repairs</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/west-hill-lift-closed-for-urgent-surveys-and-repairs/</link>
-    <guid isPermaLink="false">story-111</guid>
-    <pubDate>Thu, 05 Nov 2026 13:47:17 +0000</pubDate>
-    <category>Council</category>
-    <description>The West Hill Lift has been closed for essential surveys and repairs, according to the Hastings Independent Press.</description>
   </item>
 </channel>
 </rss>
