@@ -51,15 +51,15 @@ image:
   default: false
 checked: '2026-10-30T19:21:39+00:00'
 related:
+- url: /2026/11/14/sussex-police-warn-against-uninsured-drivers-with-roadside-checks/
+  title: Sussex Police warn against uninsured drivers with roadside checks
+  day: '2026-11-14'
 - url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
   title: Police launch Safer Town Centres campaign and new ASB powers
   day: '2026-10-28'
 - url: /2026/10/28/police-step-up-evening-patrols-in-rye-after-reports-of-anti-social/
   title: Police step up evening patrols in Rye after reports of anti-social behaviour
   day: '2026-10-28'
-- url: /2026/10/27/appeal-for-information-after-quad-bikes-stolen-from-nurdle-charity/
-  title: Appeal for information after quad bikes stolen from Nurdle charity
-  day: '2026-10-27'
 ---
 {% raw %}
 Sussex Police and Surrey Police have introduced a tougher policy under which riders caught using illegal electric vehicles in public could have their vehicles seized and destroyed.

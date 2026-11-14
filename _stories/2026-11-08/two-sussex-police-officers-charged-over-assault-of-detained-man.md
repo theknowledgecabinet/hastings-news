@@ -56,12 +56,12 @@ related:
 - url: /2026/10/25/manhunt-for-escaped-prisoner-with-links-to-sussex/
   title: Manhunt for escaped prisoner with links to Sussex
   day: '2026-10-25'
+- url: /2026/11/14/sussex-police-warn-against-uninsured-drivers-with-roadside-checks/
+  title: Sussex Police warn against uninsured drivers with roadside checks
+  day: '2026-11-14'
 - url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
   title: Police make 18 weekend arrests in Hastings and Rother
   day: '2026-11-03'
-- url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
-  title: Police launch Safer Town Centres campaign and new ASB powers
-  day: '2026-10-28'
 ---
 {% raw %}
 Two Sussex Police officers have been charged with assault occasioning actual bodily harm over an incident involving a man detained in hospital under the Mental Health Act, according to the Independent Office for Police Conduct (IOPC).
