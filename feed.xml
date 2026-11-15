@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 14 Nov 2026 19:20:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 07:39:37 +0000</lastBuildDate>
+  <item>
+    <title>East Sussex joins national programme to use creative activities for health</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/east-sussex-joins-national-programme-to-use-creative-activities-for/</link>
+    <guid isPermaLink="false">story-186</guid>
+    <pubDate>Sun, 15 Nov 2026 07:39:37 +0000</pubDate>
+    <category>Council</category>
+    <description>East Sussex County Council has been selected to join a national programme that uses creative and cultural activities to improve health and wellbeing.</description>
+  </item>
+  <item>
+    <title>On this day, 1865: A 70-foot whale stranded at Pevensey goes on sale</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-15/</link>
+    <guid isPermaLink="false">otd-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 07:00:00 +0000</pubDate>
+    <category>On this day</category>
+    <description>On 15 November 1865, the carcass of a finback whale some 70 feet long was sold by public auction on the shingle at Pevensey, after it washed up at Norman&#x27;s Bay two days earlier. A coastguard at the Pevensey Sluice Station spotted the dead animal floating in the water on the evening of Monday 13 November, and it came ashore that night.</description>
+  </item>
   <item>
     <title>Trains between Bexhill and Eastbourne cut short by signalling fault</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/trains-between-bexhill-and-eastbourne-cut-short-by-signalling-fault/</link>
@@ -630,22 +646,6 @@
     <pubDate>Fri, 06 Nov 2026 08:21:12 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Hastings artist Bill Greenhead, known for his cartoon-style paintings of chip-stealing seagulls, has an exhibition in the Snug bar of the Crown in Hastings Old Town.</description>
-  </item>
-  <item>
-    <title>Driver jailed for 13 months after 104mph police pursuit ended in ditch</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/driver-jailed-for-13-months-after-104mph-police-pursuit-ended-in-ditch/</link>
-    <guid isPermaLink="false">story-115</guid>
-    <pubDate>Thu, 05 Nov 2026 19:52:43 +0000</pubDate>
-    <category>Crime &amp; courts</category>
-    <description>A disqualified driver has been jailed for 13 months after leading police on a 31-minute pursuit through Hastings, Winchelsea and Rye that ended in a ditch in Iden.</description>
-  </item>
-  <item>
-    <title>Labour ends cooperation with Greens on 11 councils</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/labour-ends-cooperation-with-greens-on-11-councils/</link>
-    <guid isPermaLink="false">story-116</guid>
-    <pubDate>Thu, 05 Nov 2026 19:52:43 +0000</pubDate>
-    <category>Politics</category>
-    <description>Labour has withdrawn from power-sharing agreements with Green councillors in 11 local authorities, including Arun, Lewes and Wealden district councils in Sussex, over the party&#x27;s ‘Zionism is Racism’ policy.</description>
   </item>
 </channel>
 </rss>

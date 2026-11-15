@@ -1,8 +1,8 @@
 {
- "day": "2026-11-14",
- "label": "Saturday 14 November 2026",
- "issue": 25,
- "edition_label": "Evening edition",
+ "day": "2026-11-15",
+ "label": "Sunday 15 November 2026",
+ "issue": 26,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-15",
@@ -50,78 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-14",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 9,
-    "low": 1,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 24,
-    "direction": "easterly",
-    "sunrise": "07:11",
-    "sunset": "16:11",
-    "summary": "Cloudy. A high of 9°C and a low of 1°C, a moderate breeze from the east. Sunrise 07:11, sunset 16:11."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-14",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 8,
-    "low": 1,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 11,
-    "gusts": 23,
-    "direction": "easterly",
-    "sunrise": "07:11",
-    "sunset": "16:11",
-    "summary": "Cloudy. A high of 8°C and a low of 1°C, a moderate breeze from the east. Sunrise 07:11, sunset 16:11."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-15",
-    "code": 53,
-    "words": "drizzle",
+    "code": 61,
+    "words": "light rain",
     "icon": "🌦️",
     "high": 13,
     "low": 8,
     "rain_chance": 100,
-    "rain_mm": 2.8,
+    "rain_mm": 6.0,
     "wind": 18,
-    "gusts": 36,
+    "gusts": 35,
     "direction": "south-westerly",
     "sunrise": "07:13",
     "sunset": "16:10",
-    "summary": "Drizzle likely. A high of 13°C and a low of 8°C, a fresh breeze from the south-west, gusting 36 mph. Sunrise 07:13, sunset 16:10."
+    "summary": "Light rain likely. A high of 13°C and a low of 8°C, a fresh breeze from the south-west, gusting 35 mph. Sunrise 07:13, sunset 16:10."
    }
   }
  ],
  "weather": {
   "day": "2026-11-15",
-  "code": 53,
-  "words": "drizzle",
+  "code": 61,
+  "words": "light rain",
   "icon": "🌦️",
   "high": 13,
   "low": 8,
   "rain_chance": 100,
-  "rain_mm": 2.8,
+  "rain_mm": 6.0,
   "wind": 18,
-  "gusts": 36,
+  "gusts": 35,
   "direction": "south-westerly",
   "sunrise": "07:13",
   "sunset": "16:10",
-  "summary": "Drizzle likely. A high of 13°C and a low of 8°C, a fresh breeze from the south-west, gusting 36 mph. Sunrise 07:13, sunset 16:10."
+  "summary": "Light rain likely. A high of 13°C and a low of 8°C, a fresh breeze from the south-west, gusting 35 mph. Sunrise 07:13, sunset 16:10."
  },
  "briefing": {
   "day": "2026-11-14",
@@ -131,12 +91,17 @@
   "length": "7 min"
  },
  "otd": {
-  "day": "2026-11-13",
-  "url": "/on-this-day/2026-11-13/",
-  "year": 1939,
-  "title": "A wartime RAF training wing formed at the Eversfield Hotel"
+  "day": "2026-11-15",
+  "url": "/on-this-day/2026-11-15/",
+  "year": 1865,
+  "title": "A 70-foot whale stranded at Pevensey goes on sale"
  },
  "days": [
+  {
+   "day": "2026-11-15",
+   "url": "/2026/11/15/",
+   "label": "Sun 15 Nov"
+  },
   {
    "day": "2026-11-14",
    "url": "/2026/11/14/",
@@ -201,11 +166,6 @@
    "day": "2026-11-02",
    "url": "/2026/11/02/",
    "label": "Mon 2 Nov"
-  },
-  {
-   "day": "2026-11-01",
-   "url": "/2026/11/01/",
-   "label": "Sun 1 Nov"
   }
  ]
 }
