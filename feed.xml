@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 15 Nov 2026 13:11:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 19:05:09 +0000</lastBuildDate>
+  <item>
+    <title>The 1828 battle over smuggled goods at Sidley Green</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/the-1828-battle-over-smuggled-goods-at-sidley-green/</link>
+    <guid isPermaLink="false">story-189</guid>
+    <pubDate>Sun, 15 Nov 2026 19:05:09 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A new BBC feature looks back at the night in 1828 when a chase for smuggled goods turned into one of East Sussex&#x27;s most dramatic confrontations in the fields around Sidley, the village that long ago became part of suburban Bexhill.</description>
+  </item>
+  <item>
+    <title>Steyning second-half surge sinks Hastings United 4-1</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/steyning-second-half-surge-sinks-hastings-united-4-1/</link>
+    <guid isPermaLink="false">story-190</guid>
+    <pubDate>Sun, 15 Nov 2026 19:05:09 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings United suffered a heavy defeat on a cold Saturday afternoon at The Pilot Field, where Steyning Town produced a second-half comeback to win 4-1 in the Isthmian South East division in front of a crowd of 1,034.</description>
+  </item>
   <item>
     <title>Hastings MP says £1.27 million secured for local playgrounds</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/hastings-mp-says-1-27-million-secured-for-local-playgrounds/</link>
@@ -630,22 +646,6 @@
     <pubDate>Fri, 06 Nov 2026 12:55:13 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Ada, the friendly fox that made her home in an Asda car park in Hastings, has been moved to a safer place by a wildlife charity. The fox had become well known for approaching shoppers, begging for food and trying to climb up people&#x27;s legs.</description>
-  </item>
-  <item>
-    <title>Bexhill mayor celebrates new school councillors at Glenleigh Park Primary</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/bexhill-mayor-celebrates-new-school-councillors-at-glenleigh-park/</link>
-    <guid isPermaLink="false">story-124</guid>
-    <pubDate>Fri, 06 Nov 2026 12:55:13 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Glenleigh Park Primary Academy in Bexhill hosted a special assembly to celebrate student leadership, with the Mayor of Bexhill, Cllr Memish Huseyin, in attendance. The visit marked the appointment of the school&#x27;s newly elected school and eco councillors, following an election campaign that involved all pupils.</description>
-  </item>
-  <item>
-    <title>Have your say on renewal of five gated paths in Hastings and St Leonards</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/</link>
-    <guid isPermaLink="false">story-118</guid>
-    <pubDate>Fri, 06 Nov 2026 08:21:12 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Borough Council is asking for views on plans to renew gating orders for five public rights of way in Hastings and St Leonards.</description>
   </item>
 </channel>
 </rss>
