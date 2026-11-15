@@ -60,12 +60,12 @@ related:
 - url: /2026/10/29/beach-cleaners-remove-more-than-15kg-of-rubbish-from-local-beaches/
   title: Beach cleaners remove more than 15kg of rubbish from local beaches
   day: '2026-10-29'
+- url: /2026/11/15/hastings-mp-says-1-27-million-secured-for-local-playgrounds/
+  title: Hastings MP says £1.27 million secured for local playgrounds
+  day: '2026-11-15'
 - url: /2026/10/27/173-residents-urge-hastings-mp-to-publicly-oppose-rosebank-oil-field/
   title: 173 residents urge Hastings MP to publicly oppose Rosebank oil field
   day: '2026-10-27'
-- url: /2026/11/06/mp-joins-launch-of-hastings-st-leonards-poppy-appeal/
-  title: MP joins launch of Hastings & St Leonards Poppy Appeal
-  day: '2026-11-06'
 ---
 {% raw %}
 It is a year since Southern Water admitted responsibility for the millions of plastic beads that washed up on the beaches at Hastings, Camber Sands and at Rye Harbour Nature Reserve, and Hastings MP Helena Dollimore has marked the anniversary of what is thought to be one of the biggest plastic pollution incidents on the South Coast of England.

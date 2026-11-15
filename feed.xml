@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 15 Nov 2026 13:06:16 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 13:11:30 +0000</lastBuildDate>
+  <item>
+    <title>Hastings MP says £1.27 million secured for local playgrounds</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/hastings-mp-says-1-27-million-secured-for-local-playgrounds/</link>
+    <guid isPermaLink="false">story-188</guid>
+    <pubDate>Sun, 15 Nov 2026 13:11:30 +0000</pubDate>
+    <category>Politics</category>
+    <description>Hastings MP Helena Dollimore has said the town will receive £1.27 million to upgrade its playgrounds.</description>
+  </item>
   <item>
     <title>Police appeal to identify man found on Rottingdean beach</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/police-appeal-to-identify-man-found-on-rottingdean-beach/</link>
@@ -638,14 +646,6 @@
     <pubDate>Fri, 06 Nov 2026 08:21:12 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council is asking for views on plans to renew gating orders for five public rights of way in Hastings and St Leonards.</description>
-  </item>
-  <item>
-    <title>Hole Park near Rye promises a top Christmas tree crop after summer drought</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/hole-park-near-rye-promises-a-top-christmas-tree-crop-after-summer/</link>
-    <guid isPermaLink="false">story-119</guid>
-    <pubDate>Fri, 06 Nov 2026 08:21:12 +0000</pubDate>
-    <category>Business</category>
-    <description>One of the Rye area&#x27;s longest established Christmas tree growers is promising a top-quality harvest for the second year in a row.</description>
   </item>
 </channel>
 </rss>

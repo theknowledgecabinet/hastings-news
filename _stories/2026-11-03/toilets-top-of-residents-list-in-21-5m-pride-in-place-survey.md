@@ -54,11 +54,11 @@ related:
 - url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
   title: New litter bins appear in Hastings under Pride in Place funding
   day: '2026-10-29'
+- url: /2026/11/15/hastings-mp-says-1-27-million-secured-for-local-playgrounds/
+  title: Hastings MP says £1.27 million secured for local playgrounds
+  day: '2026-11-15'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
-  day: '2026-10-28'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
 ---
 {% raw %}

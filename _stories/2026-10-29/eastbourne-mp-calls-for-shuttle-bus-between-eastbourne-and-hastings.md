@@ -61,6 +61,9 @@ related:
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
   title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
   day: '2026-10-27'
+- url: /2026/11/15/hastings-mp-says-1-27-million-secured-for-local-playgrounds/
+  title: Hastings MP says £1.27 million secured for local playgrounds
+  day: '2026-11-15'
 ---
 {% raw %}
 Eastbourne MP Josh Babarinde has called for a dedicated shuttle bus between District General Hospital in Eastbourne and the Conquest Hospital in Hastings.
