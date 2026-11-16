@@ -53,12 +53,12 @@ related:
 - url: /2026/11/09/plans-for-42-new-homes-by-st-leonards-bannatyne-s-spa-hotel/
   title: Plans for 42 new homes by St Leonards' Bannatyne's Spa Hotel
   day: '2026-11-09'
+- url: /2026/11/16/planning-round-up-hmo-proposals-in-st-leonards-among-latest/
+  title: 'Planning round-up: HMO proposals in St Leonards among latest applications'
+  day: '2026-11-16'
 - url: /2026/11/07/st-leonards-and-hastings-properties-sell-at-clive-emson-auction/
   title: St Leonards and Hastings properties sell at Clive Emson auction
   day: '2026-11-07'
-- url: /2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/
-  title: Developers reveal bid to build 120 new Hastings homes
-  day: '2026-11-02'
 ---
 {% raw %}
 Work has started on a scheme of 27 flats in St Leonards. Scaffolding is going up and the first foundations are being built on a West Hill Road site, according to the Hastings Observer.

@@ -62,12 +62,12 @@ related:
 - url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
   title: Work begins on 27 'luxury flats' development in St Leonards
   day: '2026-11-04'
+- url: /2026/11/16/planning-round-up-hmo-proposals-in-st-leonards-among-latest/
+  title: 'Planning round-up: HMO proposals in St Leonards among latest applications'
+  day: '2026-11-16'
 - url: /2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/
   title: Developers reveal bid to build 120 new Hastings homes
   day: '2026-11-02'
-- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
-  title: Have your say on renewal of five gated paths in Hastings and St Leonards
-  day: '2026-11-06'
 ---
 {% raw %}
 Outline permission has been submitted to build up to 42 homes on land at Bannatyne's Spa Hotel in Hastings Road, St Leonards, according to the latest Hastings Borough Council planning applications.

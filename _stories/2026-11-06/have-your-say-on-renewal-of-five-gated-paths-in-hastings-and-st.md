@@ -55,15 +55,15 @@ image:
   default: false
 checked: '2026-11-06T08:21:48+00:00'
 related:
+- url: /2026/11/16/planning-round-up-hmo-proposals-in-st-leonards-among-latest/
+  title: 'Planning round-up: HMO proposals in St Leonards among latest applications'
+  day: '2026-11-16'
 - url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
   title: Hastings council to consider Age Friendly strategy for older residents
   day: '2026-11-04'
 - url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
   title: Call for interest in future use of Sandhurst Recreation Ground
   day: '2026-11-06'
-- url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
-  title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
-  day: '2026-11-03'
 ---
 {% raw %}
 Hastings Borough Council is asking for views on plans to renew gating orders for five public rights of way in Hastings and St Leonards.

@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 16 Nov 2026 12:53:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 12:58:51 +0000</lastBuildDate>
+  <item>
+    <title>Planning round-up: HMO proposals in St Leonards among latest applications</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/planning-round-up-hmo-proposals-in-st-leonards-among-latest/</link>
+    <guid isPermaLink="false">story-195</guid>
+    <pubDate>Mon, 16 Nov 2026 12:58:51 +0000</pubDate>
+    <category>Council</category>
+    <description>A series of planning applications have been submitted to Hastings Borough Council, including proposals for three houses in multiple occupation in St Leonards, according to a round-up of applications published by the Hastings Observer.</description>
+  </item>
   <item>
     <title>Bexhill GP surgery closed today over &#x27;unforeseen circumstances&#x27;</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/bexhill-gp-surgery-closed-today-over-unforeseen-circumstances/</link>
@@ -638,14 +646,6 @@
     <pubDate>Sat, 07 Nov 2026 08:28:26 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A 21-year-old from Hastings is about to take on one of the country&#x27;s toughest challenges, and he is doing it in denim.</description>
-  </item>
-  <item>
-    <title>MP joins launch of Hastings &amp; St Leonards Poppy Appeal</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/mp-joins-launch-of-hastings-st-leonards-poppy-appeal/</link>
-    <guid isPermaLink="false">story-125</guid>
-    <pubDate>Fri, 06 Nov 2026 19:17:07 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Helena Dollimore, the MP for Hastings, Rye and the villages, has joined veterans and volunteers at the launch of this year&#x27;s Hastings &amp; St Leonards Poppy Appeal, held in Tesco, raising money for veterans and their families.</description>
   </item>
 </channel>
 </rss>
