@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 15 Nov 2026 19:05:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 07:31:28 +0000</lastBuildDate>
+  <item>
+    <title>Eco-arts magazine Earthworks launches at Hastings Museum</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/eco-arts-magazine-earthworks-launches-at-hastings-museum/</link>
+    <guid isPermaLink="false">story-191</guid>
+    <pubDate>Mon, 16 Nov 2026 07:31:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A new eco-arts magazine is launching in Hastings on the same day the town&#x27;s museum opens its new environmentally themed exhibition.</description>
+  </item>
+  <item>
+    <title>Minor Dents, with Hastings-born Holly Finch, play the Jenny Lind</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/minor-dents-with-hastings-born-holly-finch-play-the-jenny-lind/</link>
+    <guid isPermaLink="false">story-192</guid>
+    <pubDate>Mon, 16 Nov 2026 07:31:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A psychedelic rock trio fronted by a Hastings-born singer plays a free gig at the Jenny Lind in December for the last Adventures in Pop! music evening of the year.</description>
+  </item>
   <item>
     <title>The 1828 battle over smuggled goods at Sidley Green</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/the-1828-battle-over-smuggled-goods-at-sidley-green/</link>
@@ -390,22 +406,6 @@
     <pubDate>Mon, 02 Nov 2026 19:24:23 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Residents have branded large metal supports in St Leonards an &#x27;eyesore&#x27;.</description>
-  </item>
-  <item>
-    <title>Battle Bonfire returns to the Abbey Green on Saturday</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/battle-bonfire-returns-to-the-abbey-green-on-saturday/</link>
-    <guid isPermaLink="false">story-79</guid>
-    <pubDate>Mon, 02 Nov 2026 13:07:56 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Battle holds what is said to be the oldest Guy Fawkes bonfire celebrations in England on Saturday 7 November, with the town&#x27;s tradition tracing back to 1646. St Mary&#x27;s Church then allocated two shillings and sixpence for gunpowder treason rejoicing, and the Battel Bonfire Boyes have kept the custom alive ever since.</description>
-  </item>
-  <item>
-    <title>Bexhill care home wins Pet Friendly Care Home Award</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/bexhill-care-home-wins-pet-friendly-care-home-award/</link>
-    <guid isPermaLink="false">story-80</guid>
-    <pubDate>Mon, 02 Nov 2026 13:07:56 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Elizabeth Court Rest Home in Hastings Road, Bexhill, has won the Pet Friendly Care Home Award for 2026. The home, which provides residential care for older people, lets its residents bring their own pets with them when they move in.</description>
   </item>
 </channel>
 </rss>

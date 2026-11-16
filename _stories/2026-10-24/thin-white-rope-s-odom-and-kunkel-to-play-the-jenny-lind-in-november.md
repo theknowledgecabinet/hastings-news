@@ -53,6 +53,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Hastings_Seafront_from_the_pier_-_geograph.org.uk_-_2687868.jpg
   default: false
 checked: '2026-10-26T18:36:01+00:00'
+related:
+- url: /2026/11/16/minor-dents-with-hastings-born-holly-finch-play-the-jenny-lind/
+  title: Minor Dents, with Hastings-born Holly Finch, play the Jenny Lind
+  day: '2026-11-16'
 ---
 {% raw %}
 Bassist-vocalist Stoo Odom and Roger Kunkel, both members of the Californian desert rock band Thin White Rope, will play the Jenny Lind in Hastings on Friday 20 November, according to the Hastings Online Times.

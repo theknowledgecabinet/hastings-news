@@ -1,8 +1,8 @@
 {
- "day": "2026-11-15",
- "label": "Sunday 15 November 2026",
- "issue": 26,
- "edition_label": "Evening edition",
+ "day": "2026-11-16",
+ "label": "Monday 16 November 2026",
+ "issue": 27,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-16",
@@ -50,78 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-15",
-    "code": 61,
-    "words": "light rain",
-    "icon": "🌦️",
-    "high": 13,
-    "low": 8,
-    "rain_chance": 100,
-    "rain_mm": 6.0,
-    "wind": 18,
-    "gusts": 35,
-    "direction": "south-westerly",
-    "sunrise": "07:13",
-    "sunset": "16:10",
-    "summary": "Light rain likely. A high of 13°C and a low of 8°C, a fresh breeze from the south-west, gusting 35 mph. Sunrise 07:13, sunset 16:10."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-15",
-    "code": 61,
-    "words": "light rain",
-    "icon": "🌦️",
-    "high": 12,
-    "low": 8,
-    "rain_chance": 100,
-    "rain_mm": 5.8,
-    "wind": 17,
-    "gusts": 34,
-    "direction": "south-westerly",
-    "sunrise": "07:13",
-    "sunset": "16:10",
-    "summary": "Light rain likely. A high of 12°C and a low of 8°C, a moderate breeze from the south-west, gusting 34 mph. Sunrise 07:13, sunset 16:10."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-16",
-    "code": 61,
-    "words": "light rain",
-    "icon": "🌦️",
-    "high": 8,
+    "code": 63,
+    "words": "rain",
+    "icon": "🌧️",
+    "high": 9,
     "low": 4,
-    "rain_chance": 62,
-    "rain_mm": 4.7,
+    "rain_chance": 90,
+    "rain_mm": 4.3,
     "wind": 13,
     "gusts": 27,
     "direction": "north-westerly",
     "sunrise": "07:15",
     "sunset": "16:09",
-    "summary": "Light rain likely. A high of 8°C and a low of 4°C, a moderate breeze from the north-west. Sunrise 07:15, sunset 16:09."
+    "summary": "Rain likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west. Sunrise 07:15, sunset 16:09."
    }
   }
  ],
  "weather": {
   "day": "2026-11-16",
-  "code": 61,
-  "words": "light rain",
-  "icon": "🌦️",
-  "high": 8,
+  "code": 63,
+  "words": "rain",
+  "icon": "🌧️",
+  "high": 9,
   "low": 4,
-  "rain_chance": 62,
-  "rain_mm": 4.7,
+  "rain_chance": 90,
+  "rain_mm": 4.3,
   "wind": 13,
   "gusts": 27,
   "direction": "north-westerly",
   "sunrise": "07:15",
   "sunset": "16:09",
-  "summary": "Light rain likely. A high of 8°C and a low of 4°C, a moderate breeze from the north-west. Sunrise 07:15, sunset 16:09."
+  "summary": "Rain likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west. Sunrise 07:15, sunset 16:09."
  },
  "briefing": {
   "day": "2026-11-15",
@@ -137,6 +97,11 @@
   "title": "A 70-foot whale stranded at Pevensey goes on sale"
  },
  "days": [
+  {
+   "day": "2026-11-16",
+   "url": "/2026/11/16/",
+   "label": "Mon 16 Nov"
+  },
   {
    "day": "2026-11-15",
    "url": "/2026/11/15/",
@@ -201,11 +166,6 @@
    "day": "2026-11-03",
    "url": "/2026/11/03/",
    "label": "Tue 3 Nov"
-  },
-  {
-   "day": "2026-11-02",
-   "url": "/2026/11/02/",
-   "label": "Mon 2 Nov"
   }
  ]
 }

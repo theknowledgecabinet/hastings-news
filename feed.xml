@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 15 Nov 2026 19:05:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 07:31:28 +0000</lastBuildDate>
+  <item>
+    <title>Eco-arts magazine Earthworks launches at Hastings Museum</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/eco-arts-magazine-earthworks-launches-at-hastings-museum/</link>
+    <guid isPermaLink="false">story-191</guid>
+    <pubDate>Mon, 16 Nov 2026 07:31:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A new eco-arts magazine is launching in Hastings on the same day the town&#x27;s museum opens its new environmentally themed exhibition.</description>
+  </item>
+  <item>
+    <title>Minor Dents, with Hastings-born Holly Finch, play the Jenny Lind</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/minor-dents-with-hastings-born-holly-finch-play-the-jenny-lind/</link>
+    <guid isPermaLink="false">story-192</guid>
+    <pubDate>Mon, 16 Nov 2026 07:31:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A psychedelic rock trio fronted by a Hastings-born singer plays a free gig at the Jenny Lind in December for the last Adventures in Pop! music evening of the year.</description>
+  </item>
   <item>
     <title>The 1828 battle over smuggled goods at Sidley Green</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/the-1828-battle-over-smuggled-goods-at-sidley-green/</link>
@@ -630,22 +646,6 @@
     <pubDate>Fri, 06 Nov 2026 12:55:13 +0000</pubDate>
     <category>Business</category>
     <description>Proposals to build up to 125 homes on the Hodson&#x27;s Mill site in Robertsbridge are set to go before Rother District Council&#x27;s planning committee on Thursday, 12 November. The plans come from Homes England, the government&#x27;s housing and regeneration agency.</description>
-  </item>
-  <item>
-    <title>Call for interest in future use of Sandhurst Recreation Ground</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/</link>
-    <guid isPermaLink="false">story-122</guid>
-    <pubDate>Fri, 06 Nov 2026 12:55:13 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Borough Council is asking sports clubs, groups and organisations to register their interest in the future of Sandhurst Recreation Ground. The council wants to know how much demand there is for the sports pitches, which organisations would like to use the site, and whether it could be managed or developed by the community.</description>
-  </item>
-  <item>
-    <title>Ada the Asda car park fox has been relocated to a safer home</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/ada-the-asda-car-park-fox-has-been-relocated-to-a-safer-home/</link>
-    <guid isPermaLink="false">story-123</guid>
-    <pubDate>Fri, 06 Nov 2026 12:55:13 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Ada, the friendly fox that made her home in an Asda car park in Hastings, has been moved to a safer place by a wildlife charity. The fox had become well known for approaching shoppers, begging for food and trying to climb up people&#x27;s legs.</description>
   </item>
 </channel>
 </rss>

@@ -57,9 +57,9 @@ related:
 - url: /2026/11/11/liane-carroll-to-give-christmas-concert-at-st-clement-s-for-the-sara/
   title: Liane Carroll to give Christmas concert at St Clement's for the Sara Lee Trust
   day: '2026-11-11'
-- url: /2026/11/02/martin-cohen-to-launch-new-book-at-hastings-palestine-solidarity-event/
-  title: Martin Cohen to launch new book at Hastings Palestine Solidarity event
-  day: '2026-11-02'
+- url: /2026/11/16/eco-arts-magazine-earthworks-launches-at-hastings-museum/
+  title: Eco-arts magazine Earthworks launches at Hastings Museum
+  day: '2026-11-16'
 ---
 {% raw %}
 Hastings artist Helen Slater will launch her book Uninvited on the afternoon of Sunday 25 October, hosted by The Peripheral Space Project.
