@@ -57,9 +57,9 @@ related:
 - url: /2026/11/10/bexhill-leisure-centre-named-uk-active-awards-finalist/
   title: Bexhill Leisure Centre named UK Active Awards finalist
   day: '2026-11-10'
-- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
-  title: Hastings council to consider Age Friendly strategy for older residents
-  day: '2026-11-04'
+- url: /2026/11/16/conquest-hospital-radio-wins-king-s-award/
+  title: Conquest Hospital Radio wins King's Award
+  day: '2026-11-16'
 ---
 {% raw %}
 Elizabeth Court Rest Home in Hastings Road, Bexhill, has won the Pet Friendly Care Home Award for 2026. The home, which provides residential care for older people, lets its residents bring their own pets with them when they move in.

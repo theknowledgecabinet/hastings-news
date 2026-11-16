@@ -55,6 +55,9 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/16/pilot-field-power-works-to-finish-by-early-december-mp-says/
+  title: Pilot Field power works to finish by early December, MP says
+  day: '2026-11-16'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'

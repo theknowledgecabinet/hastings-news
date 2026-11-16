@@ -55,12 +55,12 @@ related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
+- url: /2026/11/16/pilot-field-power-works-to-finish-by-early-december-mp-says/
+  title: Pilot Field power works to finish by early December, MP says
+  day: '2026-11-16'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
-- url: /2026/10/24/buses-replace-trains-between-tonbridge-and-wadhurst-from-saturday/
-  title: Buses replace trains between Tonbridge and Wadhurst from Saturday
-  day: '2026-10-24'
 ---
 {% raw %}
 Two water supply works serving the Hastings area shut down over the weekend after the storms knocked out local power, though taps kept running.

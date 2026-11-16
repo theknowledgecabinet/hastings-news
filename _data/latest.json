@@ -2,7 +2,7 @@
  "day": "2026-11-16",
  "label": "Monday 16 November 2026",
  "issue": 27,
- "edition_label": "Midday edition",
+ "edition_label": "Evening edition",
  "forecast": [
   {
    "day": "2026-11-16",
@@ -12,13 +12,13 @@
    "high": 9,
    "low": 4,
    "rain_chance": 88,
-   "rain_mm": 1.0,
+   "rain_mm": 0.6,
    "wind": 15,
-   "gusts": 30,
+   "gusts": 32,
    "direction": "westerly",
    "sunrise": "07:15",
    "sunset": "16:09",
-   "summary": "Light drizzle likely. A high of 9°C and a low of 4°C, a moderate breeze from the west, gusting 30 mph. Sunrise 07:15, sunset 16:09.",
+   "summary": "Light drizzle likely. A high of 9°C and a low of 4°C, a moderate breeze from the west, gusting 32 mph. Sunrise 07:15, sunset 16:09.",
    "label": "Today",
    "weekday": "Mon 16 Nov",
    "long": "Monday 16 November"
@@ -85,30 +85,50 @@
     "sunset": "16:09",
     "summary": "Heavy drizzle likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west, gusting 30 mph. Sunrise 07:15, sunset 16:09."
    }
+  },
+  {
+   "name": "evening",
+   "label": "Evening edition",
+   "weather": {
+    "day": "2026-11-17",
+    "code": 63,
+    "words": "rain",
+    "icon": "🌧️",
+    "high": 14,
+    "low": 9,
+    "rain_chance": 100,
+    "rain_mm": 17.8,
+    "wind": 22,
+    "gusts": 43,
+    "direction": "south-westerly",
+    "sunrise": "07:16",
+    "sunset": "16:08",
+    "summary": "Rain likely. A high of 14°C and a low of 9°C, a fresh breeze from the south-west, gusting 43 mph. Sunrise 07:16, sunset 16:08."
+   }
   }
  ],
  "weather": {
-  "day": "2026-11-16",
-  "code": 55,
-  "words": "heavy drizzle",
+  "day": "2026-11-17",
+  "code": 63,
+  "words": "rain",
   "icon": "🌧️",
-  "high": 9,
-  "low": 4,
-  "rain_chance": 82,
-  "rain_mm": 1.9,
-  "wind": 14,
-  "gusts": 30,
-  "direction": "north-westerly",
-  "sunrise": "07:15",
-  "sunset": "16:09",
-  "summary": "Heavy drizzle likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west, gusting 30 mph. Sunrise 07:15, sunset 16:09."
+  "high": 14,
+  "low": 9,
+  "rain_chance": 100,
+  "rain_mm": 17.8,
+  "wind": 22,
+  "gusts": 43,
+  "direction": "south-westerly",
+  "sunrise": "07:16",
+  "sunset": "16:08",
+  "summary": "Rain likely. A high of 14°C and a low of 9°C, a fresh breeze from the south-west, gusting 43 mph. Sunrise 07:16, sunset 16:08."
  },
  "briefing": {
-  "day": "2026-11-15",
-  "url": "/assets/podcast/2026-11-15.mp3",
-  "seconds": 502,
-  "bytes": 2008268,
-  "length": "8 min"
+  "day": "2026-11-16",
+  "url": "/assets/podcast/2026-11-16.mp3",
+  "seconds": 731,
+  "bytes": 2923628,
+  "length": "12 min"
  },
  "otd": {
   "day": "2026-11-15",

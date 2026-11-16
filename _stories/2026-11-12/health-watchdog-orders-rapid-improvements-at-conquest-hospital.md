@@ -52,15 +52,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Conquest_Hospital,_St_Leonards_-_geograph.org.uk_-_795540.jpg
   default: false
 related:
+- url: /2026/11/16/conquest-hospital-radio-wins-king-s-award/
+  title: Conquest Hospital Radio wins King's Award
+  day: '2026-11-16'
 - url: /2026/11/05/hastings-care-home-rated-good-across-all-five-cqc-areas/
   title: Hastings care home rated 'Good' across all five CQC areas
   day: '2026-11-05'
 - url: /2026/11/04/council-to-seek-group-to-take-lease-of-hollington-community-centre/
   title: Council to seek group to take lease of Hollington Community Centre
   day: '2026-11-04'
-- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
-  title: Police appeal for information over St Leonards burglary
-  day: '2026-11-13'
 ---
 {% raw %}
 The Care Quality Commission has downgraded the urgent and emergency care service at the Conquest Hospital in St Leonards from 'good' to 'requires improvement' and ordered East Sussex Healthcare NHS Trust to submit an action plan showing what action it is taking to make immediate improvements. The hospital's overall rating has moved from 'outstanding' to 'good'.

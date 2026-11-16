@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 16 Nov 2026 12:53:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 18:50:24 +0000</lastBuildDate>
+  <item>
+    <title>Conquest Hospital Radio wins King&#x27;s Award</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/conquest-hospital-radio-wins-king-s-award/</link>
+    <guid isPermaLink="false">story-197</guid>
+    <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Conquest Hospital Radio, the volunteer-run station that has been bringing music and company into hospitals in Hastings and the Rother for more than 50 years, has received a King&#x27;s Award, the highest recognition given to voluntary organisations in the UK.</description>
+  </item>
+  <item>
+    <title>HMS Prince of Wales spotted off the Hastings coast</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/hms-prince-of-wales-spotted-off-the-hastings-coast/</link>
+    <guid isPermaLink="false">story-199</guid>
+    <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Royal Navy aircraft carrier HMS Prince of Wales passed the Hastings coast on the morning of Monday 16 November, according to local photographer Marie Richardson, who captured the picture.</description>
+  </item>
   <item>
     <title>Bexhill man launches Taskmarket jobs app after Tourette&#x27;s ends wedding career</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/bexhill-man-launches-taskmarket-jobs-app-after-tourette-s-ends/</link>
@@ -390,22 +406,6 @@
     <pubDate>Tue, 03 Nov 2026 07:48:05 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Becky, Sarah and Owen from the #DoItForJosh charity met the team at Bexhill Hospital’s Irvine Unit on Monday to mark the continuation of a vital local stroke rehabilitation programme.</description>
-  </item>
-  <item>
-    <title>Westfield says farewell to Christmas Lights co-founder Ken Munday BEM</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/westfield-says-farewell-to-christmas-lights-co-founder-ken-munday-bem/</link>
-    <guid isPermaLink="false">story-89</guid>
-    <pubDate>Tue, 03 Nov 2026 07:48:05 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Westfield, outside Hastings, has paid its respects to Ken Munday, who was awarded the British Empire Medal for his services to the village.</description>
-  </item>
-  <item>
-    <title>Bird deaths spark campaign to remove netting in Hastings and Rother</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/</link>
-    <guid isPermaLink="false">story-83</guid>
-    <pubDate>Mon, 02 Nov 2026 19:24:23 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A new local campaign is calling for safer ways to manage birds around buildings after three incidents in which birds became trapped in netting.</description>
   </item>
 </channel>
 </rss>

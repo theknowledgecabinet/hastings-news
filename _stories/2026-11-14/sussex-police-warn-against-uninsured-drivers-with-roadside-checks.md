@@ -55,12 +55,12 @@ related:
 - url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
   title: Police launch Safer Town Centres campaign and new ASB powers
   day: '2026-10-28'
+- url: /2026/11/16/police-appeal-after-two-deliberate-vehicle-fires-in-bewbush/
+  title: Police appeal after two 'deliberate' vehicle fires in Bewbush
+  day: '2026-11-16'
 - url: /2026/10/30/new-police-policy-will-see-illegal-e-bikes-and-e-scooters-seized-from/
   title: New police policy will see illegal e-bikes and e-scooters seized from Sunday
   day: '2026-10-30'
-- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
-  title: Police appeal for information over St Leonards burglary
-  day: '2026-11-13'
 ---
 {% raw %}
 Sussex Police have warned motorists against uninsured driving, with officers carrying out roadside checks this week in the Eastbourne and Wealden area.
