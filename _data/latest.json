@@ -2,23 +2,23 @@
  "day": "2026-11-16",
  "label": "Monday 16 November 2026",
  "issue": 27,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-16",
-   "code": 61,
-   "words": "light rain",
-   "icon": "🌦️",
+   "code": 55,
+   "words": "heavy drizzle",
+   "icon": "🌧️",
    "high": 9,
    "low": 4,
-   "rain_chance": 90,
-   "rain_mm": 2.9,
+   "rain_chance": 82,
+   "rain_mm": 1.9,
    "wind": 14,
-   "gusts": 29,
+   "gusts": 30,
    "direction": "north-westerly",
    "sunrise": "07:15",
    "sunset": "16:09",
-   "summary": "Light rain likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west. Sunrise 07:15, sunset 16:09.",
+   "summary": "Heavy drizzle likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west, gusting 30 mph. Sunrise 07:15, sunset 16:09.",
    "label": "Today",
    "weekday": "Mon 16 Nov",
    "long": "Monday 16 November"
@@ -65,23 +65,43 @@
     "sunset": "16:09",
     "summary": "Rain likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west. Sunrise 07:15, sunset 16:09."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-16",
+    "code": 55,
+    "words": "heavy drizzle",
+    "icon": "🌧️",
+    "high": 9,
+    "low": 4,
+    "rain_chance": 82,
+    "rain_mm": 1.9,
+    "wind": 14,
+    "gusts": 30,
+    "direction": "north-westerly",
+    "sunrise": "07:15",
+    "sunset": "16:09",
+    "summary": "Heavy drizzle likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west, gusting 30 mph. Sunrise 07:15, sunset 16:09."
+   }
   }
  ],
  "weather": {
   "day": "2026-11-16",
-  "code": 63,
-  "words": "rain",
+  "code": 55,
+  "words": "heavy drizzle",
   "icon": "🌧️",
   "high": 9,
   "low": 4,
-  "rain_chance": 90,
-  "rain_mm": 4.3,
-  "wind": 13,
-  "gusts": 27,
+  "rain_chance": 82,
+  "rain_mm": 1.9,
+  "wind": 14,
+  "gusts": 30,
   "direction": "north-westerly",
   "sunrise": "07:15",
   "sunset": "16:09",
-  "summary": "Rain likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west. Sunrise 07:15, sunset 16:09."
+  "summary": "Heavy drizzle likely. A high of 9°C and a low of 4°C, a moderate breeze from the north-west, gusting 30 mph. Sunrise 07:15, sunset 16:09."
  },
  "briefing": {
   "day": "2026-11-15",

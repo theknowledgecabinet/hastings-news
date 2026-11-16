@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 16 Nov 2026 07:31:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 12:53:16 +0000</lastBuildDate>
+  <item>
+    <title>Bexhill man launches Taskmarket jobs app after Tourette&#x27;s ends wedding career</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/bexhill-man-launches-taskmarket-jobs-app-after-tourette-s-ends/</link>
+    <guid isPermaLink="false">story-194</guid>
+    <pubDate>Mon, 16 Nov 2026 12:53:16 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Luke Jones, 38, from Bexhill, spent more than ten years filming and photographing weddings through his company, Bexhill Film Company. Then in February 2024, at the age of 35, he was diagnosed with Tourette&#x27;s syndrome, and a job where he had to be in the room all day became impossible, he said.</description>
+  </item>
   <item>
     <title>Eco-arts magazine Earthworks launches at Hastings Museum</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/eco-arts-magazine-earthworks-launches-at-hastings-museum/</link>
@@ -398,14 +406,6 @@
     <pubDate>Mon, 02 Nov 2026 19:24:23 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A new local campaign is calling for safer ways to manage birds around buildings after three incidents in which birds became trapped in netting.</description>
-  </item>
-  <item>
-    <title>Residents brand St Leonards metal supports an &#x27;eyesore&#x27;</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/02/residents-brand-st-leonards-metal-supports-an-eyesore/</link>
-    <guid isPermaLink="false">story-84</guid>
-    <pubDate>Mon, 02 Nov 2026 19:24:23 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Residents have branded large metal supports in St Leonards an &#x27;eyesore&#x27;.</description>
   </item>
 </channel>
 </rss>
