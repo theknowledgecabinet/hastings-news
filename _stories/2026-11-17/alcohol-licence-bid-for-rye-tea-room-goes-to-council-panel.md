@@ -27,23 +27,34 @@ sources:
 comment: A wine bar in the middle of a medieval citadel with narrow pavements is an inevitable argument waiting to happen. The panel is told to keep planning questions out of it, which is a tall order in a town where the building itself is half the story.
 image:
   card:
-    url: /assets/media/abstract/story-208/card.webp
+    url: /assets/media/story/208/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-208/medium.webp
+    url: /assets/media/story/208/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-208/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/208/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-208/share.jpg
-  color: '#8c582d'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/208/share.jpg
+  color: '#6a6865'
+  alt: Wet cobbled street in historic English town
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-17T19:30:07+00:00'
 related:
 - url: /2026/10/31/iden-s-the-bell-pub-moves-closer-to-reopening-after-plans-submitted/
