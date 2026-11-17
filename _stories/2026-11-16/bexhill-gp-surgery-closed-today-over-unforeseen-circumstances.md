@@ -3,6 +3,7 @@ layout: story
 title: Bexhill GP surgery closed today over 'unforeseen circumstances'
 permalink: /2026/11/16/bexhill-gp-surgery-closed-today-over-unforeseen-circumstances/
 date: 2026-11-16 12:53:16 +0000
+updated: '2026-11-17T12:44:38+00:00'
 sid: 193
 day: '2026-11-16'
 edition: midday
@@ -26,6 +27,13 @@ sources:
 - url: https://www.sussexexpress.co.uk/health/bexhill-gp-surgery-closed-due-to-unforeseen-circumstances-9353407
   name: Hastings Observer
 comment: The practice has had a turbulent couple of years since the CQC suspended its previous provider in April 2025, so the long-term question of who will run it is more pressing than ever. For patients, the key thing to watch is whether today's closure is a one-day blip or the start of something longer.
+updates:
+- date: '2026-11-17T12:44:38+00:00'
+  edition: midday
+  text: Sidley Medical Practice in Bexhill has reopened after Monday's closure. The practice said the situation affecting it has now been resolved and thanked patients for their patience. NHS Surrey and Sussex ICB said the surgery was temporarily closed after an issue with access to the building meant the team running the service could not enter; the matter was resolved with support from the police and access has now been restored. Patients were asked to consider contacting the practice later in the week for non-urgent enquiries, as phone lines may be busy.
+  sources:
+  - url: https://www.sussexexpress.co.uk/health/bexhill-gp-surgery-reopens-after-being-closed-due-to-unforeseen-circumstances-9353407
+    name: Hastings Observer
 image:
   card:
     url: /assets/media/story/193/card.webp

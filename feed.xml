@@ -6,7 +6,31 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 08:30:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 12:44:38 +0000</lastBuildDate>
+  <item>
+    <title>Update: Bexhill GP surgery closed today over &#x27;unforeseen circumstances&#x27;</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/bexhill-gp-surgery-closed-today-over-unforeseen-circumstances/</link>
+    <guid isPermaLink="false">story-193-update-2026-11-17T12:44:38+00:00</guid>
+    <pubDate>Tue, 17 Nov 2026 12:44:38 +0000</pubDate>
+    <category>Council</category>
+    <description>Sidley Medical Practice in Bexhill has reopened after Monday&#x27;s closure. The practice said the situation affecting it has now been resolved and thanked patients for their patience. NHS Surrey and Sussex ICB said the surgery was temporarily closed after an issue with access to the building meant the team running the service could not enter; the matter was resolved with support from the police and access has now been restored. Patients were asked to consider contacting the practice later in the week for non-urgent enquiries, as phone lines may be busy.</description>
+  </item>
+  <item>
+    <title>Urgent 999 appeal as officers search for missing St Leonards woman</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/urgent-999-appeal-as-officers-search-for-missing-st-leonards-woman/</link>
+    <guid isPermaLink="false">story-204</guid>
+    <pubDate>Tue, 17 Nov 2026 12:44:38 +0000</pubDate>
+    <category>Crime &amp; courts</category>
+    <description>Police are urgently searching for a 39-year-old woman who is missing from St Leonards.</description>
+  </item>
+  <item>
+    <title>Hastings Old Town Carnival donates over £5,000 to local good causes</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/</link>
+    <guid isPermaLink="false">story-205</guid>
+    <pubDate>Tue, 17 Nov 2026 12:44:38 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>The Hastings Old Town Carnival Association has donated more than £5,000 to local charities after a successful Old Town Week.</description>
+  </item>
   <item>
     <title>Battle duo take on South Downs Trail Run to fund Hastings girl&#x27;s therapy</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/battle-duo-take-on-south-downs-trail-run-to-fund-hastings-girl-s/</link>
@@ -622,30 +646,6 @@
     <pubDate>Mon, 09 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>This week in November 1883, a trial of electric street lights in the town was switched on.</description>
-  </item>
-  <item>
-    <title>Police launch manhunt for man wanted for recall to prison</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/08/police-launch-manhunt-for-man-wanted-for-recall-to-prison/</link>
-    <guid isPermaLink="false">story-136</guid>
-    <pubDate>Sun, 08 Nov 2026 18:52:40 +0000</pubDate>
-    <category>Crime &amp; courts</category>
-    <description>Police have launched a manhunt for a man wanted for recall to prison and are asking anyone who sees him to call 999.</description>
-  </item>
-  <item>
-    <title>St Leonards&#x27; Becky Palmer wins Christmas tree flinging at Catsfield</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/08/st-leonards-becky-palmer-wins-christmas-tree-flinging-at-catsfield/</link>
-    <guid isPermaLink="false">story-137</guid>
-    <pubDate>Sun, 08 Nov 2026 18:52:40 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A 27-year-old from St Leonards has won the women&#x27;s title at the Christmas tree flinging contest at Catsfield Christmas Tree Farm near Battle.</description>
-  </item>
-  <item>
-    <title>Two Sussex police officers charged over assault of detained man</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/08/two-sussex-police-officers-charged-over-assault-of-detained-man/</link>
-    <guid isPermaLink="false">story-134</guid>
-    <pubDate>Sun, 08 Nov 2026 08:12:10 +0000</pubDate>
-    <category>Crime &amp; courts</category>
-    <description>Two Sussex Police officers have been charged with assault occasioning actual bodily harm over an incident involving a man detained in hospital under the Mental Health Act, according to the Independent Office for Police Conduct (IOPC).</description>
   </item>
 </channel>
 </rss>

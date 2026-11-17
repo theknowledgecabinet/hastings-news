@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 08:30:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 12:44:38 +0000</lastBuildDate>
+  <item>
+    <title>Hastings Old Town Carnival donates over £5,000 to local good causes</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/</link>
+    <guid isPermaLink="false">story-205</guid>
+    <pubDate>Tue, 17 Nov 2026 12:44:38 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>The Hastings Old Town Carnival Association has donated more than £5,000 to local charities after a successful Old Town Week.</description>
+  </item>
   <item>
     <title>Battle duo take on South Downs Trail Run to fund Hastings girl&#x27;s therapy</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/battle-duo-take-on-south-downs-trail-run-to-fund-hastings-girl-s/</link>
@@ -398,14 +406,6 @@
     <pubDate>Wed, 04 Nov 2026 08:17:32 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Ark Alexandra Academy&#x27;s Combined Cadet Force had a triple win at the Lord-Lieutenant&#x27;s Awards Ceremony, held at Lancing College and attended by senior military personnel and civic representatives from across the region.</description>
-  </item>
-  <item>
-    <title>Rye station to close from 3pm for bonfire celebrations</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/rye-station-to-close-from-3pm-for-bonfire-celebrations/</link>
-    <guid isPermaLink="false">story-95</guid>
-    <pubDate>Tue, 03 Nov 2026 19:18:06 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Southern has announced that Rye railway station will be closed from 3pm on the day of the town&#x27;s bonfire celebrations, Saturday, 14 November, until the regular start of service the next day, Sunday.</description>
   </item>
 </channel>
 </rss>

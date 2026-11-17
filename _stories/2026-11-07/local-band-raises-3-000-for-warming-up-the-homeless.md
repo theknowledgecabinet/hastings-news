@@ -52,6 +52,9 @@ image:
   default: false
 checked: '2026-11-07T13:20:20+00:00'
 related:
+- url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
+  title: Hastings Old Town Carnival donates over £5,000 to local good causes
+  day: '2026-11-17'
 - url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
   title: Leaders of three councils urge government to raise Local Housing Allowance
   day: '2026-10-27'

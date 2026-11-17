@@ -54,12 +54,12 @@ related:
 - url: /2026/11/12/police-appeal-for-information-after-st-leonards-building-vandalised/
   title: Police appeal for information after St Leonards building vandalised
   day: '2026-11-12'
+- url: /2026/11/17/urgent-999-appeal-as-officers-search-for-missing-st-leonards-woman/
+  title: Urgent 999 appeal as officers search for missing St Leonards woman
+  day: '2026-11-17'
 - url: /2026/11/11/police-seek-man-over-theft-of-cash-from-bexhill-m-s/
   title: Police seek man over theft of cash from Bexhill M&S
   day: '2026-11-11'
-- url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
-  title: Police increase patrols in Eldridge Way area of St Leonards
-  day: '2026-11-03'
 ---
 {% raw %}
 Sussex Police are appealing for information in connection with a burglary in Eversfield Place, St Leonards.

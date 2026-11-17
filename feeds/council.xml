@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 07:40:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 12:44:38 +0000</lastBuildDate>
+  <item>
+    <title>Update: Bexhill GP surgery closed today over &#x27;unforeseen circumstances&#x27;</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/bexhill-gp-surgery-closed-today-over-unforeseen-circumstances/</link>
+    <guid isPermaLink="false">story-193-update-2026-11-17T12:44:38+00:00</guid>
+    <pubDate>Tue, 17 Nov 2026 12:44:38 +0000</pubDate>
+    <category>Council</category>
+    <description>Sidley Medical Practice in Bexhill has reopened after Monday&#x27;s closure. The practice said the situation affecting it has now been resolved and thanked patients for their patience. NHS Surrey and Sussex ICB said the surgery was temporarily closed after an issue with access to the building meant the team running the service could not enter; the matter was resolved with support from the police and access has now been restored. Patients were asked to consider contacting the practice later in the week for non-urgent enquiries, as phone lines may be busy.</description>
+  </item>
   <item>
     <title>Hastings council to freeze most parking charges in 2027/28</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/hastings-council-to-freeze-most-parking-charges-in-2027-28/</link>
@@ -398,14 +406,6 @@
     <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has been awarded £288,500 from Historic England&#x27;s Heritage at Risk Capital Fund for repairs to Hastings Castle.</description>
-  </item>
-  <item>
-    <title>Bexhill empty shops plan opens for public consultation</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/</link>
-    <guid isPermaLink="false">story-8</guid>
-    <pubDate>Sat, 24 Oct 2026 07:00:00 +0100</pubDate>
-    <category>Council</category>
-    <description>Rother District Council has asked residents and businesses to have their say on a plan to tackle long-term empty shops in Bexhill.</description>
   </item>
 </channel>
 </rss>

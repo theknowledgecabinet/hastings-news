@@ -53,6 +53,9 @@ related:
 - url: /2026/11/11/st-leonards-frost-fair-returns-on-november-28-with-snow-queen-parade/
   title: St Leonards Frost Fair returns on November 28 with Snow Queen parade
   day: '2026-11-11'
+- url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
+  title: Hastings Old Town Carnival donates over £5,000 to local good causes
+  day: '2026-11-17'
 - url: /2026/10/27/remembrance-day-service-and-civic-parade-for-alexandra-park/
   title: Remembrance Day service and civic parade for Alexandra Park
   day: '2026-10-27'

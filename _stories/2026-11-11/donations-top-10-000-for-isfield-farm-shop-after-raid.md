@@ -59,6 +59,9 @@ related:
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
   title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
   day: '2026-10-27'
+- url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
+  title: Hastings Old Town Carnival donates over £5,000 to local good causes
+  day: '2026-11-17'
 ---
 {% raw %}
 Donations totalling more than £10,000 have flowed in to help a family farm in Isfield after thieves ransacked its shop, the owners said.

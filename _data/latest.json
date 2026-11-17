@@ -2,7 +2,7 @@
  "day": "2026-11-17",
  "label": "Tuesday 17 November 2026",
  "issue": 28,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-17",
@@ -65,6 +65,26 @@
     "sunset": "16:08",
     "summary": "Rain likely. A high of 14°C and a low of 8°C, a fresh breeze from the south-west, gusting 42 mph. Sunrise 07:16, sunset 16:08."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-17",
+    "code": 63,
+    "words": "rain",
+    "icon": "🌧️",
+    "high": 14,
+    "low": 8,
+    "rain_chance": 100,
+    "rain_mm": 17.4,
+    "wind": 22,
+    "gusts": 44,
+    "direction": "south-westerly",
+    "sunrise": "07:16",
+    "sunset": "16:08",
+    "summary": "Rain likely. A high of 14°C and a low of 8°C, a fresh breeze from the south-west, gusting 44 mph. Sunrise 07:16, sunset 16:08."
+   }
   }
  ],
  "weather": {
@@ -75,13 +95,13 @@
   "high": 14,
   "low": 8,
   "rain_chance": 100,
-  "rain_mm": 15.4,
+  "rain_mm": 17.4,
   "wind": 22,
-  "gusts": 42,
+  "gusts": 44,
   "direction": "south-westerly",
   "sunrise": "07:16",
   "sunset": "16:08",
-  "summary": "Rain likely. A high of 14°C and a low of 8°C, a fresh breeze from the south-west, gusting 42 mph. Sunrise 07:16, sunset 16:08."
+  "summary": "Rain likely. A high of 14°C and a low of 8°C, a fresh breeze from the south-west, gusting 44 mph. Sunrise 07:16, sunset 16:08."
  },
  "briefing": {
   "day": "2026-11-16",
