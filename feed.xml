@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 07:40:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 08:30:31 +0000</lastBuildDate>
+  <item>
+    <title>Battle duo take on South Downs Trail Run to fund Hastings girl&#x27;s therapy</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/battle-duo-take-on-south-downs-trail-run-to-fund-hastings-girl-s/</link>
+    <guid isPermaLink="false">story-203</guid>
+    <pubDate>Tue, 17 Nov 2026 08:30:31 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Two bricklayers from Battle are taking on the South Downs Trail Run on 28 November to help an 11-year-old Hastings gymnast continue her rehabilitation.</description>
+  </item>
   <item>
     <title>Hastings council to freeze most parking charges in 2027/28</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/hastings-council-to-freeze-most-parking-charges-in-2027-28/</link>
@@ -638,14 +646,6 @@
     <pubDate>Sun, 08 Nov 2026 08:12:10 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Two Sussex Police officers have been charged with assault occasioning actual bodily harm over an incident involving a man detained in hospital under the Mental Health Act, according to the Independent Office for Police Conduct (IOPC).</description>
-  </item>
-  <item>
-    <title>Swansea Sound to open tour at The Piper in St Leonards</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/08/swansea-sound-to-open-tour-at-the-piper-in-st-leonards/</link>
-    <guid isPermaLink="false">story-135</guid>
-    <pubDate>Sun, 08 Nov 2026 08:12:10 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Swansea Sound, who feature members of Heavenly and Talulah Gosh, are to kick off their tour in St Leonards at The Piper on 13 November.</description>
   </item>
 </channel>
 </rss>

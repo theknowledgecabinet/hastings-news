@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 07:40:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 08:30:31 +0000</lastBuildDate>
+  <item>
+    <title>Battle duo take on South Downs Trail Run to fund Hastings girl&#x27;s therapy</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/battle-duo-take-on-south-downs-trail-run-to-fund-hastings-girl-s/</link>
+    <guid isPermaLink="false">story-203</guid>
+    <pubDate>Tue, 17 Nov 2026 08:30:31 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Two bricklayers from Battle are taking on the South Downs Trail Run on 28 November to help an 11-year-old Hastings gymnast continue her rehabilitation.</description>
+  </item>
   <item>
     <title>Bexhill care home manager shortlisted for East Sussex Care Award</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/bexhill-care-home-manager-shortlisted-for-east-sussex-care-award/</link>
@@ -398,14 +406,6 @@
     <pubDate>Tue, 03 Nov 2026 19:18:06 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Southern has announced that Rye railway station will be closed from 3pm on the day of the town&#x27;s bonfire celebrations, Saturday, 14 November, until the regular start of service the next day, Sunday.</description>
-  </item>
-  <item>
-    <title>Former St Leonards church becomes community hub with weekly market</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/former-st-leonards-church-becomes-community-hub-with-weekly-market/</link>
-    <guid isPermaLink="false">story-93</guid>
-    <pubDate>Tue, 03 Nov 2026 13:37:47 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A former church in St Leonards has become a thriving community hub, hosting a popular weekly market and serving as a venue for concerts and events.</description>
   </item>
 </channel>
 </rss>

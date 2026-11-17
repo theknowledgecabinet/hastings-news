@@ -54,6 +54,9 @@ related:
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
   title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
   day: '2026-10-27'
+- url: /2026/11/17/battle-duo-take-on-south-downs-trail-run-to-fund-hastings-girl-s/
+  title: Battle duo take on South Downs Trail Run to fund Hastings girl's therapy
+  day: '2026-11-17'
 - url: /2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/
   title: Bexhill community hub to get more than £500,000 in developer funding
   day: '2026-11-14'

@@ -50,6 +50,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Lobuche_East_Peak.jpg
   default: false
 checked: '2026-11-09T07:34:47+00:00'
+related:
+- url: /2026/11/17/battle-duo-take-on-south-downs-trail-run-to-fund-hastings-girl-s/
+  title: Battle duo take on South Downs Trail Run to fund Hastings girl's therapy
+  day: '2026-11-17'
 ---
 {% raw %}
 Two brothers from Hastings are heading to the Himalayas to raise money for a local veterans' charity.
