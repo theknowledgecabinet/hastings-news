@@ -51,15 +51,15 @@ image:
   default: false
 checked: '2026-10-27T05:54:39+00:00'
 related:
+- url: /2026/11/17/hastings-housing-co-operative-to-dissolve-after-a-year-at-5-harold/
+  title: Hastings housing co-operative to dissolve after a year at 5 Harold Place
+  day: '2026-11-17'
 - url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
   title: Police make 18 weekend arrests in Hastings and Rother
   day: '2026-11-03'
-- url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
-  title: Residents call for action over former Hastings public toilets site
-  day: '2026-10-28'
-- url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
-  title: New crossings and lighting completed around Hastings station
-  day: '2026-10-27'
+- url: /2026/11/17/director-fined-over-fire-safety-breaches-at-hastings-york-gardens/
+  title: Director fined over fire safety breaches at Hastings York Gardens
+  day: '2026-11-17'
 ---
 {% raw %}
 Officers from the Hastings Neighbourhood Policing Team have secured a Closure Order for a property in Cornwallis Terrace, Hastings.

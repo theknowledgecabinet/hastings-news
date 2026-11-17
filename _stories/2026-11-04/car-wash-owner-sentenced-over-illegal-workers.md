@@ -53,12 +53,12 @@ related:
 - url: /2026/11/02/man-convicted-of-18-offences-after-shop-thefts-in-hastings/
   title: Man convicted of 18 offences after shop thefts in Hastings
   day: '2026-11-02'
+- url: /2026/11/17/director-fined-over-fire-safety-breaches-at-hastings-york-gardens/
+  title: Director fined over fire safety breaches at Hastings York Gardens
+  day: '2026-11-17'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
-- url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
-  title: Police make 18 weekend arrests in Hastings and Rother
-  day: '2026-11-03'
 ---
 {% raw %}
 A car wash owner in Hastings has been sentenced after illegal workers were repeatedly found at his business, Sussex Police said.

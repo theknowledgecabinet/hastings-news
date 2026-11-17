@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 12:44:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 19:27:35 +0000</lastBuildDate>
+  <item>
+    <title>Hastings housing co-operative to dissolve after a year at 5 Harold Place</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/hastings-housing-co-operative-to-dissolve-after-a-year-at-5-harold/</link>
+    <guid isPermaLink="false">story-207</guid>
+    <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A Hastings housing co-operative has announced it is to be dissolved, having been unable to continue.</description>
+  </item>
+  <item>
+    <title>Alcohol licence bid for Rye tea room goes to council panel</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/alcohol-licence-bid-for-rye-tea-room-goes-to-council-panel/</link>
+    <guid isPermaLink="false">story-208</guid>
+    <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>An application for an alcohol licence for a new tea room and wine bar in Rye is to be considered by Rother District Council.</description>
+  </item>
   <item>
     <title>Hastings Old Town Carnival donates over £5,000 to local good causes</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/</link>
@@ -390,22 +406,6 @@
     <pubDate>Wed, 04 Nov 2026 19:18:58 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Storms Austen and Boelo have stripped away large sections of Pett Level&#x27;s shingle beach defences, exposing for the first time in decades an old 1940s stepped concrete sea wall and a tarmac service road that had been buried beneath the shingle, according to the Hastings Independent Press.</description>
-  </item>
-  <item>
-    <title>Hastings&#x27; last wooden fishing boat &#x27;Felicity&#x27; to be restored and displayed in Rock-a-Nore</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/04/hastings-last-wooden-fishing-boat-felicity-to-be-restored-and/</link>
-    <guid isPermaLink="false">story-101</guid>
-    <pubDate>Wed, 04 Nov 2026 12:47:52 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The last surviving wooden fishing boat from Hastings is to be restored and put on permanent display after a fund-raising campaign reached its target of £5,000. The &#x27;Felicity&#x27;, RX58, will be displayed on the piece of land opposite the Dolphin pub in Rock-a-Nore Road.</description>
-  </item>
-  <item>
-    <title>Ark Alexandra CCF wins three honours at Lord-Lieutenant&#x27;s Awards</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/04/ark-alexandra-ccf-wins-three-honours-at-lord-lieutenant-s-awards/</link>
-    <guid isPermaLink="false">story-99</guid>
-    <pubDate>Wed, 04 Nov 2026 08:17:32 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Ark Alexandra Academy&#x27;s Combined Cadet Force had a triple win at the Lord-Lieutenant&#x27;s Awards Ceremony, held at Lancing College and attended by senior military personnel and civic representatives from across the region.</description>
   </item>
 </channel>
 </rss>

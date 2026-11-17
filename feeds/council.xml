@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 12:44:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 19:27:35 +0000</lastBuildDate>
+  <item>
+    <title>Claremont School submits plans for games area at Clyde House</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/claremont-school-submits-plans-for-games-area-at-clyde-house/</link>
+    <guid isPermaLink="false">story-209</guid>
+    <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
+    <category>Council</category>
+    <description>A St Leonards boarding school has put forward plans to build an outdoor sports facility on a property it owns.</description>
+  </item>
   <item>
     <title>Update: Bexhill GP surgery closed today over &#x27;unforeseen circumstances&#x27;</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/bexhill-gp-surgery-closed-today-over-unforeseen-circumstances/</link>
@@ -398,14 +406,6 @@
     <pubDate>Sun, 25 Oct 2026 12:30:00 +0000</pubDate>
     <category>Council</category>
     <description>Families across East Sussex have not received automatic food vouchers for the October half term after the county council ended the school holiday scheme, raising fears that vulnerable children could go hungry.</description>
-  </item>
-  <item>
-    <title>Hastings Castle to get £288,500 from Historic England for repairs</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/</link>
-    <guid isPermaLink="false">story-5</guid>
-    <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Borough Council has been awarded £288,500 from Historic England&#x27;s Heritage at Risk Capital Fund for repairs to Hastings Castle.</description>
   </item>
 </channel>
 </rss>

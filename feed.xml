@@ -6,7 +6,39 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 12:44:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 19:27:35 +0000</lastBuildDate>
+  <item>
+    <title>Director fined over fire safety breaches at Hastings York Gardens</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/director-fined-over-fire-safety-breaches-at-hastings-york-gardens/</link>
+    <guid isPermaLink="false">story-206</guid>
+    <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
+    <category>Crime &amp; courts</category>
+    <description>A property company and its sole director have been fined over fire safety breaches at premises in Hastings.</description>
+  </item>
+  <item>
+    <title>Hastings housing co-operative to dissolve after a year at 5 Harold Place</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/hastings-housing-co-operative-to-dissolve-after-a-year-at-5-harold/</link>
+    <guid isPermaLink="false">story-207</guid>
+    <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A Hastings housing co-operative has announced it is to be dissolved, having been unable to continue.</description>
+  </item>
+  <item>
+    <title>Alcohol licence bid for Rye tea room goes to council panel</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/alcohol-licence-bid-for-rye-tea-room-goes-to-council-panel/</link>
+    <guid isPermaLink="false">story-208</guid>
+    <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>An application for an alcohol licence for a new tea room and wine bar in Rye is to be considered by Rother District Council.</description>
+  </item>
+  <item>
+    <title>Claremont School submits plans for games area at Clyde House</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/claremont-school-submits-plans-for-games-area-at-clyde-house/</link>
+    <guid isPermaLink="false">story-209</guid>
+    <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
+    <category>Council</category>
+    <description>A St Leonards boarding school has put forward plans to build an outdoor sports facility on a property it owns.</description>
+  </item>
   <item>
     <title>Update: Bexhill GP surgery closed today over &#x27;unforeseen circumstances&#x27;</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/bexhill-gp-surgery-closed-today-over-unforeseen-circumstances/</link>
@@ -614,38 +646,6 @@
     <pubDate>Mon, 09 Nov 2026 12:54:36 +0000</pubDate>
     <category>Business</category>
     <description>Grace Guenigault, 19, has opened her own beauty salon in Bexhill, the Hastings Observer reported.</description>
-  </item>
-  <item>
-    <title>Rye Bonfire named among the UK&#x27;s best Bonfire Night displays</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/09/rye-bonfire-named-among-the-uk-s-best-bonfire-night-displays/</link>
-    <guid isPermaLink="false">story-138</guid>
-    <pubDate>Mon, 09 Nov 2026 07:33:01 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Rye and District Bonfire has been named among the best Bonfire Night displays in the country, The Argus reports.</description>
-  </item>
-  <item>
-    <title>Hastings brothers set for Nepal peaks for veterans&#x27; charity</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/09/hastings-brothers-set-for-nepal-peaks-for-veterans-charity/</link>
-    <guid isPermaLink="false">story-139</guid>
-    <pubDate>Mon, 09 Nov 2026 07:33:01 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Two brothers from Hastings are heading to the Himalayas to raise money for a local veterans&#x27; charity.</description>
-  </item>
-  <item>
-    <title>Westfield player Michael Rwabigwi called up for Rwanda</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/09/westfield-player-michael-rwabigwi-called-up-for-rwanda/</link>
-    <guid isPermaLink="false">story-140</guid>
-    <pubDate>Mon, 09 Nov 2026 07:33:01 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A player at a tenth-tier English football club has been called up to represent his country.</description>
-  </item>
-  <item>
-    <title>On this day, 1883: Electric street lights trial switched on in Hastings</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-09/</link>
-    <guid isPermaLink="false">otd-2026-11-09</guid>
-    <pubDate>Mon, 09 Nov 2026 07:00:00 +0000</pubDate>
-    <category>On this day</category>
-    <description>This week in November 1883, a trial of electric street lights in the town was switched on.</description>
   </item>
 </channel>
 </rss>

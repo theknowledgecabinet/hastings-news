@@ -53,6 +53,9 @@ image:
   default: false
 checked: '2026-11-11T19:19:22+00:00'
 related:
+- url: /2026/11/17/claremont-school-submits-plans-for-games-area-at-clyde-house/
+  title: Claremont School submits plans for games area at Clyde House
+  day: '2026-11-17'
 - url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
   title: Police appeal for information over St Leonards burglary
   day: '2026-11-13'

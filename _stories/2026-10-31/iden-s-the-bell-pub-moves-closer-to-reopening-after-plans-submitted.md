@@ -53,15 +53,15 @@ image:
   default: false
 checked: '2026-10-31T07:54:41+00:00'
 related:
+- url: /2026/11/17/alcohol-licence-bid-for-rye-tea-room-goes-to-council-panel/
+  title: Alcohol licence bid for Rye tea room goes to council panel
+  day: '2026-11-17'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
 - url: /2026/11/03/cooden-beach-golf-club-seeks-permission-for-homes-on-part-of-its/
   title: Cooden Beach Golf Club seeks permission for homes on part of its course
   day: '2026-11-03'
-- url: /2026/10/26/new-management-takes-over-15th-century-red-lion-pub-in-hooe/
-  title: New management takes over 15th century Red Lion pub in Hooe
-  day: '2026-10-26'
 ---
 {% raw %}
 A village pub that has been closed for years could reopen with three new guest rooms, after renovation plans were submitted to Rother District Council.
