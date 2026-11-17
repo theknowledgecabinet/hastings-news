@@ -27,23 +27,34 @@ sources:
 comment: Fire safety prosecutions are a quiet business most of the time, but this one shows the inspectors' powers to demand documents are not merely decorative. A fine of £20,500 is a serious sum for a freeholder, and it is the kind of case that will be read twice by anyone managing blocks of flats.
 image:
   card:
-    url: /assets/media/abstract/story-206/card.webp
+    url: /assets/media/story/206/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-206/medium.webp
+    url: /assets/media/story/206/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-206/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/206/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-206/share.jpg
-  color: '#782725'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/206/share.jpg
+  color: '#5f717e'
+  alt: Empty residential street at dusk with parked police car
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
