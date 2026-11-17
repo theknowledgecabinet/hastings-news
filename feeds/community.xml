@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 16 Nov 2026 18:50:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 07:40:58 +0000</lastBuildDate>
+  <item>
+    <title>Bexhill care home manager shortlisted for East Sussex Care Award</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/bexhill-care-home-manager-shortlisted-for-east-sussex-care-award/</link>
+    <guid isPermaLink="false">story-201</guid>
+    <pubDate>Tue, 17 Nov 2026 07:40:58 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Fiona Yurteri, Home Manager at Care UK&#x27;s Southlands Place on Hastings Road in Bexhill-on-Sea, has been shortlisted for the Leader of the Year Award at the East Sussex Care Awards 2026.</description>
+  </item>
+  <item>
+    <title>Bexhill school opens weekly performing arts stage for local children</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/bexhill-school-opens-weekly-performing-arts-stage-for-local-children/</link>
+    <guid isPermaLink="false">story-202</guid>
+    <pubDate>Tue, 17 Nov 2026 07:40:58 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Mulberry Academy Bexhill has launched Ready Set Perform, a weekly performing arts class open to any child in Years 4 to 7, whatever school they attend.</description>
+  </item>
   <item>
     <title>Conquest Hospital Radio wins King&#x27;s Award</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/conquest-hospital-radio-wins-king-s-award/</link>
@@ -390,22 +406,6 @@
     <pubDate>Tue, 03 Nov 2026 13:37:47 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A former church in St Leonards has become a thriving community hub, hosting a popular weekly market and serving as a venue for concerts and events.</description>
-  </item>
-  <item>
-    <title>Toilets top of residents&#x27; list in £21.5m Pride in Place survey</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/toilets-top-of-residents-list-in-21-5m-pride-in-place-survey/</link>
-    <guid isPermaLink="false">story-90</guid>
-    <pubDate>Tue, 03 Nov 2026 08:17:08 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>New toilets have topped the list of improvements residents want in Hastings, after MP Helena Dollimore asked how the £21.5 million of Government Pride in Place funding should be spent.</description>
-  </item>
-  <item>
-    <title>Charity raises £4,000 to save Bexhill Hospital stroke rehabilitation service</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/charity-raises-4-000-to-save-bexhill-hospital-stroke-rehabilitation/</link>
-    <guid isPermaLink="false">story-87</guid>
-    <pubDate>Tue, 03 Nov 2026 07:48:05 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Becky, Sarah and Owen from the #DoItForJosh charity met the team at Bexhill Hospital’s Irvine Unit on Monday to mark the continuation of a vital local stroke rehabilitation programme.</description>
   </item>
 </channel>
 </rss>

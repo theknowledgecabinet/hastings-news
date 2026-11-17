@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 16 Nov 2026 12:58:51 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 07:40:58 +0000</lastBuildDate>
+  <item>
+    <title>Hastings council to freeze most parking charges in 2027/28</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/hastings-council-to-freeze-most-parking-charges-in-2027-28/</link>
+    <guid isPermaLink="false">story-200</guid>
+    <pubDate>Tue, 17 Nov 2026 07:40:58 +0000</pubDate>
+    <category>Council</category>
+    <description>Hastings council has confirmed plans to freeze most pay-and-display parking charges for 2027/28, following three years of increases. Cabinet members backed the proposals on Monday (9 November) ahead of a full council vote.</description>
+  </item>
   <item>
     <title>Planning round-up: HMO proposals in St Leonards among latest applications</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/planning-round-up-hmo-proposals-in-st-leonards-among-latest/</link>
@@ -398,14 +406,6 @@
     <pubDate>Sat, 24 Oct 2026 07:00:00 +0100</pubDate>
     <category>Council</category>
     <description>Rother District Council has asked residents and businesses to have their say on a plan to tackle long-term empty shops in Bexhill.</description>
-  </item>
-  <item>
-    <title>West Hill Lift gets £531,000 from National Lottery Heritage Fund</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/21/west-hill-lift-gets-531-000-from-national-lottery-heritage-fund/</link>
-    <guid isPermaLink="false">story-2</guid>
-    <pubDate>Wed, 21 Oct 2026 07:00:00 +0100</pubDate>
-    <category>Council</category>
-    <description>The National Lottery Heritage Fund has offered £531,000 in development funding to Hastings Borough Council to secure the long-term future of the West Hill Lift, the Grade II listed lift that runs up the cliff from George Street to Hastings Castle.</description>
   </item>
 </channel>
 </rss>

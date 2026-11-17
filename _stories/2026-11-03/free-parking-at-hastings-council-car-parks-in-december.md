@@ -53,15 +53,15 @@ image:
   default: false
 checked: '2026-11-03T13:11:07+00:00'
 related:
+- url: /2026/11/17/hastings-council-to-freeze-most-parking-charges-in-2027-28/
+  title: Hastings council to freeze most parking charges in 2027/28
+  day: '2026-11-17'
 - url: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
   title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
   day: '2026-10-30'
 - url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
   title: Hastings council to consider Age Friendly strategy for older residents
   day: '2026-11-04'
-- url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
-  title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
-  day: '2026-10-21'
 ---
 {% raw %}
 Hastings Borough Council has agreed plans to provide free parking at its council-owned car parks on specific dates in the run-up to Christmas.

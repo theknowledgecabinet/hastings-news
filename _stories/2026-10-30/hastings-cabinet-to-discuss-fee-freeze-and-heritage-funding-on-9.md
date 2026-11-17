@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-10-30T19:35:01+00:00'
 related:
+- url: /2026/11/17/hastings-council-to-freeze-most-parking-charges-in-2027-28/
+  title: Hastings council to freeze most parking charges in 2027/28
+  day: '2026-11-17'
 - url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
   title: Free parking at Hastings council car parks in December
   day: '2026-11-03'
 - url: /2026/11/05/hastings-draft-local-plan-convent-site-open-for-comment-until-12/
   title: 'Hastings Draft Local Plan: Convent site open for comment until 12 November'
   day: '2026-11-05'
-- url: /2026/11/11/hastings-council-budgets-1-937-861-for-st-mary-in-the-castle-in-2026/
-  title: Hastings council budgets £1,937,861 for St Mary in the Castle in 2026/27
-  day: '2026-11-11'
 ---
 {% raw %}
 Hastings Borough Council's Cabinet will meet on Monday 9 November to discuss a range of reports, the council said.
