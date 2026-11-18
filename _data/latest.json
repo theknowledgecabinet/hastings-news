@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-11-17",
-   "code": 63,
-   "words": "rain",
-   "icon": "🌧️",
-   "high": 14,
-   "low": 8,
-   "rain_chance": 100,
-   "rain_mm": 22.4,
-   "wind": 23,
-   "gusts": 45,
-   "direction": "south-westerly",
-   "sunrise": "07:16",
-   "sunset": "16:08",
-   "summary": "Rain likely. A high of 14°C and a low of 8°C, a fresh breeze from the south-west, gusting 45 mph. Sunrise 07:16, sunset 16:08.",
-   "label": "Today",
-   "weekday": "Tue 17 Nov",
-   "long": "Tuesday 17 November"
-  },
-  {
    "day": "2026-11-18",
    "code": 51,
    "words": "light drizzle",
@@ -38,13 +19,32 @@
    "sunrise": "07:18",
    "sunset": "16:06",
    "summary": "Light drizzle likely. A high of 13°C and a low of 10°C, a moderate breeze from the west. Sunrise 07:18, sunset 16:06.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Wed 18 Nov",
    "long": "Wednesday 18 November"
+  },
+  {
+   "day": "2026-11-19",
+   "code": 63,
+   "words": "rain",
+   "icon": "🌧️",
+   "high": 11,
+   "low": 8,
+   "rain_chance": 100,
+   "rain_mm": 10.1,
+   "wind": 16,
+   "gusts": 31,
+   "direction": "westerly",
+   "sunrise": "07:19",
+   "sunset": "16:05",
+   "summary": "Rain likely. A high of 11°C and a low of 8°C, a moderate breeze from the west, gusting 31 mph. Sunrise 07:19, sunset 16:05.",
+   "label": "Tomorrow",
+   "weekday": "Thu 19 Nov",
+   "long": "Thursday 19 November"
   }
  ],
- "today_label": "Tuesday 17 November 2026",
- "today_short": "Tue 17 Nov",
+ "today_label": "Wednesday 18 November 2026",
+ "today_short": "Wed 18 Nov",
  "editions": [
   {
    "name": "morning",
