@@ -56,15 +56,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/18/hastings-dog-owners-face-100-fine-under-updated-dog-control-order/
+  title: Hastings dog owners face £100 fine under updated dog control order
+  day: '2026-11-18'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
 - url: /2026/11/04/car-wash-owner-sentenced-over-illegal-workers/
   title: Car wash owner sentenced over illegal workers
   day: '2026-11-04'
-- url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
-  title: Hastings to receive £1m from the government's derelict buildings fund
-  day: '2026-10-28'
 ---
 {% raw %}
 A property company and its sole director have been fined over fire safety breaches at premises in Hastings.

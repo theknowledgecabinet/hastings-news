@@ -3,6 +3,7 @@ layout: story
 title: Alcohol licence bid for Rye tea room goes to council panel
 permalink: /2026/11/17/alcohol-licence-bid-for-rye-tea-room-goes-to-council-panel/
 date: 2026-11-17 19:27:35 +0000
+updated: '2026-11-18T12:54:39+00:00'
 sid: 208
 day: '2026-11-17'
 edition: evening
@@ -25,6 +26,13 @@ sources:
 - url: https://www.sussexexpress.co.uk/community/alcohol-licence-for-new-tea-room-in-rye-to-be-considered-next-month-9356357
   name: Sussex Express
 comment: A wine bar in the middle of a medieval citadel with narrow pavements is an inevitable argument waiting to happen. The panel is told to keep planning questions out of it, which is a tall order in a town where the building itself is half the story.
+updates:
+- date: '2026-11-18T12:54:39+00:00'
+  edition: midday
+  text: A Rother District Council licensing panel is now scheduled to hear the application on Tuesday 1 December. It concerns the premises at 13 West Street in Rye Citadel, trading as the Mermaidian Rye Tea Rooms, seeking on- and off-sales of alcohol between 10am and 8pm. The hearing has been called following objections from local residents.
+  sources:
+  - url: https://www.theargus.co.uk/news/26737734.councillors-hear-rye-tea-rooms-wine-bar-drink-licence/?ref=rss
+    name: The Argus
 image:
   card:
     url: /assets/media/story/208/card.webp

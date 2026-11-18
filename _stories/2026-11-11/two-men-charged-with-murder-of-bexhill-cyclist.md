@@ -61,6 +61,10 @@ image:
   page: ''
   default: false
 checked: '2026-11-11T08:26:27+00:00'
+related:
+- url: /2026/11/18/officers-visit-east-sussex-college-to-talk-to-students-about-knife/
+  title: Officers visit East Sussex College to talk to students about knife crime
+  day: '2026-11-18'
 ---
 {% raw %}
 Two men have appeared at Lewes Crown Court, charged with the murder of a Bexhill cyclist, Sussex Police have said.

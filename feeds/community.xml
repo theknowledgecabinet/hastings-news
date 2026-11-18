@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 18 Nov 2026 07:29:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 12:54:39 +0000</lastBuildDate>
+  <item>
+    <title>Update: Alcohol licence bid for Rye tea room goes to council panel</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/alcohol-licence-bid-for-rye-tea-room-goes-to-council-panel/</link>
+    <guid isPermaLink="false">story-208-update-2026-11-18T12:54:39+00:00</guid>
+    <pubDate>Wed, 18 Nov 2026 12:54:39 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A Rother District Council licensing panel is now scheduled to hear the application on Tuesday 1 December. It concerns the premises at 13 West Street in Rye Citadel, trading as the Mermaidian Rye Tea Rooms, seeking on- and off-sales of alcohol between 10am and 8pm. The hearing has been called following objections from local residents.</description>
+  </item>
   <item>
     <title>10cc to play Hastings White Rock Theatre in May 2027</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/10cc-to-play-hastings-white-rock-theatre-in-may-2027/</link>
@@ -398,14 +406,6 @@
     <pubDate>Thu, 05 Nov 2026 08:19:34 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Mountside Care Home in Hastings has been rated &#x27;Good&#x27; in all five areas assessed by the Care Quality Commission.</description>
-  </item>
-  <item>
-    <title>Bexhill family featured in Chestnut Tree House hospice film</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/bexhill-family-featured-in-chestnut-tree-house-hospice-film/</link>
-    <guid isPermaLink="false">story-110</guid>
-    <pubDate>Thu, 05 Nov 2026 08:19:34 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The family of a six-year-old Bexhill boy who died of a brain condition has featured in a new film as part of a campaign to show the vital role of hospices.</description>
   </item>
 </channel>
 </rss>

@@ -58,9 +58,9 @@ related:
 - url: /2026/11/16/police-appeal-after-two-deliberate-vehicle-fires-in-bewbush/
   title: Police appeal after two 'deliberate' vehicle fires in Bewbush
   day: '2026-11-16'
-- url: /2026/10/30/new-police-policy-will-see-illegal-e-bikes-and-e-scooters-seized-from/
-  title: New police policy will see illegal e-bikes and e-scooters seized from Sunday
-  day: '2026-10-30'
+- url: /2026/11/18/officers-visit-east-sussex-college-to-talk-to-students-about-knife/
+  title: Officers visit East Sussex College to talk to students about knife crime
+  day: '2026-11-18'
 ---
 {% raw %}
 Sussex Police have warned motorists against uninsured driving, with officers carrying out roadside checks this week in the Eastbourne and Wealden area.

@@ -59,9 +59,9 @@ related:
 - url: /2026/11/14/sussex-police-warn-against-uninsured-drivers-with-roadside-checks/
   title: Sussex Police warn against uninsured drivers with roadside checks
   day: '2026-11-14'
-- url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
-  title: Police make 18 weekend arrests in Hastings and Rother
-  day: '2026-11-03'
+- url: /2026/11/18/officers-visit-east-sussex-college-to-talk-to-students-about-knife/
+  title: Officers visit East Sussex College to talk to students about knife crime
+  day: '2026-11-18'
 ---
 {% raw %}
 Two Sussex Police officers have been charged with assault occasioning actual bodily harm over an incident involving a man detained in hospital under the Mental Health Act, according to the Independent Office for Police Conduct (IOPC).

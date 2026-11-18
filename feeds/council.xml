@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 19:27:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 12:54:39 +0000</lastBuildDate>
+  <item>
+    <title>Hastings dog owners face £100 fine under updated dog control order</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/hastings-dog-owners-face-100-fine-under-updated-dog-control-order/</link>
+    <guid isPermaLink="false">story-213</guid>
+    <pubDate>Wed, 18 Nov 2026 12:54:39 +0000</pubDate>
+    <category>Council</category>
+    <description>Hastings Borough Council has warned dog owners that fines are in force under an updated dog control order.</description>
+  </item>
   <item>
     <title>Claremont School submits plans for games area at Clyde House</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/claremont-school-submits-plans-for-games-area-at-clyde-house/</link>
@@ -398,14 +406,6 @@
     <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
     <category>Council</category>
     <description>Two water supply works serving the Hastings area shut down over the weekend after the storms knocked out local power, though taps kept running.</description>
-  </item>
-  <item>
-    <title>Fears of hungry children over half-term after holiday food vouchers axed</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/25/fears-of-hungry-children-over-half-term-after-holiday-food-vouchers/</link>
-    <guid isPermaLink="false">story-11</guid>
-    <pubDate>Sun, 25 Oct 2026 12:30:00 +0000</pubDate>
-    <category>Council</category>
-    <description>Families across East Sussex have not received automatic food vouchers for the October half term after the county council ended the school holiday scheme, raising fears that vulnerable children could go hungry.</description>
   </item>
 </channel>
 </rss>
