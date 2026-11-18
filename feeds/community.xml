@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 18 Nov 2026 13:00:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 18:57:05 +0000</lastBuildDate>
+  <item>
+    <title>Hastings RNLI fish supper raises £920 at Old Town Fryer</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/hastings-rnli-fish-supper-raises-920-at-old-town-fryer/</link>
+    <guid isPermaLink="false">story-219</guid>
+    <pubDate>Wed, 18 Nov 2026 18:57:05 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>The annual Hastings RNLI fish supper has raised £920, with a sell-out crowd at the Old Town Fryer in Hastings Old Town.</description>
+  </item>
+  <item>
+    <title>Rye College marks World Kindness Day with school-wide events</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/rye-college-marks-world-kindness-day-with-school-wide-events/</link>
+    <guid isPermaLink="false">story-220</guid>
+    <pubDate>Wed, 18 Nov 2026 18:57:05 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Rye College marked World Kindness Day with a series of activities built around its &quot;Be Kind&quot; value, as part of the school&#x27;s Values Celebration Days.</description>
+  </item>
   <item>
     <title>Rye Harbour marks anniversary of Mary Stanford lifeboat disaster</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/rye-harbour-marks-anniversary-of-mary-stanford-lifeboat-disaster/</link>
@@ -390,22 +406,6 @@
     <pubDate>Thu, 05 Nov 2026 19:52:43 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The metal sculptor behind several well-known works around Hastings has opened a new line for sale at the At Sea gallery in the Old Town.</description>
-  </item>
-  <item>
-    <title>BFI film course sees 18 young people make their first film in St Leonards</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/bfi-film-course-sees-18-young-people-make-their-first-film-in-st/</link>
-    <guid isPermaLink="false">story-112</guid>
-    <pubDate>Thu, 05 Nov 2026 13:47:17 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A group of 18 young people under 19 have taken part in a six-day film course in St Leonards, making an original short film from scratch as part of the BFI Film Academy South East Introductory Course.</description>
-  </item>
-  <item>
-    <title>GP link worker helping Hastings residents with long-term conditions get active</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/gp-link-worker-helping-hastings-residents-with-long-term-conditions/</link>
-    <guid isPermaLink="false">story-113</guid>
-    <pubDate>Thu, 05 Nov 2026 13:47:17 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Active Hastings&#x27; specialised &#x27;Link Worker&#x27; is helping residents with long-term health conditions become more active, bridging the gap between healthcare and community-based activity, according to the Hastings Independent Press.</description>
   </item>
 </channel>
 </rss>

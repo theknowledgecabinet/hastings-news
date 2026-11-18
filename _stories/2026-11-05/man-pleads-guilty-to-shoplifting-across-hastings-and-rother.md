@@ -59,12 +59,12 @@ related:
 - url: /2026/11/02/man-convicted-of-18-offences-after-shop-thefts-in-hastings/
   title: Man convicted of 18 offences after shop thefts in Hastings
   day: '2026-11-02'
+- url: /2026/11/18/hastings-man-found-guilty-of-multiple-rapes-police-say/
+  title: Hastings man found guilty of multiple rapes, police say
+  day: '2026-11-18'
 - url: /2026/11/14/shoplifter-jailed-for-thefts-across-sussex-after-31-000-spree/
   title: Shoplifter jailed for thefts across Sussex after £31,000 spree
   day: '2026-11-14'
-- url: /2026/11/11/man-charged-with-theft-after-evading-police-across-railway-line-at-rye/
-  title: Man charged with theft after evading police across railway line at Rye
-  day: '2026-11-11'
 ---
 {% raw %}
 A 45-year-old man from Winchelsea Beach has been charged in connection with a series of shop theft offences across Hastings and Rother.

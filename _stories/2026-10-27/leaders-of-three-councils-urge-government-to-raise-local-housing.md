@@ -55,15 +55,15 @@ image:
   default: false
 checked: '2026-10-27T09:14:07+00:00'
 related:
+- url: /2026/11/18/hastings-asking-rents-up-to-23-above-ons-average-housing-data-shows/
+  title: Hastings asking rents up to 23% above ONS average, housing data shows
+  day: '2026-11-18'
 - url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
   title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
   day: '2026-11-03'
 - url: /2026/11/04/devolution-measures-to-bring-8m-to-sussex-and-brighton/
   title: Devolution measures to bring £8m to Sussex and Brighton
   day: '2026-11-04'
-- url: /2026/10/29/hastings-business-group-welcomes-budget-rates-relief-package/
-  title: Hastings business group welcomes Budget rates relief package
-  day: '2026-10-29'
 ---
 {% raw %}
 Councillors in Hastings, Lewes and Eastbourne have asked the government to raise the housing benefit rates that help people pay private rents.

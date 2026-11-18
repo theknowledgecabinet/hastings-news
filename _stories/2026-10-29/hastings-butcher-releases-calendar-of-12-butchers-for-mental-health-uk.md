@@ -58,6 +58,9 @@ related:
 - url: /2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/
   title: Sculptor Leigh Dyer's steel fins go on sale at At Sea
   day: '2026-11-05'
+- url: /2026/11/18/hastings-rnli-fish-supper-raises-920-at-old-town-fryer/
+  title: Hastings RNLI fish supper raises £920 at Old Town Fryer
+  day: '2026-11-18'
 ---
 {% raw %}
 Steve Fisher of P A Fisher & Son Family Butchers in Hastings is publishing a calendar featuring 12 independent butchers from across Great Britain to raise money for Mental Health UK.

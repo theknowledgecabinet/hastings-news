@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 18 Nov 2026 12:54:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 18:57:05 +0000</lastBuildDate>
+  <item>
+    <title>Hastings asking rents up to 23% above ONS average, housing data shows</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/hastings-asking-rents-up-to-23-above-ons-average-housing-data-shows/</link>
+    <guid isPermaLink="false">story-218</guid>
+    <pubDate>Wed, 18 Nov 2026 18:57:05 +0000</pubDate>
+    <category>Council</category>
+    <description>Median asking rents in Hastings are running well above the official average, with the gap on three-bedroom homes reaching 23%, housing website Dwellio says.</description>
+  </item>
   <item>
     <title>Hastings dog owners face £100 fine under updated dog control order</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/hastings-dog-owners-face-100-fine-under-updated-dog-control-order/</link>
@@ -398,14 +406,6 @@
     <pubDate>Mon, 26 Oct 2026 18:30:00 +0000</pubDate>
     <category>Council</category>
     <description>The reopening of the Marina Pavilion on the St Leonards seafront has been delayed amid a row over council repair demands.</description>
-  </item>
-  <item>
-    <title>Storm power cuts threatened water supply to the Hastings area</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/</link>
-    <guid isPermaLink="false">story-20</guid>
-    <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
-    <category>Council</category>
-    <description>Two water supply works serving the Hastings area shut down over the weekend after the storms knocked out local power, though taps kept running.</description>
   </item>
 </channel>
 </rss>

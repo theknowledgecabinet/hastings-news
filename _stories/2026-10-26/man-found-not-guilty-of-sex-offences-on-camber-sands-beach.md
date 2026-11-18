@@ -52,6 +52,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Camber_Sands_beach_-_geograph.org.uk_-_2176274.jpg
   default: false
 checked: '2026-10-27T05:24:20+00:00'
+related:
+- url: /2026/11/18/hastings-man-found-guilty-of-multiple-rapes-police-say/
+  title: Hastings man found guilty of multiple rapes, police say
+  day: '2026-11-18'
 ---
 {% raw %}
 A man from Kent has been found not guilty of a number of sexual offences against a woman on Camber Sands.

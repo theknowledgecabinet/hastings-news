@@ -54,15 +54,15 @@ image:
   default: false
 checked: '2026-11-03T19:18:30+00:00'
 related:
+- url: /2026/11/18/hastings-man-found-guilty-of-multiple-rapes-police-say/
+  title: Hastings man found guilty of multiple rapes, police say
+  day: '2026-11-18'
 - url: /2026/11/02/man-convicted-of-18-offences-after-shop-thefts-in-hastings/
   title: Man convicted of 18 offences after shop thefts in Hastings
   day: '2026-11-02'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
-- url: /2026/11/05/man-pleads-guilty-to-shoplifting-across-hastings-and-rother/
-  title: Man pleads guilty to shoplifting across Hastings and Rother
-  day: '2026-11-05'
 ---
 {% raw %}
 Sussex Police made 18 arrests in Hastings and Rother between 30 October and 1 November, a spokesperson said.

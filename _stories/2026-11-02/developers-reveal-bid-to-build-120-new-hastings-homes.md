@@ -66,9 +66,9 @@ related:
 - url: /2026/11/06/plans-for-up-to-125-homes-at-robertsbridge-mill-site/
   title: Plans for up to 125 homes at Robertsbridge mill site
   day: '2026-11-06'
-- url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
-  title: Work begins on 27 'luxury flats' development in St Leonards
-  day: '2026-11-04'
+- url: /2026/11/18/hastings-asking-rents-up-to-23-above-ons-average-housing-data-shows/
+  title: Hastings asking rents up to 23% above ONS average, housing data shows
+  day: '2026-11-18'
 ---
 {% raw %}
 Catesby Estates and Rurban Estates have revealed a bid to build about 120 new homes in Hastings.

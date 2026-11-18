@@ -56,6 +56,9 @@ related:
 - url: /2026/11/12/former-bexhill-teacher-jailed-for-raping-and-sexually-assaulting-a/
   title: Former Bexhill teacher jailed for raping and sexually assaulting a child
   day: '2026-11-12'
+- url: /2026/11/18/hastings-man-found-guilty-of-multiple-rapes-police-say/
+  title: Hastings man found guilty of multiple rapes, police say
+  day: '2026-11-18'
 - url: /2026/11/13/southwick-man-jailed-for-12-years-over-2m-jewellery-and-gold-scams/
   title: Southwick man jailed for 12 years over £2m jewellery and gold scams
   day: '2026-11-13'
