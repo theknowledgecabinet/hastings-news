@@ -1,8 +1,8 @@
 {
- "day": "2026-11-17",
- "label": "Tuesday 17 November 2026",
- "issue": 28,
- "edition_label": "Evening edition",
+ "day": "2026-11-18",
+ "label": "Wednesday 18 November 2026",
+ "issue": 29,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-18",
@@ -50,78 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-17",
-    "code": 63,
-    "words": "rain",
-    "icon": "🌧️",
-    "high": 14,
-    "low": 8,
-    "rain_chance": 100,
-    "rain_mm": 15.4,
-    "wind": 22,
-    "gusts": 42,
-    "direction": "south-westerly",
-    "sunrise": "07:16",
-    "sunset": "16:08",
-    "summary": "Rain likely. A high of 14°C and a low of 8°C, a fresh breeze from the south-west, gusting 42 mph. Sunrise 07:16, sunset 16:08."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-17",
-    "code": 63,
-    "words": "rain",
-    "icon": "🌧️",
-    "high": 14,
-    "low": 8,
-    "rain_chance": 100,
-    "rain_mm": 17.4,
-    "wind": 22,
-    "gusts": 44,
-    "direction": "south-westerly",
-    "sunrise": "07:16",
-    "sunset": "16:08",
-    "summary": "Rain likely. A high of 14°C and a low of 8°C, a fresh breeze from the south-west, gusting 44 mph. Sunrise 07:16, sunset 16:08."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-18",
-    "code": 55,
-    "words": "heavy drizzle",
-    "icon": "🌧️",
+    "code": 61,
+    "words": "light rain",
+    "icon": "🌦️",
     "high": 13,
     "low": 10,
-    "rain_chance": 93,
-    "rain_mm": 2.2,
-    "wind": 15,
-    "gusts": 29,
+    "rain_chance": 87,
+    "rain_mm": 5.1,
+    "wind": 16,
+    "gusts": 32,
     "direction": "westerly",
     "sunrise": "07:18",
     "sunset": "16:06",
-    "summary": "Heavy drizzle likely. A high of 13°C and a low of 10°C, a moderate breeze from the west. Sunrise 07:18, sunset 16:06."
+    "summary": "Light rain likely. A high of 13°C and a low of 10°C, a moderate breeze from the west, gusting 32 mph. Sunrise 07:18, sunset 16:06."
    }
   }
  ],
  "weather": {
   "day": "2026-11-18",
-  "code": 55,
-  "words": "heavy drizzle",
-  "icon": "🌧️",
+  "code": 61,
+  "words": "light rain",
+  "icon": "🌦️",
   "high": 13,
   "low": 10,
-  "rain_chance": 93,
-  "rain_mm": 2.2,
-  "wind": 15,
-  "gusts": 29,
+  "rain_chance": 87,
+  "rain_mm": 5.1,
+  "wind": 16,
+  "gusts": 32,
   "direction": "westerly",
   "sunrise": "07:18",
   "sunset": "16:06",
-  "summary": "Heavy drizzle likely. A high of 13°C and a low of 10°C, a moderate breeze from the west. Sunrise 07:18, sunset 16:06."
+  "summary": "Light rain likely. A high of 13°C and a low of 10°C, a moderate breeze from the west, gusting 32 mph. Sunrise 07:18, sunset 16:06."
  },
  "briefing": {
   "day": "2026-11-17",
@@ -137,6 +97,11 @@
   "title": "A 70-foot whale stranded at Pevensey goes on sale"
  },
  "days": [
+  {
+   "day": "2026-11-18",
+   "url": "/2026/11/18/",
+   "label": "Wed 18 Nov"
+  },
   {
    "day": "2026-11-17",
    "url": "/2026/11/17/",
@@ -201,11 +166,6 @@
    "day": "2026-11-05",
    "url": "/2026/11/05/",
    "label": "Thu 5 Nov"
-  },
-  {
-   "day": "2026-11-04",
-   "url": "/2026/11/04/",
-   "label": "Wed 4 Nov"
   }
  ]
 }

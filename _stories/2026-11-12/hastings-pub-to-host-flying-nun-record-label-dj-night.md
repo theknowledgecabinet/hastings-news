@@ -54,6 +54,9 @@ related:
 - url: /2026/11/02/hastings-joins-in-the-dusking-morris-dancing-tradition/
   title: Hastings joins in the 'Dusking' morris-dancing tradition
   day: '2026-11-02'
+- url: /2026/11/18/morris-dancers-close-hastings-old-town-cider-festival-at-the-crown/
+  title: Morris dancers close Hastings Old Town Cider Festival at the Crown
+  day: '2026-11-18'
 ---
 {% raw %}
 A DJ night celebrating the music of New Zealand's Flying Nun record label is coming to Hastings.

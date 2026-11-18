@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 19:27:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 07:29:50 +0000</lastBuildDate>
+  <item>
+    <title>10cc to play Hastings White Rock Theatre in May 2027</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/10cc-to-play-hastings-white-rock-theatre-in-may-2027/</link>
+    <guid isPermaLink="false">story-210</guid>
+    <pubDate>Wed, 18 Nov 2026 07:29:50 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>The 10cc will play a greatest hits show at the White Rock Theatre on Wednesday 20 May 2027, the band&#x27;s booking for the town has been announced.</description>
+  </item>
+  <item>
+    <title>Morris dancers close Hastings Old Town Cider Festival at the Crown</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/morris-dancers-close-hastings-old-town-cider-festival-at-the-crown/</link>
+    <guid isPermaLink="false">story-212</guid>
+    <pubDate>Wed, 18 Nov 2026 07:29:50 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings&#x27; newest Morris dance side, The Molly Winklers, danced at the Crown pub in All Saints Street on Saturday as the final act of the Old Town Cider Festival.</description>
+  </item>
   <item>
     <title>Hastings housing co-operative to dissolve after a year at 5 Harold Place</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/hastings-housing-co-operative-to-dissolve-after-a-year-at-5-harold/</link>
@@ -390,22 +406,6 @@
     <pubDate>Thu, 05 Nov 2026 08:19:34 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The family of a six-year-old Bexhill boy who died of a brain condition has featured in a new film as part of a campaign to show the vital role of hospices.</description>
-  </item>
-  <item>
-    <title>&#x27;Write by the River&#x27; poetry exhibition opens at Rye station</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/04/write-by-the-river-poetry-exhibition-opens-at-rye-station/</link>
-    <guid isPermaLink="false">story-105</guid>
-    <pubDate>Wed, 04 Nov 2026 19:18:58 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A new poetry and artwork exhibition called &#x27;Write by the River&#x27; has opened at Rye railway station. It features poems and illustrations about the area&#x27;s waterways, including the River Rother and River Tillingham.</description>
-  </item>
-  <item>
-    <title>Storms strip Pett Level beach, exposing 1940s sea wall</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/04/storms-strip-pett-level-beach-exposing-1940s-sea-wall/</link>
-    <guid isPermaLink="false">story-106</guid>
-    <pubDate>Wed, 04 Nov 2026 19:18:58 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Storms Austen and Boelo have stripped away large sections of Pett Level&#x27;s shingle beach defences, exposing for the first time in decades an old 1940s stepped concrete sea wall and a tarmac service road that had been buried beneath the shingle, according to the Hastings Independent Press.</description>
   </item>
 </channel>
 </rss>

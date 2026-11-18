@@ -25,7 +25,7 @@
   "label": "Community & people",
   "colour": "#c0742a",
   "url": "/section/community/",
-  "count": 93
+  "count": 95
  },
  {
   "key": "business",
@@ -39,6 +39,6 @@
   "label": "Traffic & roadworks",
   "colour": "#9a7b12",
   "url": "/section/traffic/",
-  "count": 5
+  "count": 6
  }
 ]

@@ -61,6 +61,9 @@ image:
   default: false
 checked: '2026-11-16T12:54:08+00:00'
 related:
+- url: /2026/11/18/a259-little-common-road-bexhill-blocked-after-multi-vehicle-collision/
+  title: A259 Little Common Road, Bexhill, blocked after multi-vehicle collision
+  day: '2026-11-18'
 - url: /2026/11/14/trains-between-bexhill-and-eastbourne-cut-short-by-signalling-fault/
   title: Trains between Bexhill and Eastbourne cut short by signalling fault
   day: '2026-11-14'

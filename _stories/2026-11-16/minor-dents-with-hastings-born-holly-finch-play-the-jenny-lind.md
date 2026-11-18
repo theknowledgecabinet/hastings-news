@@ -54,6 +54,9 @@ related:
 - url: /2026/10/24/thin-white-rope-s-odom-and-kunkel-to-play-the-jenny-lind-in-november/
   title: Thin White Rope's Odom and Kunkel to play the Jenny Lind in November
   day: '2026-10-24'
+- url: /2026/11/18/morris-dancers-close-hastings-old-town-cider-festival-at-the-crown/
+  title: Morris dancers close Hastings Old Town Cider Festival at the Crown
+  day: '2026-11-18'
 ---
 {% raw %}
 A psychedelic rock trio fronted by a Hastings-born singer plays a free gig at the Jenny Lind in December for the last Adventures in Pop! music evening of the year.

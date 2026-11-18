@@ -53,12 +53,12 @@ related:
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'
+- url: /2026/11/18/a259-little-common-road-bexhill-blocked-after-multi-vehicle-collision/
+  title: A259 Little Common Road, Bexhill, blocked after multi-vehicle collision
+  day: '2026-11-18'
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
   title: New road signs installed in Bexhill for horse and rider safety
   day: '2026-10-29'
-- url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
-  title: Bexhill empty shops plan opens for public consultation
-  day: '2026-10-24'
 ---
 {% raw %}
 Rother Police are appealing for information following a road traffic incident in the Broad Oak Lane area of Bexhill.

@@ -55,12 +55,12 @@ related:
 - url: /2026/11/11/southern-services-delayed-between-eastbourne-and-hastings-after/
   title: Southern services delayed between Eastbourne and Hastings after trespassers
   day: '2026-11-11'
+- url: /2026/11/18/a259-little-common-road-bexhill-blocked-after-multi-vehicle-collision/
+  title: A259 Little Common Road, Bexhill, blocked after multi-vehicle collision
+  day: '2026-11-18'
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'
-- url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/
-  title: Police appeal after car and horse rider incident in Bexhill
-  day: '2026-10-30'
 ---
 {% raw %}
 Southern services between Bexhill and Eastbourne have been disrupted by a signalling fault, The Argus has reported.

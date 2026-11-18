@@ -57,15 +57,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/18/morris-dancers-close-hastings-old-town-cider-festival-at-the-crown/
+  title: Morris dancers close Hastings Old Town Cider Festival at the Crown
+  day: '2026-11-18'
 - url: /2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/
   title: Sculptor Leigh Dyer's steel fins go on sale at At Sea
   day: '2026-11-05'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
-- url: /2026/10/23/police-secure-closure-order-for-hastings-property/
-  title: Police secure closure order for Hastings property
-  day: '2026-10-23'
 ---
 {% raw %}
 A new autumn ritual called 'Dusking' has reached the Hastings seafront, bringing morris dancing to the town's darkening days.

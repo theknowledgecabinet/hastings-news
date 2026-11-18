@@ -60,9 +60,9 @@ related:
 - url: /2026/10/22/alabama-3-acoustic-show-at-st-leonard-s-church/
   title: Alabama 3 acoustic show at St Leonard's Church
   day: '2026-10-22'
-- url: /2026/10/28/one-in-ten-young-adults-in-hastings-on-unemployment-benefits/
-  title: One in ten young adults in Hastings on unemployment benefits
-  day: '2026-10-28'
+- url: /2026/11/18/10cc-to-play-hastings-white-rock-theatre-in-may-2027/
+  title: 10cc to play Hastings White Rock Theatre in May 2027
+  day: '2026-11-18'
 ---
 {% raw %}
 Fifty-one young musicians from Hastings and St Leonards will take the stage at the Royal Albert Hall on 10 November as part of the Music for Youth Proms.
