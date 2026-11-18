@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 18 Nov 2026 12:54:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 13:00:58 +0000</lastBuildDate>
+  <item>
+    <title>Rye Harbour marks anniversary of Mary Stanford lifeboat disaster</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/rye-harbour-marks-anniversary-of-mary-stanford-lifeboat-disaster/</link>
+    <guid isPermaLink="false">story-215</guid>
+    <pubDate>Wed, 18 Nov 2026 13:00:58 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A service and wreath laying took place at Rye Harbour Church on Sunday 15 November to remember the 17 crew members of the Mary Stanford lifeboat who lost their lives in 1928.</description>
+  </item>
+  <item>
+    <title>Hastings Lions donate more than £8,000 to local causes</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/</link>
+    <guid isPermaLink="false">story-216</guid>
+    <pubDate>Wed, 18 Nov 2026 13:00:58 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings Lions has donated more than £8,000 to local causes.</description>
+  </item>
   <item>
     <title>Update: Alcohol licence bid for Rye tea room goes to council panel</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/alcohol-licence-bid-for-rye-tea-room-goes-to-council-panel/</link>
@@ -630,22 +646,6 @@
     <pubDate>Wed, 11 Nov 2026 08:25:29 +0000</pubDate>
     <category>Politics</category>
     <description>A Bexhill town councillor has described proposals for a potential 500 new homes in the town as a &#x27;disaster zone waiting to happen&#x27;.</description>
-  </item>
-  <item>
-    <title>Donations top £10,000 for Isfield farm shop after raid</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/donations-top-10-000-for-isfield-farm-shop-after-raid/</link>
-    <guid isPermaLink="false">story-149</guid>
-    <pubDate>Wed, 11 Nov 2026 08:25:29 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Donations totalling more than £10,000 have flowed in to help a family farm in Isfield after thieves ransacked its shop, the owners said.</description>
-  </item>
-  <item>
-    <title>On this day, 1918: The Armistice reaches the East Sussex papers, 1918</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-11/</link>
-    <guid isPermaLink="false">otd-2026-11-11</guid>
-    <pubDate>Wed, 11 Nov 2026 07:00:00 +0000</pubDate>
-    <category>On this day</category>
-    <description>When news of the Armistice reached Britain on 11 November 1918, newspapers in East Sussex reported on the joy and the solemn reflection of the county.</description>
   </item>
 </channel>
 </rss>

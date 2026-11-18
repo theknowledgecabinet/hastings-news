@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 18 Nov 2026 12:54:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 13:00:58 +0000</lastBuildDate>
+  <item>
+    <title>Rye Harbour marks anniversary of Mary Stanford lifeboat disaster</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/rye-harbour-marks-anniversary-of-mary-stanford-lifeboat-disaster/</link>
+    <guid isPermaLink="false">story-215</guid>
+    <pubDate>Wed, 18 Nov 2026 13:00:58 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A service and wreath laying took place at Rye Harbour Church on Sunday 15 November to remember the 17 crew members of the Mary Stanford lifeboat who lost their lives in 1928.</description>
+  </item>
+  <item>
+    <title>Hastings Lions donate more than £8,000 to local causes</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/</link>
+    <guid isPermaLink="false">story-216</guid>
+    <pubDate>Wed, 18 Nov 2026 13:00:58 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings Lions has donated more than £8,000 to local causes.</description>
+  </item>
   <item>
     <title>Update: Alcohol licence bid for Rye tea room goes to council panel</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/alcohol-licence-bid-for-rye-tea-room-goes-to-council-panel/</link>
@@ -390,22 +406,6 @@
     <pubDate>Thu, 05 Nov 2026 13:47:17 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Active Hastings&#x27; specialised &#x27;Link Worker&#x27; is helping residents with long-term health conditions become more active, bridging the gap between healthcare and community-based activity, according to the Hastings Independent Press.</description>
-  </item>
-  <item>
-    <title>From Hastings to the Royal Albert Hall: Count Us IN set to perform</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/from-hastings-to-the-royal-albert-hall-count-us-in-set-to-perform/</link>
-    <guid isPermaLink="false">story-108</guid>
-    <pubDate>Thu, 05 Nov 2026 08:19:34 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Fifty-one young musicians from Hastings and St Leonards will take the stage at the Royal Albert Hall on 10 November as part of the Music for Youth Proms.</description>
-  </item>
-  <item>
-    <title>Hastings care home rated &#x27;Good&#x27; across all five CQC areas</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/hastings-care-home-rated-good-across-all-five-cqc-areas/</link>
-    <guid isPermaLink="false">story-109</guid>
-    <pubDate>Thu, 05 Nov 2026 08:19:34 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Mountside Care Home in Hastings has been rated &#x27;Good&#x27; in all five areas assessed by the Care Quality Commission.</description>
   </item>
 </channel>
 </rss>

@@ -52,6 +52,9 @@ image:
   default: false
 checked: '2026-11-07T13:20:20+00:00'
 related:
+- url: /2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/
+  title: Hastings Lions donate more than £8,000 to local causes
+  day: '2026-11-18'
 - url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
   title: Hastings Old Town Carnival donates over £5,000 to local good causes
   day: '2026-11-17'

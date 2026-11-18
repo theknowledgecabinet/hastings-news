@@ -56,6 +56,9 @@ image:
   default: false
 checked: '2026-11-11T08:29:58+00:00'
 related:
+- url: /2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/
+  title: Hastings Lions donate more than £8,000 to local causes
+  day: '2026-11-18'
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
   title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
   day: '2026-10-27'

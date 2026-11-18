@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-11-17T12:46:02+00:00'
 related:
+- url: /2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/
+  title: Hastings Lions donate more than £8,000 to local causes
+  day: '2026-11-18'
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
   title: Hastings Castle to get £288,500 from Historic England for repairs
   day: '2026-10-25'
-- url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
-  title: Hastings to receive £1m from the government's derelict buildings fund
-  day: '2026-10-28'
 ---
 {% raw %}
 The Hastings Old Town Carnival Association has donated more than £5,000 to local charities after a successful Old Town Week.
