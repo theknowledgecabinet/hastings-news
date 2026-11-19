@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 19 Nov 2026 12:48:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 12:53:09 +0000</lastBuildDate>
+  <item>
+    <title>Hastings Museum opens sustainability exhibition with Natural History Museum and local students</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/hastings-museum-opens-sustainability-exhibition-with-natural-history/</link>
+    <guid isPermaLink="false">story-226</guid>
+    <pubDate>Thu, 19 Nov 2026 12:53:09 +0000</pubDate>
+    <category>Council</category>
+    <description>Hastings Museum &amp; Art Gallery is opening a new sustainability exhibition in partnership with the Natural History Museum and local students.</description>
+  </item>
   <item>
     <title>Police appeal for witnesses after alleged assault in Hastings town centre</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/</link>
@@ -638,14 +646,6 @@
     <pubDate>Wed, 11 Nov 2026 19:18:20 +0000</pubDate>
     <category>Traffic &amp; roadworks</category>
     <description>Travellers between Eastbourne and Hastings faced delays on Wednesday afternoon after trespassers were found on the railway.</description>
-  </item>
-  <item>
-    <title>Liane Carroll to give Christmas concert at St Clement&#x27;s for the Sara Lee Trust</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/liane-carroll-to-give-christmas-concert-at-st-clement-s-for-the-sara/</link>
-    <guid isPermaLink="false">story-159</guid>
-    <pubDate>Wed, 11 Nov 2026 19:18:20 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Award-winning jazz artist Liane Carroll is to give a Christmas concert in Hastings to raise vital funds for the Sara Lee Trust, the local cancer charity.</description>
   </item>
 </channel>
 </rss>
