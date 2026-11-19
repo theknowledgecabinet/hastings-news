@@ -55,6 +55,9 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/
+  title: Battle and Rye both win in East Sussex League weekend
+  day: '2026-11-19'
 - url: /2026/11/16/pilot-field-power-works-to-finish-by-early-december-mp-says/
   title: Pilot Field power works to finish by early December, MP says
   day: '2026-11-16'

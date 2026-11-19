@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 18 Nov 2026 18:57:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 07:43:19 +0000</lastBuildDate>
+  <item>
+    <title>Battle and Rye both win in East Sussex League weekend</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/</link>
+    <guid isPermaLink="false">story-221</guid>
+    <pubDate>Thu, 19 Nov 2026 07:43:19 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Battle Town and Rye Town both won in Saturday&#x27;s East Sussex Football League Premier Division matches, according to the Hastings Observer.</description>
+  </item>
   <item>
     <title>Hastings RNLI fish supper raises £920 at Old Town Fryer</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/hastings-rnli-fish-supper-raises-920-at-old-town-fryer/</link>
@@ -398,14 +406,6 @@
     <pubDate>Fri, 06 Nov 2026 08:21:12 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Hastings artist Bill Greenhead, known for his cartoon-style paintings of chip-stealing seagulls, has an exhibition in the Snug bar of the Crown in Hastings Old Town.</description>
-  </item>
-  <item>
-    <title>Sculptor Leigh Dyer&#x27;s steel fins go on sale at At Sea</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/</link>
-    <guid isPermaLink="false">story-117</guid>
-    <pubDate>Thu, 05 Nov 2026 19:52:43 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The metal sculptor behind several well-known works around Hastings has opened a new line for sale at the At Sea gallery in the Old Town.</description>
   </item>
 </channel>
 </rss>

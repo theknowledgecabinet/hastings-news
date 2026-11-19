@@ -54,6 +54,10 @@ image:
   licence_url: https://creativecommons.org/licenses/by/4.0
   page: https://commons.wikimedia.org/wiki/File:Fire_station_open_day_in_Newhaven_04.jpg
   default: false
+related:
+- url: /2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/
+  title: Battle and Rye both win in East Sussex League weekend
+  day: '2026-11-19'
 ---
 {% raw %}
 Gary Bourn, from Rye, has been presented with a special award by East Sussex Fire and Rescue Service after 30 years of service, the Observer reported.
