@@ -20,12 +20,15 @@ lead: true
 places:
 - name: Hastings
   slug: hastings
-description: Hastings Borough Council has approved more than £4.4 million for projects across the town, covering playgrounds, sports facilities and the repair of two historic landmarks, The Argus reported.
+description: Hastings Borough Council has approved more than £4.4 million for projects across the town, covering playgrounds, sports facilities and improving some of the town's best-known historic attractions, The Argus reported.
 what_next: The playground programme is scheduled for completion by August 2027, the council said.
 sources:
 - url: https://www.theargus.co.uk/news/26741667.4m-hastings-plans-approved-including-playgrounds-padel-courts/?ref=rss
   name: The Argus
 comment: For families, the big news is the playground money, which finally addresses how many of the town's play areas have fallen into disrepair. The West Hill Lift and Castle grants are the longer game, but a restored lift would be a real boost for anyone heading up the hill to see the castle.
+corrections:
+- at: '2026-11-19T10:00:50+00:00'
+  note: An earlier version said the £4.4 million package covers 'the repair of two historic landmarks' but named only Hastings Castle. The package includes restoration work at both the Grade II-listed West Hill Lift and the Castle.
 image:
   card:
     url: /assets/media/story/222/card.webp
@@ -63,9 +66,11 @@ related:
   day: '2026-10-28'
 ---
 {% raw %}
-Hastings Borough Council has approved more than £4.4 million for projects across the town, covering playgrounds, sports facilities and the repair of two historic landmarks, The Argus reported.
+Hastings Borough Council has approved more than £4.4 million for projects across the town, covering playgrounds, sports facilities and improving some of the town's best-known historic attractions, The Argus reported.
 
 The package includes £1.55 million for playground improvements under the government's Pride in Place scheme, with an Alexandra Park 'destination playground' and at least seven neighbourhood playgrounds to benefit, completed by August 2027.
 
-A £1.8 million covered tennis and padel centre is planned for White Rock Gardens, and £288,500 from Historic England and £200,000 from the council will go to urgent repairs at Hastings Castle.
+A £1.8 million covered tennis and padel centre is planned for White Rock Gardens.
+
+The Grade II-listed West Hill Lift will receive a £531,000 National Lottery Heritage Fund grant to support detailed restoration plans, and £288,500 from Historic England and £200,000 from the council will go to urgent repairs at Hastings Castle.
 {% endraw %}
