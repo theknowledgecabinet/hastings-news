@@ -53,15 +53,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Redruth_United_Football_pitch,_with_advertising_hoarding_and_cut_grass_-_geograph.org.uk_-_8083726.jpg
   default: false
 related:
+- url: /2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/
+  title: Rye man receives East Sussex Divisional Commendation for public service
+  day: '2026-11-19'
 - url: /2026/11/15/steyning-second-half-surge-sinks-hastings-united-4-1/
   title: Steyning second-half surge sinks Hastings United 4-1
   day: '2026-11-15'
 - url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
   title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
   day: '2026-10-21'
-- url: /2026/10/28/police-step-up-evening-patrols-in-rye-after-reports-of-anti-social/
-  title: Police step up evening patrols in Rye after reports of anti-social behaviour
-  day: '2026-10-28'
 ---
 {% raw %}
 Battle Town and Rye Town both won in Saturday's East Sussex Football League Premier Division matches, according to the Hastings Observer.

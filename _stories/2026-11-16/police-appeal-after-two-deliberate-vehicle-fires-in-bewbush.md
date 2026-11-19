@@ -56,9 +56,9 @@ related:
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/
   title: Police appeal after catapults reported in Bexhill's Egerton Park
   day: '2026-10-27'
-- url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
-  title: Police appeal for information over St Leonards burglary
-  day: '2026-11-13'
+- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
+  title: Police appeal for witnesses after alleged assault in Hastings town centre
+  day: '2026-11-19'
 ---
 {% raw %}
 Sussex Police are appealing for witnesses after two vehicle fires in Bewbush, which are being treated as deliberate.

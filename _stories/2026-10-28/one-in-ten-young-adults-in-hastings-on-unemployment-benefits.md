@@ -55,9 +55,9 @@ related:
 - url: /2026/11/12/new-wheelchair-and-mobility-scooter-support-group-launched-in-hastings/
   title: New wheelchair and mobility scooter support group launched in Hastings
   day: '2026-11-12'
-- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
-  title: Hastings council to consider Age Friendly strategy for older residents
-  day: '2026-11-04'
+- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
+  title: Police appeal for witnesses after alleged assault in Hastings town centre
+  day: '2026-11-19'
 ---
 {% raw %}
 More than one in ten young adults in Hastings are claiming unemployment-related benefits, Office for National Statistics figures show, according to The Argus.

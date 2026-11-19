@@ -59,9 +59,9 @@ related:
 - url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/
   title: Police increase patrols in Eldridge Way area of St Leonards
   day: '2026-11-03'
-- url: /2026/11/02/residents-brand-st-leonards-metal-supports-an-eyesore/
-  title: Residents brand St Leonards metal supports an 'eyesore'
-  day: '2026-11-02'
+- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
+  title: Police appeal for witnesses after alleged assault in Hastings town centre
+  day: '2026-11-19'
 ---
 {% raw %}
 Police have appealed for witnesses after windows were smashed and graffiti was daubed on a building in St Leonards.

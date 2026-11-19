@@ -57,9 +57,9 @@ related:
 - url: /2026/10/24/buses-replace-trains-between-tonbridge-and-wadhurst-from-saturday/
   title: Buses replace trains between Tonbridge and Wadhurst from Saturday
   day: '2026-10-24'
-- url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
-  title: New crossings and lighting completed around Hastings station
-  day: '2026-10-27'
+- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
+  title: Police appeal for witnesses after alleged assault in Hastings town centre
+  day: '2026-11-19'
 ---
 {% raw %}
 Travellers between Eastbourne and Hastings faced delays on Wednesday afternoon after trespassers were found on the railway.

@@ -55,6 +55,10 @@ image:
   page: ''
   default: false
 checked: '2026-11-12T19:11:23+00:00'
+related:
+- url: /2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/
+  title: Rye man receives East Sussex Divisional Commendation for public service
+  day: '2026-11-19'
 ---
 {% raw %}
 Dan Lake, who lives in Tilling Green near Rye, has been named Community Champion in Southern Housing's 2026 Shine Bright Awards.

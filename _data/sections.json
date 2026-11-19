@@ -4,7 +4,7 @@
   "label": "Crime & courts",
   "colour": "#b03a2e",
   "url": "/section/crime/",
-  "count": 35
+  "count": 36
  },
  {
   "key": "politics",
@@ -25,14 +25,14 @@
   "label": "Community & people",
   "colour": "#c0742a",
   "url": "/section/community/",
-  "count": 100
+  "count": 101
  },
  {
   "key": "business",
   "label": "Business",
   "colour": "#2e7d4f",
   "url": "/section/business/",
-  "count": 17
+  "count": 18
  },
  {
   "key": "traffic",

@@ -58,12 +58,12 @@ related:
 - url: /2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/
   title: Battle and Rye both win in East Sussex League weekend
   day: '2026-11-19'
+- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
+  title: Police appeal for witnesses after alleged assault in Hastings town centre
+  day: '2026-11-19'
 - url: /2026/11/16/pilot-field-power-works-to-finish-by-early-december-mp-says/
   title: Pilot Field power works to finish by early December, MP says
   day: '2026-11-16'
-- url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
-  title: Residents call for action over former Hastings public toilets site
-  day: '2026-10-28'
 ---
 {% raw %}
 Hastings United suffered a heavy defeat on a cold Saturday afternoon at The Pilot Field, where Steyning Town produced a second-half comeback to win 4-1 in the Isthmian South East division in front of a crowd of 1,034.

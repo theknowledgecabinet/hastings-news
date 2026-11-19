@@ -60,9 +60,9 @@ related:
 - url: /2026/11/05/gp-link-worker-helping-hastings-residents-with-long-term-conditions/
   title: GP link worker helping Hastings residents with long-term conditions get active
   day: '2026-11-05'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
+- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
+  title: Police appeal for witnesses after alleged assault in Hastings town centre
+  day: '2026-11-19'
 ---
 {% raw %}
 A new support group for residents who use wheelchairs or mobility scooters is being launched in Hastings.

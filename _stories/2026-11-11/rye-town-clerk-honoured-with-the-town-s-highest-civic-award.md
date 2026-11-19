@@ -50,6 +50,9 @@ image:
   page: https://commons.wikimedia.org/wiki/File:The_Town_Clerk%27s_Door_-_geograph.org.uk_-_463015.jpg
   default: false
 related:
+- url: /2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/
+  title: Rye man receives East Sussex Divisional Commendation for public service
+  day: '2026-11-19'
 - url: /2026/11/07/the-plough-in-rye-named-among-britain-s-best-pubs/
   title: The Plough in Rye named among Britain's best pubs
   day: '2026-11-07'

@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 19 Nov 2026 07:43:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 12:48:59 +0000</lastBuildDate>
+  <item>
+    <title>Rye man receives East Sussex Divisional Commendation for public service</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/</link>
+    <guid isPermaLink="false">story-225</guid>
+    <pubDate>Thu, 19 Nov 2026 12:48:59 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A Rye resident has received a special award from Sussex Police for his services to community safety across Hastings and Rother.</description>
+  </item>
   <item>
     <title>Battle and Rye both win in East Sussex League weekend</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/</link>
@@ -398,14 +406,6 @@
     <pubDate>Fri, 06 Nov 2026 12:55:13 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Glenleigh Park Primary Academy in Bexhill hosted a special assembly to celebrate student leadership, with the Mayor of Bexhill, Cllr Memish Huseyin, in attendance. The visit marked the appointment of the school&#x27;s newly elected school and eco councillors, following an election campaign that involved all pupils.</description>
-  </item>
-  <item>
-    <title>Seagull artist&#x27;s gull-version masterpieces on show in Crown pub</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/seagull-artist-s-gull-version-masterpieces-on-show-in-crown-pub/</link>
-    <guid isPermaLink="false">story-120</guid>
-    <pubDate>Fri, 06 Nov 2026 08:21:12 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Hastings artist Bill Greenhead, known for his cartoon-style paintings of chip-stealing seagulls, has an exhibition in the Snug bar of the Crown in Hastings Old Town.</description>
   </item>
 </channel>
 </rss>

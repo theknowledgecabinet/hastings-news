@@ -65,6 +65,9 @@ related:
 - url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
   title: Police make 18 weekend arrests in Hastings and Rother
   day: '2026-11-03'
+- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
+  title: Police appeal for witnesses after alleged assault in Hastings town centre
+  day: '2026-11-19'
 ---
 {% raw %}
 Eight residents of Hastings and Bexhill were arrested outside the US embassy in London on Saturday 31 October, the Hastings Online Times reported. The group was peacefully holding signs reading 'I oppose genocide. I support Palestine Action'.

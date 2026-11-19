@@ -55,6 +55,9 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Fire_station_open_day_in_Newhaven_04.jpg
   default: false
 related:
+- url: /2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/
+  title: Rye man receives East Sussex Divisional Commendation for public service
+  day: '2026-11-19'
 - url: /2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/
   title: Battle and Rye both win in East Sussex League weekend
   day: '2026-11-19'

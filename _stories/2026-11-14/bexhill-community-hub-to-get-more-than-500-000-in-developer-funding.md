@@ -57,9 +57,9 @@ related:
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
-- url: /2026/11/11/councillor-calls-500-home-bexhill-plan-a-disaster-zone-waiting-to/
-  title: Councillor calls 500-home Bexhill plan a 'disaster zone waiting to happen'
-  day: '2026-11-11'
+- url: /2026/11/19/work-set-to-begin-on-new-1-2m-loungers-restaurant-at-bexhill-colonnade/
+  title: Work set to begin on new £1.2m Loungers restaurant at Bexhill Colonnade
+  day: '2026-11-19'
 ---
 {% raw %}
 More than £500,000 has been allocated to create a new community hub in Bexhill town centre, Rother District Council said.

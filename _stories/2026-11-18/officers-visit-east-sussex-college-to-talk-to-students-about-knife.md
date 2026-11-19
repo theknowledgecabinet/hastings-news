@@ -53,12 +53,12 @@ related:
 - url: /2026/11/14/sussex-police-warn-against-uninsured-drivers-with-roadside-checks/
   title: Sussex Police warn against uninsured drivers with roadside checks
   day: '2026-11-14'
+- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
+  title: Police appeal for witnesses after alleged assault in Hastings town centre
+  day: '2026-11-19'
 - url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/
   title: Police appeal for information over St Leonards burglary
   day: '2026-11-13'
-- url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
-  title: Police launch Safer Town Centres campaign and new ASB powers
-  day: '2026-10-28'
 ---
 {% raw %}
 Police have been visiting East Sussex College to talk to students about knife crime.

@@ -56,9 +56,9 @@ related:
 - url: /2026/10/28/police-launch-safer-town-centres-campaign-and-new-asb-powers/
   title: Police launch Safer Town Centres campaign and new ASB powers
   day: '2026-10-28'
-- url: /2026/11/14/sussex-police-warn-against-uninsured-drivers-with-roadside-checks/
-  title: Sussex Police warn against uninsured drivers with roadside checks
-  day: '2026-11-14'
+- url: /2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/
+  title: Rye man receives East Sussex Divisional Commendation for public service
+  day: '2026-11-19'
 ---
 {% raw %}
 Officers and police community support officers have continued with reassurance patrols in Rye and the surrounding areas, with particular attention given to Love Lane, Sussex Police has said.

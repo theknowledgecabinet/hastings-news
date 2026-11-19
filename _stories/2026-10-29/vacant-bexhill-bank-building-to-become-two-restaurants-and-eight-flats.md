@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-10-29T12:43:55+00:00'
 related:
+- url: /2026/11/19/work-set-to-begin-on-new-1-2m-loungers-restaurant-at-bexhill-colonnade/
+  title: Work set to begin on new £1.2m Loungers restaurant at Bexhill Colonnade
+  day: '2026-11-19'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
 - url: /2026/11/11/two-bexhill-colonnade-kiosks-available-to-let-for-new-businesses/
   title: Two Bexhill Colonnade kiosks available to let for new businesses
   day: '2026-11-11'
-- url: /2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/
-  title: Bexhill community hub to get more than £500,000 in developer funding
-  day: '2026-11-14'
 ---
 {% raw %}
 Plans to convert the former Lloyds Bank building in Bexhill town centre into two restaurants and eight apartments have been unveiled.

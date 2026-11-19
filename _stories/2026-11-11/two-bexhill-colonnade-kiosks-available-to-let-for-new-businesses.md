@@ -50,15 +50,15 @@ image:
   default: false
 checked: '2026-11-11T12:50:54+00:00'
 related:
+- url: /2026/11/19/work-set-to-begin-on-new-1-2m-loungers-restaurant-at-bexhill-colonnade/
+  title: Work set to begin on new £1.2m Loungers restaurant at Bexhill Colonnade
+  day: '2026-11-19'
 - url: /2026/10/29/vacant-bexhill-bank-building-to-become-two-restaurants-and-eight-flats/
   title: Vacant Bexhill bank building to become two restaurants and eight flats
   day: '2026-10-29'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
-- url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
-  title: New road signs installed in Bexhill for horse and rider safety
-  day: '2026-10-29'
 ---
 {% raw %}
 Two kiosks at the Grade II listed Colonnade in Bexhill are available to let for new businesses, offered through commercial property agents Dyer & Hobbis.

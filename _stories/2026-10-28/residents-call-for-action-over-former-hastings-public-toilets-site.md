@@ -58,9 +58,9 @@ related:
 - url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
   title: Call for interest in future use of Sandhurst Recreation Ground
   day: '2026-11-06'
-- url: /2026/11/17/hastings-housing-co-operative-to-dissolve-after-a-year-at-5-harold/
-  title: Hastings housing co-operative to dissolve after a year at 5 Harold Place
-  day: '2026-11-17'
+- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
+  title: Police appeal for witnesses after alleged assault in Hastings town centre
+  day: '2026-11-19'
 ---
 {% raw %}
 Residents have called for the disused public toilets site in Harold Place, Hastings town centre, to be put to use, after stormy weather left a trail of debris at the site, the Observer reported.

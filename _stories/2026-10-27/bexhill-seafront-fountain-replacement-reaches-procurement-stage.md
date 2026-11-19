@@ -71,6 +71,9 @@ related:
 - url: /2026/10/26/plans-to-reopen-marina-pavilion-in-st-leonards-held-up-in-dispute/
   title: Plans to reopen Marina Pavilion in St Leonards held up in dispute with council
   day: '2026-10-26'
+- url: /2026/11/19/work-set-to-begin-on-new-1-2m-loungers-restaurant-at-bexhill-colonnade/
+  title: Work set to begin on new £1.2m Loungers restaurant at Bexhill Colonnade
+  day: '2026-11-19'
 ---
 {% raw %}
 A fountain is to return to the front lawns of the De La Warr Pavilion, with the replacement project now at the procurement stage.
