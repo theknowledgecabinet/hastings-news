@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 19 Nov 2026 12:53:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 19:07:22 +0000</lastBuildDate>
+  <item>
+    <title>Green Automotive Centre of Excellence opens at Ore Valley campus</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/green-automotive-centre-of-excellence-opens-at-ore-valley-campus/</link>
+    <guid isPermaLink="false">story-227</guid>
+    <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
+    <category>Council</category>
+    <description>A new Green Automotive Centre of Excellence has opened at East Sussex College Group&#x27;s Ore Valley campus in Hastings.</description>
+  </item>
+  <item>
+    <title>Bexhill councillor raises pedestrian safety concerns over 146 homes plan</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/bexhill-councillor-raises-pedestrian-safety-concerns-over-146-homes/</link>
+    <guid isPermaLink="false">story-228</guid>
+    <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
+    <category>Council</category>
+    <description>A Bexhill councillor has raised concerns over pedestrian safety as part of proposals to build 146 new homes on land off Spindlewood Drive in Little Common.</description>
+  </item>
   <item>
     <title>Hastings Museum opens sustainability exhibition with Natural History Museum and local students</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/hastings-museum-opens-sustainability-exhibition-with-natural-history/</link>
@@ -390,22 +406,6 @@
     <pubDate>Tue, 27 Oct 2026 19:15:41 +0000</pubDate>
     <category>Council</category>
     <description>Beach cleaning charity Nurdle is appealing for information after three quad bikes and specialist equipment were stolen from secure shipping containers in the early hours of Sunday 25 October.</description>
-  </item>
-  <item>
-    <title>Bexhill seafront fountain replacement reaches procurement stage</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/27/bexhill-seafront-fountain-replacement-reaches-procurement-stage/</link>
-    <guid isPermaLink="false">story-27</guid>
-    <pubDate>Tue, 27 Oct 2026 12:46:07 +0000</pubDate>
-    <category>Council</category>
-    <description>A fountain is to return to the front lawns of the De La Warr Pavilion, with the replacement project now at the procurement stage.</description>
-  </item>
-  <item>
-    <title>White Rock Gardens could get covered padel and tennis courts</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/27/white-rock-gardens-could-get-covered-padel-and-tennis-courts/</link>
-    <guid isPermaLink="false">story-28</guid>
-    <pubDate>Tue, 27 Oct 2026 12:46:07 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Borough Council says it is being considered to receive £1.3million from the Lawn Tennis Association to develop a covered tennis and padel centre at White Rock Gardens.</description>
   </item>
 </channel>
 </rss>

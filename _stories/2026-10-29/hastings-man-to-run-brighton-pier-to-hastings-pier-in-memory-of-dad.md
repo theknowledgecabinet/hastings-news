@@ -54,6 +54,9 @@ image:
   default: false
 checked: '2026-10-29T19:30:29+00:00'
 related:
+- url: /2026/11/19/hastings-veteran-to-walk-40-miles-for-two-local-charities/
+  title: Hastings veteran to walk 40 miles for two local charities
+  day: '2026-11-19'
 - url: /2026/11/07/hastings-runner-to-take-on-55-mile-ultramarathon-in-jeans/
   title: Hastings runner to take on 55-mile ultramarathon in jeans
   day: '2026-11-07'

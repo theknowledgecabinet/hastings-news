@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 19 Nov 2026 12:48:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 19:07:22 +0000</lastBuildDate>
+  <item>
+    <title>Hastings veteran to walk 40 miles for two local charities</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/hastings-veteran-to-walk-40-miles-for-two-local-charities/</link>
+    <guid isPermaLink="false">story-229</guid>
+    <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>John Holland-Hobbs from Hastings will walk 40 miles in 12 hours on Saturday 28 November to raise funds for the East Sussex Veterans Hub and the Hastings and Rother Ukrainian Branch.</description>
+  </item>
+  <item>
+    <title>Christmas Tree Festival returns to St Clements Church</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/christmas-tree-festival-returns-to-st-clements-church/</link>
+    <guid isPermaLink="false">story-230</guid>
+    <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>St Clements Church in Hastings Old Town is holding its popular Christmas Tree Festival from Saturday 28 November.</description>
+  </item>
   <item>
     <title>Rye man receives East Sussex Divisional Commendation for public service</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/</link>
@@ -390,22 +406,6 @@
     <pubDate>Fri, 06 Nov 2026 19:17:07 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Helena Dollimore, the MP for Hastings, Rye and the villages, has joined veterans and volunteers at the launch of this year&#x27;s Hastings &amp; St Leonards Poppy Appeal, held in Tesco, raising money for veterans and their families.</description>
-  </item>
-  <item>
-    <title>Ada the Asda car park fox has been relocated to a safer home</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/ada-the-asda-car-park-fox-has-been-relocated-to-a-safer-home/</link>
-    <guid isPermaLink="false">story-123</guid>
-    <pubDate>Fri, 06 Nov 2026 12:55:13 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Ada, the friendly fox that made her home in an Asda car park in Hastings, has been moved to a safer place by a wildlife charity. The fox had become well known for approaching shoppers, begging for food and trying to climb up people&#x27;s legs.</description>
-  </item>
-  <item>
-    <title>Bexhill mayor celebrates new school councillors at Glenleigh Park Primary</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/bexhill-mayor-celebrates-new-school-councillors-at-glenleigh-park/</link>
-    <guid isPermaLink="false">story-124</guid>
-    <pubDate>Fri, 06 Nov 2026 12:55:13 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Glenleigh Park Primary Academy in Bexhill hosted a special assembly to celebrate student leadership, with the Mayor of Bexhill, Cllr Memish Huseyin, in attendance. The visit marked the appointment of the school&#x27;s newly elected school and eco councillors, following an election campaign that involved all pupils.</description>
   </item>
 </channel>
 </rss>

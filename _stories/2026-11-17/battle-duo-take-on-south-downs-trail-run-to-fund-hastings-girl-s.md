@@ -52,15 +52,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:The_end_of_a_trail_running_event_-_geograph.org.uk_-_7304445.jpg
   default: false
 related:
+- url: /2026/11/19/hastings-veteran-to-walk-40-miles-for-two-local-charities/
+  title: Hastings veteran to walk 40 miles for two local charities
+  day: '2026-11-19'
 - url: /2026/11/07/hastings-runner-to-take-on-55-mile-ultramarathon-in-jeans/
   title: Hastings runner to take on 55-mile ultramarathon in jeans
   day: '2026-11-07'
 - url: /2026/11/09/hastings-brothers-set-for-nepal-peaks-for-veterans-charity/
   title: Hastings brothers set for Nepal peaks for veterans' charity
   day: '2026-11-09'
-- url: /2026/11/07/hastings-swimmer-plots-route-to-2028-channel-crossing/
-  title: Hastings swimmer plots route to 2028 Channel crossing
-  day: '2026-11-07'
 ---
 {% raw %}
 Two bricklayers from Battle are taking on the South Downs Trail Run on 28 November to help an 11-year-old Hastings gymnast continue her rehabilitation.

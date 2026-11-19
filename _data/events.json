@@ -11,6 +11,17 @@
   "when": "Fri 20 Nov"
  },
  {
+  "starts": "2026-11-20",
+  "ends": null,
+  "title": "Odom-Kunkel at the Jenny Lind",
+  "time": "",
+  "venue": "Jenny Lind, Hastings",
+  "places": "Hastings",
+  "url": "https://hastingsonlinetimes.co.uk/arts-culture/animation/from-new-orleans-to-hastings",
+  "summary": "The New Orleans band plays the Jenny Lind on Friday as part of their European-UK tour. Their new album 'Sniffing Spirits' includes 'The Sniffing Song', for which Jude Montague has created a charcoal animation.",
+  "when": "Fri 20 Nov"
+ },
+ {
   "starts": "2026-11-21",
   "ends": null,
   "title": "Robertsbridge Bonfire",
@@ -107,6 +118,17 @@
   "places": "Hastings",
   "url": "https://hastingsonlinetimes.co.uk/arts-culture/comedy/introducing-amuse-bouche",
   "summary": "A female-powered introductory workshop in comedy writing, ad libbing, improv and flash fiction, run by Lindsay Jayne, Nicky Torode, Nicola Reading and Stella Valente. No experience needed, just a sense of humour.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": "2026-12-06",
+  "title": "Christmas Tree Festival, St Clements Church",
+  "time": "11am to 3pm (28 and 29 November)",
+  "venue": "St Clements Church, Hastings Old Town",
+  "places": "Hastings",
+  "url": "https://www.sussexexpress.co.uk/news/people/return-of-popular-christmas-tree-festival-at-hastings-old-town-church-9361129",
+  "summary": "Decorated trees themed 'Christmas Characters', a craft fair and refreshments open the festival, which runs until 6 December with trees by treelight, handbells, border Morris and live music.",
   "when": "Sat 28 Nov"
  }
 ]

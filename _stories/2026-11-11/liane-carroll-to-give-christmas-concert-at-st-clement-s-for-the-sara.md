@@ -51,15 +51,15 @@ image:
   default: false
 checked: '2026-11-11T19:21:32+00:00'
 related:
+- url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
+  title: Christmas Tree Festival returns to St Clements Church
+  day: '2026-11-19'
 - url: /2026/10/22/alabama-3-acoustic-show-at-st-leonard-s-church/
   title: Alabama 3 acoustic show at St Leonard's Church
   day: '2026-10-22'
 - url: /2026/10/21/hastings-artist-to-launch-book-of-paintings-made-through-cancer/
   title: Hastings artist to launch book of paintings made through cancer
   day: '2026-10-21'
-- url: /2026/10/25/hastings-philharmonic-choir-to-sing-schubert-and-saint-saens/
-  title: Hastings Philharmonic Choir to sing Schubert and Saint-Saëns
-  day: '2026-10-25'
 ---
 {% raw %}
 Award-winning jazz artist Liane Carroll is to give a Christmas concert in Hastings to raise vital funds for the Sara Lee Trust, the local cancer charity.

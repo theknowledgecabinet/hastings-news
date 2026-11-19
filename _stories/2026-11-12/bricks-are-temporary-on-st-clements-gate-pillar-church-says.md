@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-11-12T19:12:09+00:00'
 related:
+- url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
+  title: Christmas Tree Festival returns to St Clements Church
+  day: '2026-11-19'
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
 - url: /2026/11/12/police-appeal-for-information-after-st-leonards-building-vandalised/
   title: Police appeal for information after St Leonards building vandalised
   day: '2026-11-12'
-- url: /2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/
-  title: Bird deaths spark campaign to remove netting in Hastings and Rother
-  day: '2026-11-02'
 ---
 {% raw %}
 Concerns raised this week about a modern red brick repair to the gate pillar at St Clements Church in Hastings Old Town have been answered by the church, which said the bricks are a temporary measure.

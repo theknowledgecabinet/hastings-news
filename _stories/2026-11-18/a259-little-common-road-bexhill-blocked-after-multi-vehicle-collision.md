@@ -56,9 +56,9 @@ related:
 - url: /2026/11/14/trains-between-bexhill-and-eastbourne-cut-short-by-signalling-fault/
   title: Trains between Bexhill and Eastbourne cut short by signalling fault
   day: '2026-11-14'
-- url: /2026/11/16/bexhill-gp-surgery-closed-today-over-unforeseen-circumstances/
-  title: Bexhill GP surgery closed today over 'unforeseen circumstances'
-  day: '2026-11-16'
+- url: /2026/11/19/bexhill-councillor-raises-pedestrian-safety-concerns-over-146-homes/
+  title: Bexhill councillor raises pedestrian safety concerns over 146 homes plan
+  day: '2026-11-19'
 ---
 {% raw %}
 A collision involving multiple vehicles was reported on the A259 Little Common Road in Bexhill on Tuesday evening.

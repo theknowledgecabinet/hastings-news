@@ -52,6 +52,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:20250322_Picea_abies.jpg
   default: false
 checked: '2026-11-08T18:54:01+00:00'
+related:
+- url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
+  title: Christmas Tree Festival returns to St Clements Church
+  day: '2026-11-19'
 ---
 {% raw %}
 A 27-year-old from St Leonards has won the women's title at the Christmas tree flinging contest at Catsfield Christmas Tree Farm near Battle.

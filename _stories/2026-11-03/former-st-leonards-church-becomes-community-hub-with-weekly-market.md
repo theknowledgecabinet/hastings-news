@@ -57,9 +57,9 @@ related:
 - url: /2026/11/07/fire-hit-st-leonards-convent-site-goes-to-auction-at-1-7m/
   title: Fire-hit St Leonards convent site goes to auction at £1.7m
   day: '2026-11-07'
-- url: /2026/11/12/hastings-council-rejects-community-asset-bid-for-st-leonards-convent/
-  title: Hastings council rejects community asset bid for St Leonards convent site
-  day: '2026-11-12'
+- url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
+  title: Christmas Tree Festival returns to St Clements Church
+  day: '2026-11-19'
 ---
 {% raw %}
 A former church in St Leonards has become a thriving community hub, hosting a popular weekly market and serving as a venue for concerts and events.

@@ -51,6 +51,9 @@ image:
   default: false
 checked: '2026-10-27T19:38:25+00:00'
 related:
+- url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
+  title: Christmas Tree Festival returns to St Clements Church
+  day: '2026-11-19'
 - url: /2026/10/25/gruffalo-parade-to-close-hastings-storytelling-festival-on-the-stade/
   title: Gruffalo parade to close Hastings Storytelling Festival on the Stade
   day: '2026-10-25'

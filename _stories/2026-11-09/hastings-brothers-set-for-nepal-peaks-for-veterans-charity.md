@@ -51,6 +51,9 @@ image:
   default: false
 checked: '2026-11-09T07:34:47+00:00'
 related:
+- url: /2026/11/19/hastings-veteran-to-walk-40-miles-for-two-local-charities/
+  title: Hastings veteran to walk 40 miles for two local charities
+  day: '2026-11-19'
 - url: /2026/11/17/battle-duo-take-on-south-downs-trail-run-to-fund-hastings-girl-s/
   title: Battle duo take on South Downs Trail Run to fund Hastings girl's therapy
   day: '2026-11-17'

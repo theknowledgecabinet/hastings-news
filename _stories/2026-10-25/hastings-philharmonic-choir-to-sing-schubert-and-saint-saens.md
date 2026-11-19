@@ -54,12 +54,12 @@ related:
 - url: /2026/11/05/from-hastings-to-the-royal-albert-hall-count-us-in-set-to-perform/
   title: 'From Hastings to the Royal Albert Hall: Count Us IN set to perform'
   day: '2026-11-05'
+- url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
+  title: Christmas Tree Festival returns to St Clements Church
+  day: '2026-11-19'
 - url: /2026/10/22/alabama-3-acoustic-show-at-st-leonard-s-church/
   title: Alabama 3 acoustic show at St Leonard's Church
   day: '2026-10-22'
-- url: /2026/11/11/liane-carroll-to-give-christmas-concert-at-st-clement-s-for-the-sara/
-  title: Liane Carroll to give Christmas concert at St Clement's for the Sara Lee Trust
-  day: '2026-11-11'
 ---
 {% raw %}
 The Hastings Philharmonic Choir's next concert, Songs of Light, brings two choral masterpieces to All Saints Church in the Old Town on Saturday 7 November.
