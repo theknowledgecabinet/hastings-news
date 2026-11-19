@@ -58,9 +58,9 @@ related:
 - url: /2026/10/27/white-rock-gardens-could-get-covered-padel-and-tennis-courts/
   title: White Rock Gardens could get covered padel and tennis courts
   day: '2026-10-27'
-- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
-  title: Have your say on renewal of five gated paths in Hastings and St Leonards
-  day: '2026-11-06'
+- url: /2026/11/19/hastings-council-approves-4-4-million-for-playgrounds-padel-courts/
+  title: Hastings council approves £4.4 million for playgrounds, padel courts and heritage repairs
+  day: '2026-11-19'
 ---
 {% raw %}
 Hastings Borough Council is asking sports clubs, groups and organisations to register their interest in the future of Sandhurst Recreation Ground. The council wants to know how much demand there is for the sports pitches, which organisations would like to use the site, and whether it could be managed or developed by the community.

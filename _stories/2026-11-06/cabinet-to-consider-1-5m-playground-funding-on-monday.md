@@ -55,12 +55,12 @@ related:
 - url: /2026/11/15/hastings-mp-says-1-27-million-secured-for-local-playgrounds/
   title: Hastings MP says £1.27 million secured for local playgrounds
   day: '2026-11-15'
+- url: /2026/11/19/hastings-council-approves-4-4-million-for-playgrounds-padel-courts/
+  title: Hastings council approves £4.4 million for playgrounds, padel courts and heritage repairs
+  day: '2026-11-19'
 - url: /2026/10/27/white-rock-gardens-could-get-covered-padel-and-tennis-courts/
   title: White Rock Gardens could get covered padel and tennis courts
   day: '2026-10-27'
-- url: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
-  title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
-  day: '2026-10-30'
 ---
 {% raw %}
 More than £1.5m to improve playgrounds across the town is set to be considered at the council's Cabinet meeting on Monday evening.

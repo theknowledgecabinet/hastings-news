@@ -64,15 +64,15 @@ image:
   default: false
 checked: '2026-10-27T12:48:28+00:00'
 related:
+- url: /2026/11/19/hastings-council-approves-4-4-million-for-playgrounds-padel-courts/
+  title: Hastings council approves £4.4 million for playgrounds, padel courts and heritage repairs
+  day: '2026-11-19'
 - url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
   title: Call for interest in future use of Sandhurst Recreation Ground
   day: '2026-11-06'
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
-- url: /2026/11/06/cabinet-to-consider-1-5m-playground-funding-on-monday/
-  title: Cabinet to consider £1.5m playground funding on Monday
-  day: '2026-11-06'
 ---
 {% raw %}
 Hastings Borough Council says it is being considered to receive £1.3million from the Lawn Tennis Association to develop a covered tennis and padel centre at White Rock Gardens.

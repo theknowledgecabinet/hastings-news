@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 19 Nov 2026 07:43:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 09:54:39 +0000</lastBuildDate>
+  <item>
+    <title>Hastings council approves £4.4 million for playgrounds, padel courts and heritage repairs</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/hastings-council-approves-4-4-million-for-playgrounds-padel-courts/</link>
+    <guid isPermaLink="false">story-222</guid>
+    <pubDate>Thu, 19 Nov 2026 09:54:39 +0000</pubDate>
+    <category>Council</category>
+    <description>Hastings Borough Council has approved more than £4.4 million for projects across the town, covering playgrounds, sports facilities and the repair of two historic landmarks, The Argus reported.</description>
+  </item>
   <item>
     <title>Battle and Rye both win in East Sussex League weekend</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/</link>
@@ -638,14 +646,6 @@
     <pubDate>Wed, 11 Nov 2026 12:47:32 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Richard Farhall has been made an Honorary Freeman of the Ancient Town of Rye, the town&#x27;s highest civic award, in recognition of his 26 years of service as Rye Town Clerk.</description>
-  </item>
-  <item>
-    <title>St Leonards Frost Fair returns on November 28 with Snow Queen parade</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/st-leonards-frost-fair-returns-on-november-28-with-snow-queen-parade/</link>
-    <guid isPermaLink="false">story-154</guid>
-    <pubDate>Wed, 11 Nov 2026 12:47:32 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The St Leonards Frost Fair returns on Saturday 28 November with a parade of colourful fairy-tale characters, led by the Snow Queen, processing through the streets.</description>
   </item>
 </channel>
 </rss>

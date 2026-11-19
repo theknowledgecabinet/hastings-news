@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-11-15T13:12:04+00:00'
 related:
+- url: /2026/11/19/hastings-council-approves-4-4-million-for-playgrounds-padel-courts/
+  title: Hastings council approves £4.4 million for playgrounds, padel courts and heritage repairs
+  day: '2026-11-19'
 - url: /2026/11/03/toilets-top-of-residents-list-in-21-5m-pride-in-place-survey/
   title: Toilets top of residents' list in £21.5m Pride in Place survey
   day: '2026-11-03'
 - url: /2026/11/06/cabinet-to-consider-1-5m-playground-funding-on-monday/
   title: Cabinet to consider £1.5m playground funding on Monday
   day: '2026-11-06'
-- url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
-  title: Hastings to receive £1m from the government's derelict buildings fund
-  day: '2026-10-28'
 ---
 {% raw %}
 Hastings MP Helena Dollimore has said the town will receive £1.27 million to upgrade its playgrounds.

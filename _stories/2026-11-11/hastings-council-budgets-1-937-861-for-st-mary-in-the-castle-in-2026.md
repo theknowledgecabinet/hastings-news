@@ -54,11 +54,11 @@ related:
 - url: /2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/
   title: Hastings Castle to get £288,500 from Historic England for repairs
   day: '2026-10-25'
+- url: /2026/11/19/hastings-council-approves-4-4-million-for-playgrounds-padel-courts/
+  title: Hastings council approves £4.4 million for playgrounds, padel courts and heritage repairs
+  day: '2026-11-19'
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
   title: Hastings to receive £1m from the government's derelict buildings fund
-  day: '2026-10-28'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
 ---
 {% raw %}
