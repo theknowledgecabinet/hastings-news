@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 19 Nov 2026 19:07:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 07:44:14 +0000</lastBuildDate>
+  <item>
+    <title>UK Disability History Month begins in Hastings</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/uk-disability-history-month-begins-in-hastings/</link>
+    <guid isPermaLink="false">story-233</guid>
+    <pubDate>Fri, 20 Nov 2026 07:44:14 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>UK Disability History Month has begun, running until Saturday 19 December, Hastings Borough Council has said. The month celebrates the achievements and contributions of disabled people and encourages reflection on how to create a more inclusive society.</description>
+  </item>
+  <item>
+    <title>Battle Town Council marks Remembrance Day and sets festive dates</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/battle-town-council-marks-remembrance-day-and-sets-festive-dates/</link>
+    <guid isPermaLink="false">story-234</guid>
+    <pubDate>Fri, 20 Nov 2026 07:44:14 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Around 150 people gathered on the Battle Abbey Apron for the town&#x27;s Remembrance Day ceremony, Battle Town Council said. Pupils from Battle &amp; Langton CE Primary School, Claverham Community College and Netherfield CE Primary School gave readings, the Battle Abbey School Choir performed, and the Battle Bonfire Boyes fired the maroon to mark the two-minute silence.</description>
+  </item>
   <item>
     <title>Hastings veteran to walk 40 miles for two local charities</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/hastings-veteran-to-walk-40-miles-for-two-local-charities/</link>
@@ -390,22 +406,6 @@
     <pubDate>Sat, 07 Nov 2026 13:18:14 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Hastings swimmer Sarah Milne has completed an endurance training camp in Dover with The King&#x27;s Swimmers and, in her latest diary for the Hastings Independent Press, says she is now preparing for a solo Channel crossing attempt in 2028.</description>
-  </item>
-  <item>
-    <title>Hastings runner to take on 55-mile ultramarathon in jeans</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/07/hastings-runner-to-take-on-55-mile-ultramarathon-in-jeans/</link>
-    <guid isPermaLink="false">story-129</guid>
-    <pubDate>Sat, 07 Nov 2026 08:28:26 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A 21-year-old from Hastings is about to take on one of the country&#x27;s toughest challenges, and he is doing it in denim.</description>
-  </item>
-  <item>
-    <title>MP joins launch of Hastings &amp; St Leonards Poppy Appeal</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/06/mp-joins-launch-of-hastings-st-leonards-poppy-appeal/</link>
-    <guid isPermaLink="false">story-125</guid>
-    <pubDate>Fri, 06 Nov 2026 19:17:07 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Helena Dollimore, the MP for Hastings, Rye and the villages, has joined veterans and volunteers at the launch of this year&#x27;s Hastings &amp; St Leonards Poppy Appeal, held in Tesco, raising money for veterans and their families.</description>
   </item>
 </channel>
 </rss>

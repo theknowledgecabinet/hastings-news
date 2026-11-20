@@ -1,8 +1,8 @@
 {
- "day": "2026-11-19",
- "label": "Thursday 19 November 2026",
- "issue": 30,
- "edition_label": "Evening edition",
+ "day": "2026-11-20",
+ "label": "Friday 20 November 2026",
+ "issue": 31,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-20",
@@ -50,60 +50,20 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-19",
-    "code": 63,
-    "words": "rain",
-    "icon": "🌧️",
-    "high": 11,
-    "low": 8,
-    "rain_chance": 100,
-    "rain_mm": 8.5,
-    "wind": 14,
-    "gusts": 27,
-    "direction": "westerly",
-    "sunrise": "07:19",
-    "sunset": "16:05",
-    "summary": "Rain likely. A high of 11°C and a low of 8°C, a moderate breeze from the west. Sunrise 07:19, sunset 16:05."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-19",
-    "code": 63,
-    "words": "rain",
-    "icon": "🌧️",
-    "high": 11,
-    "low": 7,
-    "rain_chance": 100,
-    "rain_mm": 8.7,
-    "wind": 14,
-    "gusts": 27,
-    "direction": "westerly",
-    "sunrise": "07:19",
-    "sunset": "16:05",
-    "summary": "Rain likely. A high of 11°C and a low of 7°C, a moderate breeze from the west. Sunrise 07:19, sunset 16:05."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-20",
     "code": 53,
     "words": "drizzle",
     "icon": "🌦️",
     "high": 10,
-    "low": 7,
-    "rain_chance": 14,
-    "rain_mm": 0.6,
-    "wind": 10,
-    "gusts": 19,
+    "low": 5,
+    "rain_chance": 16,
+    "rain_mm": 2.3,
+    "wind": 9,
+    "gusts": 18,
     "direction": "northerly",
     "sunrise": "07:21",
     "sunset": "16:04",
-    "summary": "Drizzle possible (14% chance). A high of 10°C and a low of 7°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
+    "summary": "Drizzle possible (16% chance). A high of 10°C and a low of 5°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
    }
   }
  ],
@@ -113,15 +73,15 @@
   "words": "drizzle",
   "icon": "🌦️",
   "high": 10,
-  "low": 7,
-  "rain_chance": 14,
-  "rain_mm": 0.6,
-  "wind": 10,
-  "gusts": 19,
+  "low": 5,
+  "rain_chance": 16,
+  "rain_mm": 2.3,
+  "wind": 9,
+  "gusts": 18,
   "direction": "northerly",
   "sunrise": "07:21",
   "sunset": "16:04",
-  "summary": "Drizzle possible (14% chance). A high of 10°C and a low of 7°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
+  "summary": "Drizzle possible (16% chance). A high of 10°C and a low of 5°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
  },
  "briefing": {
   "day": "2026-11-19",
@@ -131,12 +91,17 @@
   "length": "14 min"
  },
  "otd": {
-  "day": "2026-11-19",
-  "url": "/on-this-day/2026-11-19/",
-  "year": 1910,
-  "title": "Royal Cinema de Luxe held its opening night at Pelham Place"
+  "day": "2026-11-20",
+  "url": "/on-this-day/2026-11-20/",
+  "year": 1928,
+  "title": "Funerals held for the crew of the Mary Stanford lifeboat"
  },
  "days": [
+  {
+   "day": "2026-11-20",
+   "url": "/2026/11/20/",
+   "label": "Fri 20 Nov"
+  },
   {
    "day": "2026-11-19",
    "url": "/2026/11/19/",
@@ -201,11 +166,6 @@
    "day": "2026-11-07",
    "url": "/2026/11/07/",
    "label": "Sat 7 Nov"
-  },
-  {
-   "day": "2026-11-06",
-   "url": "/2026/11/06/",
-   "label": "Fri 6 Nov"
   }
  ]
 }

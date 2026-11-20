@@ -52,6 +52,9 @@ image:
   default: false
 checked: '2026-11-02T13:08:57+00:00'
 related:
+- url: /2026/11/20/battle-town-council-marks-remembrance-day-and-sets-festive-dates/
+  title: Battle Town Council marks Remembrance Day and sets festive dates
+  day: '2026-11-20'
 - url: /2026/11/09/battle-bonfire-2026-guy-feaux-effigy-takes-a-swipe-at-ai/
   title: 'Battle Bonfire 2026: ''Guy Feaux'' effigy takes a swipe at AI'
   day: '2026-11-09'
