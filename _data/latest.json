@@ -29,7 +29,7 @@
    "words": "cloudy",
    "icon": "☁️",
    "high": 11,
-   "low": 5,
+   "low": 6,
    "rain_chance": 2,
    "rain_mm": 0.0,
    "wind": 10,
@@ -37,7 +37,7 @@
    "direction": "easterly",
    "sunrise": "07:23",
    "sunset": "16:03",
-   "summary": "Cloudy. A high of 11°C and a low of 5°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03.",
+   "summary": "Cloudy. A high of 11°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03.",
    "label": "Tomorrow",
    "weekday": "Sat 21 Nov",
    "long": "Saturday 21 November"
