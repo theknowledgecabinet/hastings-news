@@ -54,6 +54,9 @@ related:
 - url: /2026/10/31/christmas-makers-fair-at-de-la-warr-pavilion-on-7-november/
   title: Christmas Makers' Fair at De La Warr Pavilion on 7 November
   day: '2026-10-31'
+- url: /2026/11/20/christmas-parking-concessions-in-battle-bexhill-rye-and-little-common/
+  title: Christmas parking concessions in Battle, Bexhill, Rye and Little Common
+  day: '2026-11-20'
 - url: /2026/10/30/st-michael-s-hospice-opens-festive-market-in-st-leonards/
   title: St Michael's Hospice opens Festive Market in St Leonards
   day: '2026-10-30'

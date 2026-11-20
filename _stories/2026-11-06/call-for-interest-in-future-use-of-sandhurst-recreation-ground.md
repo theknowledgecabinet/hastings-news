@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-11-06T12:56:50+00:00'
 related:
+- url: /2026/11/20/planning-roundup-new-houses-surgery-flats-and-games-area-among-latest/
+  title: 'Planning roundup: new houses, surgery flats and games area among latest applications'
+  day: '2026-11-20'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
 - url: /2026/10/27/white-rock-gardens-could-get-covered-padel-and-tennis-courts/
   title: White Rock Gardens could get covered padel and tennis courts
   day: '2026-10-27'
-- url: /2026/11/20/hastings-council-seeks-researchers-to-measure-creative-industries/
-  title: Hastings council seeks researchers to measure creative industries' economic impact
-  day: '2026-11-20'
 ---
 {% raw %}
 Hastings Borough Council is asking sports clubs, groups and organisations to register their interest in the future of Sandhurst Recreation Ground. The council wants to know how much demand there is for the sports pitches, which organisations would like to use the site, and whether it could be managed or developed by the community.

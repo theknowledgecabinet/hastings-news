@@ -59,12 +59,12 @@ related:
 - url: /2026/11/16/planning-round-up-hmo-proposals-in-st-leonards-among-latest/
   title: 'Planning round-up: HMO proposals in St Leonards among latest applications'
   day: '2026-11-16'
+- url: /2026/11/20/planning-roundup-new-houses-surgery-flats-and-games-area-among-latest/
+  title: 'Planning roundup: new houses, surgery flats and games area among latest applications'
+  day: '2026-11-20'
 - url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
   title: Call for interest in future use of Sandhurst Recreation Ground
   day: '2026-11-06'
-- url: /2026/11/11/saxon-mount-school-submits-plans-to-replace-mobile-classrooms-with/
-  title: Saxon Mount School submits plans to replace mobile classrooms with two-storey building
-  day: '2026-11-11'
 ---
 {% raw %}
 A St Leonards boarding school has put forward plans to build an outdoor sports facility on a property it owns.

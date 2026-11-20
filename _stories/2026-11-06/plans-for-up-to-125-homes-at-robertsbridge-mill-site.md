@@ -79,9 +79,9 @@ related:
 - url: /2026/11/16/planning-round-up-hmo-proposals-in-st-leonards-among-latest/
   title: 'Planning round-up: HMO proposals in St Leonards among latest applications'
   day: '2026-11-16'
-- url: /2026/11/09/plans-for-42-new-homes-by-st-leonards-bannatyne-s-spa-hotel/
-  title: Plans for 42 new homes by St Leonards' Bannatyne's Spa Hotel
-  day: '2026-11-09'
+- url: /2026/11/20/planning-roundup-new-houses-surgery-flats-and-games-area-among-latest/
+  title: 'Planning roundup: new houses, surgery flats and games area among latest applications'
+  day: '2026-11-20'
 ---
 {% raw %}
 Proposals to build up to 125 homes on the Hodson's Mill site in Robertsbridge are set to go before Rother District Council's planning committee on Thursday, 12 November. The plans come from Homes England, the government's housing and regeneration agency.

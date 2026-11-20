@@ -53,15 +53,15 @@ image:
   default: false
 checked: '2026-11-16T12:59:42+00:00'
 related:
+- url: /2026/11/20/planning-roundup-new-houses-surgery-flats-and-games-area-among-latest/
+  title: 'Planning roundup: new houses, surgery flats and games area among latest applications'
+  day: '2026-11-20'
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
 - url: /2026/11/09/plans-for-42-new-homes-by-st-leonards-bannatyne-s-spa-hotel/
   title: Plans for 42 new homes by St Leonards' Bannatyne's Spa Hotel
   day: '2026-11-09'
-- url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
-  title: Work begins on 27 'luxury flats' development in St Leonards
-  day: '2026-11-04'
 ---
 {% raw %}
 A series of planning applications have been submitted to Hastings Borough Council, including proposals for three houses in multiple occupation in St Leonards, according to a round-up of applications published by the Hastings Observer.

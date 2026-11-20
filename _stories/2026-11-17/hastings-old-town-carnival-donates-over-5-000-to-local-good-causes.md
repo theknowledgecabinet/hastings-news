@@ -55,12 +55,12 @@ related:
 - url: /2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/
   title: Hastings Lions donate more than £8,000 to local causes
   day: '2026-11-18'
+- url: /2026/11/20/smudger-s-charity-golf-day-raises-over-7-500-for-two-local-causes/
+  title: Smudger's Charity Golf Day raises over £7,500 for two local causes
+  day: '2026-11-20'
 - url: /2026/11/18/hastings-rnli-fish-supper-raises-920-at-old-town-fryer/
   title: Hastings RNLI fish supper raises £920 at Old Town Fryer
   day: '2026-11-18'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
 ---
 {% raw %}
 The Hastings Old Town Carnival Association has donated more than £5,000 to local charities after a successful Old Town Week.

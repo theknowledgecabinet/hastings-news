@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 20 Nov 2026 07:44:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 12:54:52 +0000</lastBuildDate>
+  <item>
+    <title>Christmas parking concessions in Battle, Bexhill, Rye and Little Common</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/christmas-parking-concessions-in-battle-bexhill-rye-and-little-common/</link>
+    <guid isPermaLink="false">story-235</guid>
+    <pubDate>Fri, 20 Nov 2026 12:54:52 +0000</pubDate>
+    <category>Council</category>
+    <description>Rother District Council has published its Christmas parking concessions, with charges suspended in a selection of off-street car parks across Battle, Bexhill, Little Common and Rye from late November through December.</description>
+  </item>
+  <item>
+    <title>Planning roundup: new houses, surgery flats and games area among latest applications</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/planning-roundup-new-houses-surgery-flats-and-games-area-among-latest/</link>
+    <guid isPermaLink="false">story-237</guid>
+    <pubDate>Fri, 20 Nov 2026 12:54:52 +0000</pubDate>
+    <category>Council</category>
+    <description>Proposals for four new houses, the conversion of a former GP surgery into flats and a new outdoor sports facility are among the latest planning applications submitted to Hastings Borough Council, the Hastings Observer reports.</description>
+  </item>
   <item>
     <title>Refugee resettlement project reports 264 moved into work or education</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/refugee-resettlement-project-reports-264-moved-into-work-or-education/</link>
@@ -390,22 +406,6 @@
     <pubDate>Wed, 28 Oct 2026 19:12:18 +0000</pubDate>
     <category>Council</category>
     <description>Hastings has been awarded £1 million from the government&#x27;s Derelict Buildings Fund, according to the Hastings Observer.</description>
-  </item>
-  <item>
-    <title>Gorse cutting begins at Firehills in Hastings Country Park</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/28/gorse-cutting-begins-at-firehills-in-hastings-country-park/</link>
-    <guid isPermaLink="false">story-44</guid>
-    <pubDate>Wed, 28 Oct 2026 19:03:52 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Borough Council is to cut back the gorse that grows in the Firehills area of Hastings Country Park.</description>
-  </item>
-  <item>
-    <title>Hastings to get £1.2 million Fairness Fund for community projects</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/</link>
-    <guid isPermaLink="false">story-39</guid>
-    <pubDate>Wed, 28 Oct 2026 13:04:48 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Borough Council has launched The Fairness Fund, a £1.2 million programme to support community-led projects that improve opportunities, health and wellbeing in the parts of the town where funding is needed most.</description>
   </item>
 </channel>
 </rss>

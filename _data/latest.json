@@ -2,7 +2,7 @@
  "day": "2026-11-20",
  "label": "Friday 20 November 2026",
  "issue": 31,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-20",
@@ -65,23 +65,43 @@
     "sunset": "16:04",
     "summary": "Drizzle possible (16% chance). A high of 10°C and a low of 5°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-20",
+    "code": 51,
+    "words": "light drizzle",
+    "icon": "🌦️",
+    "high": 10,
+    "low": 6,
+    "rain_chance": 29,
+    "rain_mm": 0.8,
+    "wind": 12,
+    "gusts": 23,
+    "direction": "northerly",
+    "sunrise": "07:21",
+    "sunset": "16:04",
+    "summary": "Light drizzle possible (29% chance). A high of 10°C and a low of 6°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
+   }
   }
  ],
  "weather": {
   "day": "2026-11-20",
-  "code": 53,
-  "words": "drizzle",
+  "code": 51,
+  "words": "light drizzle",
   "icon": "🌦️",
   "high": 10,
-  "low": 5,
-  "rain_chance": 16,
-  "rain_mm": 2.3,
-  "wind": 9,
-  "gusts": 18,
+  "low": 6,
+  "rain_chance": 29,
+  "rain_mm": 0.8,
+  "wind": 12,
+  "gusts": 23,
   "direction": "northerly",
   "sunrise": "07:21",
   "sunset": "16:04",
-  "summary": "Drizzle possible (16% chance). A high of 10°C and a low of 5°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
+  "summary": "Light drizzle possible (29% chance). A high of 10°C and a low of 6°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
  },
  "briefing": {
   "day": "2026-11-19",

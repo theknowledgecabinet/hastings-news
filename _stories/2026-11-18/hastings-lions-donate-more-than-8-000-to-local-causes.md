@@ -55,12 +55,12 @@ related:
 - url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
   title: Hastings Old Town Carnival donates over £5,000 to local good causes
   day: '2026-11-17'
+- url: /2026/11/20/smudger-s-charity-golf-day-raises-over-7-500-for-two-local-causes/
+  title: Smudger's Charity Golf Day raises over £7,500 for two local causes
+  day: '2026-11-20'
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
   title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
   day: '2026-10-27'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
 ---
 {% raw %}
 Hastings Lions has donated more than £8,000 to local causes.

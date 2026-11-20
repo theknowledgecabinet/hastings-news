@@ -55,12 +55,12 @@ related:
 - url: /2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/
   title: Hastings Lions donate more than £8,000 to local causes
   day: '2026-11-18'
+- url: /2026/11/20/smudger-s-charity-golf-day-raises-over-7-500-for-two-local-causes/
+  title: Smudger's Charity Golf Day raises over £7,500 for two local causes
+  day: '2026-11-20'
 - url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
   title: Hastings Old Town Carnival donates over £5,000 to local good causes
   day: '2026-11-17'
-- url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
-  title: Leaders of three councils urge government to raise Local Housing Allowance
-  day: '2026-10-27'
 ---
 {% raw %}
 A group of local musicians have raised around £3,000 for Warming Up the Homeless in the last couple of years by giving their CDs away free and encouraging audiences to donate to the charity instead.

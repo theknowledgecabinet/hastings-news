@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 20 Nov 2026 07:44:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 12:54:52 +0000</lastBuildDate>
+  <item>
+    <title>Smudger&#x27;s Charity Golf Day raises over £7,500 for two local causes</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/smudger-s-charity-golf-day-raises-over-7-500-for-two-local-causes/</link>
+    <guid isPermaLink="false">story-236</guid>
+    <pubDate>Fri, 20 Nov 2026 12:54:52 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>The 18th Smudger&#x27;s Charity Golf Day has raised more than £7,500, taking the total raised since the charity launched to more than £110,000, the Hastings Observer reports.</description>
+  </item>
   <item>
     <title>UK Disability History Month begins in Hastings</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/uk-disability-history-month-begins-in-hastings/</link>
@@ -398,14 +406,6 @@
     <pubDate>Sat, 07 Nov 2026 13:18:14 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A group of local musicians have raised around £3,000 for Warming Up the Homeless in the last couple of years by giving their CDs away free and encouraging audiences to donate to the charity instead.</description>
-  </item>
-  <item>
-    <title>Hastings swimmer plots route to 2028 Channel crossing</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/07/hastings-swimmer-plots-route-to-2028-channel-crossing/</link>
-    <guid isPermaLink="false">story-132</guid>
-    <pubDate>Sat, 07 Nov 2026 13:18:14 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Hastings swimmer Sarah Milne has completed an endurance training camp in Dover with The King&#x27;s Swimmers and, in her latest diary for the Hastings Independent Press, says she is now preparing for a solo Channel crossing attempt in 2028.</description>
   </item>
 </channel>
 </rss>

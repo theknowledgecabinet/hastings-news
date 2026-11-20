@@ -60,15 +60,15 @@ image:
   default: false
 checked: '2026-11-02T19:27:40+00:00'
 related:
+- url: /2026/11/20/planning-roundup-new-houses-surgery-flats-and-games-area-among-latest/
+  title: 'Planning roundup: new houses, surgery flats and games area among latest applications'
+  day: '2026-11-20'
 - url: /2026/11/09/plans-for-42-new-homes-by-st-leonards-bannatyne-s-spa-hotel/
   title: Plans for 42 new homes by St Leonards' Bannatyne's Spa Hotel
   day: '2026-11-09'
 - url: /2026/11/06/plans-for-up-to-125-homes-at-robertsbridge-mill-site/
   title: Plans for up to 125 homes at Robertsbridge mill site
   day: '2026-11-06'
-- url: /2026/11/18/hastings-asking-rents-up-to-23-above-ons-average-housing-data-shows/
-  title: Hastings asking rents up to 23% above ONS average, housing data shows
-  day: '2026-11-18'
 ---
 {% raw %}
 Catesby Estates and Rurban Estates have revealed a bid to build about 120 new homes in Hastings.
