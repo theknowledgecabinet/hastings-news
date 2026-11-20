@@ -33,26 +33,31 @@ image:
   card:
     url: /assets/media/story/235/card.webp
     w: 400
-    h: 262
+    h: 267
   medium:
     url: /assets/media/story/235/medium.webp
-    w: 640
-    h: 420
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/235/large.webp
-    w: 640
-    h: 420
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/235/share.jpg
-  color: '#65686a'
-  alt: Car park entrance
-  artist: Andrew Tatlow
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Car_park_entrance_-_geograph.org.uk_-_4931469.jpg
+  color: '#777b7f'
+  alt: Empty off-street car park in an English town during late afternoon winter light.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-20T12:56:24+00:00'
 related:

@@ -50,15 +50,15 @@ image:
   default: false
 checked: '2026-11-19T19:11:10+00:00'
 related:
+- url: /2026/11/20/metal-christmas-tree-returns-to-hastings-town-centre/
+  title: Metal Christmas tree returns to Hastings town centre
+  day: '2026-11-20'
 - url: /2026/11/12/bricks-are-temporary-on-st-clements-gate-pillar-church-says/
   title: Bricks are temporary on St Clements gate pillar, church says
   day: '2026-11-12'
 - url: /2026/11/08/st-leonards-becky-palmer-wins-christmas-tree-flinging-at-catsfield/
   title: St Leonards' Becky Palmer wins Christmas tree flinging at Catsfield
   day: '2026-11-08'
-- url: /2026/10/25/hastings-philharmonic-choir-to-sing-schubert-and-saint-saens/
-  title: Hastings Philharmonic Choir to sing Schubert and Saint-Saëns
-  day: '2026-10-25'
 ---
 {% raw %}
 St Clements Church in Hastings Old Town is holding its popular Christmas Tree Festival from Saturday 28 November.

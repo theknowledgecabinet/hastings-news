@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 20 Nov 2026 12:54:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 12:59:28 +0000</lastBuildDate>
+  <item>
+    <title>Metal Christmas tree returns to Hastings town centre</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/metal-christmas-tree-returns-to-hastings-town-centre/</link>
+    <guid isPermaLink="false">story-238</guid>
+    <pubDate>Fri, 20 Nov 2026 12:59:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>The illuminated metal Christmas tree has returned to Hastings town centre for a second year, and with it the debate has returned.</description>
+  </item>
   <item>
     <title>Christmas parking concessions in Battle, Bexhill, Rye and Little Common</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/christmas-parking-concessions-in-battle-bexhill-rye-and-little-common/</link>
@@ -638,14 +646,6 @@
     <pubDate>Thu, 12 Nov 2026 19:10:02 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Concerns raised this week about a modern red brick repair to the gate pillar at St Clements Church in Hastings Old Town have been answered by the church, which said the bricks are a temporary measure.</description>
-  </item>
-  <item>
-    <title>Hastings pub to host Flying Nun record label DJ night</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/12/hastings-pub-to-host-flying-nun-record-label-dj-night/</link>
-    <guid isPermaLink="false">story-171</guid>
-    <pubDate>Thu, 12 Nov 2026 19:10:02 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A DJ night celebrating the music of New Zealand&#x27;s Flying Nun record label is coming to Hastings.</description>
   </item>
 </channel>
 </rss>

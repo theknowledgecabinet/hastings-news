@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 20 Nov 2026 12:54:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 12:59:28 +0000</lastBuildDate>
+  <item>
+    <title>Metal Christmas tree returns to Hastings town centre</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/metal-christmas-tree-returns-to-hastings-town-centre/</link>
+    <guid isPermaLink="false">story-238</guid>
+    <pubDate>Fri, 20 Nov 2026 12:59:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>The illuminated metal Christmas tree has returned to Hastings town centre for a second year, and with it the debate has returned.</description>
+  </item>
   <item>
     <title>Smudger&#x27;s Charity Golf Day raises over £7,500 for two local causes</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/smudger-s-charity-golf-day-raises-over-7-500-for-two-local-causes/</link>
@@ -398,14 +406,6 @@
     <pubDate>Sun, 08 Nov 2026 08:12:10 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Swansea Sound, who feature members of Heavenly and Talulah Gosh, are to kick off their tour in St Leonards at The Piper on 13 November.</description>
-  </item>
-  <item>
-    <title>Local band raises £3,000 for Warming Up the Homeless</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/07/local-band-raises-3-000-for-warming-up-the-homeless/</link>
-    <guid isPermaLink="false">story-131</guid>
-    <pubDate>Sat, 07 Nov 2026 13:18:14 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A group of local musicians have raised around £3,000 for Warming Up the Homeless in the last couple of years by giving their CDs away free and encouraging audiences to donate to the charity instead.</description>
   </item>
 </channel>
 </rss>

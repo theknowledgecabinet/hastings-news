@@ -58,9 +58,9 @@ related:
 - url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
   title: Have your say on renewal of five gated paths in Hastings and St Leonards
   day: '2026-11-06'
-- url: /2026/11/12/police-appeal-for-information-after-st-leonards-building-vandalised/
-  title: Police appeal for information after St Leonards building vandalised
-  day: '2026-11-12'
+- url: /2026/11/20/metal-christmas-tree-returns-to-hastings-town-centre/
+  title: Metal Christmas tree returns to Hastings town centre
+  day: '2026-11-20'
 ---
 {% raw %}
 Concerns raised this week about a modern red brick repair to the gate pillar at St Clements Church in Hastings Old Town have been answered by the church, which said the bricks are a temporary measure.
