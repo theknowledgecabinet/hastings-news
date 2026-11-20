@@ -27,23 +27,29 @@ sources:
 comment: 'Whether it is art or an eyesore, the tree is doing its job: getting the town talking. As one wag quipped, it looks like Hastings town centre has finally got 5G.'
 image:
   card:
-    url: /assets/media/abstract/story-238/card.webp
+    url: /assets/media/story/238/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-238/medium.webp
+    url: /assets/media/story/238/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-238/large.webp
+    url: /assets/media/story/238/large.webp
     w: 1400
     h: 933
   share:
-    url: /assets/media/abstract/story-238/share.jpg
-  color: '#805b21'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/238/share.jpg
+  color: '#1f181a'
+  alt: View of a tree illuminated by Christmas lights on Connaught Street
+  artist: Robert Lamb
+  match: generic
+  ai: false
+  by: null
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:View_of_a_tree_illuminated_by_Christmas_lights_on_Connaught_Street_-_geograph.org.uk_-_7679494.jpg
+  default: false
 checked: '2026-11-20T13:00:27+00:00'
 related:
 - url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
