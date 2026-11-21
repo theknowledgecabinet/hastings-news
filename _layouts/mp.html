@@ -1,0 +1,101 @@
+---
+layout: default
+---
+{%- assign M = site.data.mps[page.mp] -%}
+{%- assign mentions = site.stories | where_exp: "s", "s.content contains page.name" | sort: "date" | reverse -%}
+<article class="narrow mp-page">
+<header class="page-head mp-head">
+  <p class="eyebrow"><a href="{{ '/representatives/' | relative_url }}">Who represents you</a></p>
+  <img class="portrait portrait-lg" src="{{ M.portrait }}" width="160" height="160" alt="Official portrait of {{ M.name }}">
+  <h1>{{ M.name }}</h1>
+  <p class="muted">{{ M.party }} MP for {{ M.constituency }}</p>
+  {%- if M.synopsis %}<p class="lede">{{ M.synopsis }}</p>{% endif %}
+  <p class="actions">
+    <a class="button" href="{{ M.contact }}">Contact {{ M.name }}</a>
+    {%- if M.website %} <a class="button ghost" href="{{ M.website }}">Website</a>{% endif %}
+    <a class="button ghost" href="{{ M.parliament }}">On Parliament's site</a>
+  </p>
+</header>
+
+<section class="block">
+  <div class="section-head"><h2>Last 30 days</h2></div>
+  <ul class="mp-tally">
+    <li><strong>{{ M.last30.vote }}</strong> votes cast</li>
+    <li><strong>{{ M.last30.missed }}</strong> votes missed</li>
+    <li><strong>{{ M.last30.against_party }}</strong> against most of their party</li>
+    <li><strong>{{ M.last30.speech }}</strong> contributions in debates</li>
+    <li><strong>{{ M.last30.question }}</strong> written questions</li>
+    <li><strong>{{ M.last30.edm }}</strong> early day motions</li>
+    <li><strong>{{ M.last30.interest }}</strong> new registered interests</li>
+  </ul>
+  <p class="muted small">Missed votes include days away on constituency or other business; Parliament doesn't record why.</p>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Day by day</h2></div>
+  {%- if M.days.size == 0 %}<p class="muted">Nothing recorded in Parliament in the last 60 days.</p>{% endif %}
+  {%- for d in M.days %}
+  <section class="mp-day" id="{{ d.day }}">
+    <h3>{{ d.day | date: "%A %-d %B %Y" }}</h3>
+    <ul>
+      {%- for i in d.items %}
+      <li class="mp-item mp-{{ i.kind }}">
+        {%- case i.kind -%}
+        {%- when "vote" -%}
+          <span class="mp-tag {% if i.how == 'did not vote' %}mp-absent{% elsif i.how == 'Aye' %}mp-aye{% else %}mp-no{% endif %}">{% if i.how == 'did not vote' %}Didn't vote{% else %}{{ i.how }}{% endif %}</span>
+          <a href="{{ i.url }}">{{ i.title }}</a>
+          <span class="muted">{{ i.result }} {{ i.ayes }}–{{ i.noes }}{% if i.against_party %} · against most of their party ({{ i.party_side }}){% endif %}{% if i.teller %} · teller{% endif %}</span>
+        {%- when "speech" -%}
+          <span class="mp-tag">Spoke</span> <a href="{{ i.url }}">{{ i.title }}</a>
+          <blockquote>{{ i.text | truncate: 320 }}</blockquote>
+        {%- when "question" -%}
+          <span class="mp-tag">Asked</span> <a href="{{ i.url }}">{{ i.title }}</a>
+          <blockquote>{{ i.text | truncate: 320 }}</blockquote>
+        {%- when "answer" -%}
+          <span class="mp-tag">Answered</span> <a href="{{ i.url }}">{{ i.title }}</a>{% if i.by %} <span class="muted">({{ i.by }})</span>{% endif %}
+          <blockquote>{{ i.text | truncate: 320 }}</blockquote>
+        {%- when "edm" -%}
+          <span class="mp-tag">{% if i.tabled %}Tabled{% else %}Signed{% endif %} motion</span> <a href="{{ i.url }}">{{ i.title }}</a>
+          <span class="muted">{{ i.supporters }} supporters</span>
+        {%- when "interest" -%}
+          <span class="mp-tag">Interest</span> <a href="{{ i.url }}">{{ i.title }}</a> <span class="muted">{{ i.category }}</span>
+        {%- else -%}
+          <a href="{{ i.url }}">{{ i.title }}</a>
+        {%- endcase %}
+      </li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endfor %}
+</section>
+
+{%- assign posts = M.government_posts | concat: M.opposition_posts | concat: M.other_posts %}
+{%- if posts.size > 0 or M.committees.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>Roles in Parliament</h2></div>
+  <ul>
+    {%- for p in posts %}<li>{{ p.name }}{% if p.since %} <span class="muted">since {{ p.since | date: "%B %Y" }}</span>{% endif %}</li>{% endfor %}
+    {%- for c in M.committees %}<li>{{ c.name }}{% if c.since %} <span class="muted">since {{ c.since | date: "%B %Y" }}</span>{% endif %}</li>{% endfor %}
+  </ul>
+</section>
+{%- endif %}
+
+<section class="block">
+  <div class="section-head"><h2>Registered interests</h2></div>
+  {%- if M.register.size == 0 %}<p class="muted">Nothing on the register.</p>{% endif %}
+  {%- for g in M.register %}
+  <h3 class="mp-cat">{{ g.category }}</h3>
+  <ul>{% for i in g.items %}<li>{{ i.summary }}{% if i.registered %} <span class="muted">registered {{ i.registered | date: "%-d %b %Y" }}</span>{% endif %}</li>{% endfor %}</ul>
+  {%- endfor %}
+  <p class="muted small">From the Register of Members' Financial Interests. <a href="{{ M.parliament }}/registeredinterests">Full entries on Parliament's site</a>.</p>
+</section>
+
+{%- if mentions.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>In Hastings Daily</h2></div>
+  <div class="grid">{% for s in mentions limit: 12 %}{% include card.html story=s %}{% endfor %}</div>
+</section>
+{%- endif %}
+
+<p class="muted small">Built every few hours straight from Parliament's open data (votes, Hansard, written questions, early day motions and the register of interests); nothing on this page is written by AI. Portrait: UK Parliament, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>{% if M.checked %} · checked {{ M.checked | date: "%-d %b %Y, %H:%M" }}{% endif %}.</p>
+</article>

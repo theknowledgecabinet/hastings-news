@@ -2,7 +2,7 @@
 layout: default
 title: Who represents you
 permalink: /representatives/
-description: The MP for Hastings and Rye and the local councillors, with links to contact them. Checked every day.
+description: The MPs for Hastings and Rye and for Bexhill and Battle, and the local councillors, with links to contact them. Checked every day.
 ---
 {%- assign R = site.data.reps -%}
 <section class="narrow">
@@ -10,15 +10,24 @@ description: The MP for Hastings and Rye and the local councillors, with links t
   <h1>Who represents you</h1>
   <p class="muted">Checked every day against Parliament and the councils, so this page changes when the people do. Each name links to their official page, with their contact details.</p>
 </header>
-{%- if R.mp %}
-<section class="rep-mp">
-  <p class="eyebrow">MP for Hastings and Rye</p>
-  <h2><a href="{{ R.mp.profile }}">{{ R.mp.name }}</a></h2>
-  <p class="muted">{{ R.mp.party }}</p>
-  <p class="actions">
-    <a class="button" href="{{ R.mp.contact }}">Contact your MP</a>
-    {%- if R.mp.website %} <a class="button ghost" href="{{ R.mp.website }}">Website</a>{% endif %}
-  </p>
+{%- if R.mps.size > 0 %}
+<section class="rep-mps">
+  {%- for mp in R.mps %}
+  <article class="rep-mp">
+    <a href="{{ mp.url | relative_url }}"><img class="portrait" src="{{ mp.portrait }}" width="96" height="96" alt="Official portrait of {{ mp.name }}" loading="lazy"></a>
+    <div>
+      <p class="eyebrow">MP for {{ mp.constituency }}</p>
+      <h2><a href="{{ mp.url | relative_url }}">{{ mp.name }}</a></h2>
+      <p class="muted">{{ mp.party }} · last 30 days: {{ mp.last30_text }}</p>
+      <p class="actions">
+        <a class="button" href="{{ mp.url | relative_url }}">Profile and voting record</a>
+        <a class="button ghost" href="{{ mp.contact }}">Contact</a>
+        {%- if mp.website %} <a class="button ghost" href="{{ mp.website }}">Website</a>{% endif %}
+      </p>
+    </div>
+  </article>
+  {%- endfor %}
+  <p class="muted small">Rye and Hastings are in Hastings and Rye; Bexhill, Battle and most of the Rother villages are in Bexhill and Battle.</p>
 </section>
 {%- endif %}
 {%- for c in R.councils %}

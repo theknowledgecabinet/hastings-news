@@ -307,3 +307,23 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
    sections bar on phones (where the top bar has no room for them). */
 @media (min-width: 481px) { .sec-extra { display: none; } }
 @media (max-width: 760px) { .nav .nav-text { font-size: .85rem; } }
+
+/* MPs: representatives cards and profile pages */
+.rep-mps { display: grid; gap: 20px; margin-bottom: 28px; }
+.rep-mp { display: grid; grid-template-columns: 96px 1fr; gap: 16px; align-items: start; }
+.rep-mp h2 { margin: 2px 0 4px; }
+@media (max-width: 420px) { .rep-mp { grid-template-columns: 64px 1fr; } .rep-mp .portrait { width: 64px; height: 64px; } }
+.mp-tally { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 150px), 1fr)); gap: 10px;
+  list-style: none; padding: 0; margin: 0; font-family: var(--sans); }
+.mp-tally li { background: var(--paper-2); border-radius: var(--radius); padding: 10px 12px; color: var(--ink-2); }
+.mp-tally strong { display: block; font-size: 1.6rem; color: var(--ink); line-height: 1.1; }
+.mp-day h3 { font: 700 1rem var(--sans); margin: 22px 0 6px; padding-bottom: 4px; border-bottom: 1px solid var(--rule); }
+.mp-day ul { list-style: none; padding: 0; margin: 0; }
+.mp-item { padding: 6px 0; overflow-wrap: anywhere; }
+.mp-item blockquote { margin: 4px 0 2px; padding-left: 12px; border-left: 3px solid var(--rule); color: var(--ink-2); font-size: .95rem; }
+.mp-tag { display: inline-block; min-width: 4.5em; margin-right: 6px; padding: 1px 6px; border-radius: 4px; text-align: center;
+  font: 700 .72rem var(--sans); text-transform: uppercase; letter-spacing: .05em; background: var(--paper-2); color: var(--ink-2); }
+.mp-aye { background: color-mix(in srgb, var(--sea) 22%, transparent); color: var(--ink); }
+.mp-no { background: color-mix(in srgb, var(--signal) 24%, transparent); color: var(--ink); }
+.mp-absent { background: transparent; border: 1px dashed var(--rule); }
+.mp-cat { font: 700 .95rem var(--sans); margin: 16px 0 4px; }
