@@ -1,0 +1,17 @@
+{%- comment -%} Councillor cards grouped by ward: include cllr-wards.html wards=... kind="ward"|"division" {%- endcomment -%}
+{%- for w in include.wards %}
+<h3 class="ward-name">{{ w.ward }}{% if include.kind == "division" %} <span class="muted small">county division</span>{% endif %}</h3>
+<ul class="cllrs">
+  {%- for p in w.people %}
+  <li class="cllr">
+    {%- if p.photo %}<img class="portrait portrait-sm" src="{{ p.photo }}" width="56" height="56" alt="" loading="lazy" referrerpolicy="no-referrer">{% else %}<span class="portrait portrait-sm"></span>{% endif %}
+    <div>
+      {% if p.url %}<a href="{{ p.url | relative_url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
+      {%- if p.party %}<span class="muted"> · {{ p.party }}</span>{% endif %}
+      {%- if p.keyposts %}<div class="small">{{ p.keyposts }}</div>{% endif %}
+      {%- if p.attendance_text %}<div class="muted small">Attended {{ p.attendance_text }} in the last year</div>{% endif %}
+    </div>
+  </li>
+  {%- endfor %}
+</ul>
+{%- endfor %}

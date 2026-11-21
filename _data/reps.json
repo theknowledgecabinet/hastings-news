@@ -6,7 +6,8 @@
    "party": "Labour (Co-op)",
    "constituency": "Hastings and Rye",
    "website": "https://www.helenadollimore.com",
-   "url": "/representatives/hastings-and-rye/",
+   "url": "/representatives/hastings-and-rye/mp/",
+   "area_url": "/representatives/hastings-and-rye/",
    "contact": "https://members.parliament.uk/member/5192/contact",
    "parliament": "https://members.parliament.uk/member/5192",
    "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
@@ -18,1440 +19,15 @@
    "party": "Conservative",
    "constituency": "Bexhill and Battle",
    "website": "https://www.drkieranmullan.org.uk/",
-   "url": "/representatives/bexhill-and-battle/",
+   "url": "/representatives/bexhill-and-battle/mp/",
+   "area_url": "/representatives/bexhill-and-battle/",
    "contact": "https://members.parliament.uk/member/4860/contact",
    "parliament": "https://members.parliament.uk/member/4860",
    "portrait": "https://members-api.parliament.uk/api/Members/4860/Portrait?cropType=OneOne&webVersion=true",
    "last30_text": "19 votes, 7 votes missed, 27 contributions, 6 written questions, 10 answers received"
   }
  ],
- "councils": [
-  {
-   "key": "hbc",
-   "name": "Hastings Borough Council",
-   "contact": "https://www.hastings.gov.uk/contact/",
-   "members": "https://hastings.moderngov.co.uk/mgMemberIndex.aspx",
-   "wards": [
-    {
-     "ward": "Ashdown",
-     "people": [
-      {
-       "name": "Daniel Kendrick",
-       "party": "Reform UK",
-       "ward": "Ashdown",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/2/0/8/Info00002802/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Daniel.Kendrick@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/daniel-kendrick/",
-       "attendance_text": "2 of 3 meetings (67%)"
-      },
-      {
-       "name": "Sorrell Marlow-Eastwood",
-       "party": "Conservative Party",
-       "ward": "Ashdown",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/5/7/1/Info00001175/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.sorrell.marlow-eastwood@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/sorrell-marlow-eastwood/",
-       "attendance_text": "14 of 15 meetings (93%)"
-      }
-     ]
-    },
-    {
-     "ward": "Baird",
-     "people": [
-      {
-       "name": "Will Rumfitt",
-       "party": "Green Party",
-       "ward": "Baird",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/3/0/8/Info00002803/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Will.Rumfitt@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/will-rumfitt/",
-       "attendance_text": "11 of 15 meetings (73%)"
-      },
-      {
-       "name": "Yunis Smith",
-       "party": "Green Party",
-       "ward": "Baird",
-       "keyposts": "Migrant Champion",
-       "photo": "https://hastings.moderngov.co.uk/UserData/0/1/3/Info00002310/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "Cllr.Yunis.Smith@Hastings.gov.uk",
-       "url": "/representatives/hastings-borough/yunis-smith/",
-       "attendance_text": "18 of 21 meetings (86%)"
-      }
-     ]
-    },
-    {
-     "ward": "Braybrooke",
-     "people": [
-      {
-       "name": "Archie Lauchlan",
-       "party": "Green Party",
-       "ward": "Braybrooke",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/4/0/8/Info00002804/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Archie.Lauchlan@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/archie-lauchlan/",
-       "attendance_text": "12 of 15 meetings (80%)"
-      },
-      {
-       "name": "Mark Etherington",
-       "party": "Green Party",
-       "ward": "Braybrooke",
-       "keyposts": "Planning, Infrastructure & Regulatory Services Portfolio Holder; Armed Forces Champion",
-       "photo": "https://hastings.moderngov.co.uk/UserData/1/1/3/Info00002311/bigpic.png",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.mark.etherington@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/mark-etherington/",
-       "attendance_text": "10 of 15 meetings (67%)"
-      }
-     ]
-    },
-    {
-     "ward": "Castle",
-     "people": [
-      {
-       "name": "Becca Horn",
-       "party": "Green Party",
-       "ward": "Castle",
-       "keyposts": "Community Safety and Environmental Services Portfolio Holder",
-       "photo": "https://hastings.moderngov.co.uk/UserData/2/1/3/Info00002312/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.becca.horn@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/becca-horn/",
-       "attendance_text": "13 of 14 meetings (93%)"
-      },
-      {
-       "name": "Steph Fawbert",
-       "party": "Green Party",
-       "ward": "Castle",
-       "keyposts": "Heritage Champion",
-       "photo": "https://hastings.moderngov.co.uk/UserData/5/0/8/Info00002805/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Steph.Fawbert@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/steph-fawbert/",
-       "attendance_text": "12 of 14 meetings (86%)"
-      }
-     ]
-    },
-    {
-     "ward": "Central St Leonards",
-     "people": [
-      {
-       "name": "Adele Bates",
-       "party": "Green Party",
-       "ward": "Central St Leonards",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/3/1/3/Info00002313/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.adele.bates@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/adele-bates/",
-       "attendance_text": "11 of 14 meetings (79%)"
-      },
-      {
-       "name": "Solly Solamito",
-       "party": "Green Party",
-       "ward": "Central St Leonards",
-       "keyposts": "Corporate Services, Communities and Equalities Portfolio Holder",
-       "photo": "https://hastings.moderngov.co.uk/UserData/6/0/8/Info00002806/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Solly.Solamito@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/solly-solamito/",
-       "attendance_text": "5 of 7 meetings (71%)"
-      }
-     ]
-    },
-    {
-     "ward": "Conquest",
-     "people": [
-      {
-       "name": "Paul Foster",
-       "party": "Conservative Party",
-       "ward": "Conquest",
-       "keyposts": "Conservative Group Leader",
-       "photo": "https://hastings.moderngov.co.uk/UserData/3/7/1/Info00001173/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2024-05-06",
-       "email": "cllr.paul.foster@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/paul-foster/",
-       "attendance_text": "11 of 17 meetings (65%)"
-      },
-      {
-       "name": "Rob Drew",
-       "party": "Reform UK",
-       "ward": "Conquest",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/7/0/8/Info00002807/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Rob.Drew@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/rob-drew/",
-       "attendance_text": "5 of 6 meetings (83%)"
-      }
-     ]
-    },
-    {
-     "ward": "Gensing",
-     "people": [
-      {
-       "name": "Amanda Jobson",
-       "party": "Green Party",
-       "ward": "Gensing",
-       "keyposts": "Deputy Mayor and Older Persons Champion",
-       "photo": "https://hastings.moderngov.co.uk/UserData/8/5/1/Info00002158/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.amanda.jobson@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/amanda-jobson/",
-       "attendance_text": "20 of 20 meetings (100%)"
-      },
-      {
-       "name": "Paula Warne",
-       "party": "Green Party",
-       "ward": "Gensing",
-       "keyposts": "Mayor of the Borough of Hastings",
-       "photo": "https://hastings.moderngov.co.uk/UserData/4/1/3/Info00002314/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.paula.warne@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/paula-warne/",
-       "attendance_text": "22 of 24 meetings (92%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hollington",
-     "people": [
-      {
-       "name": "Danuta Kean",
-       "party": "Independent",
-       "ward": "Hollington",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/5/1/3/Info00002315/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.danuta.kean@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/danuta-kean/",
-       "attendance_text": "9 of 12 meetings (75%)"
-      },
-      {
-       "name": "Will Chapman",
-       "party": "Reform UK",
-       "ward": "Hollington",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/8/0/8/Info00002808/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Will.Chapman@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/will-chapman/",
-       "attendance_text": "4 of 4 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Maze Hill",
-     "people": [
-      {
-       "name": "Darren Mackenzie",
-       "party": "Green Party",
-       "ward": "Maze Hill",
-       "keyposts": "Finance, IT, Risk and Assets Portfolio Holder",
-       "photo": "https://hastings.moderngov.co.uk/UserData/1/2/3/Info00002321/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.darren.mackenzie@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/darren-mackenzie/",
-       "attendance_text": "17 of 17 meetings (100%)"
-      },
-      {
-       "name": "Karen Simnett",
-       "party": "Green Party",
-       "ward": "Maze Hill",
-       "keyposts": "Mental Health Champion",
-       "photo": "https://hastings.moderngov.co.uk/UserData/9/0/8/Info00002809/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Karen.Simnett@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/karen-simnett/",
-       "attendance_text": "12 of 15 meetings (80%)"
-      }
-     ]
-    },
-    {
-     "ward": "Old Hastings",
-     "people": [
-      {
-       "name": "Julia Hilton",
-       "party": "Green Party",
-       "ward": "Old Hastings",
-       "keyposts": "Deputy Leader of the Council, Shaping Places, Regeneration and Community Wealth Building Portfolio Holder",
-       "photo": "https://hastings.moderngov.co.uk/UserData/1/4/0/Info00002041/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2021-05-11",
-       "email": "cllr.julia.hilton@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/julia-hilton/",
-       "attendance_text": "24 of 28 meetings (86%)"
-      },
-      {
-       "name": "Mike Frith",
-       "party": "Green Party",
-       "ward": "Old Hastings",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/0/1/8/Info00002810/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Mike.Frith@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/mike-frith/",
-       "attendance_text": "6 of 6 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Ore",
-     "people": [
-      {
-       "name": "Clem McCulloch",
-       "party": "Green Party",
-       "ward": "Ore",
-       "keyposts": "Chair of the Charity Committee",
-       "photo": "https://hastings.moderngov.co.uk/UserData/1/1/8/Info00002811/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Clem.McCulloch@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/clem-mcculloch/",
-       "attendance_text": "7 of 8 meetings (88%)"
-      },
-      {
-       "name": "Jo Walker",
-       "party": "Green Party",
-       "ward": "Ore",
-       "keyposts": "Climate, Nature and Green Spaces Portfolio Holder",
-       "photo": "https://hastings.moderngov.co.uk/UserData/6/1/3/Info00002316/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.jo.walker@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/jo-walker/",
-       "attendance_text": "21 of 22 meetings (95%)"
-      }
-     ]
-    },
-    {
-     "ward": "Silverhill",
-     "people": [
-      {
-       "name": "Billie Barnes",
-       "party": "Labour Party",
-       "ward": "Silverhill",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/7/1/3/Info00002317/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.billie.barnes@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/billie-barnes/",
-       "attendance_text": "6 of 7 meetings (86%)"
-      },
-      {
-       "name": "Dulcie Reynolds",
-       "party": "Green Party",
-       "ward": "Silverhill",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/2/1/8/Info00002812/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Dulcie.Reynolds@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/dulcie-reynolds/",
-       "attendance_text": "6 of 7 meetings (86%)"
-      }
-     ]
-    },
-    {
-     "ward": "St Helens",
-     "people": [
-      {
-       "name": "Andy Batsford",
-       "party": "Independent",
-       "ward": "St Helens",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/0/1/1/Info00000110/bigpic.png",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.andy.batsford@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/andy-batsford/",
-       "attendance_text": "5 of 14 meetings (36%)"
-      },
-      {
-       "name": "Peter Clarke",
-       "party": "Reform UK",
-       "ward": "St Helens",
-       "keyposts": "Reform Group Deputy Leader",
-       "photo": "https://hastings.moderngov.co.uk/UserData/3/1/8/Info00002813/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Peter.Clarke@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/peter-clarke/",
-       "attendance_text": "8 of 9 meetings (89%)"
-      }
-     ]
-    },
-    {
-     "ward": "Tressell",
-     "people": [
-      {
-       "name": "Glenn Haffenden",
-       "party": "Green Party",
-       "ward": "Tressell",
-       "keyposts": "Leader of the Council and Housing, Health, Active Communities and LGR Portfolio Holder",
-       "photo": "https://hastings.moderngov.co.uk/UserData/9/5/1/Info00002159/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.glenn.haffenden@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/glenn-haffenden/",
-       "attendance_text": "19 of 20 meetings (95%)"
-      },
-      {
-       "name": "Natalie Gaimster",
-       "party": "Green Party",
-       "ward": "Tressell",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/9/1/3/Info00002319/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.natalie.gaimster@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/natalie-gaimster/",
-       "attendance_text": "12 of 15 meetings (80%)"
-      }
-     ]
-    },
-    {
-     "ward": "West St Leonards",
-     "people": [
-      {
-       "name": "Derek Lawrence",
-       "party": "Reform UK",
-       "ward": "West St Leonards",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/4/1/8/Info00002814/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Derek.Lawrence@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/derek-lawrence/",
-       "attendance_text": "6 of 9 meetings (67%)"
-      },
-      {
-       "name": "Trevor Webb",
-       "party": "Labour Party",
-       "ward": "West St Leonards",
-       "keyposts": null,
-       "photo": "https://hastings.moderngov.co.uk/UserData/2/4/1/Info00000142/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.trevor.webb@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/trevor-webb/",
-       "attendance_text": "17 of 21 meetings (81%)"
-      }
-     ]
-    },
-    {
-     "ward": "Wishing Tree",
-     "people": [
-      {
-       "name": "Doreena Ross",
-       "party": "Reform UK",
-       "ward": "Wishing Tree",
-       "keyposts": "Reform Group Leader",
-       "photo": "https://hastings.moderngov.co.uk/UserData/5/1/8/Info00002815/bigpic.jpg",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": "2026-05-11",
-       "email": "Cllr.Doreena.Ross@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/doreena-ross/",
-       "attendance_text": "10 of 12 meetings (83%)"
-      },
-      {
-       "name": "Helen Kay",
-       "party": "Labour Party",
-       "ward": "Wishing Tree",
-       "keyposts": "Anti-Poverty Champion, Labour Group Leader",
-       "photo": "https://hastings.moderngov.co.uk/UserData/0/2/3/Info00002320/bigpic.png",
-       "council": "Hastings Borough Council",
-       "council_key": "hbc",
-       "since": null,
-       "email": "cllr.helen.kay@hastings.gov.uk",
-       "url": "/representatives/hastings-borough/helen-kay/",
-       "attendance_text": "9 of 10 meetings (90%)"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "key": "rdc",
-   "name": "Rother District Council",
-   "contact": "https://www.rother.gov.uk/contact-us/",
-   "members": "https://rother.moderngov.co.uk/mgMemberIndex.aspx",
-   "wards": [
-    {
-     "ward": "Bexhill Central",
-     "people": [
-      {
-       "name": "Christine Bayliss",
-       "party": "Labour",
-       "ward": "Bexhill Central",
-       "keyposts": "Cabinet Member",
-       "photo": "https://Rother.moderngov.co.uk/UserData/9/6/4/Info00000469/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.christine.bayliss@rother.gov.uk",
-       "url": "/representatives/rother-district/christine-bayliss/",
-       "attendance_text": "19 of 21 meetings (90%)"
-      },
-      {
-       "name": "Ruairi McCourt",
-       "party": "Labour",
-       "ward": "Bexhill Central",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/9/4/9/Info00001949/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Ruairi.McCourt@rother.gov.uk",
-       "url": "/representatives/rother-district/ruairi-mccourt/",
-       "attendance_text": "11 of 20 meetings (55%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill Collington",
-     "people": [
-      {
-       "name": "Ashan Jeeawon",
-       "party": "Rother Association of Independent Councillors",
-       "ward": "Bexhill Collington",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/6/7/4/Info00000476/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.ashan.jeeawon@rother.gov.uk",
-       "url": "/representatives/rother-district/ashan-jeeawon/",
-       "attendance_text": "12 of 18 meetings (67%)"
-      },
-      {
-       "name": "Doug Oliver",
-       "party": "Rother Association of Independent Councillors",
-       "ward": "Bexhill Collington",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/7/1/1/Info00000117/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.doug.oliver@rother.gov.uk",
-       "url": "/representatives/rother-district/doug-oliver/",
-       "attendance_text": "22 of 22 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill Kewhurst",
-     "people": [
-      {
-       "name": "Andrew Hayward",
-       "party": "Rother Association of Independent Councillors",
-       "ward": "Bexhill Kewhurst",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/7/5/9/Info00001957/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Andrew.Hayward@rother.gov.uk",
-       "url": "/representatives/rother-district/andrew-hayward/",
-       "attendance_text": "9 of 11 meetings (82%)"
-      },
-      {
-       "name": "Brian Drayson",
-       "party": "Rother Association of Independent Councillors",
-       "ward": "Bexhill Kewhurst",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/1/6/4/Info00000461/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.brian.drayson@rother.gov.uk",
-       "url": "/representatives/rother-district/brian-drayson/",
-       "attendance_text": "15 of 15 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill Old Town & Worsham",
-     "people": [
-      {
-       "name": "Mark Legg",
-       "party": "Labour",
-       "ward": "Bexhill Old Town & Worsham",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/0/9/9/Info00001990/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Mark.Legg@rother.gov.uk",
-       "url": "/representatives/rother-district/mark-legg/",
-       "attendance_text": "9 of 10 meetings (90%)"
-      },
-      {
-       "name": "Polly Gray",
-       "party": "Green",
-       "ward": "Bexhill Old Town & Worsham",
-       "keyposts": "Green Group Leader",
-       "photo": "https://Rother.moderngov.co.uk/UserData/5/7/4/Info00000475/bigpic.png",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.polly.gray@rother.gov.uk",
-       "url": "/representatives/rother-district/polly-gray/",
-       "attendance_text": "29 of 29 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill Pebsham & St Michaels",
-     "people": [
-      {
-       "name": "Charles Clark",
-       "party": "Independent",
-       "ward": "Bexhill Pebsham & St Michaels",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/0/3/1/Info00000130/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.charles.clark@rother.gov.uk",
-       "url": "/representatives/rother-district/charles-clark/",
-       "attendance_text": "12 of 13 meetings (92%)"
-      },
-      {
-       "name": "Gareth Delany",
-       "party": "Labour",
-       "ward": "Bexhill Pebsham & St Michaels",
-       "keyposts": "Labour Group Leader",
-       "photo": "https://Rother.moderngov.co.uk/UserData/0/6/9/Info00001960/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Gareth.Delany@rother.gov.uk",
-       "url": "/representatives/rother-district/gareth-delany/",
-       "attendance_text": "22 of 25 meetings (88%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill Sackville",
-     "people": [
-      {
-       "name": "Hazel Timpe",
-       "party": "Rother Association of Independent Councillors",
-       "ward": "Bexhill Sackville",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/2/8/4/Info00000482/bigpic.png",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.hazel.timpe@rother.gov.uk",
-       "url": "/representatives/rother-district/hazel-timpe/",
-       "attendance_text": "18 of 21 meetings (86%)"
-      },
-      {
-       "name": "Terry Byrne",
-       "party": "Rother Association of Independent Councillors",
-       "ward": "Bexhill Sackville",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/0/7/4/Info00000470/bigpic.png",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.terry.byrne@rother.gov.uk",
-       "url": "/representatives/rother-district/terry-byrne/",
-       "attendance_text": "25 of 27 meetings (93%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill Sidley",
-     "people": [
-      {
-       "name": "Fazlul Chowdhury",
-       "party": "Labour",
-       "ward": "Bexhill Sidley",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/5/6/9/Info00001965/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Fazlul.Chowdhury@rother.gov.uk",
-       "url": "/representatives/rother-district/fazlul-chowdhury/",
-       "attendance_text": "27 of 32 meetings (84%)"
-      },
-      {
-       "name": "Sam Coleman",
-       "party": "Labour",
-       "ward": "Bexhill Sidley",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/2/7/4/Info00000472/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.sam.coleman@rother.gov.uk",
-       "url": "/representatives/rother-district/sam-coleman/",
-       "attendance_text": "4 of 7 meetings (57%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill St Marks",
-     "people": [
-      {
-       "name": "Connor Winter",
-       "party": "Conservative",
-       "ward": "Bexhill St Marks",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/8/7/7/Info00001778/bigpic.png",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Connor.Winter@rother.gov.uk",
-       "url": "/representatives/rother-district/connor-winter/",
-       "attendance_text": "7 of 14 meetings (50%)"
-      },
-      {
-       "name": "Jimmy Stanger",
-       "party": "Conservative",
-       "ward": "Bexhill St Marks",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/6/5/7/Info00001756/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Jimmy.Stanger@rother.gov.uk",
-       "url": "/representatives/rother-district/jimmy-stanger/",
-       "attendance_text": "16 of 19 meetings (84%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill St Stephens",
-     "people": [
-      {
-       "name": "Arren Rathbone Ariel",
-       "party": "Green",
-       "ward": "Bexhill St Stephens",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/2/7/9/Info00001972/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Arren.Rathbone.Ariel@rother.gov.uk",
-       "url": "/representatives/rother-district/arren-rathbone-ariel/",
-       "attendance_text": "20 of 20 meetings (100%)"
-      },
-      {
-       "name": "Richard Thomas",
-       "party": "Liberal Democrats",
-       "ward": "Bexhill St Stephens",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/1/8/4/Info00000481/bigpic.png",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.richard.thomas@rother.gov.uk",
-       "url": "/representatives/rother-district/richard-thomas/",
-       "attendance_text": "17 of 20 meetings (85%)"
-      }
-     ]
-    },
-    {
-     "ward": "Brede & Udimore",
-     "people": [
-      {
-       "name": "Neil Gordon",
-       "party": "Conservative",
-       "ward": "Brede & Udimore",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/0/5/8/Info00001850/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": null,
-       "url": "/representatives/rother-district/neil-gordon/",
-       "attendance_text": "5 of 10 meetings (50%)"
-      }
-     ]
-    },
-    {
-     "ward": "Burwash & the Weald",
-     "people": [
-      {
-       "name": "John Barnes (MBE)",
-       "party": "Conservative",
-       "ward": "Burwash & the Weald",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/6/1/1/Info00000116/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.john.barnes@rother.gov.uk",
-       "url": "/representatives/rother-district/john-barnes/",
-       "attendance_text": "20 of 21 meetings (95%)"
-      },
-      {
-       "name": "Mrs Eleanor Kirby-Green",
-       "party": "Conservative",
-       "ward": "Burwash & the Weald",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/4/3/1/Info00000134/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.eleanor.kirby-green@rother.gov.uk",
-       "url": "/representatives/rother-district/mrs-eleanor-kirby-green/",
-       "attendance_text": "12 of 12 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Catsfield & Crowhurst",
-     "people": [
-      {
-       "name": "Nicola McLaren",
-       "party": "Liberal Democrats",
-       "ward": "Catsfield & Crowhurst",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/7/2/2/Info00002227/bigpic.png",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2025-06-26",
-       "email": "cllr.nicola.mclaren@rother.gov.uk",
-       "url": "/representatives/rother-district/nicola-mclaren/",
-       "attendance_text": "19 of 21 meetings (90%)"
-      }
-     ]
-    },
-    {
-     "ward": "Eastern Rother",
-     "people": [
-      {
-       "name": "Lizzie Hacking",
-       "party": "Conservative",
-       "ward": "Eastern Rother",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/4/5/6/Info00000654/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Lizzie.Hacking@rother.gov.uk",
-       "url": "/representatives/rother-district/lizzie-hacking/",
-       "attendance_text": "5 of 6 meetings (83%)"
-      },
-      {
-       "name": "Paul Osborne",
-       "party": "Conservative",
-       "ward": "Eastern Rother",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/5/4/1/Info00000145/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.paul.osborne@rother.gov.uk",
-       "url": "/representatives/rother-district/paul-osborne/",
-       "attendance_text": "14 of 14 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hurst Green & Ticehurst",
-     "people": [
-      {
-       "name": "Mrs Mary Barnes",
-       "party": "Conservative",
-       "ward": "Hurst Green & Ticehurst",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/3/1/1/Info00000113/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.mary.barnes@rother.gov.uk",
-       "url": "/representatives/rother-district/mrs-mary-barnes/",
-       "attendance_text": "22 of 23 meetings (96%)"
-      },
-      {
-       "name": "Teresa Killeen (MBE)",
-       "party": "Liberal Democrats",
-       "ward": "Hurst Green & Ticehurst",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/9/7/9/Info00001979/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Teresa.Killeen@rother.gov.uk",
-       "url": "/representatives/rother-district/teresa-killeen/",
-       "attendance_text": "25 of 27 meetings (93%)"
-      }
-     ]
-    },
-    {
-     "ward": "North Battle, Netherfield & Whatlington",
-     "people": [
-      {
-       "name": "Kathryn Field",
-       "party": "Liberal Democrats",
-       "ward": "North Battle, Netherfield & Whatlington",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/6/3/1/Info00000136/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.kathryn.field@rother.gov.uk",
-       "url": "/representatives/rother-district/kathryn-field/",
-       "attendance_text": "16 of 18 meetings (89%)"
-      },
-      {
-       "name": "Sue Burton",
-       "party": "Green",
-       "ward": "North Battle, Netherfield & Whatlington",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/1/4/7/Info00001741/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Sue.Burton@rother.gov.uk",
-       "url": "/representatives/rother-district/sue-burton/",
-       "attendance_text": "13 of 14 meetings (93%)"
-      }
-     ]
-    },
-    {
-     "ward": "Northern Rother",
-     "people": [
-      {
-       "name": "Tony Biggs",
-       "party": "Conservative",
-       "ward": "Northern Rother",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/1/9/9/Info00001991/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Tony.Biggs@rother.gov.uk",
-       "url": "/representatives/rother-district/tony-biggs/",
-       "attendance_text": "19 of 21 meetings (90%)"
-      },
-      {
-       "name": "Tony Ganly",
-       "party": "Conservative",
-       "ward": "Northern Rother",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/7/3/1/Info00000137/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.tony.ganly@rother.gov.uk",
-       "url": "/representatives/rother-district/tony-ganly/",
-       "attendance_text": "10 of 11 meetings (91%)"
-      }
-     ]
-    },
-    {
-     "ward": "Robertsbridge",
-     "people": [
-      {
-       "name": "Susan Prochak (MBE)",
-       "party": "Liberal Democrats",
-       "ward": "Robertsbridge",
-       "keyposts": "Liberal Democrats Group Leader",
-       "photo": "https://Rother.moderngov.co.uk/UserData/2/1/1/Info00000112/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": null,
-       "url": "/representatives/rother-district/susan-prochak/",
-       "attendance_text": "18 of 18 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Rye & Winchelsea",
-     "people": [
-      {
-       "name": "Cheryl Creaser",
-       "party": "Conservative",
-       "ward": "Rye & Winchelsea",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/2/8/9/Info00001982/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Cheryl.Creaser@rother.gov.uk",
-       "url": "/representatives/rother-district/cheryl-creaser/",
-       "attendance_text": "17 of 21 meetings (81%)"
-      },
-      {
-       "name": "Daniel Bradley",
-       "party": "Independent",
-       "ward": "Rye & Winchelsea",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/0/9/2/Info00002290/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2026-05-08",
-       "email": "cllr.daniel.bradley@rother.gov.uk",
-       "url": "/representatives/rother-district/daniel-bradley/",
-       "attendance_text": "3 of 3 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Sedlescombe & Westfield",
-     "people": [
-      {
-       "name": "Beverley Coupar",
-       "party": "Liberal Democrats",
-       "ward": "Sedlescombe & Westfield",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/2/2/7/Info00001722/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Beverley.Coupar@rother.gov.uk",
-       "url": "/representatives/rother-district/beverley-coupar/",
-       "attendance_text": "8 of 20 meetings (40%)"
-      },
-      {
-       "name": "Carl Maynard",
-       "party": "Conservative",
-       "ward": "Sedlescombe & Westfield",
-       "keyposts": "Conservative Group Leader",
-       "photo": "https://Rother.moderngov.co.uk/UserData/9/3/1/Info00000139/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.carl.maynard@rother.gov.uk",
-       "url": "/representatives/rother-district/carl-maynard/",
-       "attendance_text": "11 of 13 meetings (85%)"
-      }
-     ]
-    },
-    {
-     "ward": "South Battle & Telham",
-     "people": [
-      {
-       "name": "Mrs Vikki Cook",
-       "party": "Liberal Democrats",
-       "ward": "South Battle & Telham",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/1/7/4/Info00000471/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.vikki.cook@rother.gov.uk",
-       "url": "/representatives/rother-district/mrs-vikki-cook/",
-       "attendance_text": "15 of 18 meetings (83%)"
-      }
-     ]
-    },
-    {
-     "ward": "Southern Rother",
-     "people": [
-      {
-       "name": "Andrew Mier",
-       "party": "Liberal Democrats",
-       "ward": "Southern Rother",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/9/7/4/Info00000479/bigpic.jpg",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "cllr.andrew.mier@rother.gov.uk",
-       "url": "/representatives/rother-district/andrew-mier/",
-       "attendance_text": "11 of 13 meetings (85%)"
-      },
-      {
-       "name": "Tim Grohne",
-       "party": "Conservative",
-       "ward": "Southern Rother",
-       "keyposts": null,
-       "photo": "https://Rother.moderngov.co.uk/UserData/7/8/9/Info00001987/bigpic.png",
-       "council": "Rother District Council",
-       "council_key": "rdc",
-       "since": "2023-05-09",
-       "email": "Cllr.Tim.Grohne@rother.gov.uk",
-       "url": "/representatives/rother-district/tim-grohne/",
-       "attendance_text": "13 of 15 meetings (87%)"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "key": "escc",
-   "name": "East Sussex County Council",
-   "contact": "https://www.eastsussex.gov.uk/contact-us",
-   "members": "https://democracy.eastsussex.gov.uk/mgMemberIndex.aspx",
-   "wards": [
-    {
-     "ward": "Battle and Crowhurst",
-     "people": [
-      {
-       "name": "Kathryn Field",
-       "party": "Liberal Democrats",
-       "ward": "Battle and Crowhurst",
-       "keyposts": "Leader of the Liberal Democrat Group",
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/2/2/0/Info00000022/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "1992-01-23",
-       "email": "cllr.kathryn.field@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/kathryn-field/",
-       "attendance_text": "24 of 27 meetings (89%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill East",
-     "people": [
-      {
-       "name": "Martin Kenward",
-       "party": "Reform UK",
-       "ward": "Bexhill East",
-       "keyposts": "Chairman of the County Council",
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/8/9/2/Info00005298/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.martin.kenward@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/martin-kenward/",
-       "attendance_text": "3 of 3 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill North",
-     "people": [
-      {
-       "name": "Donald Walmsley",
-       "party": "Conservative",
-       "ward": "Bexhill North",
-       "keyposts": null,
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/4/9/2/Info00005294/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.donald.walmsley@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/donald-walmsley/",
-       "attendance_text": "8 of 8 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill South",
-     "people": [
-      {
-       "name": "Victoria Carson",
-       "party": "Reform UK",
-       "ward": "Bexhill South",
-       "keyposts": "Lead Member for Children and Families",
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/0/1/3/Info00005310/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.victoria.carson@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/victoria-carson/",
-       "attendance_text": "7 of 8 meetings (88%)"
-      }
-     ]
-    },
-    {
-     "ward": "Bexhill West",
-     "people": [
-      {
-       "name": "Pete Morley",
-       "party": "Reform UK",
-       "ward": "Bexhill West",
-       "keyposts": "Deputy Leader of the Council and Lead Member for Economy",
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/7/0/3/Info00005307/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.pete.morley@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/pete-morley/",
-       "attendance_text": "12 of 14 meetings (86%)"
-      }
-     ]
-    },
-    {
-     "ward": "Brede Valley and Marsham",
-     "people": [
-      {
-       "name": "Daniel Lach",
-       "party": "Reform UK",
-       "ward": "Brede Valley and Marsham",
-       "keyposts": null,
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/7/1/3/Info00005317/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.daniel.lach@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/daniel-lach/",
-       "attendance_text": "6 of 6 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hastings - Ashdown and Conquest",
-     "people": [
-      {
-       "name": "Aidan Fisher",
-       "party": "Reform UK",
-       "ward": "Hastings - Ashdown and Conquest",
-       "keyposts": "Chair of Planning Committee",
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/0/3/1/Info00005130/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2025-11-20",
-       "email": "cllr.aidan.fisher@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/aidan-fisher/",
-       "attendance_text": "11 of 14 meetings (79%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hastings - Baird and Ore",
-     "people": [
-      {
-       "name": "Jo Walker",
-       "party": "Green Party",
-       "ward": "Hastings - Baird and Ore",
-       "keyposts": null,
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/9/0/3/Info00005309/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.jo.walker@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/jo-walker/",
-       "attendance_text": "8 of 9 meetings (89%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hastings - Braybrooke and Castle",
-     "people": [
-      {
-       "name": "Becca Horn",
-       "party": "Green Party",
-       "ward": "Hastings - Braybrooke and Castle",
-       "keyposts": null,
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/1/0/3/Info00005301/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.becca.horn@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/becca-horn/",
-       "attendance_text": "4 of 5 meetings (80%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hastings - Central St Leonards and Gensing",
-     "people": [
-      {
-       "name": "Amanda Jobson",
-       "party": "Green Party",
-       "ward": "Hastings - Central St Leonards and Gensing",
-       "keyposts": null,
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/7/2/3/Info00005327/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.amanda.jobson@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/amanda-jobson/",
-       "attendance_text": "3 of 3 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hastings - Hollington and Wishing Tree",
-     "people": [
-      {
-       "name": "Mark Estcourt",
-       "party": "Reform UK",
-       "ward": "Hastings - Hollington and Wishing Tree",
-       "keyposts": "Lead Member for Adult Social Care and Health",
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/2/2/3/Info00005322/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.mark.estcourt@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/mark-estcourt/",
-       "attendance_text": "12 of 13 meetings (92%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hastings - Maze Hill and West St Leonards",
-     "people": [
-      {
-       "name": "Karen Simnett",
-       "party": "Green Party",
-       "ward": "Hastings - Maze Hill and West St Leonards",
-       "keyposts": null,
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/5/9/2/Info00005295/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.karen.simnett@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/karen-simnett/",
-       "attendance_text": "5 of 7 meetings (71%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hastings - Old Hastings and Tressell",
-     "people": [
-      {
-       "name": "Julia Hilton",
-       "party": "Green Party",
-       "ward": "Hastings - Old Hastings and Tressell",
-       "keyposts": "Leader of the Green Party Group and Chair of Place Scrutiny Committee",
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/2/0/3/Info00002302/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2021-05-06",
-       "email": "cllr.julia.hilton@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/julia-hilton/",
-       "attendance_text": "8 of 12 meetings (67%)"
-      }
-     ]
-    },
-    {
-     "ward": "Hastings - St Helens and Silverhill",
-     "people": [
-      {
-       "name": "Shaun Dowling",
-       "party": "Green Party",
-       "ward": "Hastings - St Helens and Silverhill",
-       "keyposts": null,
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/6/1/3/Info00005316/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.shaun.dowling@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/shaun-dowling/",
-       "attendance_text": "7 of 8 meetings (88%)"
-      }
-     ]
-    },
-    {
-     "ward": "Northern Rother",
-     "people": [
-      {
-       "name": "Paul Redstone",
-       "party": "Conservative",
-       "ward": "Northern Rother",
-       "keyposts": "Leader of the Conservative Group",
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/4/0/3/Info00002304/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2021-05-06",
-       "email": "cllr.paul.redstone@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/paul-redstone/",
-       "attendance_text": "24 of 25 meetings (96%)"
-      }
-     ]
-    },
-    {
-     "ward": "Rother North West",
-     "people": [
-      {
-       "name": "Mark Ashdown",
-       "party": "Reform UK",
-       "ward": "Rother North West",
-       "keyposts": null,
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/2/1/3/Info00005312/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.mark.ashdown@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/mark-ashdown/",
-       "attendance_text": "5 of 5 meetings (100%)"
-      }
-     ]
-    },
-    {
-     "ward": "Rye and Eastern Rother",
-     "people": [
-      {
-       "name": "Daniel Bradley",
-       "party": "Independent",
-       "ward": "Rye and Eastern Rother",
-       "keyposts": null,
-       "photo": "https://democracy.eastsussex.gov.uk/UserData/8/0/3/Info00005308/bigpic.jpg",
-       "council": "East Sussex County Council",
-       "council_key": "escc",
-       "since": "2026-05-07",
-       "email": "cllr.daniel.bradley@eastsussex.gov.uk",
-       "url": "/representatives/east-sussex-county/daniel-bradley/",
-       "attendance_text": "5 of 6 meetings (83%)"
-      }
-     ]
-    }
-   ]
-  }
- ],
+ "councils": [],
  "changes": [
   {
    "id": 2,
@@ -1462,6 +38,1863 @@
    "id": 1,
    "at": "2026-11-21T14:04:16+00:00",
    "text": "East Sussex County Council: Mark Ashdown is now a councillor for Rother North West."
+  }
+ ],
+ "areas": [
+  {
+   "slug": "hastings-and-rye",
+   "name": "Hastings and Rye",
+   "about": "Hastings and St Leonards, Rye, Winchelsea, Camber, Fairlight, Pett, Icklesham and the villages of eastern Rother.",
+   "mp": {
+    "slug": "hastings-and-rye",
+    "name": "Helena Dollimore",
+    "party": "Labour (Co-op)",
+    "constituency": "Hastings and Rye",
+    "website": "https://www.helenadollimore.com",
+    "url": "/representatives/hastings-and-rye/mp/",
+    "area_url": "/representatives/hastings-and-rye/",
+    "contact": "https://members.parliament.uk/member/5192/contact",
+    "parliament": "https://members.parliament.uk/member/5192",
+    "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
+    "last30_text": "26 votes, 3 contributions, 3 written questions, 6 answers received"
+   },
+   "sections": [
+    {
+     "key": "hbc",
+     "name": "Hastings Borough Council",
+     "contact": "https://www.hastings.gov.uk/contact/",
+     "members": "https://hastings.moderngov.co.uk/mgMemberIndex.aspx",
+     "kind": "ward",
+     "wards": [
+      {
+       "ward": "Ashdown",
+       "people": [
+        {
+         "name": "Daniel Kendrick",
+         "party": "Reform UK",
+         "ward": "Ashdown",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/2/0/8/Info00002802/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Daniel.Kendrick@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/daniel-kendrick/",
+         "attendance_text": "2 of 3 meetings (67%)"
+        },
+        {
+         "name": "Sorrell Marlow-Eastwood",
+         "party": "Conservative Party",
+         "ward": "Ashdown",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/5/7/1/Info00001175/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.sorrell.marlow-eastwood@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/sorrell-marlow-eastwood/",
+         "attendance_text": "14 of 15 meetings (93%)"
+        }
+       ]
+      },
+      {
+       "ward": "Baird",
+       "people": [
+        {
+         "name": "Will Rumfitt",
+         "party": "Green Party",
+         "ward": "Baird",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/3/0/8/Info00002803/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Will.Rumfitt@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/will-rumfitt/",
+         "attendance_text": "11 of 15 meetings (73%)"
+        },
+        {
+         "name": "Yunis Smith",
+         "party": "Green Party",
+         "ward": "Baird",
+         "keyposts": "Migrant Champion",
+         "photo": "https://hastings.moderngov.co.uk/UserData/0/1/3/Info00002310/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "Cllr.Yunis.Smith@Hastings.gov.uk",
+         "url": "/representatives/hastings-borough/yunis-smith/",
+         "attendance_text": "18 of 21 meetings (86%)"
+        }
+       ]
+      },
+      {
+       "ward": "Braybrooke",
+       "people": [
+        {
+         "name": "Archie Lauchlan",
+         "party": "Green Party",
+         "ward": "Braybrooke",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/4/0/8/Info00002804/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Archie.Lauchlan@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/archie-lauchlan/",
+         "attendance_text": "12 of 15 meetings (80%)"
+        },
+        {
+         "name": "Mark Etherington",
+         "party": "Green Party",
+         "ward": "Braybrooke",
+         "keyposts": "Planning, Infrastructure & Regulatory Services Portfolio Holder; Armed Forces Champion",
+         "photo": "https://hastings.moderngov.co.uk/UserData/1/1/3/Info00002311/bigpic.png",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.mark.etherington@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/mark-etherington/",
+         "attendance_text": "10 of 15 meetings (67%)"
+        }
+       ]
+      },
+      {
+       "ward": "Castle",
+       "people": [
+        {
+         "name": "Becca Horn",
+         "party": "Green Party",
+         "ward": "Castle",
+         "keyposts": "Community Safety and Environmental Services Portfolio Holder",
+         "photo": "https://hastings.moderngov.co.uk/UserData/2/1/3/Info00002312/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.becca.horn@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/becca-horn/",
+         "attendance_text": "13 of 14 meetings (93%)"
+        },
+        {
+         "name": "Steph Fawbert",
+         "party": "Green Party",
+         "ward": "Castle",
+         "keyposts": "Heritage Champion",
+         "photo": "https://hastings.moderngov.co.uk/UserData/5/0/8/Info00002805/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Steph.Fawbert@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/steph-fawbert/",
+         "attendance_text": "12 of 14 meetings (86%)"
+        }
+       ]
+      },
+      {
+       "ward": "Central St Leonards",
+       "people": [
+        {
+         "name": "Adele Bates",
+         "party": "Green Party",
+         "ward": "Central St Leonards",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/3/1/3/Info00002313/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.adele.bates@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/adele-bates/",
+         "attendance_text": "11 of 14 meetings (79%)"
+        },
+        {
+         "name": "Solly Solamito",
+         "party": "Green Party",
+         "ward": "Central St Leonards",
+         "keyposts": "Corporate Services, Communities and Equalities Portfolio Holder",
+         "photo": "https://hastings.moderngov.co.uk/UserData/6/0/8/Info00002806/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Solly.Solamito@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/solly-solamito/",
+         "attendance_text": "5 of 7 meetings (71%)"
+        }
+       ]
+      },
+      {
+       "ward": "Conquest",
+       "people": [
+        {
+         "name": "Paul Foster",
+         "party": "Conservative Party",
+         "ward": "Conquest",
+         "keyposts": "Conservative Group Leader",
+         "photo": "https://hastings.moderngov.co.uk/UserData/3/7/1/Info00001173/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2024-05-06",
+         "email": "cllr.paul.foster@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/paul-foster/",
+         "attendance_text": "11 of 17 meetings (65%)"
+        },
+        {
+         "name": "Rob Drew",
+         "party": "Reform UK",
+         "ward": "Conquest",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/7/0/8/Info00002807/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Rob.Drew@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/rob-drew/",
+         "attendance_text": "5 of 6 meetings (83%)"
+        }
+       ]
+      },
+      {
+       "ward": "Gensing",
+       "people": [
+        {
+         "name": "Amanda Jobson",
+         "party": "Green Party",
+         "ward": "Gensing",
+         "keyposts": "Deputy Mayor and Older Persons Champion",
+         "photo": "https://hastings.moderngov.co.uk/UserData/8/5/1/Info00002158/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.amanda.jobson@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/amanda-jobson/",
+         "attendance_text": "20 of 20 meetings (100%)"
+        },
+        {
+         "name": "Paula Warne",
+         "party": "Green Party",
+         "ward": "Gensing",
+         "keyposts": "Mayor of the Borough of Hastings",
+         "photo": "https://hastings.moderngov.co.uk/UserData/4/1/3/Info00002314/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.paula.warne@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/paula-warne/",
+         "attendance_text": "22 of 24 meetings (92%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hollington",
+       "people": [
+        {
+         "name": "Danuta Kean",
+         "party": "Independent",
+         "ward": "Hollington",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/5/1/3/Info00002315/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.danuta.kean@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/danuta-kean/",
+         "attendance_text": "9 of 12 meetings (75%)"
+        },
+        {
+         "name": "Will Chapman",
+         "party": "Reform UK",
+         "ward": "Hollington",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/8/0/8/Info00002808/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Will.Chapman@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/will-chapman/",
+         "attendance_text": "4 of 4 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Maze Hill",
+       "people": [
+        {
+         "name": "Darren Mackenzie",
+         "party": "Green Party",
+         "ward": "Maze Hill",
+         "keyposts": "Finance, IT, Risk and Assets Portfolio Holder",
+         "photo": "https://hastings.moderngov.co.uk/UserData/1/2/3/Info00002321/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.darren.mackenzie@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/darren-mackenzie/",
+         "attendance_text": "17 of 17 meetings (100%)"
+        },
+        {
+         "name": "Karen Simnett",
+         "party": "Green Party",
+         "ward": "Maze Hill",
+         "keyposts": "Mental Health Champion",
+         "photo": "https://hastings.moderngov.co.uk/UserData/9/0/8/Info00002809/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Karen.Simnett@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/karen-simnett/",
+         "attendance_text": "12 of 15 meetings (80%)"
+        }
+       ]
+      },
+      {
+       "ward": "Old Hastings",
+       "people": [
+        {
+         "name": "Julia Hilton",
+         "party": "Green Party",
+         "ward": "Old Hastings",
+         "keyposts": "Deputy Leader of the Council, Shaping Places, Regeneration and Community Wealth Building Portfolio Holder",
+         "photo": "https://hastings.moderngov.co.uk/UserData/1/4/0/Info00002041/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2021-05-11",
+         "email": "cllr.julia.hilton@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/julia-hilton/",
+         "attendance_text": "24 of 28 meetings (86%)"
+        },
+        {
+         "name": "Mike Frith",
+         "party": "Green Party",
+         "ward": "Old Hastings",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/0/1/8/Info00002810/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Mike.Frith@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/mike-frith/",
+         "attendance_text": "6 of 6 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Ore",
+       "people": [
+        {
+         "name": "Clem McCulloch",
+         "party": "Green Party",
+         "ward": "Ore",
+         "keyposts": "Chair of the Charity Committee",
+         "photo": "https://hastings.moderngov.co.uk/UserData/1/1/8/Info00002811/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Clem.McCulloch@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/clem-mcculloch/",
+         "attendance_text": "7 of 8 meetings (88%)"
+        },
+        {
+         "name": "Jo Walker",
+         "party": "Green Party",
+         "ward": "Ore",
+         "keyposts": "Climate, Nature and Green Spaces Portfolio Holder",
+         "photo": "https://hastings.moderngov.co.uk/UserData/6/1/3/Info00002316/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.jo.walker@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/jo-walker/",
+         "attendance_text": "21 of 22 meetings (95%)"
+        }
+       ]
+      },
+      {
+       "ward": "Silverhill",
+       "people": [
+        {
+         "name": "Billie Barnes",
+         "party": "Labour Party",
+         "ward": "Silverhill",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/7/1/3/Info00002317/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.billie.barnes@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/billie-barnes/",
+         "attendance_text": "6 of 7 meetings (86%)"
+        },
+        {
+         "name": "Dulcie Reynolds",
+         "party": "Green Party",
+         "ward": "Silverhill",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/2/1/8/Info00002812/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Dulcie.Reynolds@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/dulcie-reynolds/",
+         "attendance_text": "6 of 7 meetings (86%)"
+        }
+       ]
+      },
+      {
+       "ward": "St Helens",
+       "people": [
+        {
+         "name": "Andy Batsford",
+         "party": "Independent",
+         "ward": "St Helens",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/0/1/1/Info00000110/bigpic.png",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.andy.batsford@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/andy-batsford/",
+         "attendance_text": "5 of 14 meetings (36%)"
+        },
+        {
+         "name": "Peter Clarke",
+         "party": "Reform UK",
+         "ward": "St Helens",
+         "keyposts": "Reform Group Deputy Leader",
+         "photo": "https://hastings.moderngov.co.uk/UserData/3/1/8/Info00002813/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Peter.Clarke@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/peter-clarke/",
+         "attendance_text": "8 of 9 meetings (89%)"
+        }
+       ]
+      },
+      {
+       "ward": "Tressell",
+       "people": [
+        {
+         "name": "Glenn Haffenden",
+         "party": "Green Party",
+         "ward": "Tressell",
+         "keyposts": "Leader of the Council and Housing, Health, Active Communities and LGR Portfolio Holder",
+         "photo": "https://hastings.moderngov.co.uk/UserData/9/5/1/Info00002159/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.glenn.haffenden@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/glenn-haffenden/",
+         "attendance_text": "19 of 20 meetings (95%)"
+        },
+        {
+         "name": "Natalie Gaimster",
+         "party": "Green Party",
+         "ward": "Tressell",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/9/1/3/Info00002319/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.natalie.gaimster@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/natalie-gaimster/",
+         "attendance_text": "12 of 15 meetings (80%)"
+        }
+       ]
+      },
+      {
+       "ward": "West St Leonards",
+       "people": [
+        {
+         "name": "Derek Lawrence",
+         "party": "Reform UK",
+         "ward": "West St Leonards",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/4/1/8/Info00002814/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Derek.Lawrence@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/derek-lawrence/",
+         "attendance_text": "6 of 9 meetings (67%)"
+        },
+        {
+         "name": "Trevor Webb",
+         "party": "Labour Party",
+         "ward": "West St Leonards",
+         "keyposts": null,
+         "photo": "https://hastings.moderngov.co.uk/UserData/2/4/1/Info00000142/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.trevor.webb@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/trevor-webb/",
+         "attendance_text": "17 of 21 meetings (81%)"
+        }
+       ]
+      },
+      {
+       "ward": "Wishing Tree",
+       "people": [
+        {
+         "name": "Doreena Ross",
+         "party": "Reform UK",
+         "ward": "Wishing Tree",
+         "keyposts": "Reform Group Leader",
+         "photo": "https://hastings.moderngov.co.uk/UserData/5/1/8/Info00002815/bigpic.jpg",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": "2026-05-11",
+         "email": "Cllr.Doreena.Ross@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/doreena-ross/",
+         "attendance_text": "10 of 12 meetings (83%)"
+        },
+        {
+         "name": "Helen Kay",
+         "party": "Labour Party",
+         "ward": "Wishing Tree",
+         "keyposts": "Anti-Poverty Champion, Labour Group Leader",
+         "photo": "https://hastings.moderngov.co.uk/UserData/0/2/3/Info00002320/bigpic.png",
+         "council": "Hastings Borough Council",
+         "council_key": "hbc",
+         "since": null,
+         "email": "cllr.helen.kay@hastings.gov.uk",
+         "url": "/representatives/hastings-borough/helen-kay/",
+         "attendance_text": "9 of 10 meetings (90%)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "rdc",
+     "name": "Rother District Council",
+     "contact": "https://www.rother.gov.uk/contact-us/",
+     "members": "https://rother.moderngov.co.uk/mgMemberIndex.aspx",
+     "kind": "ward",
+     "wards": [
+      {
+       "ward": "Eastern Rother",
+       "people": [
+        {
+         "name": "Lizzie Hacking",
+         "party": "Conservative",
+         "ward": "Eastern Rother",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/4/5/6/Info00000654/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Lizzie.Hacking@rother.gov.uk",
+         "url": "/representatives/rother-district/lizzie-hacking/",
+         "attendance_text": "5 of 6 meetings (83%)"
+        },
+        {
+         "name": "Paul Osborne",
+         "party": "Conservative",
+         "ward": "Eastern Rother",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/5/4/1/Info00000145/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.paul.osborne@rother.gov.uk",
+         "url": "/representatives/rother-district/paul-osborne/",
+         "attendance_text": "14 of 14 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Rye & Winchelsea",
+       "people": [
+        {
+         "name": "Cheryl Creaser",
+         "party": "Conservative",
+         "ward": "Rye & Winchelsea",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/2/8/9/Info00001982/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Cheryl.Creaser@rother.gov.uk",
+         "url": "/representatives/rother-district/cheryl-creaser/",
+         "attendance_text": "17 of 21 meetings (81%)"
+        },
+        {
+         "name": "Daniel Bradley",
+         "party": "Independent",
+         "ward": "Rye & Winchelsea",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/0/9/2/Info00002290/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2026-05-08",
+         "email": "cllr.daniel.bradley@rother.gov.uk",
+         "url": "/representatives/rother-district/daniel-bradley/",
+         "attendance_text": "3 of 3 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Southern Rother",
+       "people": [
+        {
+         "name": "Andrew Mier",
+         "party": "Liberal Democrats",
+         "ward": "Southern Rother",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/9/7/4/Info00000479/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.andrew.mier@rother.gov.uk",
+         "url": "/representatives/rother-district/andrew-mier/",
+         "attendance_text": "11 of 13 meetings (85%)"
+        },
+        {
+         "name": "Tim Grohne",
+         "party": "Conservative",
+         "ward": "Southern Rother",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/7/8/9/Info00001987/bigpic.png",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Tim.Grohne@rother.gov.uk",
+         "url": "/representatives/rother-district/tim-grohne/",
+         "attendance_text": "13 of 15 meetings (87%)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "escc",
+     "name": "East Sussex County Council",
+     "contact": "https://www.eastsussex.gov.uk/contact-us",
+     "members": "https://democracy.eastsussex.gov.uk/mgMemberIndex.aspx",
+     "kind": "division",
+     "wards": [
+      {
+       "ward": "Brede Valley and Marsham",
+       "people": [
+        {
+         "name": "Daniel Lach",
+         "party": "Reform UK",
+         "ward": "Brede Valley and Marsham",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/7/1/3/Info00005317/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.daniel.lach@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/daniel-lach/",
+         "attendance_text": "6 of 6 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Ashdown and Conquest",
+       "people": [
+        {
+         "name": "Aidan Fisher",
+         "party": "Reform UK",
+         "ward": "Hastings - Ashdown and Conquest",
+         "keyposts": "Chair of Planning Committee",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/0/3/1/Info00005130/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2025-11-20",
+         "email": "cllr.aidan.fisher@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/aidan-fisher/",
+         "attendance_text": "11 of 14 meetings (79%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Baird and Ore",
+       "people": [
+        {
+         "name": "Jo Walker",
+         "party": "Green Party",
+         "ward": "Hastings - Baird and Ore",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/9/0/3/Info00005309/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.jo.walker@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/jo-walker/",
+         "attendance_text": "8 of 9 meetings (89%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Braybrooke and Castle",
+       "people": [
+        {
+         "name": "Becca Horn",
+         "party": "Green Party",
+         "ward": "Hastings - Braybrooke and Castle",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/1/0/3/Info00005301/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.becca.horn@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/becca-horn/",
+         "attendance_text": "4 of 5 meetings (80%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Central St Leonards and Gensing",
+       "people": [
+        {
+         "name": "Amanda Jobson",
+         "party": "Green Party",
+         "ward": "Hastings - Central St Leonards and Gensing",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/7/2/3/Info00005327/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.amanda.jobson@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/amanda-jobson/",
+         "attendance_text": "3 of 3 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Hollington and Wishing Tree",
+       "people": [
+        {
+         "name": "Mark Estcourt",
+         "party": "Reform UK",
+         "ward": "Hastings - Hollington and Wishing Tree",
+         "keyposts": "Lead Member for Adult Social Care and Health",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/2/2/3/Info00005322/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.mark.estcourt@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/mark-estcourt/",
+         "attendance_text": "12 of 13 meetings (92%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Maze Hill and West St Leonards",
+       "people": [
+        {
+         "name": "Karen Simnett",
+         "party": "Green Party",
+         "ward": "Hastings - Maze Hill and West St Leonards",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/5/9/2/Info00005295/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.karen.simnett@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/karen-simnett/",
+         "attendance_text": "5 of 7 meetings (71%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Old Hastings and Tressell",
+       "people": [
+        {
+         "name": "Julia Hilton",
+         "party": "Green Party",
+         "ward": "Hastings - Old Hastings and Tressell",
+         "keyposts": "Leader of the Green Party Group and Chair of Place Scrutiny Committee",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/2/0/3/Info00002302/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2021-05-06",
+         "email": "cllr.julia.hilton@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/julia-hilton/",
+         "attendance_text": "8 of 12 meetings (67%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - St Helens and Silverhill",
+       "people": [
+        {
+         "name": "Shaun Dowling",
+         "party": "Green Party",
+         "ward": "Hastings - St Helens and Silverhill",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/6/1/3/Info00005316/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.shaun.dowling@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/shaun-dowling/",
+         "attendance_text": "7 of 8 meetings (88%)"
+        }
+       ]
+      },
+      {
+       "ward": "Rye and Eastern Rother",
+       "people": [
+        {
+         "name": "Daniel Bradley",
+         "party": "Independent",
+         "ward": "Rye and Eastern Rother",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/8/0/3/Info00005308/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.daniel.bradley@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/daniel-bradley/",
+         "attendance_text": "5 of 6 meetings (83%)"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "councillors": 48,
+   "url": "/representatives/hastings-and-rye/"
+  },
+  {
+   "slug": "bexhill-and-battle",
+   "name": "Bexhill and Battle",
+   "about": "Bexhill, Battle, Robertsbridge, Westfield, Sedlescombe, Ticehurst, Burwash and the rest of Rother.",
+   "mp": {
+    "slug": "bexhill-and-battle",
+    "name": "Dr Kieran Mullan",
+    "party": "Conservative",
+    "constituency": "Bexhill and Battle",
+    "website": "https://www.drkieranmullan.org.uk/",
+    "url": "/representatives/bexhill-and-battle/mp/",
+    "area_url": "/representatives/bexhill-and-battle/",
+    "contact": "https://members.parliament.uk/member/4860/contact",
+    "parliament": "https://members.parliament.uk/member/4860",
+    "portrait": "https://members-api.parliament.uk/api/Members/4860/Portrait?cropType=OneOne&webVersion=true",
+    "last30_text": "19 votes, 7 votes missed, 27 contributions, 6 written questions, 10 answers received"
+   },
+   "sections": [
+    {
+     "key": "rdc",
+     "name": "Rother District Council",
+     "contact": "https://www.rother.gov.uk/contact-us/",
+     "members": "https://rother.moderngov.co.uk/mgMemberIndex.aspx",
+     "kind": "ward",
+     "wards": [
+      {
+       "ward": "Bexhill Central",
+       "people": [
+        {
+         "name": "Christine Bayliss",
+         "party": "Labour",
+         "ward": "Bexhill Central",
+         "keyposts": "Cabinet Member",
+         "photo": "https://Rother.moderngov.co.uk/UserData/9/6/4/Info00000469/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.christine.bayliss@rother.gov.uk",
+         "url": "/representatives/rother-district/christine-bayliss/",
+         "attendance_text": "19 of 21 meetings (90%)"
+        },
+        {
+         "name": "Ruairi McCourt",
+         "party": "Labour",
+         "ward": "Bexhill Central",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/9/4/9/Info00001949/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Ruairi.McCourt@rother.gov.uk",
+         "url": "/representatives/rother-district/ruairi-mccourt/",
+         "attendance_text": "11 of 20 meetings (55%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill Collington",
+       "people": [
+        {
+         "name": "Ashan Jeeawon",
+         "party": "Rother Association of Independent Councillors",
+         "ward": "Bexhill Collington",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/6/7/4/Info00000476/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.ashan.jeeawon@rother.gov.uk",
+         "url": "/representatives/rother-district/ashan-jeeawon/",
+         "attendance_text": "12 of 18 meetings (67%)"
+        },
+        {
+         "name": "Doug Oliver",
+         "party": "Rother Association of Independent Councillors",
+         "ward": "Bexhill Collington",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/7/1/1/Info00000117/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.doug.oliver@rother.gov.uk",
+         "url": "/representatives/rother-district/doug-oliver/",
+         "attendance_text": "22 of 22 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill Kewhurst",
+       "people": [
+        {
+         "name": "Andrew Hayward",
+         "party": "Rother Association of Independent Councillors",
+         "ward": "Bexhill Kewhurst",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/7/5/9/Info00001957/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Andrew.Hayward@rother.gov.uk",
+         "url": "/representatives/rother-district/andrew-hayward/",
+         "attendance_text": "9 of 11 meetings (82%)"
+        },
+        {
+         "name": "Brian Drayson",
+         "party": "Rother Association of Independent Councillors",
+         "ward": "Bexhill Kewhurst",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/1/6/4/Info00000461/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.brian.drayson@rother.gov.uk",
+         "url": "/representatives/rother-district/brian-drayson/",
+         "attendance_text": "15 of 15 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill Old Town & Worsham",
+       "people": [
+        {
+         "name": "Mark Legg",
+         "party": "Labour",
+         "ward": "Bexhill Old Town & Worsham",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/0/9/9/Info00001990/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Mark.Legg@rother.gov.uk",
+         "url": "/representatives/rother-district/mark-legg/",
+         "attendance_text": "9 of 10 meetings (90%)"
+        },
+        {
+         "name": "Polly Gray",
+         "party": "Green",
+         "ward": "Bexhill Old Town & Worsham",
+         "keyposts": "Green Group Leader",
+         "photo": "https://Rother.moderngov.co.uk/UserData/5/7/4/Info00000475/bigpic.png",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.polly.gray@rother.gov.uk",
+         "url": "/representatives/rother-district/polly-gray/",
+         "attendance_text": "29 of 29 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill Pebsham & St Michaels",
+       "people": [
+        {
+         "name": "Charles Clark",
+         "party": "Independent",
+         "ward": "Bexhill Pebsham & St Michaels",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/0/3/1/Info00000130/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.charles.clark@rother.gov.uk",
+         "url": "/representatives/rother-district/charles-clark/",
+         "attendance_text": "12 of 13 meetings (92%)"
+        },
+        {
+         "name": "Gareth Delany",
+         "party": "Labour",
+         "ward": "Bexhill Pebsham & St Michaels",
+         "keyposts": "Labour Group Leader",
+         "photo": "https://Rother.moderngov.co.uk/UserData/0/6/9/Info00001960/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Gareth.Delany@rother.gov.uk",
+         "url": "/representatives/rother-district/gareth-delany/",
+         "attendance_text": "22 of 25 meetings (88%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill Sackville",
+       "people": [
+        {
+         "name": "Hazel Timpe",
+         "party": "Rother Association of Independent Councillors",
+         "ward": "Bexhill Sackville",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/2/8/4/Info00000482/bigpic.png",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.hazel.timpe@rother.gov.uk",
+         "url": "/representatives/rother-district/hazel-timpe/",
+         "attendance_text": "18 of 21 meetings (86%)"
+        },
+        {
+         "name": "Terry Byrne",
+         "party": "Rother Association of Independent Councillors",
+         "ward": "Bexhill Sackville",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/0/7/4/Info00000470/bigpic.png",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.terry.byrne@rother.gov.uk",
+         "url": "/representatives/rother-district/terry-byrne/",
+         "attendance_text": "25 of 27 meetings (93%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill Sidley",
+       "people": [
+        {
+         "name": "Fazlul Chowdhury",
+         "party": "Labour",
+         "ward": "Bexhill Sidley",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/5/6/9/Info00001965/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Fazlul.Chowdhury@rother.gov.uk",
+         "url": "/representatives/rother-district/fazlul-chowdhury/",
+         "attendance_text": "27 of 32 meetings (84%)"
+        },
+        {
+         "name": "Sam Coleman",
+         "party": "Labour",
+         "ward": "Bexhill Sidley",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/2/7/4/Info00000472/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.sam.coleman@rother.gov.uk",
+         "url": "/representatives/rother-district/sam-coleman/",
+         "attendance_text": "4 of 7 meetings (57%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill St Marks",
+       "people": [
+        {
+         "name": "Connor Winter",
+         "party": "Conservative",
+         "ward": "Bexhill St Marks",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/8/7/7/Info00001778/bigpic.png",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Connor.Winter@rother.gov.uk",
+         "url": "/representatives/rother-district/connor-winter/",
+         "attendance_text": "7 of 14 meetings (50%)"
+        },
+        {
+         "name": "Jimmy Stanger",
+         "party": "Conservative",
+         "ward": "Bexhill St Marks",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/6/5/7/Info00001756/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Jimmy.Stanger@rother.gov.uk",
+         "url": "/representatives/rother-district/jimmy-stanger/",
+         "attendance_text": "16 of 19 meetings (84%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill St Stephens",
+       "people": [
+        {
+         "name": "Arren Rathbone Ariel",
+         "party": "Green",
+         "ward": "Bexhill St Stephens",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/2/7/9/Info00001972/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Arren.Rathbone.Ariel@rother.gov.uk",
+         "url": "/representatives/rother-district/arren-rathbone-ariel/",
+         "attendance_text": "20 of 20 meetings (100%)"
+        },
+        {
+         "name": "Richard Thomas",
+         "party": "Liberal Democrats",
+         "ward": "Bexhill St Stephens",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/1/8/4/Info00000481/bigpic.png",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.richard.thomas@rother.gov.uk",
+         "url": "/representatives/rother-district/richard-thomas/",
+         "attendance_text": "17 of 20 meetings (85%)"
+        }
+       ]
+      },
+      {
+       "ward": "Brede & Udimore",
+       "people": [
+        {
+         "name": "Neil Gordon",
+         "party": "Conservative",
+         "ward": "Brede & Udimore",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/0/5/8/Info00001850/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": null,
+         "url": "/representatives/rother-district/neil-gordon/",
+         "attendance_text": "5 of 10 meetings (50%)"
+        }
+       ]
+      },
+      {
+       "ward": "Burwash & the Weald",
+       "people": [
+        {
+         "name": "John Barnes (MBE)",
+         "party": "Conservative",
+         "ward": "Burwash & the Weald",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/6/1/1/Info00000116/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.john.barnes@rother.gov.uk",
+         "url": "/representatives/rother-district/john-barnes/",
+         "attendance_text": "20 of 21 meetings (95%)"
+        },
+        {
+         "name": "Mrs Eleanor Kirby-Green",
+         "party": "Conservative",
+         "ward": "Burwash & the Weald",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/4/3/1/Info00000134/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.eleanor.kirby-green@rother.gov.uk",
+         "url": "/representatives/rother-district/eleanor-kirby-green/",
+         "attendance_text": "12 of 12 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Catsfield & Crowhurst",
+       "people": [
+        {
+         "name": "Nicola McLaren",
+         "party": "Liberal Democrats",
+         "ward": "Catsfield & Crowhurst",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/7/2/2/Info00002227/bigpic.png",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2025-06-26",
+         "email": "cllr.nicola.mclaren@rother.gov.uk",
+         "url": "/representatives/rother-district/nicola-mclaren/",
+         "attendance_text": "19 of 21 meetings (90%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hurst Green & Ticehurst",
+       "people": [
+        {
+         "name": "Mrs Mary Barnes",
+         "party": "Conservative",
+         "ward": "Hurst Green & Ticehurst",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/3/1/1/Info00000113/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.mary.barnes@rother.gov.uk",
+         "url": "/representatives/rother-district/mary-barnes/",
+         "attendance_text": "22 of 23 meetings (96%)"
+        },
+        {
+         "name": "Teresa Killeen (MBE)",
+         "party": "Liberal Democrats",
+         "ward": "Hurst Green & Ticehurst",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/9/7/9/Info00001979/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Teresa.Killeen@rother.gov.uk",
+         "url": "/representatives/rother-district/teresa-killeen/",
+         "attendance_text": "25 of 27 meetings (93%)"
+        }
+       ]
+      },
+      {
+       "ward": "North Battle, Netherfield & Whatlington",
+       "people": [
+        {
+         "name": "Kathryn Field",
+         "party": "Liberal Democrats",
+         "ward": "North Battle, Netherfield & Whatlington",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/6/3/1/Info00000136/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.kathryn.field@rother.gov.uk",
+         "url": "/representatives/rother-district/kathryn-field/",
+         "attendance_text": "16 of 18 meetings (89%)"
+        },
+        {
+         "name": "Sue Burton",
+         "party": "Green",
+         "ward": "North Battle, Netherfield & Whatlington",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/1/4/7/Info00001741/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Sue.Burton@rother.gov.uk",
+         "url": "/representatives/rother-district/sue-burton/",
+         "attendance_text": "13 of 14 meetings (93%)"
+        }
+       ]
+      },
+      {
+       "ward": "Northern Rother",
+       "people": [
+        {
+         "name": "Tony Biggs",
+         "party": "Conservative",
+         "ward": "Northern Rother",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/1/9/9/Info00001991/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Tony.Biggs@rother.gov.uk",
+         "url": "/representatives/rother-district/tony-biggs/",
+         "attendance_text": "19 of 21 meetings (90%)"
+        },
+        {
+         "name": "Tony Ganly",
+         "party": "Conservative",
+         "ward": "Northern Rother",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/7/3/1/Info00000137/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.tony.ganly@rother.gov.uk",
+         "url": "/representatives/rother-district/tony-ganly/",
+         "attendance_text": "10 of 11 meetings (91%)"
+        }
+       ]
+      },
+      {
+       "ward": "Robertsbridge",
+       "people": [
+        {
+         "name": "Susan Prochak (MBE)",
+         "party": "Liberal Democrats",
+         "ward": "Robertsbridge",
+         "keyposts": "Liberal Democrats Group Leader",
+         "photo": "https://Rother.moderngov.co.uk/UserData/2/1/1/Info00000112/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": null,
+         "url": "/representatives/rother-district/susan-prochak/",
+         "attendance_text": "18 of 18 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Sedlescombe & Westfield",
+       "people": [
+        {
+         "name": "Beverley Coupar",
+         "party": "Liberal Democrats",
+         "ward": "Sedlescombe & Westfield",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/2/2/7/Info00001722/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "Cllr.Beverley.Coupar@rother.gov.uk",
+         "url": "/representatives/rother-district/beverley-coupar/",
+         "attendance_text": "8 of 20 meetings (40%)"
+        },
+        {
+         "name": "Carl Maynard",
+         "party": "Conservative",
+         "ward": "Sedlescombe & Westfield",
+         "keyposts": "Conservative Group Leader",
+         "photo": "https://Rother.moderngov.co.uk/UserData/9/3/1/Info00000139/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.carl.maynard@rother.gov.uk",
+         "url": "/representatives/rother-district/carl-maynard/",
+         "attendance_text": "11 of 13 meetings (85%)"
+        }
+       ]
+      },
+      {
+       "ward": "South Battle & Telham",
+       "people": [
+        {
+         "name": "Mrs Vikki Cook",
+         "party": "Liberal Democrats",
+         "ward": "South Battle & Telham",
+         "keyposts": null,
+         "photo": "https://Rother.moderngov.co.uk/UserData/1/7/4/Info00000471/bigpic.jpg",
+         "council": "Rother District Council",
+         "council_key": "rdc",
+         "since": "2023-05-09",
+         "email": "cllr.vikki.cook@rother.gov.uk",
+         "url": "/representatives/rother-district/vikki-cook/",
+         "attendance_text": "15 of 18 meetings (83%)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "escc",
+     "name": "East Sussex County Council",
+     "contact": "https://www.eastsussex.gov.uk/contact-us",
+     "members": "https://democracy.eastsussex.gov.uk/mgMemberIndex.aspx",
+     "kind": "division",
+     "wards": [
+      {
+       "ward": "Battle and Crowhurst",
+       "people": [
+        {
+         "name": "Kathryn Field",
+         "party": "Liberal Democrats",
+         "ward": "Battle and Crowhurst",
+         "keyposts": "Leader of the Liberal Democrat Group",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/2/2/0/Info00000022/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "1992-01-23",
+         "email": "cllr.kathryn.field@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/kathryn-field/",
+         "attendance_text": "24 of 27 meetings (89%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill East",
+       "people": [
+        {
+         "name": "Martin Kenward",
+         "party": "Reform UK",
+         "ward": "Bexhill East",
+         "keyposts": "Chairman of the County Council",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/8/9/2/Info00005298/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.martin.kenward@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/martin-kenward/",
+         "attendance_text": "3 of 3 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill North",
+       "people": [
+        {
+         "name": "Donald Walmsley",
+         "party": "Conservative",
+         "ward": "Bexhill North",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/4/9/2/Info00005294/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.donald.walmsley@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/donald-walmsley/",
+         "attendance_text": "8 of 8 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill South",
+       "people": [
+        {
+         "name": "Victoria Carson",
+         "party": "Reform UK",
+         "ward": "Bexhill South",
+         "keyposts": "Lead Member for Children and Families",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/0/1/3/Info00005310/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.victoria.carson@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/victoria-carson/",
+         "attendance_text": "7 of 8 meetings (88%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill West",
+       "people": [
+        {
+         "name": "Pete Morley",
+         "party": "Reform UK",
+         "ward": "Bexhill West",
+         "keyposts": "Deputy Leader of the Council and Lead Member for Economy",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/7/0/3/Info00005307/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.pete.morley@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/pete-morley/",
+         "attendance_text": "12 of 14 meetings (86%)"
+        }
+       ]
+      },
+      {
+       "ward": "Brede Valley and Marsham",
+       "people": [
+        {
+         "name": "Daniel Lach",
+         "party": "Reform UK",
+         "ward": "Brede Valley and Marsham",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/7/1/3/Info00005317/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.daniel.lach@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/daniel-lach/",
+         "attendance_text": "6 of 6 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Northern Rother",
+       "people": [
+        {
+         "name": "Paul Redstone",
+         "party": "Conservative",
+         "ward": "Northern Rother",
+         "keyposts": "Leader of the Conservative Group",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/4/0/3/Info00002304/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2021-05-06",
+         "email": "cllr.paul.redstone@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/paul-redstone/",
+         "attendance_text": "24 of 25 meetings (96%)"
+        }
+       ]
+      },
+      {
+       "ward": "Rother North West",
+       "people": [
+        {
+         "name": "Mark Ashdown",
+         "party": "Reform UK",
+         "ward": "Rother North West",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/2/1/3/Info00005312/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.mark.ashdown@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/mark-ashdown/",
+         "attendance_text": "5 of 5 meetings (100%)"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "councillors": 40,
+   "url": "/representatives/bexhill-and-battle/"
+  },
+  {
+   "slug": "east-sussex",
+   "name": "East Sussex County Council",
+   "county": true,
+   "groups": [
+    {
+     "name": "Hastings and Rye",
+     "url": "/representatives/hastings-and-rye/",
+     "wards": [
+      {
+       "ward": "Brede Valley and Marsham",
+       "people": [
+        {
+         "name": "Daniel Lach",
+         "party": "Reform UK",
+         "ward": "Brede Valley and Marsham",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/7/1/3/Info00005317/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.daniel.lach@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/daniel-lach/",
+         "attendance_text": "6 of 6 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Ashdown and Conquest",
+       "people": [
+        {
+         "name": "Aidan Fisher",
+         "party": "Reform UK",
+         "ward": "Hastings - Ashdown and Conquest",
+         "keyposts": "Chair of Planning Committee",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/0/3/1/Info00005130/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2025-11-20",
+         "email": "cllr.aidan.fisher@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/aidan-fisher/",
+         "attendance_text": "11 of 14 meetings (79%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Baird and Ore",
+       "people": [
+        {
+         "name": "Jo Walker",
+         "party": "Green Party",
+         "ward": "Hastings - Baird and Ore",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/9/0/3/Info00005309/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.jo.walker@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/jo-walker/",
+         "attendance_text": "8 of 9 meetings (89%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Braybrooke and Castle",
+       "people": [
+        {
+         "name": "Becca Horn",
+         "party": "Green Party",
+         "ward": "Hastings - Braybrooke and Castle",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/1/0/3/Info00005301/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.becca.horn@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/becca-horn/",
+         "attendance_text": "4 of 5 meetings (80%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Central St Leonards and Gensing",
+       "people": [
+        {
+         "name": "Amanda Jobson",
+         "party": "Green Party",
+         "ward": "Hastings - Central St Leonards and Gensing",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/7/2/3/Info00005327/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.amanda.jobson@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/amanda-jobson/",
+         "attendance_text": "3 of 3 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Hollington and Wishing Tree",
+       "people": [
+        {
+         "name": "Mark Estcourt",
+         "party": "Reform UK",
+         "ward": "Hastings - Hollington and Wishing Tree",
+         "keyposts": "Lead Member for Adult Social Care and Health",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/2/2/3/Info00005322/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.mark.estcourt@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/mark-estcourt/",
+         "attendance_text": "12 of 13 meetings (92%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Maze Hill and West St Leonards",
+       "people": [
+        {
+         "name": "Karen Simnett",
+         "party": "Green Party",
+         "ward": "Hastings - Maze Hill and West St Leonards",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/5/9/2/Info00005295/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.karen.simnett@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/karen-simnett/",
+         "attendance_text": "5 of 7 meetings (71%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - Old Hastings and Tressell",
+       "people": [
+        {
+         "name": "Julia Hilton",
+         "party": "Green Party",
+         "ward": "Hastings - Old Hastings and Tressell",
+         "keyposts": "Leader of the Green Party Group and Chair of Place Scrutiny Committee",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/2/0/3/Info00002302/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2021-05-06",
+         "email": "cllr.julia.hilton@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/julia-hilton/",
+         "attendance_text": "8 of 12 meetings (67%)"
+        }
+       ]
+      },
+      {
+       "ward": "Hastings - St Helens and Silverhill",
+       "people": [
+        {
+         "name": "Shaun Dowling",
+         "party": "Green Party",
+         "ward": "Hastings - St Helens and Silverhill",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/6/1/3/Info00005316/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.shaun.dowling@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/shaun-dowling/",
+         "attendance_text": "7 of 8 meetings (88%)"
+        }
+       ]
+      },
+      {
+       "ward": "Rye and Eastern Rother",
+       "people": [
+        {
+         "name": "Daniel Bradley",
+         "party": "Independent",
+         "ward": "Rye and Eastern Rother",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/8/0/3/Info00005308/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.daniel.bradley@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/daniel-bradley/",
+         "attendance_text": "5 of 6 meetings (83%)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Bexhill and Battle",
+     "url": "/representatives/bexhill-and-battle/",
+     "wards": [
+      {
+       "ward": "Battle and Crowhurst",
+       "people": [
+        {
+         "name": "Kathryn Field",
+         "party": "Liberal Democrats",
+         "ward": "Battle and Crowhurst",
+         "keyposts": "Leader of the Liberal Democrat Group",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/2/2/0/Info00000022/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "1992-01-23",
+         "email": "cllr.kathryn.field@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/kathryn-field/",
+         "attendance_text": "24 of 27 meetings (89%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill East",
+       "people": [
+        {
+         "name": "Martin Kenward",
+         "party": "Reform UK",
+         "ward": "Bexhill East",
+         "keyposts": "Chairman of the County Council",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/8/9/2/Info00005298/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.martin.kenward@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/martin-kenward/",
+         "attendance_text": "3 of 3 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill North",
+       "people": [
+        {
+         "name": "Donald Walmsley",
+         "party": "Conservative",
+         "ward": "Bexhill North",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/4/9/2/Info00005294/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.donald.walmsley@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/donald-walmsley/",
+         "attendance_text": "8 of 8 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill South",
+       "people": [
+        {
+         "name": "Victoria Carson",
+         "party": "Reform UK",
+         "ward": "Bexhill South",
+         "keyposts": "Lead Member for Children and Families",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/0/1/3/Info00005310/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.victoria.carson@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/victoria-carson/",
+         "attendance_text": "7 of 8 meetings (88%)"
+        }
+       ]
+      },
+      {
+       "ward": "Bexhill West",
+       "people": [
+        {
+         "name": "Pete Morley",
+         "party": "Reform UK",
+         "ward": "Bexhill West",
+         "keyposts": "Deputy Leader of the Council and Lead Member for Economy",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/7/0/3/Info00005307/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.pete.morley@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/pete-morley/",
+         "attendance_text": "12 of 14 meetings (86%)"
+        }
+       ]
+      },
+      {
+       "ward": "Brede Valley and Marsham",
+       "people": [
+        {
+         "name": "Daniel Lach",
+         "party": "Reform UK",
+         "ward": "Brede Valley and Marsham",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/7/1/3/Info00005317/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.daniel.lach@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/daniel-lach/",
+         "attendance_text": "6 of 6 meetings (100%)"
+        }
+       ]
+      },
+      {
+       "ward": "Northern Rother",
+       "people": [
+        {
+         "name": "Paul Redstone",
+         "party": "Conservative",
+         "ward": "Northern Rother",
+         "keyposts": "Leader of the Conservative Group",
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/4/0/3/Info00002304/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2021-05-06",
+         "email": "cllr.paul.redstone@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/paul-redstone/",
+         "attendance_text": "24 of 25 meetings (96%)"
+        }
+       ]
+      },
+      {
+       "ward": "Rother North West",
+       "people": [
+        {
+         "name": "Mark Ashdown",
+         "party": "Reform UK",
+         "ward": "Rother North West",
+         "keyposts": null,
+         "photo": "https://democracy.eastsussex.gov.uk/UserData/2/1/3/Info00005312/bigpic.jpg",
+         "council": "East Sussex County Council",
+         "council_key": "escc",
+         "since": "2026-05-07",
+         "email": "cllr.mark.ashdown@eastsussex.gov.uk",
+         "url": "/representatives/east-sussex-county/mark-ashdown/",
+         "attendance_text": "5 of 5 meetings (100%)"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "contact": "https://www.eastsussex.gov.uk/contact-us",
+   "members": "https://democracy.eastsussex.gov.uk/mgMemberIndex.aspx",
+   "councillors": 17,
+   "url": "/representatives/east-sussex/"
   }
  ]
 }

@@ -1,0 +1,58 @@
+---
+layout: default
+---
+{%- assign A = site.data.areas[page.area] -%}
+<section class="narrow">
+<header class="page-head">
+  <p class="eyebrow"><a href="{{ '/representatives/' | relative_url }}">Who represents you</a></p>
+  <h1>{{ A.name }}</h1>
+  {%- if A.county %}
+  <p class="muted">The county council runs schools, social care, roads and transport, libraries and waste disposal. These are the county councillors for Hastings, Rye, Bexhill, Battle and the Rother villages; each name links to their record.</p>
+  {%- else %}
+  <p class="muted">{{ A.about }} Each name links to their own page, with their record and how to contact them.</p>
+  {%- endif %}
+</header>
+
+{%- if A.mp %}{% assign mp = A.mp %}
+<section class="rep-mps">
+  <article class="rep-mp">
+    <a href="{{ mp.url | relative_url }}"><img class="portrait" src="{{ mp.portrait }}" width="96" height="96" alt="Official portrait of {{ mp.name }}" loading="lazy"></a>
+    <div>
+      <p class="eyebrow">MP for {{ mp.constituency }}</p>
+      <h2><a href="{{ mp.url | relative_url }}">{{ mp.name }}</a></h2>
+      <p class="muted">{{ mp.party }} · last 30 days: {{ mp.last30_text }}</p>
+      <p class="actions">
+        <a class="button" href="{{ mp.url | relative_url }}">Profile and voting record</a>
+        <a class="button ghost" href="{{ mp.contact }}">Contact</a>
+        {%- if mp.website %} <a class="button ghost" href="{{ mp.website }}">Website</a>{% endif %}
+      </p>
+    </div>
+  </article>
+</section>
+{%- endif %}
+
+{%- for c in A.sections %}
+<section class="block council">
+  <div class="section-head"><h2>{{ c.name }}</h2></div>
+  <p class="actions">
+    {%- if c.contact %}<a class="button ghost" href="{{ c.contact }}">Contact the council</a>{% endif %}
+    {%- if c.key == "escc" %} <a class="button ghost" href="{{ '/representatives/east-sussex/' | relative_url }}">All our county councillors</a>{% else %} <a class="button ghost" href="{{ c.members }}">All councillors</a>{% endif %}
+  </p>
+  {%- if c.key == "rdc" and A.slug == "hastings-and-rye" %}<p class="muted small">Rye, Winchelsea, Camber, Fairlight and the eastern villages are in Rother District but in the Hastings and Rye constituency. The rest of Rother is on the <a href="{{ '/representatives/bexhill-and-battle/' | relative_url }}">Bexhill and Battle</a> page.</p>{% endif %}
+  {%- if c.key == "rdc" and A.slug == "bexhill-and-battle" %}<p class="muted small">Rother's wards around Rye, Winchelsea and Fairlight are in the Hastings and Rye constituency: see the <a href="{{ '/representatives/hastings-and-rye/' | relative_url }}">Hastings and Rye</a> page.</p>{% endif %}
+  {%- include cllr-wards.html wards=c.wards kind=c.kind %}
+</section>
+{%- endfor %}
+
+{%- for g in A.groups %}
+<section class="block council">
+  <div class="section-head"><h2>{{ g.name }}</h2></div>
+  <p class="muted small"><a href="{{ g.url | relative_url }}">Everyone who represents {{ g.name }}</a></p>
+  {%- include cllr-wards.html wards=g.wards kind="division" %}
+</section>
+{%- endfor %}
+{%- if A.county %}
+<p class="actions">{% if A.contact %}<a class="button ghost" href="{{ A.contact }}">Contact the county council</a>{% endif %} <a class="button ghost" href="{{ A.members }}">All county councillors</a></p>
+<p class="muted small">Brede Valley and Marsham straddles both constituencies, so it appears under each.</p>
+{%- endif %}
+</section>

@@ -2,59 +2,28 @@
 layout: default
 title: Who represents you
 permalink: /representatives/
-description: The MPs for Hastings and Rye and for Bexhill and Battle, and the local councillors, with links to contact them. Checked every day.
+description: The MPs for Hastings and Rye and for Bexhill and Battle, and the borough, district and county councillors, with their records and how to contact them. Checked every day.
 ---
 {%- assign R = site.data.reps -%}
 <section class="narrow">
 <header class="page-head">
   <h1>Who represents you</h1>
-  <p class="muted">Checked every day against Parliament and the councils, so this page changes when the people do. Each name links to their own page here, with their record and how to contact them.</p>
+  <p class="muted">The area has two MPs, and three councils share the local work: Hastings Borough Council, Rother District Council and East Sussex County Council. Choose your area. Everything here is checked every day against Parliament and the councils, so it changes when the people do.</p>
 </header>
-{%- if R.mps.size > 0 %}
-<section class="rep-mps">
-  {%- for mp in R.mps %}
-  <article class="rep-mp">
-    <a href="{{ mp.url | relative_url }}"><img class="portrait" src="{{ mp.portrait }}" width="96" height="96" alt="Official portrait of {{ mp.name }}" loading="lazy"></a>
-    <div>
-      <p class="eyebrow">MP for {{ mp.constituency }}</p>
-      <h2><a href="{{ mp.url | relative_url }}">{{ mp.name }}</a></h2>
-      <p class="muted">{{ mp.party }} · last 30 days: {{ mp.last30_text }}</p>
-      <p class="actions">
-        <a class="button" href="{{ mp.url | relative_url }}">Profile and voting record</a>
-        <a class="button ghost" href="{{ mp.contact }}">Contact</a>
-        {%- if mp.website %} <a class="button ghost" href="{{ mp.website }}">Website</a>{% endif %}
-      </p>
-    </div>
-  </article>
+<div class="areas">
+  {%- for a in R.areas %}
+  <a class="area-tile" href="{{ a.url | relative_url }}">
+    {%- if a.mp %}<img class="portrait" src="{{ a.mp.portrait }}" width="96" height="96" alt="" loading="lazy">{% else %}<span class="area-badge" aria-hidden="true">ESCC</span>{% endif %}
+    <span>
+      <span class="eyebrow">{% if a.county %}County council{% else %}Constituency{% endif %}</span>
+      <strong>{{ a.name }}</strong>
+      <span class="muted small">{% if a.mp %}MP {{ a.mp.name }} ({{ a.mp.party }}) · {{ a.councillors }} councillors{% else %}{{ a.councillors }} county councillors for this area{% endif %}</span>
+      {%- if a.about %}<span class="small">{{ a.about }}</span>{% endif %}
+    </span>
+  </a>
   {%- endfor %}
-  <p class="muted small">Rye and Hastings are in Hastings and Rye; Bexhill, Battle and most of the Rother villages are in Bexhill and Battle.</p>
-</section>
-{%- endif %}
-{%- for c in R.councils %}
-<section class="block council">
-  <div class="section-head"><h2>{{ c.name }}</h2></div>
-  <p class="actions">
-    {%- if c.contact %}<a class="button ghost" href="{{ c.contact }}">Contact the council</a>{% endif %}
-    <a class="button ghost" href="{{ c.members }}">All councillors</a>
-  </p>
-  {%- for w in c.wards %}
-  <h3 class="ward-name">{{ w.ward }}</h3>
-  <ul class="cllrs">
-    {%- for p in w.people %}
-    <li class="cllr">
-      {%- if p.photo %}<img class="portrait portrait-sm" src="{{ p.photo }}" width="56" height="56" alt="" loading="lazy" referrerpolicy="no-referrer">{% else %}<span class="portrait portrait-sm"></span>{% endif %}
-      <div>
-        {% if p.url %}<a href="{{ p.url | relative_url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
-        {%- if p.party %}<span class="muted"> · {{ p.party }}</span>{% endif %}
-        {%- if p.keyposts %}<div class="small">{{ p.keyposts }}</div>{% endif %}
-        {%- if p.attendance_text %}<div class="muted small">Attended {{ p.attendance_text }} in the last year</div>{% endif %}
-      </div>
-    </li>
-    {%- endfor %}
-  </ul>
-  {%- endfor %}
-</section>
-{%- endfor %}
+</div>
+<p class="muted small">Not sure which? Hastings, St Leonards, Rye, Winchelsea, Camber and Fairlight are in Hastings and Rye; Bexhill, Battle and most of the Rother villages are in Bexhill and Battle.</p>
 {%- if R.changes.size > 0 %}
 <section class="block">
   <div class="section-head"><h2>Recent changes</h2></div>

@@ -5,7 +5,7 @@ layout: default
 {%- assign mentions = site.stories | where_exp: "s", "s.content contains page.person" | sort: "date" | reverse -%}
 <article class="narrow mp-page">
 <header class="page-head mp-head">
-  <p class="eyebrow"><a href="{{ '/representatives/' | relative_url }}">Who represents you</a></p>
+  <p class="eyebrow"><a href="{{ '/representatives/' | relative_url }}">Who represents you</a>{% if M.area_url %} · <a href="{{ M.area_url | relative_url }}">{{ M.constituency }}</a>{% endif %}</p>
   <img class="portrait portrait-lg" src="{{ M.portrait }}" width="160" height="160" alt="Official portrait of {{ M.name }}">
   <h1>{{ M.name }}</h1>
   <p class="muted">{{ M.party }} MP for {{ M.constituency }}</p>
