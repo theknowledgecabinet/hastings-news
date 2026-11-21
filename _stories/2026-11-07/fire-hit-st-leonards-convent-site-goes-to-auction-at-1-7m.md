@@ -3,6 +3,7 @@ layout: story
 title: Fire-hit St Leonards convent site goes to auction at £1.7m
 permalink: /2026/11/07/fire-hit-st-leonards-convent-site-goes-to-auction-at-1-7m/
 date: 2026-11-07 08:28:26 +0000
+updated: '2026-11-20T18:30:00+00:00'
 sid: 127
 day: '2026-11-07'
 edition: morning
@@ -25,6 +26,13 @@ what_next: The vacant freehold site goes under the hammer on 16 December.
 sources:
 - url: https://www.theargus.co.uk/news/26706062.st-leonards-convent-damaged-major-fire-auction/?ref=rss
   name: The Argus
+updates:
+- date: '2026-11-20T18:30:00+00:00'
+  edition: evening
+  text: The convent's sale will go ahead at auction on 16 December after a Hastings Borough Council panel rejected Save The Convent's application to register the site as an Asset of Community Value, on the grounds that it had formerly been used as a language school. The 11.7 acre site in Magdalen Road is expected to sell at a guide price of £1.7m, in line with its local plan allocation for up to 200 new homes with heritage protection for its Grade II and II* listed buildings.
+  sources:
+  - url: https://www.hastingsindependentpress.co.uk/articles/news/convent-auction-to-proceed/
+    name: Hastings Independent Press
 image:
   card:
     url: /assets/media/story/127/card.webp

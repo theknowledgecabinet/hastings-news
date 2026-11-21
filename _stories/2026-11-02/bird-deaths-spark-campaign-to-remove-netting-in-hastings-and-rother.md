@@ -3,6 +3,7 @@ layout: story
 title: Bird deaths spark campaign to remove netting in Hastings and Rother
 permalink: /2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/
 date: 2026-11-02 19:24:23 +0000
+updated: '2026-11-20T18:30:00+00:00'
 sid: 83
 day: '2026-11-02'
 edition: evening
@@ -29,6 +30,13 @@ sources:
 - url: https://www.sussexexpress.co.uk/news/people/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother-9324165
   name: Hastings Observer
 comment: The rescue of Hattrick has given the campaign a face, and that helps a fairly dull-sounding safety issue get a hearing. Whether the rest of the town's buildings follow the library's example is the real test.
+updates:
+- date: '2026-11-20T18:30:00+00:00'
+  edition: evening
+  text: East Sussex County Council has confirmed all netting will be wholly removed from Hastings Library once a suitable contractor is found, after a senior council officer wrote to the campaign group apologising for the deaths of the trapped birds. At least nine pigeons were found dead at the four-storey library last month; one surviving pigeon, named Hat-trick, was rescued with the help of Bexhill crane business Coussens and taken into care at RSPCA Mallydams Wood. The group is also pressing B&Q at Ravenside, Bexhill, and the managers of Friston House and Waverley Court in St Leonards to remove their netting.
+  sources:
+  - url: https://www.hastingsindependentpress.co.uk/articles/news/bird-campaigners-seek-netting-removals/
+    name: Hastings Independent Press
 image:
   card:
     url: /assets/media/story/83/card.webp
