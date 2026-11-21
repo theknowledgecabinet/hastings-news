@@ -1,0 +1,23 @@
+{%- assign m = include.m -%}
+<section class="acc-vote">
+  <h3 class="acc-h3"><a href="{{ m.url }}">{{ m.committee }}</a> <span class="muted small">{{ m.day | date: "%A %-d %B" }}{% if m.time != "" %}, {{ m.time }}{% endif %} · {% if m.minutes %}minutes published{% elsif m.decisions %}decisions published{% else %}no minutes yet{% endif %}</span></h3>
+  {%- if m.attendance_by_party.size > 0 %}
+  {%- for a in m.attendance_by_party %}{% assign tot = a.present | plus: a.apologies | plus: a.absent %}
+  <div class="acc-vote-row"><span class="acc-bar-label">{{ a.party }} <span class="muted">({{ tot }})</span></span>
+    <span class="seg seg-thin" role="img" aria-label="{{ a.party }}: {{ a.present }} present, {{ a.apologies }} apologies, {{ a.absent }} absent">
+      {%- if a.present > 0 %}<span class="seg-part s1" style="flex: {{ a.present }}" tabindex="0" data-tip="{{ a.party }}: {{ a.present }} present"></span>{% endif %}
+      {%- if a.apologies > 0 %}<span class="seg-part s2" style="flex: {{ a.apologies }}" tabindex="0" data-tip="{{ a.party }}: {{ a.apologies }} apologies"></span>{% endif %}
+      {%- if a.absent > 0 %}<span class="seg-part s3" style="flex: {{ a.absent }}" tabindex="0" data-tip="{{ a.party }}: {{ a.absent }} absent"></span>{% endif %}
+    </span></div>
+  {%- endfor %}
+  <ul class="legend"><li><i class="key s1"></i>Present</li><li><i class="key s2"></i>Apologies</li><li><i class="key s3"></i>Absent</li></ul>
+  {%- endif %}
+  {%- if m.apologies.size > 0 %}<p class="small">Apologies: {{ m.apologies | join: ", " }}.</p>{% endif %}
+  {%- if m.absent.size > 0 %}<p class="small">Absent: {{ m.absent | join: ", " }}.</p>{% endif %}
+  {%- if include.area_only and m.area_councillors.size > 0 %}<p class="small">This area's councillors present: {{ m.area_councillors | join: ", " }}.</p>{% endif %}
+  {%- if m.business.size > 0 %}
+  <ul>{% for it in m.business %}<li><strong>{{ it.title }}</strong>{% if it.decision %} <span class="badge">decision</span>{% endif %}{% if it.local %} <span class="badge">mentions the area</span>{% endif %}{% if it.text != "" %}<div class="muted small">{{ it.text }}</div>{% endif %}</li>{% endfor %}</ul>
+  {%- endif %}
+  {%- for d in m.declarations %}<p class="small">Interest declared by {{ d.name }} ({{ d.party }}): {{ d.text }}</p>{% endfor %}
+  {%- for v in m.votes %}<p class="small"><strong>Named vote</strong> on {{ v.item }}: {{ v.result }}, {{ v.for }} for, {{ v.against }} against, {{ v.abstain }} abstained. {% for p in v.parties %}{{ p.party }}: {{ p.for }}/{{ p.against }}/{{ p.abstain }}{% unless forloop.last %}; {% endunless %}{% endfor %} (for/against/abstained).</p>{% endfor %}
+</section>

@@ -8,7 +8,7 @@
   </div>
   {%- endif %}
   <div>
-    <span class="kicker">{{ s.section_label }}</span>
+    <span class="kicker">{% if s.series_label %}{{ s.series_label }}{% else %}{{ s.section_label }}{% endif %}</span>
     <h3>{{ s.title }}</h3>
     <p class="card-meta">{{ s.date | date: "%a %-d %b" }} · {{ s.places | map: "name" | join: ", " }}{% if s.updated %} · <span class="badge">Updated</span>{% endif %}</p>
   </div>

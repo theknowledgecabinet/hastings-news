@@ -22,6 +22,14 @@ description: How the area's MPs and councillors attend, vote and take part, pers
   </details>
 </header>
 
+{%- assign reports = site.stories | where: "series", "accountability" | sort: "date" | reverse -%}
+{%- if reports.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>Sunday reports</h2></div>
+  <p class="muted">Every Sunday our political reporter writes up the week for each MP and each council: who voted and attended, what the political groups did, and what is coming up. Each report links to the week's full factual record.</p>
+  <div class="grid">{% for st in reports limit: 10 %}{% include card.html story=st %}{% endfor %}</div>
+</section>
+{%- endif %}
 {%- if A.mps.size > 0 %}
 <section class="block">
   <div class="section-head"><h2>The MPs</h2></div>

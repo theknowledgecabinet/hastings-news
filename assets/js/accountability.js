@@ -3,10 +3,8 @@
 // charts (drawn from the same rows), filtering, sorting and the shared tooltip.
 (() => {
   const root = document.querySelector(".acc");
+  if (!root) return;
   const dataEl = document.getElementById("acc-data");
-  if (!root || !dataEl) return;
-  let rows;
-  try { rows = JSON.parse(dataEl.textContent); } catch { return; }
   const base = document.body.dataset.base || "";
   const MIN = 3;
   const el = (tag, cls, text) => {
@@ -48,6 +46,14 @@
   });
   root.addEventListener("focusout", hideTip);
   window.addEventListener("scroll", hideTip, { passive: true });
+
+  // static segmented bars: hide share labels that don't fit
+  root.querySelectorAll(".seg-tall .seg-label").forEach((l) => {
+    l.hidden = l.scrollWidth + 12 > l.parentElement.clientWidth;
+  });
+  if (!dataEl) return;   // a page with only static charts (weekly records)
+  let rows;
+  try { rows = JSON.parse(dataEl.textContent); } catch { return; }
 
   // ------------------------------------------------------------ filters
   const filters = { council: "", area: "" };
@@ -240,8 +246,4 @@
   }
   render();
 
-  // static segmented bars (MP agreement): hide share labels that don't fit
-  root.querySelectorAll(".seg-tall .seg-label").forEach((l) => {
-    l.hidden = l.scrollWidth + 12 > l.parentElement.clientWidth;
-  });
 })();

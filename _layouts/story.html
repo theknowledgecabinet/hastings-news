@@ -5,6 +5,7 @@ layout: default
   <header>
     <p class="meta">
       <a class="chip" href="{{ '/section/' | append: page.section | append: '/' | relative_url }}">{{ page.section_label }}</a>
+      {%- if page.series_label %}<a class="chip" href="{{ '/accountability/' | relative_url }}">{{ page.series_label }}</a>{% endif %}
       {%- for pl in page.places %}<a class="place" href="{{ '/place/' | append: pl.slug | append: '/' | relative_url }}">{{ pl.name }}</a>{% endfor %}
     </p>
     <h1>{{ page.title }}</h1>
@@ -27,6 +28,9 @@ layout: default
   {%- endif %}
 
   <section class="prose">{{ content }}</section>
+  {%- if page.series_record %}
+  <p class="muted small">This weekly report is written by our AI political reporter from <a href="{{ page.series_record | relative_url }}">the week's factual record</a>, which lists every vote, meeting and agenda it draws on with a link to the original. See everyone's attendance and votes on the <a href="{{ '/accountability/' | relative_url }}">political accountability page</a>.</p>
+  {%- endif %}
 
   {%- if page.what_next %}
   <section class="try"><h2>What happens next</h2>{{ page.what_next | markdownify }}</section>
