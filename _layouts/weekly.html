@@ -73,6 +73,13 @@ layout: default
 </section>
 {%- endif %}
 
+{%- if R.ombudsman.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>Ombudsman decisions</h2></div>
+  <ul>{% for o in R.ombudsman %}<li><a href="{{ o.url }}">{{ o.title }}</a><div class="muted small">{{ o.summary }}</div></li>{% endfor %}</ul>
+</section>
+{%- endif %}
+
 <section class="block">
   <div class="section-head"><h2>Coming up</h2></div>
   {%- if R.ahead.size == 0 %}<p class="muted">No meetings are listed for the next fortnight.</p>{% endif %}
