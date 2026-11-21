@@ -2,7 +2,7 @@
  "day": "2026-11-21",
  "label": "Saturday 21 November 2026",
  "issue": 32,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-21",
@@ -28,16 +28,16 @@
    "code": 3,
    "words": "cloudy",
    "icon": "☁️",
-   "high": 10,
-   "low": 4,
-   "rain_chance": 21,
+   "high": 9,
+   "low": 5,
+   "rain_chance": 12,
    "rain_mm": 0.0,
-   "wind": 15,
-   "gusts": 31,
+   "wind": 14,
+   "gusts": 30,
    "direction": "easterly",
    "sunrise": "07:24",
    "sunset": "16:02",
-   "summary": "Cloudy. A high of 10°C and a low of 4°C, a moderate breeze from the east, gusting 31 mph. Sunrise 07:24, sunset 16:02.",
+   "summary": "Cloudy. A high of 9°C and a low of 5°C, a moderate breeze from the east, gusting 30 mph. Sunrise 07:24, sunset 16:02.",
    "label": "Tomorrow",
    "weekday": "Sun 22 Nov",
    "long": "Sunday 22 November"
@@ -65,23 +65,43 @@
     "sunset": "16:03",
     "summary": "Light drizzle possible (2% chance). A high of 10°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-21",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 10,
+    "low": 4,
+    "rain_chance": 1,
+    "rain_mm": 0.0,
+    "wind": 10,
+    "gusts": 20,
+    "direction": "easterly",
+    "sunrise": "07:23",
+    "sunset": "16:03",
+    "summary": "Cloudy. A high of 10°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03."
+   }
   }
  ],
  "weather": {
   "day": "2026-11-21",
-  "code": 51,
-  "words": "light drizzle",
-  "icon": "🌦️",
+  "code": 3,
+  "words": "cloudy",
+  "icon": "☁️",
   "high": 10,
   "low": 4,
-  "rain_chance": 2,
-  "rain_mm": 0.1,
-  "wind": 11,
-  "gusts": 24,
+  "rain_chance": 1,
+  "rain_mm": 0.0,
+  "wind": 10,
+  "gusts": 20,
   "direction": "easterly",
   "sunrise": "07:23",
   "sunset": "16:03",
-  "summary": "Light drizzle possible (2% chance). A high of 10°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03."
+  "summary": "Cloudy. A high of 10°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03."
  },
  "briefing": {
   "day": "2026-11-20",

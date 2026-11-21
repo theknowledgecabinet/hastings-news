@@ -6,7 +6,23 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 21 Nov 2026 07:28:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 12:53:43 +0000</lastBuildDate>
+  <item>
+    <title>Bexhill pedestrian safety improved with relocated Sea Road zebra crossing</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/21/bexhill-pedestrian-safety-improved-with-relocated-sea-road-zebra/</link>
+    <guid isPermaLink="false">story-245</guid>
+    <pubDate>Sat, 21 Nov 2026 12:53:43 +0000</pubDate>
+    <category>Council</category>
+    <description>A zebra crossing in Bexhill has been moved and widened after work to improve pedestrian safety on Sea Road was completed, the county council has confirmed.</description>
+  </item>
+  <item>
+    <title>Rother residents asked for views on waste and recycling collections</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/21/rother-residents-asked-for-views-on-waste-and-recycling-collections/</link>
+    <guid isPermaLink="false">story-246</guid>
+    <pubDate>Sat, 21 Nov 2026 12:53:43 +0000</pubDate>
+    <category>Council</category>
+    <description>Residents across Rother are being asked for their views on the district&#x27;s waste and recycling collections, Rother District Council has said.</description>
+  </item>
   <item>
     <title>Hastings water supply under pressure as reservoir stands at 41 per cent</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/21/hastings-water-supply-under-pressure-as-reservoir-stands-at-41-per/</link>
@@ -390,22 +406,6 @@
     <pubDate>Thu, 29 Oct 2026 19:27:04 +0000</pubDate>
     <category>Council</category>
     <description>Residents of Rother are set to be consulted on how the council will balance its 2027/28 budget, after Cabinet agreed on 26 October to consult staff, the public and, for the first time, individual organisations likely to be affected by savings decisions.</description>
-  </item>
-  <item>
-    <title>New road signs installed in Bexhill for horse and rider safety</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/</link>
-    <guid isPermaLink="false">story-52</guid>
-    <pubDate>Thu, 29 Oct 2026 12:43:07 +0000</pubDate>
-    <category>Council</category>
-    <description>New road signs have been installed in Bexhill as part of a campaign to make roads safer for horses and riders, a town councillor said.</description>
-  </item>
-  <item>
-    <title>New litter bins appear in Hastings under Pride in Place funding</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/</link>
-    <guid isPermaLink="false">story-47</guid>
-    <pubDate>Thu, 29 Oct 2026 08:01:21 +0000</pubDate>
-    <category>Council</category>
-    <description>New litter bins are being installed around Hastings as part of the government&#x27;s Pride in Place scheme, which saw the town awarded £20 million.</description>
   </item>
 </channel>
 </rss>

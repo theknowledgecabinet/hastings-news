@@ -60,15 +60,15 @@ image:
   default: false
 checked: '2026-10-26T18:35:58+00:00'
 related:
+- url: /2026/11/21/rother-residents-asked-for-views-on-waste-and-recycling-collections/
+  title: Rother residents asked for views on waste and recycling collections
+  day: '2026-11-21'
 - url: /2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/
   title: Rother to consult on 2027/28 budget with £2.72m in reserves
   day: '2026-10-29'
 - url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/
   title: Police appeal after car and horse rider incident in Bexhill
   day: '2026-10-30'
-- url: /2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/
-  title: Bexhill community hub to get more than £500,000 in developer funding
-  day: '2026-11-14'
 ---
 {% raw %}
 Rother District Council has asked residents and businesses to have their say on a plan to tackle long-term empty shops in Bexhill.

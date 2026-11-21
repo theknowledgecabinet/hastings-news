@@ -79,15 +79,15 @@ image:
   default: false
 checked: '2026-10-29T19:27:37+00:00'
 related:
+- url: /2026/11/21/rother-residents-asked-for-views-on-waste-and-recycling-collections/
+  title: Rother residents asked for views on waste and recycling collections
+  day: '2026-11-21'
 - url: /2026/10/29/rother-district-council-pre-election-event-for-would-be-candidates-in/
   title: Rother District Council pre-election event for would-be candidates in May 2027
   day: '2026-10-29'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
-- url: /2026/11/10/residents-to-have-say-on-east-sussex-supported-housing-strategy/
-  title: Residents to have say on East Sussex supported housing strategy
-  day: '2026-11-10'
 ---
 {% raw %}
 Residents of Rother are set to be consulted on how the council will balance its 2027/28 budget, after Cabinet agreed on 26 October to consult staff, the public and, for the first time, individual organisations likely to be affected by savings decisions.

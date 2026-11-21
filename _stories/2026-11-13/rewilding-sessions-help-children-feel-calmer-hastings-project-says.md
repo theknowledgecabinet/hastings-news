@@ -56,9 +56,9 @@ related:
 - url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
   title: New litter bins appear in Hastings under Pride in Place funding
   day: '2026-10-29'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
+- url: /2026/11/21/hastings-charity-secretary-speaks-out-for-mothers-separated-from/
+  title: Hastings charity secretary speaks out for mothers separated from their children
+  day: '2026-11-21'
 ---
 {% raw %}
 Children taking part in an outdoor rewilding scheme based in Hastings have described the sessions as helping them to feel calmer, according to the BBC.

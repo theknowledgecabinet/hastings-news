@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 21 Nov 2026 07:28:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 12:53:43 +0000</lastBuildDate>
+  <item>
+    <title>Hastings charity secretary speaks out for mothers separated from their children</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/21/hastings-charity-secretary-speaks-out-for-mothers-separated-from/</link>
+    <guid isPermaLink="false">story-247</guid>
+    <pubDate>Sat, 21 Nov 2026 12:53:43 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A Hastings-based charity secretary has talked about the mothers living apart from their children, who still feel judged, she says.</description>
+  </item>
   <item>
     <title>Hastings women take to seafront to support &#x27;Lift the Curfew&#x27; campaign</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/21/hastings-women-take-to-seafront-to-support-lift-the-curfew-campaign/</link>
@@ -398,14 +406,6 @@
     <pubDate>Mon, 09 Nov 2026 07:33:01 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The Rye and District Bonfire has been named among the best Bonfire Night displays in the country, The Argus reports.</description>
-  </item>
-  <item>
-    <title>Hastings brothers set for Nepal peaks for veterans&#x27; charity</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/09/hastings-brothers-set-for-nepal-peaks-for-veterans-charity/</link>
-    <guid isPermaLink="false">story-139</guid>
-    <pubDate>Mon, 09 Nov 2026 07:33:01 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Two brothers from Hastings are heading to the Himalayas to raise money for a local veterans&#x27; charity.</description>
   </item>
 </channel>
 </rss>

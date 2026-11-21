@@ -60,9 +60,9 @@ related:
 - url: /2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/
   title: Rother to consult on 2027/28 budget with £2.72m in reserves
   day: '2026-10-29'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
+- url: /2026/11/21/rother-residents-asked-for-views-on-waste-and-recycling-collections/
+  title: Rother residents asked for views on waste and recycling collections
+  day: '2026-11-21'
 ---
 {% raw %}
 Rother District Council has approved £1.3m from its Community Infrastructure Levy (CIL) fund to support seven projects across the district, aimed at improving local facilities, enhancing accessibility and promoting sustainability.

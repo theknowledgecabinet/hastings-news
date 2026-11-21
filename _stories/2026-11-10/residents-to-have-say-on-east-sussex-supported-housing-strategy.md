@@ -56,15 +56,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Supported_housing_-_geograph.org.uk_-_4452536.jpg
   default: false
 related:
+- url: /2026/11/21/rother-residents-asked-for-views-on-waste-and-recycling-collections/
+  title: Rother residents asked for views on waste and recycling collections
+  day: '2026-11-21'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
 - url: /2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/
   title: Rother to consult on 2027/28 budget with £2.72m in reserves
   day: '2026-10-29'
-- url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
-  title: Leaders of three councils urge government to raise Local Housing Allowance
-  day: '2026-10-27'
 ---
 {% raw %}
 People in supported housing across the district can have their say on how it should improve, Rother District Council has said.

@@ -54,6 +54,9 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Community_tree_planting_scheme_-_geograph.org.uk_-_5141416.jpg
   default: false
 related:
+- url: /2026/11/21/rother-residents-asked-for-views-on-waste-and-recycling-collections/
+  title: Rother residents asked for views on waste and recycling collections
+  day: '2026-11-21'
 - url: /2026/10/29/rother-district-council-pre-election-event-for-would-be-candidates-in/
   title: Rother District Council pre-election event for would-be candidates in May 2027
   day: '2026-10-29'
