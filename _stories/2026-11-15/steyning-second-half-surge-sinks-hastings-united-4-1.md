@@ -61,9 +61,9 @@ related:
 - url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
   title: Police appeal for witnesses after alleged assault in Hastings town centre
   day: '2026-11-19'
-- url: /2026/11/16/pilot-field-power-works-to-finish-by-early-december-mp-says/
-  title: Pilot Field power works to finish by early December, MP says
-  day: '2026-11-16'
+- url: /2026/11/21/hastings-water-supply-under-pressure-as-reservoir-stands-at-41-per/
+  title: Hastings water supply under pressure as reservoir stands at 41 per cent
+  day: '2026-11-21'
 ---
 {% raw %}
 Hastings United suffered a heavy defeat on a cold Saturday afternoon at The Pilot Field, where Steyning Town produced a second-half comeback to win 4-1 in the Isthmian South East division in front of a crowd of 1,034.

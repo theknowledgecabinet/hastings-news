@@ -59,9 +59,9 @@ related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
-- url: /2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/
-  title: Storm power cuts threatened water supply to the Hastings area
-  day: '2026-10-26'
+- url: /2026/11/21/hastings-water-supply-under-pressure-as-reservoir-stands-at-41-per/
+  title: Hastings water supply under pressure as reservoir stands at 41 per cent
+  day: '2026-11-21'
 ---
 {% raw %}
 The West Hill Lift has been closed for essential surveys and repairs, according to the Hastings Independent Press.

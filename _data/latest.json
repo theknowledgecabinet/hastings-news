@@ -1,8 +1,8 @@
 {
- "day": "2026-11-20",
- "label": "Friday 20 November 2026",
- "issue": 31,
- "edition_label": "Midday edition",
+ "day": "2026-11-21",
+ "label": "Saturday 21 November 2026",
+ "issue": 32,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-21",
@@ -50,58 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-20",
-    "code": 53,
-    "words": "drizzle",
-    "icon": "🌦️",
-    "high": 10,
-    "low": 5,
-    "rain_chance": 16,
-    "rain_mm": 2.3,
-    "wind": 9,
-    "gusts": 18,
-    "direction": "northerly",
-    "sunrise": "07:21",
-    "sunset": "16:04",
-    "summary": "Drizzle possible (16% chance). A high of 10°C and a low of 5°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-20",
+    "day": "2026-11-21",
     "code": 51,
     "words": "light drizzle",
     "icon": "🌦️",
     "high": 10,
-    "low": 6,
-    "rain_chance": 29,
-    "rain_mm": 0.8,
-    "wind": 12,
-    "gusts": 23,
-    "direction": "northerly",
-    "sunrise": "07:21",
-    "sunset": "16:04",
-    "summary": "Light drizzle possible (29% chance). A high of 10°C and a low of 6°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
+    "low": 4,
+    "rain_chance": 2,
+    "rain_mm": 0.1,
+    "wind": 11,
+    "gusts": 24,
+    "direction": "easterly",
+    "sunrise": "07:23",
+    "sunset": "16:03",
+    "summary": "Light drizzle possible (2% chance). A high of 10°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03."
    }
   }
  ],
  "weather": {
-  "day": "2026-11-20",
+  "day": "2026-11-21",
   "code": 51,
   "words": "light drizzle",
   "icon": "🌦️",
   "high": 10,
-  "low": 6,
-  "rain_chance": 29,
-  "rain_mm": 0.8,
-  "wind": 12,
-  "gusts": 23,
-  "direction": "northerly",
-  "sunrise": "07:21",
-  "sunset": "16:04",
-  "summary": "Light drizzle possible (29% chance). A high of 10°C and a low of 6°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04."
+  "low": 4,
+  "rain_chance": 2,
+  "rain_mm": 0.1,
+  "wind": 11,
+  "gusts": 24,
+  "direction": "easterly",
+  "sunrise": "07:23",
+  "sunset": "16:03",
+  "summary": "Light drizzle possible (2% chance). A high of 10°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03."
  },
  "briefing": {
   "day": "2026-11-19",
@@ -117,6 +97,11 @@
   "title": "Funerals held for the crew of the Mary Stanford lifeboat"
  },
  "days": [
+  {
+   "day": "2026-11-21",
+   "url": "/2026/11/21/",
+   "label": "Sat 21 Nov"
+  },
   {
    "day": "2026-11-20",
    "url": "/2026/11/20/",
@@ -181,11 +166,6 @@
    "day": "2026-11-08",
    "url": "/2026/11/08/",
    "label": "Sun 8 Nov"
-  },
-  {
-   "day": "2026-11-07",
-   "url": "/2026/11/07/",
-   "label": "Sat 7 Nov"
   }
  ]
 }

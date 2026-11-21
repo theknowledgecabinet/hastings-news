@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-10-27T06:00:46+00:00'
 related:
+- url: /2026/11/21/hastings-water-supply-under-pressure-as-reservoir-stands-at-41-per/
+  title: Hastings water supply under pressure as reservoir stands at 41 per cent
+  day: '2026-11-21'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
 - url: /2026/11/16/pilot-field-power-works-to-finish-by-early-december-mp-says/
   title: Pilot Field power works to finish by early December, MP says
   day: '2026-11-16'
-- url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
-  title: Residents call for action over former Hastings public toilets site
-  day: '2026-10-28'
 ---
 {% raw %}
 Two water supply works serving the Hastings area shut down over the weekend after the storms knocked out local power, though taps kept running.

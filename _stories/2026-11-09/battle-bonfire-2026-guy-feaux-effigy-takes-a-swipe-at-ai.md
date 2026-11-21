@@ -57,6 +57,9 @@ related:
 - url: /2026/11/20/battle-town-council-marks-remembrance-day-and-sets-festive-dates/
   title: Battle Town Council marks Remembrance Day and sets festive dates
   day: '2026-11-20'
+- url: /2026/11/21/hastings-women-take-to-seafront-to-support-lift-the-curfew-campaign/
+  title: Hastings women take to seafront to support 'Lift the Curfew' campaign
+  day: '2026-11-21'
 ---
 {% raw %}
 Battle High Street became a 'river of fire' on Saturday night as people turned out for the town's annual bonfire celebrations, the Hastings Observer reported.

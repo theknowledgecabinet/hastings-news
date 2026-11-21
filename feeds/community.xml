@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 20 Nov 2026 12:59:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 07:28:28 +0000</lastBuildDate>
+  <item>
+    <title>Hastings women take to seafront to support &#x27;Lift the Curfew&#x27; campaign</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/21/hastings-women-take-to-seafront-to-support-lift-the-curfew-campaign/</link>
+    <guid isPermaLink="false">story-241</guid>
+    <pubDate>Sat, 21 Nov 2026 07:28:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>More than 30 women took to the Hastings seafront on a Wednesday evening at the end of October, torches and hi-vis in hand, to back a national campaign on women&#x27;s safety when exercising outdoors in the dark.</description>
+  </item>
   <item>
     <title>Metal Christmas tree returns to Hastings town centre</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/metal-christmas-tree-returns-to-hastings-town-centre/</link>
@@ -398,14 +406,6 @@
     <pubDate>Sun, 08 Nov 2026 18:52:40 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A 27-year-old from St Leonards has won the women&#x27;s title at the Christmas tree flinging contest at Catsfield Christmas Tree Farm near Battle.</description>
-  </item>
-  <item>
-    <title>Swansea Sound to open tour at The Piper in St Leonards</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/08/swansea-sound-to-open-tour-at-the-piper-in-st-leonards/</link>
-    <guid isPermaLink="false">story-135</guid>
-    <pubDate>Sun, 08 Nov 2026 08:12:10 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Swansea Sound, who feature members of Heavenly and Talulah Gosh, are to kick off their tour in St Leonards at The Piper on 13 November.</description>
   </item>
 </channel>
 </rss>

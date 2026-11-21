@@ -55,12 +55,12 @@ related:
 - url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/
   title: Leaders of three councils urge government to raise Local Housing Allowance
   day: '2026-10-27'
+- url: /2026/11/21/hastings-water-supply-under-pressure-as-reservoir-stands-at-41-per/
+  title: Hastings water supply under pressure as reservoir stands at 41 per cent
+  day: '2026-11-21'
 - url: /2026/10/28/one-in-ten-young-adults-in-hastings-on-unemployment-benefits/
   title: One in ten young adults in Hastings on unemployment benefits
   day: '2026-10-28'
-- url: /2026/11/02/developers-reveal-bid-to-build-120-new-hastings-homes/
-  title: Developers reveal bid to build 120 new Hastings homes
-  day: '2026-11-02'
 ---
 {% raw %}
 Median asking rents in Hastings are running well above the official average, with the gap on three-bedroom homes reaching 23%, housing website Dwellio says.

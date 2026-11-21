@@ -56,9 +56,9 @@ related:
 - url: /2026/11/18/hastings-man-found-guilty-of-multiple-rapes-police-say/
   title: Hastings man found guilty of multiple rapes, police say
   day: '2026-11-18'
-- url: /2026/11/17/director-fined-over-fire-safety-breaches-at-hastings-york-gardens/
-  title: Director fined over fire safety breaches at Hastings York Gardens
-  day: '2026-11-17'
+- url: /2026/11/21/hastings-pier-owner-faces-fraud-trial-in-brighton/
+  title: Hastings Pier owner faces fraud trial in Brighton
+  day: '2026-11-21'
 ---
 {% raw %}
 A car wash owner in Hastings has been sentenced after illegal workers were repeatedly found at his business, Sussex Police said.

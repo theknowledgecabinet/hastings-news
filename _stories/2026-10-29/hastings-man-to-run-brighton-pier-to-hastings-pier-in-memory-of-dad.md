@@ -54,15 +54,15 @@ image:
   default: false
 checked: '2026-10-29T19:30:29+00:00'
 related:
+- url: /2026/11/21/hastings-pier-owner-faces-fraud-trial-in-brighton/
+  title: Hastings Pier owner faces fraud trial in Brighton
+  day: '2026-11-21'
 - url: /2026/11/19/hastings-veteran-to-walk-40-miles-for-two-local-charities/
   title: Hastings veteran to walk 40 miles for two local charities
   day: '2026-11-19'
 - url: /2026/11/07/hastings-runner-to-take-on-55-mile-ultramarathon-in-jeans/
   title: Hastings runner to take on 55-mile ultramarathon in jeans
   day: '2026-11-07'
-- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
-  title: Hastings council to consider Age Friendly strategy for older residents
-  day: '2026-11-04'
 ---
 {% raw %}
 Conor O'Brien from Hastings has organised a 75km run from Brighton Pier to Hastings Pier in memory of his father.

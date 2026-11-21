@@ -52,15 +52,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Power_cable_joint_bay_-_geograph.org.uk_-_420812.jpg
   default: false
 related:
+- url: /2026/11/21/hastings-water-supply-under-pressure-as-reservoir-stands-at-41-per/
+  title: Hastings water supply under pressure as reservoir stands at 41 per cent
+  day: '2026-11-21'
 - url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
   title: Work begins on 27 'luxury flats' development in St Leonards
   day: '2026-11-04'
 - url: /2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/
   title: Bird deaths spark campaign to remove netting in Hastings and Rother
   day: '2026-11-02'
-- url: /2026/10/26/storm-power-cuts-threatened-water-supply-to-the-hastings-area/
-  title: Storm power cuts threatened water supply to the Hastings area
-  day: '2026-10-26'
 ---
 {% raw %}
 UK Power Networks has been working on an underground electrical main in the Pilot Field area of Hastings, and the works have caused a number of power cuts and noisy temporary generators in the neighbourhood in recent months.

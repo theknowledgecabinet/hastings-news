@@ -58,15 +58,15 @@ image:
   default: false
 checked: '2026-10-27T05:53:46+00:00'
 related:
+- url: /2026/11/21/hastings-women-take-to-seafront-to-support-lift-the-curfew-campaign/
+  title: Hastings women take to seafront to support 'Lift the Curfew' campaign
+  day: '2026-11-21'
 - url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
   title: Hastings Old Town Carnival donates over £5,000 to local good causes
   day: '2026-11-17'
 - url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
   title: New litter bins appear in Hastings under Pride in Place funding
   day: '2026-10-29'
-- url: /2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/
-  title: Bird deaths spark campaign to remove netting in Hastings and Rother
-  day: '2026-11-02'
 ---
 {% raw %}
 A Hastings mother has won a national award for her campaign to make the roads safer, following the death of her son in a road accident.
