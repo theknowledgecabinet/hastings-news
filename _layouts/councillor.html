@@ -1,0 +1,87 @@
+---
+layout: default
+---
+{%- assign C = site.data.councillors[page.cllr] -%}
+{%- assign T = C.tally -%}
+{%- assign mentions = site.stories | where_exp: "s", "s.content contains page.person" | sort: "date" | reverse -%}
+<article class="narrow mp-page">
+<header class="page-head mp-head">
+  <p class="eyebrow"><a href="{{ '/representatives/' | relative_url }}">Who represents you</a></p>
+  {%- if C.photo %}<img class="portrait portrait-lg" src="{{ C.photo }}" width="160" height="160" alt="Photo of {{ page.person }}" referrerpolicy="no-referrer">{% endif %}
+  <h1>{{ page.person }}</h1>
+  <p class="muted">{% if C.party %}{{ C.party }} c{% else %}C{% endif %}ouncillor for {{ C.ward }}, {{ C.council }}{% if C.since %} · councillor since {{ C.since | date: "%B %Y" }}{% endif %}</p>
+  {%- if C.keyposts %}<p class="lede">{{ C.keyposts }}</p>{% endif %}
+  <p class="actions">
+    {%- if C.email %}<a class="button" href="mailto:{{ C.email }}">Email {{ page.person }}</a>{% endif %}
+    <a class="button ghost" href="{{ C.council_page }}">On the council's site</a>
+    <a class="button ghost" href="{{ C.interests }}">Register of interests</a>
+  </p>
+  {%- for a in C.also %}<p class="muted small">Also councillor for {{ a.ward }} on {{ a.council }}: <a href="{{ a.url | relative_url }}">see that record</a>.</p>{% endfor %}
+</header>
+
+<section class="block">
+  <div class="section-head"><h2>Last 12 months</h2></div>
+  <ul class="mp-tally">
+    <li><strong>{% if C.rate %}{{ C.rate }}%{% else %}–{% endif %}</strong> attendance</li>
+    <li><strong>{{ T.present }}</strong> of {{ T.expected }} meetings attended</li>
+    <li><strong>{{ T.apologies }}</strong> apologies sent</li>
+    <li><strong>{{ T.absent }}</strong> absent without apologies</li>
+    <li><strong>{{ T.attended | plus: T.substitute }}</strong> other meetings attended (as a substitute or visiting)</li>
+    <li><strong>{{ T.declarations }}</strong> meetings with an interest declared</li>
+    <li><strong>{{ T.votes }}</strong> named votes</li>
+  </ul>
+  <p class="muted small">Meetings this councillor was expected at as a committee member, as the council records them. Most council votes are a show of hands, so only named ("recorded") votes show how each councillor voted.</p>
+</section>
+
+{%- if C.upcoming.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>Coming up</h2></div>
+  <ul>{% for m in C.upcoming %}<li><a href="{{ m.url }}">{{ m.committee }}</a> <span class="muted">{{ m.day | date: "%A %-d %B" }}{% if m.time != "" %}, {{ m.time }}{% endif %}</span></li>{% endfor %}</ul>
+</section>
+{%- endif %}
+
+<section class="block">
+  <div class="section-head"><h2>Meeting by meeting</h2></div>
+  {%- if C.days.size == 0 %}<p class="muted">No meetings recorded for this councillor in the last 12 months.</p>{% endif %}
+  {%- for d in C.days %}
+  <section class="mp-day" id="{{ d.day }}">
+    <h3>{{ d.day | date: "%A %-d %B %Y" }}</h3>
+    <ul>
+      {%- for i in d.items %}
+      <li class="mp-item mp-{{ i.kind }}">
+        {%- case i.kind -%}
+        {%- when "meeting" -%}
+          <span class="mp-tag {% if i.how == 'present' or i.how == 'attended' or i.how == 'substitute' %}mp-aye{% elsif i.how == 'absent' %}mp-no{% else %}mp-absent{% endif %}">{% case i.how %}{% when 'present' %}Present{% when 'apologies' %}Apologies{% when 'absent' %}Absent{% when 'substitute' %}Substitute{% else %}Attended{% endcase %}</span>
+          <a href="{{ i.url }}">{{ i.committee }}</a>{% if i.role and i.role != "Committee Member" %} <span class="muted">({{ i.role }})</span>{% endif %}
+          {%- if i.business.size > 0 %}<div class="muted small">{{ i.business | join: " · " }}</div>{% endif %}
+        {%- when "declaration" -%}
+          <span class="mp-tag">Interest</span> declared at <a href="{{ i.url }}">{{ i.committee }}</a>
+          <blockquote>{{ i.text | truncate: 400 }}</blockquote>
+        {%- when "vote" -%}
+          <span class="mp-tag {% if i.how == 'for' %}mp-aye{% elsif i.how == 'against' %}mp-no{% else %}mp-absent{% endif %}">{% case i.how %}{% when 'for' %}For{% when 'against' %}Against{% else %}Abstained{% endcase %}</span>
+          <a href="{{ i.url }}">{{ i.title }}</a>
+          <span class="muted">named vote{% if i.motion != "" %} {{ i.motion }}{% endif %}{% if i.result %}: {{ i.result | downcase }}{% endif %} ({{ i.for }} for, {{ i.against }} against, {{ i.abstain }} abstained)</span>
+        {%- endcase %}
+      </li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endfor %}
+</section>
+
+{%- if C.committees.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>Committees</h2></div>
+  <ul>{% for c in C.committees %}<li>{% if c.url %}<a href="{{ c.url }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}{% if c.role != "" and c.role != "Committee Member" %} <span class="muted">({{ c.role }})</span>{% endif %}</li>{% endfor %}</ul>
+</section>
+{%- endif %}
+
+{%- if mentions.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>In Hastings Daily</h2></div>
+  <div class="grid">{% for s in mentions limit: 12 %}{% include card.html story=s %}{% endfor %}</div>
+</section>
+{%- endif %}
+
+<p class="muted small">Built every few hours straight from {{ C.council }}'s published meeting records (attendance, minutes and committee lists); nothing on this page is written by AI. Interests declared are taken from the minutes' declarations item. Photo: {{ C.council }}.</p>
+</article>

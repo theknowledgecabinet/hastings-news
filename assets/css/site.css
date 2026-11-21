@@ -327,3 +327,11 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
 .mp-no { background: color-mix(in srgb, var(--signal) 24%, transparent); color: var(--ink); }
 .mp-absent { background: transparent; border: 1px dashed var(--rule); }
 .mp-cat { font: 700 .95rem var(--sans); margin: 16px 0 4px; }
+
+/* councillors */
+.portrait-sm { width: 56px; height: 56px; display: block; }
+.ward-name { font: 700 1rem var(--sans); margin: 18px 0 6px; padding-bottom: 4px; border-bottom: 1px solid var(--rule); }
+.cllrs { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px 20px;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); }
+.cllr { display: grid; grid-template-columns: 56px 1fr; gap: 12px; align-items: center; font-family: var(--sans); overflow-wrap: anywhere; }
+.cllr a { font-weight: 700; text-decoration-color: var(--rule); }

@@ -2,7 +2,7 @@
 layout: default
 ---
 {%- assign M = site.data.mps[page.mp] -%}
-{%- assign mentions = site.stories | where_exp: "s", "s.content contains page.name" | sort: "date" | reverse -%}
+{%- assign mentions = site.stories | where_exp: "s", "s.content contains page.person" | sort: "date" | reverse -%}
 <article class="narrow mp-page">
 <header class="page-head mp-head">
   <p class="eyebrow"><a href="{{ '/representatives/' | relative_url }}">Who represents you</a></p>
