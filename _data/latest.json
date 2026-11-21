@@ -5,25 +5,6 @@
  "edition_label": "Midday edition",
  "forecast": [
   {
-   "day": "2026-11-20",
-   "code": 51,
-   "words": "light drizzle",
-   "icon": "🌦️",
-   "high": 10,
-   "low": 7,
-   "rain_chance": 94,
-   "rain_mm": 0.7,
-   "wind": 11,
-   "gusts": 22,
-   "direction": "northerly",
-   "sunrise": "07:21",
-   "sunset": "16:04",
-   "summary": "Light drizzle likely. A high of 10°C and a low of 7°C, a moderate breeze from the north. Sunrise 07:21, sunset 16:04.",
-   "label": "Today",
-   "weekday": "Fri 20 Nov",
-   "long": "Friday 20 November"
-  },
-  {
    "day": "2026-11-21",
    "code": 3,
    "words": "cloudy",
@@ -38,13 +19,32 @@
    "sunrise": "07:23",
    "sunset": "16:03",
    "summary": "Cloudy. A high of 11°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Sat 21 Nov",
    "long": "Saturday 21 November"
+  },
+  {
+   "day": "2026-11-22",
+   "code": 53,
+   "words": "drizzle",
+   "icon": "🌦️",
+   "high": 10,
+   "low": 6,
+   "rain_chance": 23,
+   "rain_mm": 4.0,
+   "wind": 14,
+   "gusts": 29,
+   "direction": "easterly",
+   "sunrise": "07:24",
+   "sunset": "16:02",
+   "summary": "Drizzle possible (23% chance). A high of 10°C and a low of 6°C, a moderate breeze from the east. Sunrise 07:24, sunset 16:02.",
+   "label": "Tomorrow",
+   "weekday": "Sun 22 Nov",
+   "long": "Sunday 22 November"
   }
  ],
- "today_label": "Friday 20 November 2026",
- "today_short": "Fri 20 Nov",
+ "today_label": "Saturday 21 November 2026",
+ "today_short": "Sat 21 Nov",
  "editions": [
   {
    "name": "morning",
