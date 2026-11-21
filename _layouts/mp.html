@@ -17,6 +17,15 @@ layout: default
   </p>
 </header>
 
+{%- if M.summary %}
+<section class="block mp-summary">
+  <div class="section-head"><h2>In summary</h2></div>
+  <p>{{ M.summary }}</p>
+  <p class="muted small">Counted from the records below, in fixed wording; not written by AI. Compare everyone on the <a href="{{ '/accountability/' | relative_url }}">accountability page</a>.</p>
+</section>
+{%- endif %}
+
+
 <section class="block">
   <div class="section-head"><h2>Last 30 days</h2></div>
   <ul class="mp-tally">

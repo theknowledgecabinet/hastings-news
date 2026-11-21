@@ -1,0 +1,156 @@
+---
+layout: default
+title: Accountability
+permalink: /accountability/
+description: How the area's MPs and councillors attend, vote and take part, person by person and by party, council and area, counted from Parliament's and the councils' own records.
+---
+{%- assign A = site.data.accountability -%}
+<article class="acc viz">
+<header class="page-head narrow">
+  <p class="eyebrow"><a href="{{ '/representatives/' | relative_url }}">Who represents you</a></p>
+  <h1>Accountability</h1>
+  <p class="lede">Who turns up, how they vote and how they take part: the area's two MPs and {{ A.councillors.size }} councillors, counted from Parliament's and the councils' own records and updated every few hours.</p>
+  <details class="acc-how">
+    <summary>How to read this</summary>
+    <ul>
+      <li>Everything here is counted from published records; nothing is written by AI, and the summaries use fixed wording filled in with the numbers.</li>
+      <li><strong>Attendance</strong> is meetings a councillor was expected at as a committee member, as the council recorded them, over the last 12 months. Councillors in senior posts sit on more committees, and someone elected recently has fewer meetings, so each rate is shown with the counts behind it. No rate is given for fewer than {{ A.min_expected }} meetings.</li>
+      <li><strong>Apologies</strong> are recorded when a councillor tells the council in advance they can't attend, often for illness, caring or work. The records don't say why.</li>
+      <li><strong>Votes.</strong> Most council votes are a show of hands, and nobody's vote is recorded unless a named ("recorded") vote is called. MPs' votes are all recorded. A missed Commons vote can be for constituency or other business; Parliament doesn't record why.</li>
+      <li>Party figures add up the councillors' meetings, so a party's rate is its members' meetings attended out of meetings expected.</li>
+    </ul>
+  </details>
+</header>
+
+{%- if A.mps.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>The MPs</h2></div>
+  <div class="acc-mps">
+    {%- for m in A.mps %}
+    <section class="acc-mp">
+      <a class="acc-mp-head" href="{{ m.url | relative_url }}"><img class="portrait" src="{{ m.portrait }}" width="72" height="72" alt="" loading="lazy"><span><strong>{{ m.name }}</strong><span class="muted small">{{ m.party }} · {{ m.constituency }}</span></span></a>
+      <ul class="mp-tally acc-tiles">
+        <li><strong>{% if m.rate %}{{ m.rate }}%{% else %}–{% endif %}</strong> Commons votes taken part in ({{ m.votes_cast }} of {{ m.votes_total }})</li>
+        <li><strong>{{ m.against_party }}</strong> against most of their party</li>
+        <li><strong>{{ m.speeches }}</strong> spoken contributions in {{ m.debates }} debates</li>
+        <li><strong>{{ m.questions }}</strong> written questions</li>
+        <li><strong>{{ m.edms }}</strong> early day motions</li>
+      </ul>
+      <p>{{ m.summary }}</p>
+      {%- if m.departments.size > 0 %}
+      <h3 class="acc-h3">Who they ask written questions</h3>
+      <div class="acc-bars" data-bars>
+        {%- assign top = m.departments.first.count %}
+        {%- for d in m.departments %}
+        <div class="acc-bar-row" tabindex="0" data-tip="{{ d.count }} written question{% if d.count != 1 %}s{% endif %} to {{ d.name }}"><span class="acc-bar-label">{{ d.name }}</span><span class="acc-bar-track"><span class="acc-bar" style="width: {{ d.count | times: 100.0 | divided_by: top }}%"></span><span class="acc-bar-val">{{ d.count }}</span></span></div>
+        {%- endfor %}
+      </div>
+      {%- endif %}
+    </section>
+    {%- endfor %}
+  </div>
+  {%- assign G = A.agreement %}
+  {%- if G and G.total > 0 %}
+  <h3 class="acc-h3">How the two MPs voted on the same Commons votes</h3>
+  {%- assign parts = "same,opposite,only_a,only_b,neither" | split: "," %}
+  <div class="seg seg-tall" role="img" aria-label="Of {{ G.total }} votes: same way {{ G.same }}, opposite ways {{ G.opposite }}, only {{ G.a }} voted {{ G.only_a }}, only {{ G.b }} voted {{ G.only_b }}, neither voted {{ G.neither }}">
+    {%- for k in parts %}{% assign n = G[k] %}{% if n > 0 %}{% assign pct = n | times: 100.0 | divided_by: G.total | round %}
+    <span class="seg-part s{{ forloop.index }}" style="flex: {{ n }}" tabindex="0" data-tip="{{ n }} of {{ G.total }} votes ({{ pct }}%): {% case k %}{% when 'same' %}both voted the same way{% when 'opposite' %}they voted opposite ways{% when 'only_a' %}only {{ G.a }} voted{% when 'only_b' %}only {{ G.b }} voted{% else %}neither voted{% endcase %}"><span class="seg-label">{{ pct }}%</span></span>
+    {%- endif %}{% endfor %}
+  </div>
+  <ul class="legend">
+    <li><i class="key s1"></i>Same way ({{ G.same }})</li><li><i class="key s2"></i>Opposite ways ({{ G.opposite }})</li>
+    <li><i class="key s3"></i>Only {{ G.a }} ({{ G.only_a }})</li><li><i class="key s4"></i>Only {{ G.b }} ({{ G.only_b }})</li>
+    <li><i class="key s5"></i>Neither ({{ G.neither }})</li>
+  </ul>
+  <p class="muted small">MPs from different parties often vote opposite ways on government business; ministers and shadow ministers also have duties that keep them from some votes.</p>
+  {%- endif %}
+</section>
+{%- endif %}
+
+<section class="block" id="councillors">
+  <div class="section-head"><h2>The councillors</h2></div>
+  <div class="acc-filters" role="group" aria-label="Filter councillors" hidden>
+    <label>Council <select data-filter="council"><option value="">All three councils</option>{% for c in A.councils %}<option value="{{ c.name }}">{{ c.name }}</option>{% endfor %}</select></label>
+    <label>Area <select data-filter="area"><option value="">Both constituencies</option>{% for a in A.areas %}<option value="{{ a }}">{{ a }}</option>{% endfor %}</select></label>
+  </div>
+  <div data-acc-charts hidden>
+    <ul class="mp-tally acc-tiles" data-tiles></ul>
+    <figure class="acc-fig">
+      <figcaption><h3 class="acc-h3">Attendance by party</h3><span class="muted small">Meetings attended out of meetings expected, last 12 months</span></figcaption>
+      <div class="acc-bars" data-chart="party"></div>
+    </figure>
+    <figure class="acc-fig">
+      <figcaption><h3 class="acc-h3">Every councillor</h3><span class="muted small">Each dot is one councillor's attendance rate, by party; select a dot for their page. Councillors with fewer than {{ A.min_expected }} expected meetings aren't shown.</span></figcaption>
+      <div class="acc-strip" data-chart="strip"></div>
+    </figure>
+    <figure class="acc-fig">
+      <figcaption><h3 class="acc-h3">How each party's expected meetings went</h3></figcaption>
+      <div data-chart="split"></div>
+      <ul class="legend"><li><i class="key s1"></i>Attended</li><li><i class="key s2"></i>Apologies sent</li><li><i class="key s3"></i>Absent without apologies</li></ul>
+    </figure>
+    <figure class="acc-fig">
+      <figcaption><h3 class="acc-h3">Other groupings</h3><span class="muted small">Attendance rate, with the number of councillors in each group</span></figcaption>
+      <div class="acc-groups" data-chart="groups"></div>
+    </figure>
+  </div>
+
+  <h3 class="acc-h3">Every councillor, in a table</h3>
+  <p class="muted small" data-sort-hint hidden>Select a column heading to sort.</p>
+  <div class="acc-table-wrap">
+  <table class="acc-table" data-table>
+    <thead><tr>
+      <th scope="col" data-sort="name">Councillor</th><th scope="col" data-sort="party">Party</th>
+      <th scope="col" data-sort="council">Council and ward</th>
+      <th scope="col" data-sort="rate" class="num">Attendance</th><th scope="col" data-sort="expected" class="num">Expected</th>
+      <th scope="col" data-sort="apologies" class="num">Apologies</th><th scope="col" data-sort="absent" class="num">Absent</th>
+      <th scope="col" data-sort="other" class="num">Other meetings</th><th scope="col" data-sort="declarations" class="num">Interests declared</th>
+      <th scope="col" data-sort="votes" class="num">Named votes</th>
+    </tr></thead>
+    <tbody>
+      {%- for r in A.councillors %}
+      <tr data-id="{{ r.id }}">
+        <td><a href="{{ r.url | relative_url }}">{{ r.name }}</a>{% if r.keyposts %}<div class="muted small">{{ r.keyposts }}</div>{% endif %}</td>
+        <td>{{ r.party }}</td><td>{{ r.council | remove: " Council" }}<div class="muted small">{{ r.ward }}</div></td>
+        <td class="num">{% if r.rate %}{{ r.rate }}%{% else %}–{% endif %}</td><td class="num">{{ r.expected }}</td>
+        <td class="num">{{ r.apologies }}</td><td class="num">{{ r.absent }}</td><td class="num">{{ r.other }}</td>
+        <td class="num">{{ r.declarations }}</td><td class="num">{{ r.votes }}</td>
+      </tr>
+      {%- endfor %}
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="block" id="named-votes">
+  <div class="section-head"><h2>Named votes in the councils</h2></div>
+  {%- if A.votes.size == 0 %}
+  <p class="muted">No named votes were recorded in the last 12 months.</p>
+  {%- else %}
+  <p class="muted">Every named vote in the last 12 months, and how each party group split. Most council decisions are a show of hands, so this is the only record of how individual councillors voted.</p>
+  <ul class="legend"><li><i class="key s1"></i>For</li><li><i class="key s2"></i>Against</li><li><i class="key s3"></i>Abstained</li></ul>
+  {%- for v in A.votes %}
+  <section class="acc-vote">
+    <h3 class="acc-h3"><a href="{{ v.url }}">{{ v.item }}</a></h3>
+    <p class="muted small">{{ v.council }} {{ v.committee }}, {{ v.day | date: "%-d %B %Y" }} · {{ v.motion }}{% if v.result %} · {{ v.result | downcase }}{% endif %} · {{ v.for }} for, {{ v.against }} against, {{ v.abstain }} abstained</p>
+    {%- for p in v.parties %}{% assign tot = p.for | plus: p.against | plus: p.abstain %}
+    <div class="acc-vote-row"><span class="acc-bar-label">{{ p.party }} <span class="muted">({{ tot }})</span></span>
+      <span class="seg seg-thin" role="img" aria-label="{{ p.party }}: {{ p.for }} for, {{ p.against }} against, {{ p.abstain }} abstained">
+        {%- if p.for > 0 %}<span class="seg-part s1" style="flex: {{ p.for }}" tabindex="0" data-tip="{{ p.party }}: {{ p.for }} for"></span>{% endif %}
+        {%- if p.against > 0 %}<span class="seg-part s2" style="flex: {{ p.against }}" tabindex="0" data-tip="{{ p.party }}: {{ p.against }} against"></span>{% endif %}
+        {%- if p.abstain > 0 %}<span class="seg-part s3" style="flex: {{ p.abstain }}" tabindex="0" data-tip="{{ p.party }}: {{ p.abstain }} abstained"></span>{% endif %}
+      </span></div>
+    {%- endfor %}
+    {%- if v.local.size > 0 %}<p class="small">This area's councillors: {% for l in v.local %}{{ l.name }} ({{ l.party }}) {% case l.how %}{% when 'for' %}for{% when 'against' %}against{% else %}abstained{% endcase %}{% unless forloop.last %}; {% endunless %}{% endfor %}.</p>{% endif %}
+    {%- assign named = v.for | plus: v.against | plus: v.abstain %}
+    {%- if v.matched < named %}<p class="muted small">{{ named | minus: v.matched }} of the names couldn't be matched to a party from the attendance record.</p>{% endif %}
+  </section>
+  {%- endfor %}
+  {%- endif %}
+</section>
+
+<p class="muted small narrow">Sources: UK Parliament open data (Commons votes, Hansard, written questions, early day motions, register of interests) and the published meeting records of Hastings Borough, Rother District and East Sussex County councils. Each person's page links to every record counted here.</p>
+<div class="acc-tip" role="tooltip" hidden></div>
+<script type="application/json" id="acc-data">{{ A.councillors | jsonify | replace: "</", "<\/" }}</script>
+<script defer src="{{ '/assets/js/accountability.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+</article>

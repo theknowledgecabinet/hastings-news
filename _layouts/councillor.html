@@ -19,6 +19,15 @@ layout: default
   {%- for a in C.also %}<p class="muted small">Also councillor for {{ a.ward }} on {{ a.council }}: <a href="{{ a.url | relative_url }}">see that record</a>.</p>{% endfor %}
 </header>
 
+{%- if C.summary %}
+<section class="block mp-summary">
+  <div class="section-head"><h2>In summary</h2></div>
+  <p>{{ C.summary }}</p>
+  <p class="muted small">Counted from the records below, in fixed wording; not written by AI. Compare everyone on the <a href="{{ '/accountability/' | relative_url }}">accountability page</a>.</p>
+</section>
+{%- endif %}
+
+
 <section class="block">
   <div class="section-head"><h2>Last 12 months</h2></div>
   <ul class="mp-tally">

@@ -57,7 +57,7 @@
    "attended": 16,
    "substitute": 0,
    "declarations": 1,
-   "votes": 0
+   "votes": 2
   },
   "rate": 89,
   "upcoming": [
@@ -551,6 +551,18 @@
        "Questions from County Councillors"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6346&Ver=4",
+      "title": "Notice of Motion - Digital ID scheme",
+      "motion": "on the motion moved by Councillor Tutt",
+      "result": "Carried",
+      "for": 32,
+      "against": 4,
+      "abstain": 8
      }
     ]
    },
@@ -744,6 +756,18 @@
        "Questions from County Councillors"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "abstain",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6345&Ver=4",
+      "title": "Report of the Cabinet",
+      "motion": "on the motion moved by Councillor Bennett",
+      "result": "Carried",
+      "for": 26,
+      "against": 0,
+      "abstain": 21
      }
     ]
    },
@@ -970,7 +994,9 @@
     "ward": "North Battle, Netherfield & Whatlington",
     "url": "/representatives/rother-district/kathryn-field/"
    }
-  ]
+  ],
+  "ref_raw": "22",
+  "summary": "Kathryn Field is a Liberal Democrat councillor for Battle and Crowhurst on East Sussex County Council, a councillor since January 1992. Their posts: Leader of the Liberal Democrat Group. In the last 12 months they were expected at 27 meetings and attended 24 (89%). The comparable figure is 88% for all East Sussex County Council councillors in this area. They sent apologies for 3 meetings. They also attended 16 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies, chairing Corporate Parenting Panel. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 1."
  },
  "escc-5298": {
   "name": "Martin Kenward",
@@ -1094,7 +1120,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5298",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5298",
-  "also": []
+  "also": [],
+  "ref_raw": "5298",
+  "summary": "Martin Kenward is a Reform UK councillor for Bexhill East on East Sussex County Council, a councillor since May 2026. Their posts: Chairman of the County Council. In the last 12 months they were expected at 3 meetings and attended 3 (100%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 89% for its Reform UK councillors here. They sit on 2 committees and bodies, chairing Full Council and Regulatory Committee. They declared an interest at 1 meeting."
  },
  "escc-5294": {
   "name": "Donald Walmsley",
@@ -1593,7 +1621,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5294",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5294",
-  "also": []
+  "also": [],
+  "ref_raw": "5294",
+  "summary": "Donald Walmsley is a Conservative councillor for Bexhill North on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 8 meetings and attended 8 (100%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 97% for its Conservative councillors here. They also attended 12 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
  },
  "escc-5310": {
   "name": "Victoria Carson",
@@ -1927,7 +1957,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5310",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5310",
-  "also": []
+  "also": [],
+  "ref_raw": "5310",
+  "summary": "Victoria Carson is a Reform UK councillor for Bexhill South on East Sussex County Council, a councillor since May 2026. Their posts: Lead Member for Children and Families. In the last 12 months they were expected at 8 meetings and attended 7 (88%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 89% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
  },
  "escc-5307": {
   "name": "Pete Morley",
@@ -2361,7 +2393,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5307",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5307",
-  "also": []
+  "also": [],
+  "ref_raw": "5307",
+  "summary": "Pete Morley is a Reform UK councillor for Bexhill West on East Sussex County Council, a councillor since May 2026. Their posts: Deputy Leader of the Council and Lead Member for Economy. In the last 12 months they were expected at 14 meetings and attended 12 (86%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 89% for its Reform UK councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
  },
  "escc-5317": {
   "name": "Daniel Lach",
@@ -2593,7 +2627,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5317",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5317",
-  "also": []
+  "also": [],
+  "ref_raw": "5317",
+  "summary": "Daniel Lach is a Reform UK councillor for Brede Valley and Marsham on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 6 (100%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 89% for its Reform UK councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies."
  },
  "escc-5130": {
   "name": "Aidan Fisher",
@@ -2641,7 +2677,7 @@
    "attended": 4,
    "substitute": 0,
    "declarations": 2,
-   "votes": 0
+   "votes": 2
   },
   "rate": 79,
   "upcoming": [
@@ -2942,6 +2978,18 @@
        "Questions from County Councillors"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "against",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6346&Ver=4",
+      "title": "Notice of Motion - Digital ID scheme",
+      "motion": "on the motion moved by Councillor Tutt",
+      "result": "Carried",
+      "for": 32,
+      "against": 4,
+      "abstain": 8
      }
     ]
    },
@@ -2980,6 +3028,18 @@
        "Questions from County Councillors"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6345&Ver=4",
+      "title": "Report of the Cabinet",
+      "motion": "on the motion moved by Councillor Bennett",
+      "result": "Carried",
+      "for": 26,
+      "against": 0,
+      "abstain": 21
      }
     ]
    },
@@ -3048,7 +3108,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5130",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5130",
-  "also": []
+  "also": [],
+  "ref_raw": "5130",
+  "summary": "Aidan Fisher is a Reform UK councillor for Hastings - Ashdown and Conquest on East Sussex County Council, a councillor since November 2025. Their posts: Chair of Planning Committee. In the last 12 months they were expected at 14 meetings and attended 11 (79%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 89% for its Reform UK councillors here. They sent apologies for 3 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies, chairing Planning Committee. They declared an interest at 2 meetings. They took part in 2 named votes, voting the same way as most of their party group in 1."
  },
  "escc-5309": {
   "name": "Jo Walker",
@@ -3349,7 +3411,9 @@
     "ward": "Ore",
     "url": "/representatives/hastings-borough/jo-walker/"
    }
-  ]
+  ],
+  "ref_raw": "5309",
+  "summary": "Jo Walker is a Green Party councillor for Hastings - Baird and Ore on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 9 meetings and attended 8 (89%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 80% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 1 meeting."
  },
  "escc-5301": {
   "name": "Becca Horn",
@@ -3578,7 +3642,9 @@
     "ward": "Castle",
     "url": "/representatives/hastings-borough/becca-horn/"
    }
-  ]
+  ],
+  "ref_raw": "5301",
+  "summary": "Becca Horn is a Green Party councillor for Hastings - Braybrooke and Castle on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 5 meetings and attended 4 (80%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 80% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 1 meeting."
  },
  "escc-5327": {
   "name": "Amanda Jobson",
@@ -3781,7 +3847,9 @@
     "ward": "Gensing",
     "url": "/representatives/hastings-borough/amanda-jobson/"
    }
-  ]
+  ],
+  "ref_raw": "5327",
+  "summary": "Amanda Jobson is a Green Party councillor for Hastings - Central St Leonards and Gensing on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 3 meetings and attended 3 (100%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 80% for its Green Party councillors here. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 1 meeting."
  },
  "escc-5322": {
   "name": "Mark Estcourt",
@@ -4254,7 +4322,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5322",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5322",
-  "also": []
+  "also": [],
+  "ref_raw": "5322",
+  "summary": "Mark Estcourt is a Reform UK councillor for Hastings - Hollington and Wishing Tree on East Sussex County Council, a councillor since May 2026. Their posts: Lead Member for Adult Social Care and Health. In the last 12 months they were expected at 13 meetings and attended 12 (92%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 89% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 6 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 1 meeting."
  },
  "escc-5295": {
   "name": "Karen Simnett",
@@ -4534,7 +4604,9 @@
     "ward": "Maze Hill",
     "url": "/representatives/hastings-borough/karen-simnett/"
    }
-  ]
+  ],
+  "ref_raw": "5295",
+  "summary": "Karen Simnett is a Green Party councillor for Hastings - Maze Hill and West St Leonards on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 7 meetings and attended 5 (71%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 80% for its Green Party councillors here. They sent apologies for 2 meetings. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies."
  },
  "escc-2302": {
   "name": "Julia Hilton",
@@ -4576,7 +4648,7 @@
    "attended": 11,
    "substitute": 2,
    "declarations": 1,
-   "votes": 0
+   "votes": 1
   },
   "rate": 67,
   "upcoming": [
@@ -5035,6 +5107,18 @@
        "Questions from County Councillors"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "abstain",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6345&Ver=4",
+      "title": "Report of the Cabinet",
+      "motion": "on the motion moved by Councillor Bennett",
+      "result": "Carried",
+      "for": 26,
+      "against": 0,
+      "abstain": 21
      }
     ]
    },
@@ -5121,7 +5205,9 @@
     "ward": "Old Hastings",
     "url": "/representatives/hastings-borough/julia-hilton/"
    }
-  ]
+  ],
+  "ref_raw": "2302",
+  "summary": "Julia Hilton is a Green Party councillor for Hastings - Old Hastings and Tressell on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Green Party Group and Chair of Place Scrutiny Committee. In the last 12 months they were expected at 12 meetings and attended 8 (67%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 80% for its Green Party councillors here. They sent apologies for 4 meetings. They also attended 13 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Place Scrutiny Committee. They declared an interest at 1 meeting. They took part in 1 named vote, voting the same way as most of their party group in 0."
  },
  "escc-5316": {
   "name": "Shaun Dowling",
@@ -5531,7 +5617,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5316",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5316",
-  "also": []
+  "also": [],
+  "ref_raw": "5316",
+  "summary": "Shaun Dowling is a Green Party councillor for Hastings - St Helens and Silverhill on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 8 meetings and attended 7 (88%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 80% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 7 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 2 meetings."
  },
  "escc-2304": {
   "name": "Paul Redstone",
@@ -5591,7 +5679,7 @@
    "attended": 20,
    "substitute": 0,
    "declarations": 2,
-   "votes": 0
+   "votes": 2
   },
   "rate": 96,
   "upcoming": [
@@ -6200,6 +6288,18 @@
        "Questions from County Councillors"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6346&Ver=4",
+      "title": "Notice of Motion - Digital ID scheme",
+      "motion": "on the motion moved by Councillor Tutt",
+      "result": "Carried",
+      "for": 32,
+      "against": 4,
+      "abstain": 8
      }
     ]
    },
@@ -6354,6 +6454,18 @@
        "Questions from County Councillors"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6345&Ver=4",
+      "title": "Report of the Cabinet",
+      "motion": "on the motion moved by Councillor Bennett",
+      "result": "Carried",
+      "for": 26,
+      "against": 0,
+      "abstain": 21
      }
     ]
    },
@@ -6568,7 +6680,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=2304",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=2304",
-  "also": []
+  "also": [],
+  "ref_raw": "2304",
+  "summary": "Paul Redstone is a Conservative councillor for Northern Rother on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Conservative Group. In the last 12 months they were expected at 25 meetings and attended 24 (96%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 97% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 20 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5312": {
   "name": "Mark Ashdown",
@@ -6798,7 +6912,9 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5312",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5312",
-  "also": []
+  "also": [],
+  "ref_raw": "5312",
+  "summary": "Mark Ashdown is a Reform UK councillor for Rother North West on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 5 meetings and attended 5 (100%). The comparable figure is 88% for all East Sussex County Council councillors in this area and 89% for its Reform UK councillors here. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies."
  },
  "escc-5308": {
   "name": "Daniel Bradley",
@@ -6996,7 +7112,9 @@
     "ward": "Rye & Winchelsea",
     "url": "/representatives/rother-district/daniel-bradley/"
    }
-  ]
+  ],
+  "ref_raw": "5308",
+  "summary": "Daniel Bradley is an Independent councillor for Rye and Eastern Rother on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 88% for all East Sussex County Council councillors in this area. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 1 committee or body. They declared an interest at 1 meeting."
  },
  "hbc-2802": {
   "name": "Daniel Kendrick",
@@ -7110,11 +7228,13 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2802",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2802",
-  "also": []
+  "also": [],
+  "ref_raw": "2802",
+  "summary": "Daniel Kendrick is a Reform UK councillor for Ashdown on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 3 meetings and attended 2 (67%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 81% for its Reform UK councillors here. They sent apologies for 1 meeting. They sit on 1 committee or body."
  },
  "hbc-1175": {
   "name": "Sorrell Marlow-Eastwood",
-  "party": "Conservative Party",
+  "party": "Conservative",
   "ward": "Ashdown",
   "keyposts": null,
   "photo": "https://hastings.moderngov.co.uk/UserData/5/7/1/Info00001175/bigpic.jpg",
@@ -7496,7 +7616,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1175",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=1175",
-  "also": []
+  "also": [],
+  "ref_raw": "1175",
+  "summary": "Sorrell Marlow-Eastwood is a Conservative councillor for Ashdown on Hastings Borough Council. In the last 12 months they were expected at 15 meetings and attended 14 (93%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 78% for its Conservative councillors here. They sent apologies for 1 meeting. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
  },
  "hbc-2803": {
   "name": "Will Rumfitt",
@@ -7882,7 +8004,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2803",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2803",
-  "also": []
+  "also": [],
+  "ref_raw": "2803",
+  "summary": "Will Rumfitt is a Green Party councillor for Baird on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 15 meetings and attended 11 (73%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 4 meetings. They sit on 6 committees and bodies."
  },
  "hbc-2310": {
   "name": "Yunis Smith",
@@ -8368,7 +8492,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2310",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2310",
-  "also": []
+  "also": [],
+  "ref_raw": "2310",
+  "summary": "Yunis Smith is a Green Party councillor for Baird on Hastings Borough Council. Their posts: Migrant Champion. In the last 12 months they were expected at 21 meetings and attended 18 (86%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They sit on 3 committees and bodies, chairing Planning Committee."
  },
  "hbc-2804": {
   "name": "Archie Lauchlan",
@@ -8801,7 +8927,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2804",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2804",
-  "also": []
+  "also": [],
+  "ref_raw": "2804",
+  "summary": "Archie Lauchlan is a Green Party councillor for Braybrooke on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 15 meetings and attended 12 (80%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 7 committees and bodies, chairing Regulatory Committee."
  },
  "hbc-2311": {
   "name": "Mark Etherington",
@@ -9221,7 +9349,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2311",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2311",
-  "also": []
+  "also": [],
+  "ref_raw": "2311",
+  "summary": "Mark Etherington is a Green Party councillor for Braybrooke on Hastings Borough Council. Their posts: Planning, Infrastructure & Regulatory Services Portfolio Holder; Armed Forces Champion. In the last 12 months they were expected at 15 meetings and attended 10 (67%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 5 meetings. They sit on 2 committees and bodies."
  },
  "hbc-2312": {
   "name": "Becca Horn",
@@ -9632,7 +9762,9 @@
     "ward": "Hastings - Braybrooke and Castle",
     "url": "/representatives/east-sussex-county/becca-horn/"
    }
-  ]
+  ],
+  "ref_raw": "2312",
+  "summary": "Becca Horn is a Green Party councillor for Castle on Hastings Borough Council. Their posts: Community Safety and Environmental Services Portfolio Holder. In the last 12 months they were expected at 14 meetings and attended 13 (93%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies."
  },
  "hbc-2805": {
   "name": "Steph Fawbert",
@@ -10021,7 +10153,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2805",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2805",
-  "also": []
+  "also": [],
+  "ref_raw": "2805",
+  "summary": "Steph Fawbert is a Green Party councillor for Castle on Hastings Borough Council, a councillor since May 2026. Their posts: Heritage Champion. In the last 12 months they were expected at 14 meetings and attended 12 (86%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 2 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
  },
  "hbc-2313": {
   "name": "Adele Bates",
@@ -10358,7 +10492,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2313",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2313",
-  "also": []
+  "also": [],
+  "ref_raw": "2313",
+  "summary": "Adele Bates is a Green Party councillor for Central St Leonards on Hastings Borough Council. In the last 12 months they were expected at 14 meetings and attended 11 (79%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They sit on 5 committees and bodies, chairing Council Appointments Committee."
  },
  "hbc-2806": {
   "name": "Solly Solamito",
@@ -10606,11 +10742,13 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2806",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2806",
-  "also": []
+  "also": [],
+  "ref_raw": "2806",
+  "summary": "Solly Solamito is a Green Party councillor for Central St Leonards on Hastings Borough Council, a councillor since May 2026. Their posts: Corporate Services, Communities and Equalities Portfolio Holder. In the last 12 months they were expected at 7 meetings and attended 5 (71%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 2 meetings. They sit on 4 committees and bodies."
  },
  "hbc-1173": {
   "name": "Paul Foster",
-  "party": "Conservative Party",
+  "party": "Conservative",
   "ward": "Conquest",
   "keyposts": "Conservative Group Leader",
   "photo": "https://hastings.moderngov.co.uk/UserData/3/7/1/Info00001173/bigpic.jpg",
@@ -11025,7 +11163,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1173",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=1173",
-  "also": []
+  "also": [],
+  "ref_raw": "1173",
+  "summary": "Paul Foster is a Conservative councillor for Conquest on Hastings Borough Council, a councillor since May 2024. Their posts: Conservative Group Leader. In the last 12 months they were expected at 17 meetings and attended 11 (65%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 78% for its Conservative councillors here. They sent apologies for 5 meetings and were recorded absent without apologies at 1. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
  },
  "hbc-2807": {
   "name": "Rob Drew",
@@ -11244,7 +11384,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2807",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2807",
-  "also": []
+  "also": [],
+  "ref_raw": "2807",
+  "summary": "Rob Drew is a Reform UK councillor for Conquest on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 81% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
  },
  "hbc-2158": {
   "name": "Amanda Jobson",
@@ -11716,7 +11858,9 @@
     "ward": "Hastings - Central St Leonards and Gensing",
     "url": "/representatives/east-sussex-county/amanda-jobson/"
    }
-  ]
+  ],
+  "ref_raw": "2158",
+  "summary": "Amanda Jobson is a Green Party councillor for Gensing on Hastings Borough Council. Their posts: Deputy Mayor and Older Persons Champion. In the last 12 months they were expected at 20 meetings and attended 20 (100%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sit on 5 committees and bodies, chairing Licensing Committee."
  },
  "hbc-2314": {
   "name": "Paula Warne",
@@ -12279,7 +12423,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2314",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2314",
-  "also": []
+  "also": [],
+  "ref_raw": "2314",
+  "summary": "Paula Warne is a Green Party councillor for Gensing on Hastings Borough Council. Their posts: Mayor of the Borough of Hastings. In the last 12 months they were expected at 24 meetings and attended 22 (92%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 2 meetings. They sit on 6 committees and bodies, chairing Full Council."
  },
  "hbc-2315": {
   "name": "Danuta Kean",
@@ -12576,7 +12722,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2315",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2315",
-  "also": []
+  "also": [],
+  "ref_raw": "2315",
+  "summary": "Danuta Kean is an Independent councillor for Hollington on Hastings Borough Council. In the last 12 months they were expected at 12 meetings and attended 9 (75%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 54% for its Independent councillors here. They sent apologies for 3 meetings. They sit on 2 committees and bodies, chairing Audit Committee."
  },
  "hbc-2808": {
   "name": "Will Chapman",
@@ -12719,7 +12867,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2808",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2808",
-  "also": []
+  "also": [],
+  "ref_raw": "2808",
+  "summary": "Will Chapman is a Reform UK councillor for Hollington on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 4 meetings and attended 4 (100%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 81% for its Reform UK councillors here. They sit on 2 committees and bodies."
  },
  "hbc-2321": {
   "name": "Darren Mackenzie",
@@ -13183,7 +13333,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2321",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2321",
-  "also": []
+  "also": [],
+  "ref_raw": "2321",
+  "summary": "Darren Mackenzie is a Green Party councillor for Maze Hill on Hastings Borough Council. Their posts: Finance, IT, Risk and Assets Portfolio Holder. In the last 12 months they were expected at 17 meetings and attended 17 (100%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sit on 4 committees and bodies, chairing Standards Committee."
  },
  "hbc-2809": {
   "name": "Karen Simnett",
@@ -13610,7 +13762,9 @@
     "ward": "Hastings - Maze Hill and West St Leonards",
     "url": "/representatives/east-sussex-county/karen-simnett/"
    }
-  ]
+  ],
+  "ref_raw": "2809",
+  "summary": "Karen Simnett is a Green Party councillor for Maze Hill on Hastings Borough Council, a councillor since May 2026. Their posts: Mental Health Champion. In the last 12 months they were expected at 15 meetings and attended 12 (80%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
  },
  "hbc-2041": {
   "name": "Julia Hilton",
@@ -14305,7 +14459,9 @@
     "ward": "Hastings - Old Hastings and Tressell",
     "url": "/representatives/east-sussex-county/julia-hilton/"
    }
-  ]
+  ],
+  "ref_raw": "2041",
+  "summary": "Julia Hilton is a Green Party councillor for Old Hastings on Hastings Borough Council, a councillor since May 2021. Their posts: Deputy Leader of the Council, Shaping Places, Regeneration and Community Wealth Building Portfolio Holder. In the last 12 months they were expected at 28 meetings and attended 24 (86%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 4 meetings. They sit on 7 committees and bodies, chairing Museum Committee."
  },
  "hbc-2810": {
   "name": "Mike Frith",
@@ -14519,7 +14675,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2810",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2810",
-  "also": []
+  "also": [],
+  "ref_raw": "2810",
+  "summary": "Mike Frith is a Green Party councillor for Old Hastings on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 6 (100%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 4 committees and bodies."
  },
  "hbc-2811": {
   "name": "Clem McCulloch",
@@ -14804,7 +14962,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2811",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2811",
-  "also": []
+  "also": [],
+  "ref_raw": "2811",
+  "summary": "Clem McCulloch is a Green Party councillor for Ore on Hastings Borough Council, a councillor since May 2026. Their posts: Chair of the Charity Committee. In the last 12 months they were expected at 8 meetings and attended 7 (88%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Charity Committee."
  },
  "hbc-2316": {
   "name": "Jo Walker",
@@ -15373,11 +15533,13 @@
     "ward": "Hastings - Baird and Ore",
     "url": "/representatives/east-sussex-county/jo-walker/"
    }
-  ]
+  ],
+  "ref_raw": "2316",
+  "summary": "Jo Walker is a Green Party councillor for Ore on Hastings Borough Council. Their posts: Climate, Nature and Green Spaces Portfolio Holder. In the last 12 months they were expected at 22 meetings and attended 21 (95%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 1 meeting. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
  },
  "hbc-2317": {
   "name": "Billie Barnes",
-  "party": "Labour Party",
+  "party": "Labour",
   "ward": "Silverhill",
   "keyposts": null,
   "photo": "https://hastings.moderngov.co.uk/UserData/7/1/3/Info00002317/bigpic.jpg",
@@ -15569,7 +15731,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2317",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2317",
-  "also": []
+  "also": [],
+  "ref_raw": "2317",
+  "summary": "Billie Barnes is a Labour councillor for Silverhill on Hastings Borough Council. In the last 12 months they were expected at 7 meetings and attended 6 (86%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 84% for its Labour councillors here. They were recorded absent without apologies at 1. They sit on 2 committees and bodies."
  },
  "hbc-2812": {
   "name": "Dulcie Reynolds",
@@ -15782,7 +15946,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2812",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2812",
-  "also": []
+  "also": [],
+  "ref_raw": "2812",
+  "summary": "Dulcie Reynolds is a Green Party councillor for Silverhill on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 7 meetings and attended 6 (86%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 1 meeting. They sit on 5 committees and bodies."
  },
  "hbc-110": {
   "name": "Andy Batsford",
@@ -16111,7 +16277,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=110",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=110",
-  "also": []
+  "also": [],
+  "ref_raw": "110",
+  "summary": "Andy Batsford is an Independent councillor for St Helens on Hastings Borough Council. In the last 12 months they were expected at 14 meetings and attended 5 (36%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 54% for its Independent councillors here. They sent apologies for 9 meetings. They sit on 2 committees and bodies."
  },
  "hbc-2813": {
   "name": "Peter Clarke",
@@ -16402,7 +16570,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2813",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2813",
-  "also": []
+  "also": [],
+  "ref_raw": "2813",
+  "summary": "Peter Clarke is a Reform UK councillor for St Helens on Hastings Borough Council, a councillor since May 2026. Their posts: Reform Group Deputy Leader. In the last 12 months they were expected at 9 meetings and attended 8 (89%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 81% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
  },
  "hbc-2159": {
   "name": "Glenn Haffenden",
@@ -16953,7 +17123,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2159",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2159",
-  "also": []
+  "also": [],
+  "ref_raw": "2159",
+  "summary": "Glenn Haffenden is a Green Party councillor for Tressell on Hastings Borough Council. Their posts: Leader of the Council and Housing, Health, Active Communities and LGR Portfolio Holder. In the last 12 months they were expected at 20 meetings and attended 19 (95%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Cabinet and Employment Committee."
  },
  "hbc-2319": {
   "name": "Natalie Gaimster",
@@ -17374,7 +17546,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2319",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2319",
-  "also": []
+  "also": [],
+  "ref_raw": "2319",
+  "summary": "Natalie Gaimster is a Green Party councillor for Tressell on Hastings Borough Council. In the last 12 months they were expected at 15 meetings and attended 12 (80%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
  },
  "hbc-2814": {
   "name": "Derek Lawrence",
@@ -17615,11 +17789,13 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2814",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2814",
-  "also": []
+  "also": [],
+  "ref_raw": "2814",
+  "summary": "Derek Lawrence is a Reform UK councillor for West St Leonards on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 9 meetings and attended 6 (67%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 81% for its Reform UK councillors here. They sent apologies for 3 meetings. They sit on 1 committee or body."
  },
  "hbc-142": {
   "name": "Trevor Webb",
-  "party": "Labour Party",
+  "party": "Labour",
   "ward": "West St Leonards",
   "keyposts": null,
   "photo": "https://hastings.moderngov.co.uk/UserData/2/4/1/Info00000142/bigpic.jpg",
@@ -18172,7 +18348,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=142",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=142",
-  "also": []
+  "also": [],
+  "ref_raw": "142",
+  "summary": "Trevor Webb is a Labour councillor for West St Leonards on Hastings Borough Council. In the last 12 months they were expected at 21 meetings and attended 17 (81%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 84% for its Labour councillors here. They sent apologies for 3 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings."
  },
  "hbc-2815": {
   "name": "Doreena Ross",
@@ -18542,11 +18720,13 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2815",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2815",
-  "also": []
+  "also": [],
+  "ref_raw": "2815",
+  "summary": "Doreena Ross is a Reform UK councillor for Wishing Tree on Hastings Borough Council, a councillor since May 2026. Their posts: Reform Group Leader. In the last 12 months they were expected at 12 meetings and attended 10 (83%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 81% for its Reform UK councillors here. They sent apologies for 2 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 7 committees and bodies."
  },
  "hbc-2320": {
   "name": "Helen Kay",
-  "party": "Labour Party",
+  "party": "Labour",
   "ward": "Wishing Tree",
   "keyposts": "Anti-Poverty Champion, Labour Group Leader",
   "photo": "https://hastings.moderngov.co.uk/UserData/0/2/3/Info00002320/bigpic.png",
@@ -18833,7 +19013,9 @@
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2320",
   "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2320",
-  "also": []
+  "also": [],
+  "ref_raw": "2320",
+  "summary": "Helen Kay is a Labour councillor for Wishing Tree on Hastings Borough Council. Their posts: Anti-Poverty Champion, Labour Group Leader. In the last 12 months they were expected at 10 meetings and attended 9 (90%). The comparable figure is 83% for all Hastings Borough Council councillors in this area and 84% for its Labour councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Overview and Scrutiny Committee."
  },
  "rdc-469": {
   "name": "Christine Bayliss",
@@ -19560,7 +19742,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=469",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=469",
-  "also": []
+  "also": [],
+  "ref_raw": "469",
+  "summary": "Christine Bayliss is a Labour councillor for Bexhill Central on Rother District Council, a councillor since May 2023. Their posts: Cabinet Member. In the last 12 months they were expected at 21 meetings and attended 19 (90%). The comparable figure is 86% for all Rother District Council councillors in this area and 80% for its Labour councillors here. They sent apologies for 2 meetings. They also attended 5 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 3 meetings."
  },
  "rdc-1949": {
   "name": "Ruairi McCourt",
@@ -20168,7 +20352,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1949",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1949",
-  "also": []
+  "also": [],
+  "ref_raw": "1949",
+  "summary": "Ruairi McCourt is a Labour councillor for Bexhill Central on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 11 (55%). The comparable figure is 86% for all Rother District Council councillors in this area and 80% for its Labour councillors here. They sent apologies for 7 meetings and were recorded absent without apologies at 2. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 1 meeting."
  },
  "rdc-476": {
   "name": "Ashan Jeeawon",
@@ -20697,7 +20883,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=476",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=476",
-  "also": []
+  "also": [],
+  "ref_raw": "476",
+  "summary": "Ashan Jeeawon is a Rother Association of Independent Councillors councillor for Bexhill Collington on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 18 meetings and attended 12 (67%). The comparable figure is 86% for all Rother District Council councillors in this area and 89% for its Rother Association of Independent Councillors councillors here. They sent apologies for 6 meetings. They sit on 4 committees and bodies."
  },
  "rdc-117": {
   "name": "Doug Oliver",
@@ -21466,7 +21654,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=117",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=117",
-  "also": []
+  "also": [],
+  "ref_raw": "117",
+  "summary": "Doug Oliver is a Rother Association of Independent Councillors councillor for Bexhill Collington on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 22 meetings and attended 22 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 89% for its Rother Association of Independent Councillors councillors here. They also attended 8 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies, chairing Human Resources Committee and Shareholder Executive Committee (Sub-Committee of Cabinet)."
  },
  "rdc-1957": {
   "name": "Andrew Hayward",
@@ -21849,7 +22039,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1957",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1957",
-  "also": []
+  "also": [],
+  "ref_raw": "1957",
+  "summary": "Andrew Hayward is a Rother Association of Independent Councillors councillor for Bexhill Kewhurst on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 11 meetings and attended 9 (82%). The comparable figure is 86% for all Rother District Council councillors in this area and 89% for its Rother Association of Independent Councillors councillors here. They sent apologies for 1 meeting and were recorded absent without apologies at 1. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 1 meeting."
  },
  "rdc-461": {
   "name": "Brian Drayson",
@@ -22362,7 +22554,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=461",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=461",
-  "also": []
+  "also": [],
+  "ref_raw": "461",
+  "summary": "Brian Drayson is a Rother Association of Independent Councillors councillor for Bexhill Kewhurst on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 15 meetings and attended 15 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 89% for its Rother Association of Independent Councillors councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies, chairing Audit and Standards Committee and Planning Committee. They declared an interest at 3 meetings."
  },
  "rdc-1990": {
   "name": "Mark Legg",
@@ -22884,11 +23078,13 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1990",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1990",
-  "also": []
+  "also": [],
+  "ref_raw": "1990",
+  "summary": "Mark Legg is a Labour councillor for Bexhill Old Town & Worsham on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 10 meetings and attended 9 (90%). The comparable figure is 86% for all Rother District Council councillors in this area and 80% for its Labour councillors here. They sent apologies for 1 meeting. They also attended 9 meetings as a substitute or as a visiting councillor. They sit on 7 committees and bodies, chairing Council. They declared an interest at 1 meeting."
  },
  "rdc-475": {
   "name": "Polly Gray",
-  "party": "Green",
+  "party": "Green Party",
   "ward": "Bexhill Old Town & Worsham",
   "keyposts": "Green Group Leader",
   "photo": "https://Rother.moderngov.co.uk/UserData/5/7/4/Info00000475/bigpic.png",
@@ -23750,7 +23946,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=475",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=475",
-  "also": []
+  "also": [],
+  "ref_raw": "475",
+  "summary": "Polly Gray is a Green Party councillor for Bexhill Old Town & Worsham on Rother District Council, a councillor since May 2023. Their posts: Green Group Leader. In the last 12 months they were expected at 29 meetings and attended 29 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 98% for its Green Party councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 11 committees and bodies. They declared an interest at 2 meetings."
  },
  "rdc-130": {
   "name": "Charles Clark",
@@ -24138,7 +24336,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=130",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=130",
-  "also": []
+  "also": [],
+  "ref_raw": "130",
+  "summary": "Charles Clark is an Independent councillor for Bexhill Pebsham & St Michaels on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 13 meetings and attended 12 (92%). The comparable figure is 86% for all Rother District Council councillors in this area and 94% for its Independent councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 1 meeting."
  },
  "rdc-1960": {
   "name": "Gareth Delany",
@@ -24899,7 +25099,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1960",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1960",
-  "also": []
+  "also": [],
+  "ref_raw": "1960",
+  "summary": "Gareth Delany is a Labour councillor for Bexhill Pebsham & St Michaels on Rother District Council, a councillor since May 2023. Their posts: Labour Group Leader. In the last 12 months they were expected at 25 meetings and attended 22 (88%). The comparable figure is 86% for all Rother District Council councillors in this area and 80% for its Labour councillors here. They sent apologies for 2 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 8 committees and bodies. They declared an interest at 4 meetings."
  },
  "rdc-482": {
   "name": "Hazel Timpe",
@@ -25666,7 +25868,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=482",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=482",
-  "also": []
+  "also": [],
+  "ref_raw": "482",
+  "summary": "Hazel Timpe is a Rother Association of Independent Councillors councillor for Bexhill Sackville on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 18 (86%). The comparable figure is 86% for all Rother District Council councillors in this area and 89% for its Rother Association of Independent Councillors councillors here. They sent apologies for 3 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 7 committees and bodies. They declared an interest at 12 meetings."
  },
  "rdc-470": {
   "name": "Terry Byrne",
@@ -26446,7 +26650,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=470",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=470",
-  "also": []
+  "also": [],
+  "ref_raw": "470",
+  "summary": "Terry Byrne is a Rother Association of Independent Councillors councillor for Bexhill Sackville on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 27 meetings and attended 25 (93%). The comparable figure is 86% for all Rother District Council councillors in this area and 89% for its Rother Association of Independent Councillors councillors here. They sent apologies for 2 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies, chairing Standards Committee. They declared an interest at 7 meetings."
  },
  "rdc-1965": {
   "name": "Fazlul Chowdhury",
@@ -27299,7 +27505,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1965",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1965",
-  "also": []
+  "also": [],
+  "ref_raw": "1965",
+  "summary": "Fazlul Chowdhury is a Labour councillor for Bexhill Sidley on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 32 meetings and attended 27 (84%). The comparable figure is 86% for all Rother District Council councillors in this area and 80% for its Labour councillors here. They sent apologies for 4 meetings and were recorded absent without apologies at 1. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 1 meeting."
  },
  "rdc-472": {
   "name": "Sam Coleman",
@@ -27552,7 +27760,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=472",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=472",
-  "also": []
+  "also": [],
+  "ref_raw": "472",
+  "summary": "Sam Coleman is a Labour councillor for Bexhill Sidley on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 7 meetings and attended 4 (57%). The comparable figure is 86% for all Rother District Council councillors in this area and 80% for its Labour councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies."
  },
  "rdc-1778": {
   "name": "Connor Winter",
@@ -28012,7 +28222,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1778",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1778",
-  "also": []
+  "also": [],
+  "ref_raw": "1778",
+  "summary": "Connor Winter is a Conservative councillor for Bexhill St Marks on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 14 meetings and attended 7 (50%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 6 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 1 meeting."
  },
  "rdc-1756": {
   "name": "Jimmy Stanger",
@@ -28744,11 +28956,13 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1756",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1756",
-  "also": []
+  "also": [],
+  "ref_raw": "1756",
+  "summary": "Jimmy Stanger is a Conservative councillor for Bexhill St Marks on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 19 meetings and attended 16 (84%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 3 meetings. They also attended 8 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies, chairing Licensing and General Purposes Committee."
  },
  "rdc-1972": {
   "name": "Arren Rathbone Ariel",
-  "party": "Green",
+  "party": "Green Party",
   "ward": "Bexhill St Stephens",
   "keyposts": null,
   "photo": "https://Rother.moderngov.co.uk/UserData/2/7/9/Info00001972/bigpic.jpg",
@@ -29346,7 +29560,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1972",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1972",
-  "also": []
+  "also": [],
+  "ref_raw": "1972",
+  "summary": "Arren Rathbone Ariel is a Green Party councillor for Bexhill St Stephens on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 20 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 98% for its Green Party councillors here. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 1 meeting."
  },
  "rdc-481": {
   "name": "Richard Thomas",
@@ -30080,7 +30296,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=481",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=481",
-  "also": []
+  "also": [],
+  "ref_raw": "481",
+  "summary": "Richard Thomas is a Liberal Democrat councillor for Bexhill St Stephens on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 17 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 3 meetings. They also attended 5 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 12 meetings."
  },
  "rdc-1850": {
   "name": "Neil Gordon",
@@ -30438,7 +30656,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1850",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1850",
-  "also": []
+  "also": [],
+  "ref_raw": "1850",
+  "summary": "Neil Gordon is a Conservative councillor for Brede & Udimore on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 10 meetings and attended 5 (50%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 4 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
  },
  "rdc-116": {
   "name": "John Barnes (MBE)",
@@ -31421,7 +31641,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=116",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=116",
-  "also": []
+  "also": [],
+  "ref_raw": "116",
+  "summary": "John Barnes (MBE) is a Conservative councillor for Burwash & the Weald on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 20 (95%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 16 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies, chairing Audit Committee. They declared an interest at 3 meetings."
  },
  "rdc-134": {
   "name": "Mrs Eleanor Kirby-Green",
@@ -31822,7 +32044,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=134",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=134",
-  "also": []
+  "also": [],
+  "ref_raw": "134",
+  "summary": "Mrs Eleanor Kirby-Green is a Conservative councillor for Burwash & the Weald on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 12 meetings and attended 12 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 1 meeting."
  },
  "rdc-2227": {
   "name": "Nicola McLaren",
@@ -32539,7 +32763,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=2227",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=2227",
-  "also": []
+  "also": [],
+  "ref_raw": "2227",
+  "summary": "Nicola McLaren is a Liberal Democrat councillor for Catsfield & Crowhurst on Rother District Council, a councillor since June 2025. In the last 12 months they were expected at 21 meetings and attended 19 (90%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies, chairing Climate Change Steering Group. They declared an interest at 6 meetings."
  },
  "rdc-654": {
   "name": "Lizzie Hacking",
@@ -32743,7 +32969,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=654",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=654",
-  "also": []
+  "also": [],
+  "ref_raw": "654",
+  "summary": "Lizzie Hacking is a Conservative councillor for Eastern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 1 meeting. They sit on 1 committee or body. They declared an interest at 1 meeting."
  },
  "rdc-145": {
   "name": "Paul Osborne",
@@ -33391,7 +33619,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=145",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=145",
-  "also": []
+  "also": [],
+  "ref_raw": "145",
+  "summary": "Paul Osborne is a Conservative councillor for Eastern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 14 meetings and attended 14 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They also attended 10 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Overview and Scrutiny Committee. They declared an interest at 2 meetings."
  },
  "rdc-113": {
   "name": "Mrs Mary Barnes",
@@ -33994,7 +34224,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=113",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=113",
-  "also": []
+  "also": [],
+  "ref_raw": "113",
+  "summary": "Mrs Mary Barnes is a Conservative councillor for Hurst Green & Ticehurst on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 23 meetings and attended 22 (96%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 1 meeting. They sit on 4 committees and bodies."
  },
  "rdc-1979": {
   "name": "Teresa Killeen (MBE)",
@@ -35192,7 +35424,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1979",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1979",
-  "also": []
+  "also": [],
+  "ref_raw": "1979",
+  "summary": "Teresa Killeen (MBE) is a Liberal Democrat councillor for Hurst Green & Ticehurst on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 27 meetings and attended 25 (93%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 21 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
  },
  "rdc-136": {
   "name": "Kathryn Field",
@@ -35808,11 +36042,13 @@
     "ward": "Battle and Crowhurst",
     "url": "/representatives/east-sussex-county/kathryn-field/"
    }
-  ]
+  ],
+  "ref_raw": "136",
+  "summary": "Kathryn Field is a Liberal Democrat councillor for North Battle, Netherfield & Whatlington on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 18 meetings and attended 16 (89%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 7 meetings."
  },
  "rdc-1741": {
   "name": "Sue Burton",
-  "party": "Green",
+  "party": "Green Party",
   "ward": "North Battle, Netherfield & Whatlington",
   "keyposts": null,
   "photo": "https://Rother.moderngov.co.uk/UserData/1/4/7/Info00001741/bigpic.jpg",
@@ -36341,7 +36577,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1741",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1741",
-  "also": []
+  "also": [],
+  "ref_raw": "1741",
+  "summary": "Sue Burton is a Green Party councillor for North Battle, Netherfield & Whatlington on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 14 meetings and attended 13 (93%). The comparable figure is 86% for all Rother District Council councillors in this area and 98% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 5 meetings."
  },
  "rdc-1991": {
   "name": "Tony Biggs",
@@ -37132,7 +37370,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1991",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1991",
-  "also": []
+  "also": [],
+  "ref_raw": "1991",
+  "summary": "Tony Biggs is a Conservative councillor for Northern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 19 (90%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 2 meetings. They also attended 8 meetings as a substitute or as a visiting councillor. They sit on 7 committees and bodies."
  },
  "rdc-137": {
   "name": "Tony Ganly",
@@ -37510,7 +37750,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=137",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=137",
-  "also": []
+  "also": [],
+  "ref_raw": "137",
+  "summary": "Tony Ganly is a Conservative councillor for Northern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 11 meetings and attended 10 (91%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 1 committee or body. They declared an interest at 1 meeting."
  },
  "rdc-112": {
   "name": "Susan Prochak (MBE)",
@@ -38193,7 +38435,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=112",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=112",
-  "also": []
+  "also": [],
+  "ref_raw": "112",
+  "summary": "Susan Prochak (MBE) is a Liberal Democrat councillor for Robertsbridge on Rother District Council, a councillor since May 2023. Their posts: Liberal Democrats Group Leader. In the last 12 months they were expected at 18 meetings and attended 18 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They also attended 6 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 6 meetings."
  },
  "rdc-1982": {
   "name": "Cheryl Creaser",
@@ -38770,7 +39014,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1982",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1982",
-  "also": []
+  "also": [],
+  "ref_raw": "1982",
+  "summary": "Cheryl Creaser is a Conservative councillor for Rye & Winchelsea on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 17 (81%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 3 meetings and were recorded absent without apologies at 1. They sit on 2 committees and bodies. They declared an interest at 4 meetings."
  },
  "rdc-2290": {
   "name": "Daniel Bradley",
@@ -38922,7 +39168,9 @@
     "ward": "Rye and Eastern Rother",
     "url": "/representatives/east-sussex-county/daniel-bradley/"
    }
-  ]
+  ],
+  "ref_raw": "2290",
+  "summary": "Daniel Bradley is an Independent councillor for Rye & Winchelsea on Rother District Council, a councillor since May 2026. In the last 12 months they were expected at 3 meetings and attended 3 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 94% for its Independent councillors here. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 1 committee or body."
  },
  "rdc-1722": {
   "name": "Beverley Coupar",
@@ -39590,7 +39838,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1722",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1722",
-  "also": []
+  "also": [],
+  "ref_raw": "1722",
+  "summary": "Beverley Coupar is a Liberal Democrat councillor for Sedlescombe & Westfield on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 8 (40%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 11 meetings and were recorded absent without apologies at 1. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 8 committees and bodies. They declared an interest at 4 meetings."
  },
  "rdc-139": {
   "name": "Carl Maynard",
@@ -40022,7 +40272,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=139",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=139",
-  "also": []
+  "also": [],
+  "ref_raw": "139",
+  "summary": "Carl Maynard is a Conservative councillor for Sedlescombe & Westfield on Rother District Council, a councillor since May 2023. Their posts: Conservative Group Leader. In the last 12 months they were expected at 13 meetings and attended 11 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 4 meetings."
  },
  "rdc-471": {
   "name": "Mrs Vikki Cook",
@@ -40679,7 +40931,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=471",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=471",
-  "also": []
+  "also": [],
+  "ref_raw": "471",
+  "summary": "Mrs Vikki Cook is a Liberal Democrat councillor for South Battle & Telham on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 18 meetings and attended 15 (83%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 3 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 6 meetings."
  },
  "rdc-479": {
   "name": "Andrew Mier",
@@ -41394,7 +41648,9 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=479",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=479",
-  "also": []
+  "also": [],
+  "ref_raw": "479",
+  "summary": "Andrew Mier is a Liberal Democrat councillor for Southern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 13 meetings and attended 11 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 13 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 2 meetings."
  },
  "rdc-1987": {
   "name": "Tim Grohne",
@@ -41855,6 +42111,8 @@
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1987",
   "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1987",
-  "also": []
+  "also": [],
+  "ref_raw": "1987",
+  "summary": "Tim Grohne is a Conservative councillor for Southern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 15 meetings and attended 13 (87%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 2 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
  }
 }
