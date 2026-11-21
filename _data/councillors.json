@@ -988,6 +988,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=22",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=22&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=22",
   "also": [
    {
@@ -1121,6 +1122,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5298",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5298&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5298",
   "also": [],
   "ref_raw": "5298",
@@ -1623,6 +1625,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5294",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5294&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5294",
   "also": [],
   "ref_raw": "5294",
@@ -1960,6 +1963,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5310",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5310&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5310",
   "also": [],
   "ref_raw": "5310",
@@ -2394,6 +2398,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5307",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5307&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5307",
   "also": [],
   "ref_raw": "5307",
@@ -2629,6 +2634,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5317",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5317&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5317",
   "also": [],
   "ref_raw": "5317",
@@ -3111,6 +3117,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5130",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5130&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5130",
   "also": [],
   "ref_raw": "5130",
@@ -3409,6 +3416,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5309",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5309&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5309",
   "also": [
    {
@@ -3641,6 +3649,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5301",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5301&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5301",
   "also": [
    {
@@ -3847,6 +3856,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5327",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5327&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5327",
   "also": [
    {
@@ -4329,6 +4339,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5322",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5322&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5322",
   "also": [],
   "ref_raw": "5322",
@@ -4606,6 +4617,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5295",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5295&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5295",
   "also": [
    {
@@ -5208,6 +5220,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=2302",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=2302&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=2302",
   "also": [
    {
@@ -5627,6 +5640,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5316",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5316&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5316",
   "also": [],
   "ref_raw": "5316",
@@ -6691,6 +6705,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=2304",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=2304&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=2304",
   "also": [],
   "ref_raw": "2304",
@@ -6924,6 +6939,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5312",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5312&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5312",
   "also": [],
   "ref_raw": "5312",
@@ -7119,6 +7135,7 @@
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=5308",
   "interests": "https://democracy.eastsussex.gov.uk/mgRofI.aspx?UID=5308&FID=-1&HPID=0",
+  "interests_direct": true,
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5308",
   "also": [
    {
@@ -7241,7 +7258,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2802",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2802&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2802",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2802",
   "also": [],
   "ref_raw": "2802",
@@ -7627,7 +7645,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1175",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=1175&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1175",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1175",
   "also": [],
   "ref_raw": "1175",
@@ -8013,7 +8032,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2803",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2803&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2803",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2803",
   "also": [],
   "ref_raw": "2803",
@@ -8499,7 +8519,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2310",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2310&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2310",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2310",
   "also": [],
   "ref_raw": "2310",
@@ -8932,7 +8953,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2804",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2804&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2804",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2804",
   "also": [],
   "ref_raw": "2804",
@@ -9355,7 +9377,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2311",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2311&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2311",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2311",
   "also": [],
   "ref_raw": "2311",
@@ -9763,7 +9786,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2312",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2312&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2312",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2312",
   "also": [
    {
@@ -10158,7 +10182,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2805",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2805&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2805",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2805",
   "also": [],
   "ref_raw": "2805",
@@ -10498,7 +10523,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2313",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2313&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2313",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2313",
   "also": [],
   "ref_raw": "2313",
@@ -10749,7 +10775,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2806",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2806&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2806",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2806",
   "also": [],
   "ref_raw": "2806",
@@ -11171,7 +11198,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1173",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=1173&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1173",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1173",
   "also": [],
   "ref_raw": "1173",
@@ -11393,7 +11421,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2807",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2807&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2807",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2807",
   "also": [],
   "ref_raw": "2807",
@@ -11862,7 +11891,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2158",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2158&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2158",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2158",
   "also": [
    {
@@ -12431,7 +12461,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2314",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2314&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2314",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2314",
   "also": [],
   "ref_raw": "2314",
@@ -12731,7 +12762,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2315",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2315&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2315",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2315",
   "also": [],
   "ref_raw": "2315",
@@ -12877,7 +12909,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2808",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2808&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2808",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2808",
   "also": [],
   "ref_raw": "2808",
@@ -13344,7 +13377,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2321",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2321&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2321",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2321",
   "also": [],
   "ref_raw": "2321",
@@ -13765,7 +13799,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2809",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2809&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2809",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2809",
   "also": [
    {
@@ -14462,7 +14497,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2041",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2041&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2041",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2041",
   "also": [
    {
@@ -14685,7 +14721,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2810",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2810&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2810",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2810",
   "also": [],
   "ref_raw": "2810",
@@ -14973,7 +15010,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2811",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2811&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2811",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2811",
   "also": [],
   "ref_raw": "2811",
@@ -15538,7 +15576,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2316",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2316&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2316",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2316",
   "also": [
    {
@@ -15743,7 +15782,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2317",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2317&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2317",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2317",
   "also": [],
   "ref_raw": "2317",
@@ -15959,7 +15999,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2812",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2812&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2812",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2812",
   "also": [],
   "ref_raw": "2812",
@@ -16291,7 +16332,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=110",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=110&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=110",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=110",
   "also": [],
   "ref_raw": "110",
@@ -16585,7 +16627,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2813",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2813&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2813",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2813",
   "also": [],
   "ref_raw": "2813",
@@ -17139,7 +17182,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2159",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2159&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2159",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2159",
   "also": [],
   "ref_raw": "2159",
@@ -17563,7 +17607,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2319",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2319&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2319",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2319",
   "also": [],
   "ref_raw": "2319",
@@ -17804,7 +17849,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2814",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2814&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2814",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2814",
   "also": [],
   "ref_raw": "2814",
@@ -18361,7 +18407,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=142",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=142&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=142",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=142",
   "also": [],
   "ref_raw": "142",
@@ -18731,7 +18778,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2815",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2815&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2815",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2815",
   "also": [],
   "ref_raw": "2815",
@@ -19025,7 +19073,8 @@
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2320",
-  "interests": "https://hastings.moderngov.co.uk/mgRofI.aspx?UID=2320&FID=-1&HPID=0",
+  "interests": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2320",
+  "interests_direct": false,
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2320",
   "also": [],
   "ref_raw": "2320",
@@ -19755,7 +19804,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=469",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=469&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=469",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=469",
   "also": [],
   "ref_raw": "469",
@@ -20366,7 +20416,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1949",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1949&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1949",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1949",
   "also": [],
   "ref_raw": "1949",
@@ -20898,7 +20949,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=476",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=476&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=476",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=476",
   "also": [],
   "ref_raw": "476",
@@ -21670,7 +21722,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=117",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=117&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=117",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=117",
   "also": [],
   "ref_raw": "117",
@@ -22056,7 +22109,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1957",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1957&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1957",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1957",
   "also": [],
   "ref_raw": "1957",
@@ -22572,7 +22626,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=461",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=461&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=461",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=461",
   "also": [],
   "ref_raw": "461",
@@ -23097,7 +23152,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1990",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1990&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1990",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1990",
   "also": [],
   "ref_raw": "1990",
@@ -23966,7 +24022,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=475",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=475&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=475",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=475",
   "also": [],
   "ref_raw": "475",
@@ -24357,7 +24414,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=130",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=130&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=130",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=130",
   "also": [],
   "ref_raw": "130",
@@ -25121,7 +25179,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1960",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1960&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1960",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1960",
   "also": [],
   "ref_raw": "1960",
@@ -25891,7 +25950,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=482",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=482&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=482",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=482",
   "also": [],
   "ref_raw": "482",
@@ -26674,7 +26734,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=470",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=470&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=470",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=470",
   "also": [],
   "ref_raw": "470",
@@ -27530,7 +27591,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1965",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1965&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1965",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1965",
   "also": [],
   "ref_raw": "1965",
@@ -27786,7 +27848,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=472",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=472&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=472",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=472",
   "also": [],
   "ref_raw": "472",
@@ -28249,7 +28312,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1778",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1778&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1778",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1778",
   "also": [],
   "ref_raw": "1778",
@@ -28984,7 +29048,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1756",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1756&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1756",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1756",
   "also": [],
   "ref_raw": "1756",
@@ -29589,7 +29654,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1972",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1972&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1972",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1972",
   "also": [],
   "ref_raw": "1972",
@@ -30326,7 +30392,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=481",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=481&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=481",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=481",
   "also": [],
   "ref_raw": "481",
@@ -30687,7 +30754,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1850",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1850&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1850",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1850",
   "also": [],
   "ref_raw": "1850",
@@ -31673,7 +31741,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=116",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=116&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=116",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=116",
   "also": [],
   "ref_raw": "116",
@@ -32077,7 +32146,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=134",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=134&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=134",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=134",
   "also": [],
   "ref_raw": "134",
@@ -32797,7 +32867,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=2227",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=2227&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=2227",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2227",
   "also": [],
   "ref_raw": "2227",
@@ -33004,7 +33075,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=654",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=654&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=654",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=654",
   "also": [],
   "ref_raw": "654",
@@ -33655,7 +33727,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=145",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=145&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=145",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=145",
   "also": [],
   "ref_raw": "145",
@@ -34261,7 +34334,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=113",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=113&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=113",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=113",
   "also": [],
   "ref_raw": "113",
@@ -35462,7 +35536,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1979",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1979&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1979",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1979",
   "also": [],
   "ref_raw": "1979",
@@ -36075,7 +36150,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=136",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=136&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=136",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=136",
   "also": [
    {
@@ -36617,7 +36693,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1741",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1741&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1741",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1741",
   "also": [],
   "ref_raw": "1741",
@@ -37411,7 +37488,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1991",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1991&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1991",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1991",
   "also": [],
   "ref_raw": "1991",
@@ -37792,7 +37870,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=137",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=137&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=137",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=137",
   "also": [],
   "ref_raw": "137",
@@ -38478,7 +38557,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=112",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=112&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=112",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=112",
   "also": [],
   "ref_raw": "112",
@@ -39058,7 +39138,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1982",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1982&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1982",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1982",
   "also": [],
   "ref_raw": "1982",
@@ -39207,7 +39288,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=2290",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=2290&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=2290",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2290",
   "also": [
    {
@@ -39884,7 +39966,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1722",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1722&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1722",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1722",
   "also": [],
   "ref_raw": "1722",
@@ -40319,7 +40402,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=139",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=139&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=139",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=139",
   "also": [],
   "ref_raw": "139",
@@ -40979,7 +41063,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=471",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=471&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=471",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=471",
   "also": [],
   "ref_raw": "471",
@@ -41697,7 +41782,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=479",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=479&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=479",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=479",
   "also": [],
   "ref_raw": "479",
@@ -42161,7 +42247,8 @@
    }
   ],
   "council_page": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1987",
-  "interests": "https://rother.moderngov.co.uk/mgRofI.aspx?UID=1987&FID=-1&HPID=0",
+  "interests": "https://rother.moderngov.co.uk/mgUserInfo.aspx?UID=1987",
+  "interests_direct": false,
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1987",
   "also": [],
   "ref_raw": "1987",

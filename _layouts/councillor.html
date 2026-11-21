@@ -14,9 +14,9 @@ layout: default
   <p class="actions">
     {%- if C.email %}<a class="button" href="mailto:{{ C.email }}">Email {{ page.person }}</a>{% endif %}
     <a class="button ghost" href="{{ C.council_page }}">On the council's site</a>
-    <a class="button ghost" href="{{ C.interests }}">Register of interests</a>
+    {%- if C.interests_direct %}<a class="button ghost" href="{{ C.interests }}">Register of interests</a>{% endif %}
   </p>
-  <p class="muted small">The register is on the council's own site; if it doesn't open, it is also linked from <a href="{{ C.council_page }}">their council page</a>. Interests they declared at meetings: <a href="{{ C.declarations_page }}">the council's list</a>.</p>
+  <p class="muted small">{% if C.interests_direct %}The register of interests is published on the council's own site.{% else %}Their register of interests is published on <a href="{{ C.council_page }}">their page on {{ C.council }}'s site</a>: follow "Register of interests" there.{% endif %}</p>
   {%- for a in C.also %}<p class="muted small">Also councillor for {{ a.ward }} on {{ a.council }}: <a href="{{ a.url | relative_url }}">see that record</a>.</p>{% endfor %}
 </header>
 
