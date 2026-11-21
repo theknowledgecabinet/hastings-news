@@ -29,26 +29,26 @@ image:
   card:
     url: /assets/media/story/245/card.webp
     w: 400
-    h: 300
+    h: 225
   medium:
     url: /assets/media/story/245/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 450
   large:
     url: /assets/media/story/245/large.webp
-    w: 640
-    h: 480
+    w: 1400
+    h: 788
   share:
     url: /assets/media/story/245/share.jpg
-  color: '#8b9095'
-  alt: Zebra Crossing
-  artist: Nigel Mykura
+  color: '#868b8f'
+  alt: Zebra crossing, Totteridge
+  artist: Peter Mackenzie
   match: generic
   ai: false
   by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Zebra_Crossing_-_geograph.org.uk_-_2115805.jpg
+  page: https://commons.wikimedia.org/wiki/File:Zebra_crossing,_Totteridge_-_geograph.org.uk_-_6263139.jpg
   default: false
 checked: '2026-11-21T12:54:34+00:00'
 related:

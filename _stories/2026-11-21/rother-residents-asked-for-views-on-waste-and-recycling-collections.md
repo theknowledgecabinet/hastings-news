@@ -44,14 +44,14 @@ image:
   share:
     url: /assets/media/story/246/share.jpg
   color: '#81827f'
-  alt: A tidy plot In the limited space available in front of this terraced house they have managed to get railings, a tidy hedge, a tree and the three bins (left to right, domestic waste, recycling and gard
-  artist: Graham Horn
+  alt: Domestic Waste Disposal and Recycling Site
+  artist: N Chadwick
   match: generic
   ai: false
   by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:A_tidy_plot_-_geograph.org.uk_-_997030.jpg
+  page: https://commons.wikimedia.org/wiki/File:Domestic_Waste_Disposal_and_Recycling_Site_-_geograph.org.uk_-_6767359.jpg
   default: false
 related:
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
