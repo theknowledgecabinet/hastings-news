@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 21 Nov 2026 12:53:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 13:07:28 +0000</lastBuildDate>
+  <item>
+    <title>Amuse Bouche brings comedy and writing day to Hastings</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/amuse-bouche-brings-comedy-and-writing-day-to-hastings/</link>
+    <guid isPermaLink="false">story-258</guid>
+    <pubDate>Sun, 22 Nov 2026 13:07:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Four performers are turning the Downstairs Bar at the White Rock Hotel into a day of comedy and creative writing on the Hastings seafront.</description>
+  </item>
   <item>
     <title>Hastings charity secretary speaks out for mothers separated from their children</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/21/hastings-charity-secretary-speaks-out-for-mothers-separated-from/</link>
@@ -398,14 +406,6 @@
     <pubDate>Mon, 09 Nov 2026 12:54:36 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Battle High Street became a &#x27;river of fire&#x27; on Saturday night as people turned out for the town&#x27;s annual bonfire celebrations, the Hastings Observer reported.</description>
-  </item>
-  <item>
-    <title>Rye Bonfire named among the UK&#x27;s best Bonfire Night displays</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/09/rye-bonfire-named-among-the-uk-s-best-bonfire-night-displays/</link>
-    <guid isPermaLink="false">story-138</guid>
-    <pubDate>Mon, 09 Nov 2026 07:33:01 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The Rye and District Bonfire has been named among the best Bonfire Night displays in the country, The Argus reports.</description>
   </item>
 </channel>
 </rss>

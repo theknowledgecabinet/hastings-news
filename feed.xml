@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 22 Nov 2026 10:58:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 13:07:28 +0000</lastBuildDate>
+  <item>
+    <title>Amuse Bouche brings comedy and writing day to Hastings</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/amuse-bouche-brings-comedy-and-writing-day-to-hastings/</link>
+    <guid isPermaLink="false">story-258</guid>
+    <pubDate>Sun, 22 Nov 2026 13:07:28 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Four performers are turning the Downstairs Bar at the White Rock Hotel into a day of comedy and creative writing on the Hastings seafront.</description>
+  </item>
   <item>
     <title>Hastings man Harun Yildiz jailed for eight years for rape</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/hastings-man-harun-yildiz-jailed-for-eight-years-for-rape/</link>
@@ -638,14 +646,6 @@
     <pubDate>Sun, 15 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>On 15 November 1865, the carcass of a finback whale some 70 feet long was sold by public auction on the shingle at Pevensey, after it washed up at Norman&#x27;s Bay two days earlier. A coastguard at the Pevensey Sluice Station spotted the dead animal floating in the water on the evening of Monday 13 November, and it came ashore that night.</description>
-  </item>
-  <item>
-    <title>Trains between Bexhill and Eastbourne cut short by signalling fault</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/trains-between-bexhill-and-eastbourne-cut-short-by-signalling-fault/</link>
-    <guid isPermaLink="false">story-185</guid>
-    <pubDate>Sat, 14 Nov 2026 19:20:30 +0000</pubDate>
-    <category>Traffic &amp; roadworks</category>
-    <description>Southern services between Bexhill and Eastbourne have been disrupted by a signalling fault, The Argus has reported.</description>
   </item>
 </channel>
 </rss>
