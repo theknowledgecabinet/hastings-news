@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 22 Nov 2026 10:02:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 10:11:16 +0000</lastBuildDate>
+  <item>
+    <title>Political accountability: County cabinet decisions on care payments and highway policy</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/political-accountability-county-cabinet-decisions-on-care-payments/</link>
+    <guid isPermaLink="false">story-252</guid>
+    <pubDate>Sun, 22 Nov 2026 10:11:16 +0000</pubDate>
+    <category>Council</category>
+    <description>The most significant items for the area this week were decisions published by the county council&#x27;s lead cabinet members. At the Lead Member for Adult Social Care and Health meeting on Thursday 19 November at 2.00 pm, three decisions were published: the net to gross residential and nursing provider payments business case, the extension of the Integrated Health and Wellbeing Service contract, and proposed changes to Disability Related Expenditure. Area councillor Mark Estcourt was present. Councillor Johnny Denis (Green Party) declared a personal interest as the Lewes District Council cabinet member for community wellbeing, arts, culture, tourism and leisure, and did not consider it to be prejudicial.</description>
+  </item>
   <item>
     <title>Political accountability: Hastings and Rye MP takes part in every vote of the week</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/political-accountability-hastings-and-rye-mp-takes-part-in-every-vote/</link>
@@ -638,14 +646,6 @@
     <pubDate>Sat, 14 Nov 2026 07:22:18 +0000</pubDate>
     <category>Council</category>
     <description>More than £500,000 has been allocated to create a new community hub in Bexhill town centre, Rother District Council said.</description>
-  </item>
-  <item>
-    <title>Rye bonfire procession starts at 7pm on Saturday night</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/rye-bonfire-procession-starts-at-7pm-on-saturday-night/</link>
-    <guid isPermaLink="false">story-182</guid>
-    <pubDate>Sat, 14 Nov 2026 07:22:18 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Rye holds its annual bonfire celebrations on Saturday, with a torchlit procession starting at 7pm, according to a guide published by the local press.</description>
   </item>
 </channel>
 </rss>
