@@ -1,4 +1,1858 @@
 {
+ "2026-11-21/bexhill-and-battle-mp": {
+  "subject": "bexhill-and-battle-mp",
+  "kind": "mp",
+  "name": "Dr Kieran Mullan",
+  "party": "Conservative",
+  "title": "Dr Kieran Mullan MP (Bexhill and Battle)",
+  "constituency": "Bexhill and Battle",
+  "posts": [
+   "Shadow Minister (Justice)"
+  ],
+  "committees": [],
+  "counts": {
+   "vote": 8,
+   "speech": 6,
+   "question": 0,
+   "answer": 3,
+   "edm": 0,
+   "interest": 0,
+   "missed": 2,
+   "against_party": 0,
+   "votes_total": 10
+  },
+  "items": [
+   {
+    "kind": "speech",
+    "day": "2026-11-16",
+    "title": "Topical Questions",
+    "url": "https://hansard.parliament.uk/Commons/2026-11-16/debates/DB9BEED7-5B6C-4371-B333-41CEDAF0EBEA/TopicalQuestions#contribution-9B0C29B2-9E5B-464A-B214-958318A9094B",
+    "text": "Teachers at Beckley Church of England primary school in my constituency, as well as parents of pupils, have contacted me to talk about the severe impact of the Government’s reforms of the way in which physical education is funded in schools on the school’s provision, in which there has been a massive drop. I am sure that that is not the intention of the reforms, but will the Minister agree to meet me to discuss what is happening in Beckley and at other schools?",
+    "where": "Commons Chamber",
+    "by": null,
+    "question": "",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-16",
+    "title": "Visitor Levy (England) Bill Second Reading",
+    "url": "https://votes.parliament.uk/votes/commons/division/2481",
+    "how": "No",
+    "result": "passed",
+    "ayes": 296,
+    "noes": 96,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   },
+   {
+    "kind": "answer",
+    "day": "2026-11-17",
+    "title": "Answer from Department for Energy Security and Net Zero",
+    "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-11/902063",
+    "text": "We know that to achieve net zero, we must look at how we can accelerate the potential of all low carbon technologies including geothermal. We are pleased to see innovation in both heat and power applications. Geothermal technologies that generate electric...",
+    "where": null,
+    "by": null,
+    "question": "To ask the Secretary of State for Energy Security and Net Zero, what steps she is taking to support the development of deep geothermal energy.",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "answer",
+    "day": "2026-11-17",
+    "title": "Answer from Ministry of Defence",
+    "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-04/40825",
+    "text": "Ministry of Defence officials responsible for Reserve Forces and Cadets have not held discussions with Wealden District Council about support for cadet facilities at Crowborough Training Camp. We recognise the importance of these facilities to cadets and ...",
+    "where": null,
+    "by": null,
+    "question": "To ask the Secretary of State for Defence, what discussions he has had with Wealden District Council about support for cadet facilities at Crowborough Training Camp.",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "speech",
+    "day": "2026-11-17",
+    "title": "Topical Questions",
+    "url": "https://hansard.parliament.uk/Commons/2026-11-17/debates/0D2097C6-64AF-4926-9E05-684207797E11/TopicalQuestions#contribution-4831EA8A-A8B7-45EC-BE88-C32304A54A61",
+    "text": "The potential for deep geothermal projects to provide transition jobs for oil and gas workers in this country continues to be tragically under-utilised. Will the Minister meet me and the hon. Member for Bishop Auckland (Dr Rushworth), as co-chairs of the APPG on deep geothermal, to discuss how we can use a North sea wealth fund to fix that?",
+    "where": "Commons Chamber",
+    "by": null,
+    "question": "",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill: Third Reading",
+    "url": "https://votes.parliament.uk/votes/commons/division/2486",
+    "how": "did not vote",
+    "result": "passed",
+    "ayes": 290,
+    "noes": 94,
+    "against_party": false,
+    "party_side": null,
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill Report Stage: New Clause 62",
+    "url": "https://votes.parliament.uk/votes/commons/division/2485",
+    "how": "No",
+    "result": "defeated",
+    "ayes": 44,
+    "noes": 368,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill Report Stage: New Clause 54",
+    "url": "https://votes.parliament.uk/votes/commons/division/2484",
+    "how": "Aye",
+    "result": "defeated",
+    "ayes": 99,
+    "noes": 384,
+    "against_party": false,
+    "party_side": "Aye",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill Report Stage: New Clause 50",
+    "url": "https://votes.parliament.uk/votes/commons/division/2483",
+    "how": "Aye",
+    "result": "defeated",
+    "ayes": 102,
+    "noes": 382,
+    "against_party": false,
+    "party_side": "Aye",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill Report Stage: New Clause 18",
+    "url": "https://votes.parliament.uk/votes/commons/division/2482",
+    "how": "No",
+    "result": "defeated",
+    "ayes": 60,
+    "noes": 410,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   },
+   {
+    "kind": "answer",
+    "day": "2026-11-18",
+    "title": "Answer from Home Office",
+    "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-10/41214",
+    "text": "The Home Office engages regularly with Wealden District Council regarding the use of Crowborough Training Camp, including through established local engagement arrangements.Funding provided to the Council is subject to the conditions set out in the relevan...",
+    "where": null,
+    "by": null,
+    "question": "To ask the Secretary of State for the Home Department, whether she has required improvements be made to cadet facilities at Crowborough Training Camp as part of the funding provided to Wealden District Council by her Department in relation to its use as a",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "speech",
+    "day": "2026-11-18",
+    "title": "Rosebank Oilfield",
+    "url": "https://hansard.parliament.uk/Commons/2026-11-18/debates/18762CB7-83BF-4FB8-855F-1B062D5353AF/RosebankOilfield#contribution-25920DAD-6BB6-4B11-BA80-FFECE623F0ED",
+    "text": "On Rosebank, the hon. Lady talks about the consequences of the climate heating. What percentage contribution will Rosebank make to the global warming of this country?",
+    "where": "Commons Chamber",
+    "by": null,
+    "question": "",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "speech",
+    "day": "2026-11-18",
+    "title": "Rosebank Oilfield",
+    "url": "https://hansard.parliament.uk/Commons/2026-11-18/debates/18762CB7-83BF-4FB8-855F-1B062D5353AF/RosebankOilfield#contribution-DDD56159-66E0-47D1-B58D-2317744ADF2A",
+    "text": "Are we not at risk of swapping one set of vulnerabilities in relation to oil and gas and a country like Russia with another set of vulnerabilities in relation to a country like China, given its dominance of critical mineral supplies and solar panel manufacturing? We will be just as insecure, just in a different way.",
+    "where": "Commons Chamber",
+    "by": null,
+    "question": "",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "speech",
+    "day": "2026-11-18",
+    "title": "UK-EU Relations",
+    "url": "https://hansard.parliament.uk/Commons/2026-11-18/debates/2DBCEF66-88BF-4B32-A89D-4FAF9C05D38D/UKEURelations#contribution-62276C21-9BAE-4ACA-873E-79AC7CEC401A",
+    "text": "The Minister mentions Ukraine, which we have talked about today. Not having the arrangements with the EU that the Prime Minister is seeking in absolutely no way dampened our ability to work with Europe on Ukraine. We have been able to work together, and stand up strongly for Ukraine, under existing arrangements. What is so bad about them?",
+    "where": "Commons Chamber",
+    "by": null,
+    "question": "",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "speech",
+    "day": "2026-11-18",
+    "title": "UK-EU Relations",
+    "url": "https://hansard.parliament.uk/Commons/2026-11-18/debates/2DBCEF66-88BF-4B32-A89D-4FAF9C05D38D/UKEURelations#contribution-642C7C11-4B62-4C81-A127-53BAB4215F61",
+    "text": "I thank my hon. Friend for raising the point about how the EU behaves. I have such a strong sense of déjà vu. During the original negotiation period, every time that the EU was obstinate, stubborn and difficult, Labour Members sought to blame the Conservatives for that, instead of getting behind this country and standing up to that sort of behaviour.",
+    "where": "Commons Chamber",
+    "by": null,
+    "question": "",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-18",
+    "title": "Government Amendment to Opposition day debate on Rosebank oil field",
+    "url": "https://votes.parliament.uk/votes/commons/division/2490",
+    "how": "did not vote",
+    "result": "passed",
+    "ayes": 253,
+    "noes": 0,
+    "against_party": false,
+    "party_side": null,
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-18",
+    "title": "Opposition Day: Rosebank oilfield: Opposition motion",
+    "url": "https://votes.parliament.uk/votes/commons/division/2489",
+    "how": "Aye",
+    "result": "defeated",
+    "ayes": 90,
+    "noes": 270,
+    "against_party": false,
+    "party_side": "Aye",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-18",
+    "title": "Opposition day: UK-EU relations",
+    "url": "https://votes.parliament.uk/votes/commons/division/2488",
+    "how": "Aye",
+    "result": "defeated",
+    "ayes": 103,
+    "noes": 274,
+    "against_party": false,
+    "party_side": "Aye",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-18",
+    "title": "Draft Employment Rights Act 2025 (Unfair Dismissal) (Removal of Limit on Compensation) (Consequential Amendments) Regulations 2026",
+    "url": "https://votes.parliament.uk/votes/commons/division/2487",
+    "how": "No",
+    "result": "passed",
+    "ayes": 299,
+    "noes": 159,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   }
+  ],
+  "sitting_days": [
+   "2026-11-16",
+   "2026-11-17",
+   "2026-11-18"
+  ],
+  "profile_url": "/representatives/bexhill-and-battle/mp/",
+  "parliament_url": "https://members.parliament.uk/member/4860",
+  "week_start": "2026-11-15",
+  "week_end": "2026-11-21",
+  "url": "https://theknowledgecabinet.github.io/hastings-news/accountability/week/2026-11-21/bexhill-and-battle-mp/",
+  "path": "/accountability/week/2026-11-21/bexhill-and-battle-mp/"
+ },
+ "2026-11-21/east-sussex-county": {
+  "subject": "east-sussex-county",
+  "kind": "council",
+  "council_key": "escc",
+  "name": "East Sussex County Council",
+  "title": "East Sussex County Council",
+  "area_only": true,
+  "blocks": {
+   "seats": [
+    {
+     "party": "Reform UK",
+     "seats": 20
+    },
+    {
+     "party": "Liberal Democrats",
+     "seats": 14
+    },
+    {
+     "party": "Green Party",
+     "seats": 10
+    },
+    {
+     "party": "Conservative",
+     "seats": 4
+    },
+    {
+     "party": "Independent",
+     "seats": 2
+    }
+   ],
+   "total": 50,
+   "majority": 26,
+   "leaders": [
+    {
+     "name": "Kathryn Field",
+     "party": "Liberal Democrats",
+     "posts": "Leader of the Liberal Democrat Group"
+    },
+    {
+     "name": "Julia Hilton",
+     "party": "Green Party",
+     "posts": "Leader of the Green Party Group and Chair of Place Scrutiny Committee"
+    },
+    {
+     "name": "Paul Redstone",
+     "party": "Conservative",
+     "posts": "Leader of the Conservative Group"
+    },
+    {
+     "name": "Johnny Denis",
+     "party": "Green Party",
+     "posts": "Deputy Leader of the Green Party Group and Chair of HOSC"
+    },
+    {
+     "name": "Andy Woolley",
+     "party": "Reform UK",
+     "posts": "Leader of the Council and Lead Member for Strategic Management"
+    },
+    {
+     "name": "Peter Griffiths",
+     "party": "Reform UK",
+     "posts": "Lead Member for Transport and Environment"
+    },
+    {
+     "name": "Paul Soane",
+     "party": "Reform UK",
+     "posts": "Lead Member for Education and Inclusion, Special Educational Needs and Disability"
+    },
+    {
+     "name": "Pete Morley",
+     "party": "Reform UK",
+     "posts": "Deputy Leader of the Council and Lead Member for Economy"
+    },
+    {
+     "name": "Victoria Carson",
+     "party": "Reform UK",
+     "posts": "Lead Member for Children and Families"
+    },
+    {
+     "name": "Stephen Chapman",
+     "party": "Reform UK",
+     "posts": "Lead Member for Resources and Climate Resilience"
+    },
+    {
+     "name": "Mark Estcourt",
+     "party": "Reform UK",
+     "posts": "Lead Member for Adult Social Care and Health"
+    },
+    {
+     "name": "Sarah Osborne",
+     "party": "Liberal Democrats",
+     "posts": "Deputy Leader of the Liberal Democrat Group"
+    }
+   ]
+  },
+  "meetings": [
+   {
+    "committee": "Lead Member for Transport and Environment",
+    "day": "2026-11-16",
+    "time": "10.00 am",
+    "status": "Confirmed",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=177&MId=6962&Ver=4",
+    "minutes": true,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Decisions made by the Lead Cabinet Member on 20 July 2026",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Pan-Sussex Minerals and Waste Plan Proposal",
+      "decision": true,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Highway Vegetation Management Policy - Review",
+      "decision": true,
+      "text": "",
+      "local": false
+     }
+    ],
+    "attendance_by_party": [
+     {
+      "party": "Reform UK",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     }
+    ],
+    "apologies": [],
+    "absent": [],
+    "area_councillors": [],
+    "declarations": [],
+    "votes": []
+   },
+   {
+    "committee": "County Consultative Committee (Governors)",
+    "day": "2026-11-17",
+    "time": "1.00 pm",
+    "status": "Confirmed",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=284&MId=7410",
+    "minutes": false,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Academy Update",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Local Authority Governor Appointments and Governor Services Update",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "School Resilience Preparedness",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "School Organisation Plan",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "ESGF Report/Verbal Update for Councillors to include",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Any other items previously notified under agenda item 4",
+      "decision": false,
+      "text": "",
+      "local": false
+     }
+    ],
+    "attendance_by_party": [],
+    "apologies": [],
+    "absent": [],
+    "area_councillors": [],
+    "declarations": [],
+    "votes": []
+   },
+   {
+    "committee": "SBSA - Audit and Governance Committee",
+    "day": "2026-11-17",
+    "time": "11.00 am",
+    "status": "Confirmed",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=659&MId=7206",
+    "minutes": false,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Appointment of a Chair for the Meeting and Proposal for the Chair of the Committee",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Appointment of a Vice-Chair",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "External Audit: Introduction from Grant Thornton",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Internal Audit Strategy and Indicative Annual Audit Plan",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Approach to the Treasury Management Policy and Strategy, Capital Strategy and Minimum Revenue Provision Policy 2027/28",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Fire and Rescue Transfer: Update and Constitutional Amendments",
+      "decision": false,
+      "text": "",
+      "local": false
+     }
+    ],
+    "attendance_by_party": [
+     {
+      "party": "Green Party",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     },
+     {
+      "party": "Liberal Democrats",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     },
+     {
+      "party": "No party listed",
+      "present": 5,
+      "apologies": 1,
+      "absent": 0
+     },
+     {
+      "party": "Reform UK",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     }
+    ],
+    "apologies": [
+     "Nigel Dennis ()"
+    ],
+    "absent": [],
+    "area_councillors": [],
+    "declarations": [],
+    "votes": []
+   },
+   {
+    "committee": "Lead Member for Adult Social Care and Health",
+    "day": "2026-11-19",
+    "time": "2.00 pm",
+    "status": "Confirmed",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=130&MId=6868&Ver=4",
+    "minutes": true,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Decisions of the last meeting 4 November 2026",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Net to gross residential and nursing provider payments business case",
+      "decision": true,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Extension of Integrated Health and Wellbeing Service (IHWS) contract",
+      "decision": true,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Proposed changes to Disability Related Expenditure",
+      "decision": true,
+      "text": "",
+      "local": false
+     }
+    ],
+    "attendance_by_party": [
+     {
+      "party": "Reform UK",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     }
+    ],
+    "apologies": [],
+    "absent": [],
+    "area_councillors": [
+     "Mark Estcourt"
+    ],
+    "declarations": [
+     {
+      "name": "Johnny Denis",
+      "party": "Green Party",
+      "text": "Councillor Denis declared a personal interest as the Lewes District Council Cabinet member for community wellbeing, arts, culture, tourism and leisure, he did not consider this to be prejudicial."
+     }
+    ],
+    "votes": []
+   },
+   {
+    "committee": "Discretionary Transport Appeal Panel",
+    "day": "2026-11-20",
+    "time": "11.30 am",
+    "status": "Confirmed",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=384&MId=7441",
+    "minutes": false,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Any other non-exempt items considered urgent by the Chair",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Exempt minutes",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Report on previous cases",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "To consider if it is necessary to make an offer of transport or a change to provision in the following applications",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Any other exempt items considered urgent by the Chair",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Date and time for the next meeting",
+      "decision": false,
+      "text": "",
+      "local": false
+     }
+    ],
+    "attendance_by_party": [],
+    "apologies": [],
+    "absent": [],
+    "area_councillors": [],
+    "declarations": [],
+    "votes": []
+   },
+   {
+    "committee": "East Sussex Schools Forum",
+    "day": "2026-11-20",
+    "time": "9.30 am",
+    "status": "Confirmed",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=496&MId=7457",
+    "minutes": false,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Matters arising and Declaration of Interests",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Local SEND Reform Plan - Update",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "AOB",
+      "decision": false,
+      "text": "",
+      "local": false
+     }
+    ],
+    "attendance_by_party": [],
+    "apologies": [],
+    "absent": [],
+    "area_councillors": [],
+    "declarations": [],
+    "votes": []
+   }
+  ],
+  "cancelled": [],
+  "late_minutes": [],
+  "ahead": [
+   {
+    "committee": "People Scrutiny Committee",
+    "day": "2026-11-23",
+    "time": "10.30 am",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=515&MId=6823",
+    "agenda": [
+     {
+      "title": "East Sussex Safeguarding Children Partnership (ESSCP) Annual Report",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Crisis and Resilience Fund",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Carers Partnership Plan",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Any other items previously notified under agenda item 4",
+      "text": "",
+      "local": false
+     }
+    ],
+    "agenda_published": true
+   },
+   {
+    "committee": "East Sussex Health and Wellbeing Board",
+    "day": "2026-11-24",
+    "time": "2.00 pm",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=153&MId=6845",
+    "agenda": [
+     {
+      "title": "East Sussex Health and Social Care Integration Programme - update report",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Local Response to the National Plan to End Homelessness and Long Term Rough Sleeping Plans",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Sussex learning from lives and deaths (LeDeR) Annual report 2025/26",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Joint Strategic Needs Assessment (JSNA) Update report",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Annual Safeguarding Children Partnership Report",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Supported Housing Strategy needs assessment and pan-Sussex principles",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Any other items previously notified under agenda item 4",
+      "text": "",
+      "local": false
+     }
+    ],
+    "agenda_published": true
+   },
+   {
+    "committee": "Pension Committee",
+    "day": "2026-11-26",
+    "time": "10.00 am",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=373&MId=6841",
+    "agenda": [
+     {
+      "title": "Pension Board Minutes",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Pension Reform Agenda",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Local Government Pension Scheme (LGPS) Governance - Officer Roles and Delegations",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Governance Report",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Pension Administration - updates",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Communications Report",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "East Sussex Pension Fund Quarterly Budget Report",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Annual Report and Accounts 2025/26",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Pension Fund Risk Register",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Investment Report",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Any other non-exempt items previously notified under agenda item 4",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Border to Coast Pension Partnership Pool Ltd presentation by Rachel Elwell, CEO",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Annual Report and Accounts 2025/26 - Exempt Information",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Investment Report - Exempt Information",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Pension Fund Breaches Log and Internal Dispute Resolution Procedure case report",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Governance Report - Exempt Information",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Employer Admissions and Cessations",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Any other exempt items previously notified under agenda item 4",
+      "text": "",
+      "local": false
+     }
+    ],
+    "agenda_published": true
+   },
+   {
+    "committee": "Audit Committee",
+    "day": "2026-11-27",
+    "time": "10.30 am",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=517&MId=6820",
+    "agenda": [
+     {
+      "title": "Internal Audit Progress Report - Quarter 2 (01/07/26 - 30/09/26)",
+      "text": "Report by the Chief Operating Officer",
+      "local": false
+     },
+     {
+      "title": "Auditor's Annual (Value for Money) Report on East Sussex County Council 2025/26",
+      "text": "Report by the Chief Finance Officer",
+      "local": false
+     },
+     {
+      "title": "Review of the Grant Thornton (GT) report to those charged with governance and Statement of Accounts for 2025/26",
+      "text": "Report by the Chief Finance Officer",
+      "local": false
+     },
+     {
+      "title": "Independent Auditor's Report to those charged with governance and Annual Report 2025/26 of the East Sussex Pension Fund",
+      "text": "Report by the Chief Finance Officer",
+      "local": false
+     },
+     {
+      "title": "Treasury Management - Stewardship Report 2025/26 and Mid-Year Review 2026/27",
+      "text": "Report by the Chief Finance Officer",
+      "local": false
+     },
+     {
+      "title": "Audit Committee Oracle Subgroup Update",
+      "text": "Report by the Chief Operating Officer",
+      "local": false
+     },
+     {
+      "title": "Any other non-exempt items previously notified under agenda item 4",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Review of the Grant Thornton (GT) report to those charged with governance and Statement of Accounts for 2025/26 - Exempt Information",
+      "text": "Report by the Chief Finance Officer",
+      "local": false
+     },
+     {
+      "title": "Any other exempt items previously notified under agenda item 4",
+      "text": "",
+      "local": false
+     }
+    ],
+    "agenda_published": true
+   },
+   {
+    "committee": "Lead Member for Education and Inclusion, Special Educational Needs and Disability",
+    "day": "2026-11-27",
+    "time": "3.00 pm",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=456&MId=6935",
+    "agenda": [],
+    "agenda_published": false
+   },
+   {
+    "committee": "Lead Member for Children and Families",
+    "day": "2026-11-27",
+    "time": "3.15 pm",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=134&MId=6945",
+    "agenda": [],
+    "agenda_published": false
+   },
+   {
+    "committee": "Place Scrutiny Committee",
+    "day": "2026-11-30",
+    "time": "10.30 am",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=516&MId=6827",
+    "agenda": [
+     {
+      "title": "ESCC Strategic Asset Plan 2026-2029 and related Property service updates",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Queensway Gateway Road - Post Project Appraisal",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Scrutiny Review of the Household Waste Recycling Site booking system",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Any other items previously notified under agenda item 4",
+      "text": "",
+      "local": false
+     }
+    ],
+    "agenda_published": true
+   },
+   {
+    "committee": "Full Council",
+    "day": "2026-12-01",
+    "time": "10.00 am",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6775",
+    "agenda": [],
+    "agenda_published": false
+   },
+   {
+    "committee": "SBSA - Overview and Scrutiny Committee",
+    "day": "2026-12-03",
+    "time": "",
+    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=658&MId=7198",
+    "agenda": [],
+    "agenda_published": false
+   }
+  ],
+  "ombudsman": [],
+  "members_url": "https://democracy.eastsussex.gov.uk/mgMemberIndex.aspx",
+  "week_start": "2026-11-15",
+  "week_end": "2026-11-21",
+  "url": "https://theknowledgecabinet.github.io/hastings-news/accountability/week/2026-11-21/east-sussex-county/",
+  "path": "/accountability/week/2026-11-21/east-sussex-county/"
+ },
+ "2026-11-21/hastings-and-rye-mp": {
+  "subject": "hastings-and-rye-mp",
+  "kind": "mp",
+  "name": "Helena Dollimore",
+  "party": "Labour (Co-op)",
+  "title": "Helena Dollimore MP (Hastings and Rye)",
+  "constituency": "Hastings and Rye",
+  "posts": [],
+  "committees": [
+   "Environment, Food and Rural Affairs Committee",
+   "Statutory Instruments (Joint Committee)",
+   "Statutory Instruments (Select Committee)"
+  ],
+  "counts": {
+   "vote": 10,
+   "speech": 0,
+   "question": 0,
+   "answer": 3,
+   "edm": 0,
+   "interest": 0,
+   "missed": 0,
+   "against_party": 0,
+   "votes_total": 10
+  },
+  "items": [
+   {
+    "kind": "answer",
+    "day": "2026-11-16",
+    "title": "Answer from Department for Transport",
+    "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-02/39723",
+    "text": "We expect the expansion of Disabled Persons Railcard eligibility criteria – which has been introduced in two phases in March and September this year - to make rail travel more affordable for more disabled people, including those with non-visible disabilit...",
+    "where": null,
+    "by": null,
+    "question": "To ask the Secretary of State for Transport, what assessment she had made of the potential impact of the expansion of the disabled persons railcard eligibility criteria on disabled persons.",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-16",
+    "title": "Visitor Levy (England) Bill Second Reading",
+    "url": "https://votes.parliament.uk/votes/commons/division/2481",
+    "how": "Aye",
+    "result": "passed",
+    "ayes": 296,
+    "noes": 96,
+    "against_party": false,
+    "party_side": "Aye",
+    "teller": false
+   },
+   {
+    "kind": "answer",
+    "day": "2026-11-17",
+    "title": "Answer from Department for Environment, Food and Rural Affairs",
+    "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-10/42000",
+    "text": "As stated in the Animal Welfare Strategy, the Government supports voluntary efforts to move away from fast-growing meat chicken breeds, which reach slaughter weight between 35 – 40 days. The Animal Welfare Committee published their report on Breeding and ...",
+    "where": null,
+    "by": null,
+    "question": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department has made an assessment of the potential merits of genetically modifying chickens to reach slaughter weight in around 35 days as part of the Government's focus on",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "answer",
+    "day": "2026-11-17",
+    "title": "Answer from Department for Environment, Food and Rural Affairs",
+    "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-10/41998",
+    "text": "The Government’s Land Use Framework will support resilient, multifunctional landscapes through more spatially informed decision-making, taking a long-term approach while remaining responsive to change. In addition, Defra is strengthening resilience to the...",
+    "where": null,
+    "by": null,
+    "question": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her department is taking to rewild natural landscapes to protect against extreme weather events.",
+    "tabled": null,
+    "supporters": null,
+    "local": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill: Third Reading",
+    "url": "https://votes.parliament.uk/votes/commons/division/2486",
+    "how": "Aye",
+    "result": "passed",
+    "ayes": 290,
+    "noes": 94,
+    "against_party": false,
+    "party_side": "Aye",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill Report Stage: New Clause 62",
+    "url": "https://votes.parliament.uk/votes/commons/division/2485",
+    "how": "No",
+    "result": "defeated",
+    "ayes": 44,
+    "noes": 368,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill Report Stage: New Clause 54",
+    "url": "https://votes.parliament.uk/votes/commons/division/2484",
+    "how": "No",
+    "result": "defeated",
+    "ayes": 99,
+    "noes": 384,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill Report Stage: New Clause 50",
+    "url": "https://votes.parliament.uk/votes/commons/division/2483",
+    "how": "No",
+    "result": "defeated",
+    "ayes": 102,
+    "noes": 382,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-17",
+    "title": "Immigration and Asylum Bill Report Stage: New Clause 18",
+    "url": "https://votes.parliament.uk/votes/commons/division/2482",
+    "how": "No",
+    "result": "defeated",
+    "ayes": 60,
+    "noes": 410,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-18",
+    "title": "Government Amendment to Opposition day debate on Rosebank oil field",
+    "url": "https://votes.parliament.uk/votes/commons/division/2490",
+    "how": "Aye",
+    "result": "passed",
+    "ayes": 253,
+    "noes": 0,
+    "against_party": false,
+    "party_side": "Aye",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-18",
+    "title": "Opposition Day: Rosebank oilfield: Opposition motion",
+    "url": "https://votes.parliament.uk/votes/commons/division/2489",
+    "how": "No",
+    "result": "defeated",
+    "ayes": 90,
+    "noes": 270,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-18",
+    "title": "Opposition day: UK-EU relations",
+    "url": "https://votes.parliament.uk/votes/commons/division/2488",
+    "how": "No",
+    "result": "defeated",
+    "ayes": 103,
+    "noes": 274,
+    "against_party": false,
+    "party_side": "No",
+    "teller": false
+   },
+   {
+    "kind": "vote",
+    "day": "2026-11-18",
+    "title": "Draft Employment Rights Act 2025 (Unfair Dismissal) (Removal of Limit on Compensation) (Consequential Amendments) Regulations 2026",
+    "url": "https://votes.parliament.uk/votes/commons/division/2487",
+    "how": "Aye",
+    "result": "passed",
+    "ayes": 299,
+    "noes": 159,
+    "against_party": false,
+    "party_side": "Aye",
+    "teller": false
+   }
+  ],
+  "sitting_days": [
+   "2026-11-16",
+   "2026-11-17",
+   "2026-11-18"
+  ],
+  "profile_url": "/representatives/hastings-and-rye/mp/",
+  "parliament_url": "https://members.parliament.uk/member/5192",
+  "week_start": "2026-11-15",
+  "week_end": "2026-11-21",
+  "url": "https://theknowledgecabinet.github.io/hastings-news/accountability/week/2026-11-21/hastings-and-rye-mp/",
+  "path": "/accountability/week/2026-11-21/hastings-and-rye-mp/"
+ },
+ "2026-11-21/hastings-borough": {
+  "subject": "hastings-borough",
+  "kind": "council",
+  "council_key": "hbc",
+  "name": "Hastings Borough Council",
+  "title": "Hastings Borough Council",
+  "area_only": false,
+  "blocks": {
+   "seats": [
+    {
+     "party": "Green Party",
+     "seats": 19
+    },
+    {
+     "party": "Reform UK",
+     "seats": 6
+    },
+    {
+     "party": "Labour",
+     "seats": 3
+    },
+    {
+     "party": "Conservative",
+     "seats": 2
+    },
+    {
+     "party": "Independent",
+     "seats": 2
+    }
+   ],
+   "total": 32,
+   "majority": 17,
+   "leaders": [
+    {
+     "name": "Paul Foster",
+     "party": "Conservative",
+     "posts": "Conservative Group Leader"
+    },
+    {
+     "name": "Julia Hilton",
+     "party": "Green Party",
+     "posts": "Deputy Leader of the Council, Shaping Places, Regeneration and Community Wealth Building Portfolio Holder; Cabinet (Vice-Chair)"
+    },
+    {
+     "name": "Amanda Jobson",
+     "party": "Green Party",
+     "posts": "Deputy Mayor and Older Persons Champion"
+    },
+    {
+     "name": "Glenn Haffenden",
+     "party": "Green Party",
+     "posts": "Leader of the Council and Housing, Health, Active Communities and LGR Portfolio Holder; Cabinet (Chair)"
+    },
+    {
+     "name": "Mark Etherington",
+     "party": "Green Party",
+     "posts": "Planning, Infrastructure & Regulatory Services Portfolio Holder; Armed Forces Champion; Cabinet"
+    },
+    {
+     "name": "Becca Horn",
+     "party": "Green Party",
+     "posts": "Community Safety and Environmental Services Portfolio Holder; Cabinet"
+    },
+    {
+     "name": "Paula Warne",
+     "party": "Green Party",
+     "posts": "Mayor of the Borough of Hastings"
+    },
+    {
+     "name": "Jo Walker",
+     "party": "Green Party",
+     "posts": "Climate, Nature and Green Spaces Portfolio Holder; Cabinet"
+    },
+    {
+     "name": "Helen Kay",
+     "party": "Labour",
+     "posts": "Anti-Poverty Champion, Labour Group Leader"
+    },
+    {
+     "name": "Darren Mackenzie",
+     "party": "Green Party",
+     "posts": "Finance, IT, Risk and Assets Portfolio Holder; Cabinet"
+    },
+    {
+     "name": "Solly Solamito",
+     "party": "Green Party",
+     "posts": "Corporate Services, Communities and Equalities Portfolio Holder; Cabinet"
+    },
+    {
+     "name": "Clem McCulloch",
+     "party": "Green Party",
+     "posts": "Chair of the Charity Committee; Cabinet"
+    },
+    {
+     "name": "Peter Clarke",
+     "party": "Reform UK",
+     "posts": "Reform Group Deputy Leader"
+    },
+    {
+     "name": "Doreena Ross",
+     "party": "Reform UK",
+     "posts": "Reform Group Leader"
+    }
+   ]
+  },
+  "meetings": [
+   {
+    "committee": "Museum Committee",
+    "day": "2026-11-16",
+    "time": "10.00 am",
+    "status": "Confirmed",
+    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=183&MId=5861",
+    "minutes": false,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Museum and NPO Update Report",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Collections Report",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Museum Association Update",
+      "decision": false,
+      "text": "",
+      "local": false
+     }
+    ],
+    "attendance_by_party": [
+     {
+      "party": "Conservative",
+      "present": 0,
+      "apologies": 0,
+      "absent": 1
+     },
+     {
+      "party": "Green Party",
+      "present": 5,
+      "apologies": 1,
+      "absent": 0
+     },
+     {
+      "party": "Labour",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     },
+     {
+      "party": "No party listed",
+      "present": 2,
+      "apologies": 4,
+      "absent": 0
+     },
+     {
+      "party": "Reform UK",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     }
+    ],
+    "apologies": [
+     "Will Rumfitt (Green Party)",
+     "Hilda Kean ()",
+     "Bill Montgomery ()",
+     "Richard Street ()",
+     "Stephen Van Dulken ()"
+    ],
+    "absent": [
+     "Paul Foster (Conservative)"
+    ],
+    "area_councillors": [
+     "Amanda Jobson",
+     "Archie Lauchlan",
+     "Julia Hilton",
+     "Karen Simnett",
+     "Peter Clarke",
+     "Steph Fawbert",
+     "Trevor Webb"
+    ],
+    "declarations": [],
+    "votes": []
+   }
+  ],
+  "cancelled": [],
+  "late_minutes": [],
+  "ahead": [
+   {
+    "committee": "Regulatory Committee",
+    "day": "2026-11-23",
+    "time": "6.00 pm",
+    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=174&MId=5938",
+    "agenda": [
+     {
+      "title": "Restricted Private Hire Driver Licences for School Transport Only",
+      "text": "Natasha Tewksbury (Head of Community and Regulatory Services)",
+      "local": false
+     },
+     {
+      "title": "English Language Assessment Requirements for Hackney Carriage and Private Hire Drivers",
+      "text": "Natasha Tewkesbury (Head of Community and Regulatory Services)",
+      "local": false
+     },
+     {
+      "title": "Review of the Hackney Carriage and Private Hire Licensing Policy 2026",
+      "text": "Natasha Tewksbury (Head of Community and Regulatory Services)",
+      "local": false
+     }
+    ],
+    "agenda_published": true
+   },
+   {
+    "committee": "Overview and Scrutiny Committee",
+    "day": "2026-12-02",
+    "time": "6.00 pm",
+    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=391&MId=5850",
+    "agenda": [],
+    "agenda_published": false
+   }
+  ],
+  "ombudsman": [],
+  "members_url": "https://hastings.moderngov.co.uk/mgMemberIndex.aspx",
+  "week_start": "2026-11-15",
+  "week_end": "2026-11-21",
+  "url": "https://theknowledgecabinet.github.io/hastings-news/accountability/week/2026-11-21/hastings-borough/",
+  "path": "/accountability/week/2026-11-21/hastings-borough/"
+ },
+ "2026-11-21/rother-district": {
+  "subject": "rother-district",
+  "kind": "council",
+  "council_key": "rdc",
+  "name": "Rother District Council",
+  "title": "Rother District Council",
+  "area_only": false,
+  "blocks": {
+   "seats": [
+    {
+     "party": "Conservative",
+     "seats": 13
+    },
+    {
+     "party": "Liberal Democrats",
+     "seats": 8
+    },
+    {
+     "party": "Labour",
+     "seats": 6
+    },
+    {
+     "party": "Rother Association of Independent Councillors",
+     "seats": 6
+    },
+    {
+     "party": "Green Party",
+     "seats": 3
+    },
+    {
+     "party": "Independent",
+     "seats": 2
+    }
+   ],
+   "total": 38,
+   "majority": 20,
+   "leaders": [
+    {
+     "name": "Susan Prochak",
+     "party": "Liberal Democrats",
+     "posts": "Liberal Democrats Group Leader; Cabinet (Deputy Leader)"
+    },
+    {
+     "name": "Doug Oliver",
+     "party": "Rother Association of Independent Councillors",
+     "posts": "Cabinet (Leader)"
+    },
+    {
+     "name": "Carl Maynard",
+     "party": "Conservative",
+     "posts": "Conservative Group Leader"
+    },
+    {
+     "name": "Ruairi McCourt",
+     "party": "Labour",
+     "posts": "Cabinet"
+    },
+    {
+     "name": "Gareth Delany",
+     "party": "Labour",
+     "posts": "Labour Group Leader; Cabinet (Deputy Leader)"
+    },
+    {
+     "name": "Arren Rathbone Ariel",
+     "party": "Green Party",
+     "posts": "Cabinet"
+    },
+    {
+     "name": "Teresa Killeen",
+     "party": "Liberal Democrats",
+     "posts": "Cabinet"
+    },
+    {
+     "name": "Nicola McLaren",
+     "party": "Liberal Democrats",
+     "posts": "Cabinet"
+    },
+    {
+     "name": "Christine Bayliss",
+     "party": "Labour",
+     "posts": "Cabinet Member"
+    },
+    {
+     "name": "Polly Gray",
+     "party": "Green Party",
+     "posts": "Green Group Leader"
+    },
+    {
+     "name": "Ashan Jeeawon",
+     "party": "Rother Association of Independent Councillors",
+     "posts": "Cabinet"
+    },
+    {
+     "name": "Hazel Timpe",
+     "party": "Rother Association of Independent Councillors",
+     "posts": "Cabinet"
+    }
+   ]
+  },
+  "meetings": [
+   {
+    "committee": "Licensing and General Purposes Committee - General Licensing Panel",
+    "day": "2026-11-16",
+    "time": "10.00 am",
+    "status": "Confirmed",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=155&MId=1241&Ver=4",
+    "minutes": true,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Appointment of Chair",
+      "decision": true,
+      "text": "Councillor Biggs was duly appointed as Chair of the Panel for the Hearing.",
+      "local": false
+     },
+     {
+      "title": "Application for a Premises Licence at Battle Abbey School Boarding House, Whatlington Road, Battle, TN33 0ND",
+      "decision": true,
+      "text": "The Panel considered the Head of Environmental Services, Licensing and Community Safety’s report detailing a Premises Licence application for Battle Abbey School Boarding House, Whatlington Road, Battle, TN33 0ND, covering regulated entertainment, late night refreshment and alcohol sales indoors and outdoors within the premises shown in Appendix B to the report, Monday to Sunday, 12:00 to 00:30hrs.",
+      "local": true
+     }
+    ],
+    "attendance_by_party": [
+     {
+      "party": "Conservative",
+      "present": 1,
+      "apologies": 1,
+      "absent": 0
+     },
+     {
+      "party": "Green Party",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     }
+    ],
+    "apologies": [
+     "Jimmy Stanger (Conservative)"
+    ],
+    "absent": [],
+    "area_councillors": [
+     "Polly Gray",
+     "Tony Biggs"
+    ],
+    "declarations": [],
+    "votes": []
+   },
+   {
+    "committee": "Overview and Scrutiny Committee",
+    "day": "2026-11-16",
+    "time": "6.00 pm",
+    "status": "Confirmed",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+    "minutes": false,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Performance Report: Second Quarter 2026/27",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Housing Development Strategy Update",
+      "decision": false,
+      "text": "",
+      "local": false
+     }
+    ],
+    "attendance_by_party": [
+     {
+      "party": "Conservative",
+      "present": 4,
+      "apologies": 0,
+      "absent": 0
+     },
+     {
+      "party": "Green Party",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     },
+     {
+      "party": "Independent",
+      "present": 0,
+      "apologies": 1,
+      "absent": 0
+     },
+     {
+      "party": "Labour",
+      "present": 1,
+      "apologies": 1,
+      "absent": 0
+     },
+     {
+      "party": "Liberal Democrats",
+      "present": 2,
+      "apologies": 1,
+      "absent": 0
+     },
+     {
+      "party": "Rother Association of Independent Councillors",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     }
+    ],
+    "apologies": [
+     "Charles Clark (Independent)",
+     "Sam Coleman (Labour)",
+     "Kathryn Field (Liberal Democrats)"
+    ],
+    "absent": [],
+    "area_councillors": [
+     "Carl Maynard",
+     "Fazlul Chowdhury",
+     "John Barnes",
+     "Mrs Mary Barnes",
+     "Mrs Vikki Cook",
+     "Paul Osborne",
+     "Richard Thomas",
+     "Sue Burton",
+     "Terry Byrne"
+    ],
+    "declarations": [],
+    "votes": []
+   },
+   {
+    "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
+    "day": "2026-11-18",
+    "time": "6.00 pm",
+    "status": "Confirmed",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+    "minutes": false,
+    "decisions": false,
+    "business": [
+     {
+      "title": "Performance Monitoring Report",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Mitigations and Options Appraisal",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
+      "decision": false,
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Mitigations and Options Appraisal - Confidential Appendix A",
+      "decision": false,
+      "text": "",
+      "local": false
+     }
+    ],
+    "attendance_by_party": [
+     {
+      "party": "Green Party",
+      "present": 1,
+      "apologies": 0,
+      "absent": 0
+     },
+     {
+      "party": "Labour",
+      "present": 2,
+      "apologies": 1,
+      "absent": 0
+     },
+     {
+      "party": "Liberal Democrats",
+      "present": 2,
+      "apologies": 1,
+      "absent": 0
+     },
+     {
+      "party": "Rother Association of Independent Councillors",
+      "present": 3,
+      "apologies": 0,
+      "absent": 0
+     }
+    ],
+    "apologies": [
+     "Teresa Killeen (Liberal Democrats)",
+     "Ruairi McCourt (Labour)"
+    ],
+    "absent": [],
+    "area_councillors": [
+     "Arren Rathbone Ariel",
+     "Ashan Jeeawon",
+     "Christine Bayliss",
+     "Doug Oliver",
+     "Gareth Delany",
+     "Hazel Timpe",
+     "Nicola McLaren",
+     "Susan Prochak"
+    ],
+    "declarations": [],
+    "votes": []
+   }
+  ],
+  "cancelled": [],
+  "late_minutes": [],
+  "ahead": [
+   {
+    "committee": "Climate Change Steering Group",
+    "day": "2026-11-26",
+    "time": "2.00 pm",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217",
+    "agenda": [
+     {
+      "title": "2024 Rother District-wide Emissions",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Organisational Greenhouse Gas Emissions 2025/26",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "East Sussex Housing Retrofit Strategy",
+      "text": "- Verbal Update",
+      "local": false
+     },
+     {
+      "title": "Climate Action Plan Progress - Buildings & Energy Efficiency - November 2026",
+      "text": "",
+      "local": false
+     }
+    ],
+    "agenda_published": true
+   },
+   {
+    "committee": "Audit Committee",
+    "day": "2026-11-30",
+    "time": "6.30 pm",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=320&MId=1165",
+    "agenda": [
+     {
+      "title": "Review of Procurement Exemptions and Procurement Hub Activity 2026/27",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Internal Audit Report to 30 September 2026",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Treasury Management Update - Quarter 1 2026/27 Update",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Risk Management Update",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Annual Governance Statement Mid-Year Update",
+      "text": "",
+      "local": false
+     },
+     {
+      "title": "Scheme of Officer Delegations",
+      "text": "",
+      "local": false
+     }
+    ],
+    "agenda_published": true
+   },
+   {
+    "committee": "Licensing and General Purposes Committee - General Licensing Panel",
+    "day": "2026-12-01",
+    "time": "10.00 am",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=155&MId=1248",
+    "agenda": [
+     {
+      "title": "Appointment of Chair",
+      "text": "To appoint a Chair for the Panel hearing.",
+      "local": false
+     },
+     {
+      "title": "Application for a Premises Licence Mermaidian Rye Tea Rooms, 13 West Street, Rye, TN31 7ES",
+      "text": "",
+      "local": true
+     }
+    ],
+    "agenda_published": true
+   },
+   {
+    "committee": "Standards Committee",
+    "day": "2026-12-01",
+    "time": "3.30 pm",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=319&MId=1199",
+    "agenda": [],
+    "agenda_published": false
+   }
+  ],
+  "ombudsman": [],
+  "members_url": "https://rother.moderngov.co.uk/mgMemberIndex.aspx",
+  "week_start": "2026-11-15",
+  "week_end": "2026-11-21",
+  "url": "https://theknowledgecabinet.github.io/hastings-news/accountability/week/2026-11-21/rother-district/",
+  "path": "/accountability/week/2026-11-21/rother-district/"
+ },
  "2026-11-14/bexhill-and-battle-mp": {
   "subject": "bexhill-and-battle-mp",
   "kind": "mp",
