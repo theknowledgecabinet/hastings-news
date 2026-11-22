@@ -60,12 +60,12 @@ related:
 - url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
   title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
   day: '2026-11-03'
+- url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/
+  title: Simpler disability allowance set for East Sussex care users
+  day: '2026-11-22'
 - url: /2026/11/15/east-sussex-joins-national-programme-to-use-creative-activities-for/
   title: East Sussex joins national programme to use creative activities for health
   day: '2026-11-15'
-- url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
-  title: Call for interest in future use of Sandhurst Recreation Ground
-  day: '2026-11-06'
 ---
 {% raw %}
 East Sussex County Council is looking for a local group to take on the lease of Hollington Community Centre in Old Church Road, after saying the building needs significant investment to bring it back into good repair.

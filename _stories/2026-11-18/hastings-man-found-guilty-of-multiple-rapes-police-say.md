@@ -54,15 +54,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Hastings_town_centre_and_suburbs_-_geograph.org.uk_-_3037352.jpg
   default: false
 related:
+- url: /2026/11/22/hastings-man-harun-yildiz-jailed-for-eight-years-for-rape/
+  title: Hastings man Harun Yildiz jailed for eight years for rape
+  day: '2026-11-22'
 - url: /2026/11/02/man-convicted-of-18-offences-after-shop-thefts-in-hastings/
   title: Man convicted of 18 offences after shop thefts in Hastings
   day: '2026-11-02'
 - url: /2026/11/05/man-pleads-guilty-to-shoplifting-across-hastings-and-rother/
   title: Man pleads guilty to shoplifting across Hastings and Rother
   day: '2026-11-05'
-- url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/
-  title: Police make 18 weekend arrests in Hastings and Rother
-  day: '2026-11-03'
 ---
 {% raw %}
 A Hastings man has been found guilty of five rapes and three other sexual offences, police said.

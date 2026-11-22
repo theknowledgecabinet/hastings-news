@@ -51,6 +51,9 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Secondary_school_entrance_-_geograph.org.uk_-_6776130.jpg
   default: false
 related:
+- url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/
+  title: Simpler disability allowance set for East Sussex care users
+  day: '2026-11-22'
 - url: /2026/10/25/fears-of-hungry-children-over-half-term-after-holiday-food-vouchers/
   title: Fears of hungry children over half-term after holiday food vouchers axed
   day: '2026-10-25'

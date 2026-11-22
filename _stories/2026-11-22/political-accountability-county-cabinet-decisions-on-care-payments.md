@@ -65,15 +65,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_The_Council_Chamber.jpg
   default: false
 related:
+- url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/
+  title: Simpler disability allowance set for East Sussex care users
+  day: '2026-11-22'
 - url: /2026/11/06/cabinet-to-consider-1-5m-playground-funding-on-monday/
   title: Cabinet to consider £1.5m playground funding on Monday
   day: '2026-11-06'
 - url: /2026/11/15/east-sussex-joins-national-programme-to-use-creative-activities-for/
   title: East Sussex joins national programme to use creative activities for health
   day: '2026-11-15'
-- url: /2026/11/22/political-accountability-rother-licensing-panel-considers-battle/
-  title: 'Political accountability: Rother licensing panel considers Battle premises licence'
-  day: '2026-11-22'
 series: accountability
 series_label: Political accountability
 series_record: /accountability/week/2026-11-21/east-sussex-county/

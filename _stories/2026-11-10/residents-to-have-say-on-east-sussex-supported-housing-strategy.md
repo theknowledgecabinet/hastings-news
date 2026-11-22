@@ -59,12 +59,12 @@ related:
 - url: /2026/11/21/rother-residents-asked-for-views-on-waste-and-recycling-collections/
   title: Rother residents asked for views on waste and recycling collections
   day: '2026-11-21'
+- url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/
+  title: Simpler disability allowance set for East Sussex care users
+  day: '2026-11-22'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
-- url: /2026/10/29/rother-to-consult-on-2027-28-budget-with-2-72m-in-reserves/
-  title: Rother to consult on 2027/28 budget with £2.72m in reserves
-  day: '2026-10-29'
 ---
 {% raw %}
 People in supported housing across the district can have their say on how it should improve, Rother District Council has said.

@@ -53,15 +53,15 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Seven_Sisters_Panorama,_East_Sussex,_England_-_May_2009.jpg
   default: false
 related:
+- url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/
+  title: Simpler disability allowance set for East Sussex care users
+  day: '2026-11-22'
 - url: /2026/11/04/council-to-seek-group-to-take-lease-of-hollington-community-centre/
   title: Council to seek group to take lease of Hollington Community Centre
   day: '2026-11-04'
 - url: /2026/10/28/local-energy-advice-service-backs-campaign-to-save-radio-4-s-you-and/
   title: Local energy advice service backs campaign to save Radio 4's You and Yours
   day: '2026-10-28'
-- url: /2026/11/10/residents-to-have-say-on-east-sussex-supported-housing-strategy/
-  title: Residents to have say on East Sussex supported housing strategy
-  day: '2026-11-10'
 ---
 {% raw %}
 East Sussex County Council has been selected to join a national programme that uses creative and cultural activities to improve health and wellbeing.

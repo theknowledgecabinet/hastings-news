@@ -53,15 +53,15 @@ image:
   default: false
 checked: '2026-10-28T10:37:01+00:00'
 related:
+- url: /2026/11/22/hastings-man-harun-yildiz-jailed-for-eight-years-for-rape/
+  title: Hastings man Harun Yildiz jailed for eight years for rape
+  day: '2026-11-22'
 - url: /2026/11/12/former-bexhill-teacher-jailed-for-raping-and-sexually-assaulting-a/
   title: Former Bexhill teacher jailed for raping and sexually assaulting a child
   day: '2026-11-12'
 - url: /2026/11/18/hastings-man-found-guilty-of-multiple-rapes-police-say/
   title: Hastings man found guilty of multiple rapes, police say
   day: '2026-11-18'
-- url: /2026/11/13/southwick-man-jailed-for-12-years-over-2m-jewellery-and-gold-scams/
-  title: Southwick man jailed for 12 years over £2m jewellery and gold scams
-  day: '2026-11-13'
 ---
 {% raw %}
 Paul Savage, 50, of Carlton Terrace, Portslade, was sentenced to eight years' imprisonment at Lewes Crown Court, a Sussex Police spokesperson said.
