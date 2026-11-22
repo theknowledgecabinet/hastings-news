@@ -30,26 +30,31 @@ image:
   card:
     url: /assets/media/story/218/card.webp
     w: 400
-    h: 266
+    h: 267
   medium:
     url: /assets/media/story/218/medium.webp
     w: 800
-    h: 532
+    h: 533
   large:
     url: /assets/media/story/218/large.webp
-    w: 1400
-    h: 930
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/218/share.jpg
-  color: '#757782'
-  alt: Modern housing - UK style
-  artist: Fernweh
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Modern_housing_-_UK_style_-_geograph.org.uk_-_3856732.jpg
+  color: '#a09b95'
+  alt: Wet residential street in English seaside town under grey sky
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/27/leaders-of-three-councils-urge-government-to-raise-local-housing/

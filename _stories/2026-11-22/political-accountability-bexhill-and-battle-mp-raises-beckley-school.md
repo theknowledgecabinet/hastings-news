@@ -37,26 +37,31 @@ image:
   card:
     url: /assets/media/story/249/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/249/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/249/large.webp
-    w: 1024
-    h: 768
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/249/share.jpg
-  color: '#7f8080'
-  alt: Westminster Palace in London, The Great Westminster Clock; The bell within the clock tower is named 'Big Ben.'
-  artist: DaniKauf
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 3.0
-  licence_url: http://creativecommons.org/licenses/by-sa/3.0/
-  page: https://commons.wikimedia.org/wiki/File:Westminster_palace.jpg
+  color: '#9f968c'
+  alt: Distant view of a generic primary school on a cloudy day
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-22T10:05:49+00:00'
 related:

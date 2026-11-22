@@ -34,23 +34,28 @@ image:
     h: 267
   medium:
     url: /assets/media/story/215/medium.webp
-    w: 640
-    h: 427
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/215/large.webp
-    w: 640
-    h: 427
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/215/share.jpg
-  color: '#676d63'
-  alt: Birse and Feughside Parish Church, Finzean. Remembrance Sunday wreath laying ceremony 13/11/2005 11.30am
-  artist: Ballogie
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Birse_and_Feughside_Parish_Church,_Finzean_-_geograph.org.uk_-_77557.jpg
+  color: '#817b71'
+  alt: Distant figures at a small seaside church on a grey day
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-18T13:01:39+00:00'
 ---

@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/212/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/212/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/212/large.webp
-    w: 800
-    h: 600
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/212/share.jpg
-  color: '#706150'
-  alt: Inside of a pub in England.
-  artist: 55belgianbeerfan
-  match: generic
-  ai: false
-  by: null
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Interior_of_an_English_pub.jpg
+  color: '#645c5b'
+  alt: Morris dancers performing on a wet cobbled street in an English town
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/02/hastings-joins-in-the-dusking-morris-dancing-tradition/

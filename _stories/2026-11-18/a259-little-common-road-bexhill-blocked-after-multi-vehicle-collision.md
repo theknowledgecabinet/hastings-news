@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/211/card.webp
     w: 400
-    h: 266
+    h: 267
   medium:
     url: /assets/media/story/211/medium.webp
-    w: 640
-    h: 426
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/211/large.webp
-    w: 640
-    h: 426
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/211/share.jpg
-  color: '#7f8772'
-  alt: Road Traffic Accident on the A17
-  artist: Pauline E
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Road_Traffic_Accident_on_the_A17_-_geograph.org.uk_-_4153637.jpg
+  color: '#8c8a88'
+  alt: Wet road with minor collision and traffic cones in seaside town
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/30/police-appeal-after-car-and-horse-rider-incident-in-bexhill/

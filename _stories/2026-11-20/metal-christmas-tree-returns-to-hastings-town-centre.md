@@ -36,19 +36,24 @@ image:
     h: 533
   large:
     url: /assets/media/story/238/large.webp
-    w: 1400
-    h: 933
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/238/share.jpg
-  color: '#1f181a'
-  alt: View of a tree illuminated by Christmas lights on Connaught Street
-  artist: Robert Lamb
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:View_of_a_tree_illuminated_by_Christmas_lights_on_Connaught_Street_-_geograph.org.uk_-_7679494.jpg
+  color: '#91959b'
+  alt: Illuminated metal Christmas tree in a wet English town square at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-20T13:00:27+00:00'
 related:

@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/204/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/204/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/204/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/204/share.jpg
-  color: '#7c8485'
-  alt: North Street, St. Leonards-on-Sea
-  artist: Chris Whippet
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:North_Street,_St._Leonards-on-Sea_-_geograph.org.uk_-_4986107.jpg
+  color: '#6a6b6e'
+  alt: Police car with flashing lights on a wet street at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/13/police-appeal-for-information-over-st-leonards-burglary/

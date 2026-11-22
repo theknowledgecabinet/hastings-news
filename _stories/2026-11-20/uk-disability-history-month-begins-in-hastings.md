@@ -27,26 +27,31 @@ image:
   card:
     url: /assets/media/story/233/card.webp
     w: 400
-    h: 187
+    h: 267
   medium:
     url: /assets/media/story/233/medium.webp
     w: 800
-    h: 374
+    h: 533
   large:
     url: /assets/media/story/233/large.webp
-    w: 1400
-    h: 654
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/233/share.jpg
-  color: '#949791'
-  alt: Town centre, Hastings, England.
-  artist: Ross Burgess
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 3.0
-  licence_url: http://creativecommons.org/licenses/by-sa/3.0/
-  page: https://commons.wikimedia.org/wiki/File:Hastings_town_centre.JPG
+  color: '#aba297'
+  alt: Distant figures walking on a grey English seaside promenade
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/27/remembrance-day-service-and-civic-parade-for-alexandra-park/

@@ -30,26 +30,26 @@ image:
   card:
     url: /assets/media/story/224/card.webp
     w: 400
-    h: 300
+    h: 263
   medium:
     url: /assets/media/story/224/medium.webp
     w: 800
-    h: 600
+    h: 526
   large:
     url: /assets/media/story/224/large.webp
     w: 1400
-    h: 1050
+    h: 921
   share:
     url: /assets/media/story/224/share.jpg
-  color: '#8a8887'
-  alt: Shopfront refurbishment, Penicuik High Street
-  artist: Jim Barton
-  match: generic
+  color: '#948b84'
+  alt: The Colonnade at Bexhill
+  artist: Steve Daniels
+  match: exact
   ai: false
   by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Shopfront_refurbishment,_Penicuik_High_Street_-_geograph.org.uk_-_7179233.jpg
+  page: https://commons.wikimedia.org/wiki/File:The_Colonnade_at_Bexhill_-_geograph.org.uk_-_3000047.jpg
   default: false
 checked: '2026-11-19T12:50:34+00:00'
 related:

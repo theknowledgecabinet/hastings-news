@@ -30,26 +30,31 @@ image:
   card:
     url: /assets/media/story/210/card.webp
     w: 400
-    h: 266
+    h: 267
   medium:
     url: /assets/media/story/210/medium.webp
     w: 800
-    h: 532
+    h: 533
   large:
     url: /assets/media/story/210/large.webp
-    w: 1400
-    h: 931
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/210/share.jpg
-  color: '#333135'
-  alt: Musicians energetically perform on stage, showcasing an electric guitar in a lively outdoor festival. Lights illuminate the crowd, enhancing the vibrant atmosphere of the night.
-  artist: Shixart1985
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY 2.0
-  licence_url: https://creativecommons.org/licenses/by/2.0
-  page: https://commons.wikimedia.org/wiki/File:Live_rock_band_performance_under_stage_lights_during_an_outdoor_festival_in_the_evening.jpg
+  color: '#9e998e'
+  alt: Generic theatre exterior on a cloudy seaside street
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/05/from-hastings-to-the-royal-albert-hall-count-us-in-set-to-perform/

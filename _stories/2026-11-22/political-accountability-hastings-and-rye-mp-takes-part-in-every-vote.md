@@ -39,26 +39,31 @@ image:
   card:
     url: /assets/media/story/248/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/248/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/248/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/248/share.jpg
-  color: '#7c6b57'
-  alt: West Block Temp House of Commons, 2022
-  artist: Hutima
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:West_Block_Temp_House_of_Commons,_2022.jpg
+  color: '#b2b9bd'
+  alt: Two distant figures walking on a grey shingle beach near generic huts.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/27/173-residents-urge-hastings-mp-to-publicly-oppose-rosebank-oil-field/

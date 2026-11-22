@@ -39,26 +39,31 @@ image:
   card:
     url: /assets/media/story/251/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/251/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/251/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/251/share.jpg
-  color: '#57463e'
-  alt: Council Chamber. This is the Council Chamber of 776675
-  artist: Glyn Baker
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Council_Chamber_-_geograph.org.uk_-_776681.jpg
+  color: '#77684f'
+  alt: Empty council meeting room with one councillor seen from behind
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/17/alcohol-licence-bid-for-rye-tea-room-goes-to-council-panel/

@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/223/card.webp
     w: 400
-    h: 41
+    h: 267
   medium:
     url: /assets/media/story/223/medium.webp
     w: 800
-    h: 82
+    h: 533
   large:
     url: /assets/media/story/223/large.webp
-    w: 1400
-    h: 144
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/223/share.jpg
-  color: '#787775'
-  alt: Hastings Town Centre
-  artist: Oast House Archive
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Town_Centre_-_geograph.org.uk_-_1689488.jpg
+  color: '#5c524c'
+  alt: Empty cobblestone street in a seaside town at night
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/03/police-make-18-weekend-arrests-in-hastings-and-rother/

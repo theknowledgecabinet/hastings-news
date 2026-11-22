@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/236/card.webp
     w: 400
-    h: 153
+    h: 267
   medium:
     url: /assets/media/story/236/medium.webp
-    w: 640
-    h: 245
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/236/large.webp
-    w: 640
-    h: 245
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/236/share.jpg
-  color: '#4e534f'
-  alt: Stapleford Park golf tournament
-  artist: Andrew Tatlow
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Stapleford_Park_golf_tournament_-_geograph.org.uk_-_2999867.jpg
+  color: '#b2b395'
+  alt: Distant golfers on a seaside course fairway
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-20T12:57:11+00:00'
 related:

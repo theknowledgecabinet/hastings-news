@@ -50,19 +50,24 @@ image:
     h: 533
   large:
     url: /assets/media/story/252/large.webp
-    w: 1400
-    h: 933
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/252/share.jpg
-  color: '#654b37'
-  alt: Here is an hdr photograph taken from the council chamber inside Glasgow City Chambers. Located in Glasgow, Scotland, UK. (Taken with kind permission of the administration).
-  artist: Michael D Beckwith
-  match: generic
-  ai: false
-  by: null
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_The_Council_Chamber.jpg
+  color: '#5b5a55'
+  alt: Empty council meeting room with long table and chairs
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/

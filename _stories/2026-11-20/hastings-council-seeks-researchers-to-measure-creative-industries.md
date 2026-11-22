@@ -30,26 +30,31 @@ image:
   card:
     url: /assets/media/story/232/card.webp
     w: 400
-    h: 269
+    h: 267
   medium:
     url: /assets/media/story/232/medium.webp
-    w: 640
-    h: 430
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/232/large.webp
-    w: 640
-    h: 430
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/232/share.jpg
-  color: '#84827e'
-  alt: Hastings Town Hall
-  artist: N Chadwick
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Town_Hall_-_geograph.org.uk_-_2365266.jpg
+  color: '#a9a9a8'
+  alt: Distant figures on a grey shingle beach with scattered papers
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-20T07:45:29+00:00'
 related:

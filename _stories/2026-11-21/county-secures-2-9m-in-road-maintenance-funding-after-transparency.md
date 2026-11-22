@@ -43,14 +43,19 @@ image:
   share:
     url: /assets/media/story/257/share.jpg
   color: '#9a8b86'
-  alt: Road resurfacing in Broadwell
-  artist: Andy F
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Road_resurfacing_in_Broadwell_-_geograph.org.uk_-_1399760.jpg
+  alt: Road maintenance crew working on a wet street in a coastal town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/

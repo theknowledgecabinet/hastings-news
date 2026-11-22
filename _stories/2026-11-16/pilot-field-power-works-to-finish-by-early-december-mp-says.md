@@ -30,26 +30,31 @@ image:
   card:
     url: /assets/media/story/196/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/196/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/196/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/196/share.jpg
-  color: '#90968d'
-  alt: Power cable joint bay. Once these roadworks in Northfields Road North Acton are complete there won't be any sign of the underground power cable. One of the joints in the Wimbledon to Willesden power l
-  artist: David Hawgood
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Power_cable_joint_bay_-_geograph.org.uk_-_420812.jpg
+  color: '#988276'
+  alt: Temporary generator and roadworks barriers on a wet residential street.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/21/hastings-water-supply-under-pressure-as-reservoir-stands-at-41-per/

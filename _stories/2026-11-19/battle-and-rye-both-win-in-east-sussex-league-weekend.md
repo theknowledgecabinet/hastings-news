@@ -31,26 +31,31 @@ image:
   card:
     url: /assets/media/story/221/card.webp
     w: 400
-    h: 284
+    h: 267
   medium:
     url: /assets/media/story/221/medium.webp
     w: 800
-    h: 569
+    h: 533
   large:
     url: /assets/media/story/221/large.webp
-    w: 1024
-    h: 728
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/221/share.jpg
-  color: '#859166'
-  alt: Redruth United Football pitch, with advertising hoarding and cut grass
-  artist: Pete Cruse
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Redruth_United_Football_pitch,_with_advertising_hoarding_and_cut_grass_-_geograph.org.uk_-_8083726.jpg
+  color: '#a0a18c'
+  alt: Distant figures playing football on a grassy pitch under an overcast sky.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/

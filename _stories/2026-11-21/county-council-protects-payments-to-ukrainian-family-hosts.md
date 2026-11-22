@@ -33,26 +33,31 @@ image:
   card:
     url: /assets/media/story/256/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/256/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/256/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/256/share.jpg
-  color: '#5a5352'
-  alt: Meeting inside the Town Hall Council Chamber, view from the gallery.
-  artist: Alexis Markwick
-  match: generic
-  ai: false
-  by: null
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Bexhill_Town_Hall_Council_Chamber.jpg
+  color: '#96938e'
+  alt: Distant figure outside a generic seaside house on a grey day
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/

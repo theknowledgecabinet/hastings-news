@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/234/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/234/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/234/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/234/share.jpg
-  color: '#6c6c67'
-  alt: Remembrance Day Ceremony at Havant War Memorial
-  artist: Basher Eyre
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Remembrance_Day_Ceremony_at_Havant_War_Memorial_-_geograph.org.uk_-_1058163.jpg
+  color: '#666952'
+  alt: Distant crowd standing on a wet grassy field on a grey day
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/02/battle-bonfire-returns-to-the-abbey-green-on-saturday/

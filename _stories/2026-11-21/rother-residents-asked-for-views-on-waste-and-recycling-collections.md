@@ -32,26 +32,31 @@ image:
   card:
     url: /assets/media/story/246/card.webp
     w: 400
-    h: 268
+    h: 267
   medium:
     url: /assets/media/story/246/medium.webp
     w: 800
-    h: 535
+    h: 533
   large:
     url: /assets/media/story/246/large.webp
-    w: 1024
-    h: 685
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/246/share.jpg
-  color: '#81827f'
-  alt: Domestic Waste Disposal and Recycling Site
-  artist: N Chadwick
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Domestic_Waste_Disposal_and_Recycling_Site_-_geograph.org.uk_-_6767359.jpg
+  color: '#918b7f'
+  alt: Grey wheelie bin on a quiet residential street in an English seaside town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/

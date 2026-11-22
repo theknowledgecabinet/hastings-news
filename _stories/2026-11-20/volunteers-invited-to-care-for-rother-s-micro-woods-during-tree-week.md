@@ -39,19 +39,24 @@ image:
     h: 533
   large:
     url: /assets/media/story/244/large.webp
-    w: 1400
-    h: 933
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/244/share.jpg
-  color: '#7e8272'
-  alt: Community tree planting scheme
-  artist: Andrew Abbott
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Community_tree_planting_scheme_-_geograph.org.uk_-_5141416.jpg
+  color: '#888777'
+  alt: Volunteers tending young trees in a grassy park on an overcast day.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/21/rother-residents-asked-for-views-on-waste-and-recycling-collections/

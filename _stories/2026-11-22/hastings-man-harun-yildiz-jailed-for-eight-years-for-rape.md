@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/254/card.webp
     w: 400
-    h: 305
+    h: 267
   medium:
     url: /assets/media/story/254/medium.webp
     w: 800
-    h: 610
+    h: 533
   large:
     url: /assets/media/story/254/large.webp
-    w: 800
-    h: 610
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/254/share.jpg
-  color: '#73797b'
-  alt: Police Station and police car, St David's
-  artist: Jaggery
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Police_Station_and_police_car,_St_David%27s_-_geograph.org.uk_-_4086733.jpg
+  color: '#666d6f'
+  alt: Police car parked on a wet street at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-22T10:58:56+00:00'
 related:
