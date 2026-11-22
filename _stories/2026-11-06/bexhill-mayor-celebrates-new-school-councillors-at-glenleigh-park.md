@@ -56,15 +56,15 @@ image:
   default: false
 checked: '2026-11-06T12:58:28+00:00'
 related:
+- url: /2026/11/22/political-accountability-bexhill-and-battle-mp-raises-beckley-school/
+  title: 'Political accountability: Bexhill and Battle MP raises Beckley school PE funding'
+  day: '2026-11-22'
 - url: /2026/10/29/new-road-signs-installed-in-bexhill-for-horse-and-rider-safety/
   title: New road signs installed in Bexhill for horse and rider safety
   day: '2026-10-29'
 - url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
   title: Bexhill councillor calls parking permit charges 'extortionate'
   day: '2026-11-03'
-- url: /2026/11/13/bexhill-county-councillor-leaves-reform-uk-to-join-conservatives/
-  title: Bexhill county councillor leaves Reform UK to join Conservatives
-  day: '2026-11-13'
 ---
 {% raw %}
 Glenleigh Park Primary Academy in Bexhill hosted a special assembly to celebrate student leadership, with the Mayor of Bexhill, Cllr Memish Huseyin, in attendance. The visit marked the appointment of the school's newly elected school and eco councillors, following an election campaign that involved all pupils.

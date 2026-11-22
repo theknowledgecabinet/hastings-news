@@ -55,12 +55,12 @@ related:
 - url: /2026/10/28/eight-hastings-and-rother-residents-renew-challenge-to-mp-over/
   title: Eight Hastings and Rother residents renew challenge to MP over Palestine Action ban
   day: '2026-10-28'
+- url: /2026/11/22/political-accountability-hastings-and-rye-mp-takes-part-in-every-vote/
+  title: 'Political accountability: Hastings and Rye MP takes part in every vote of the week'
+  day: '2026-11-22'
 - url: /2026/11/12/east-sussex-energy-group-urges-residents-to-contact-mps-on-heat-pumps/
   title: East Sussex energy group urges residents to contact MPs on heat pumps and EV targets
   day: '2026-11-12'
-- url: /2026/11/06/mp-joins-launch-of-hastings-st-leonards-poppy-appeal/
-  title: MP joins launch of Hastings & St Leonards Poppy Appeal
-  day: '2026-11-06'
 ---
 {% raw %}
 A letter signed by 173 residents of the Hastings and Rye constituency has called on local MP Helena Dollimore to "get off the fence and publicly oppose all new oil and gas projects in the North Sea".

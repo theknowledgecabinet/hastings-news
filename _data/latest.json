@@ -1,8 +1,8 @@
 {
- "day": "2026-11-21",
- "label": "Saturday 21 November 2026",
- "issue": 32,
- "edition_label": "Midday edition",
+ "day": "2026-11-22",
+ "label": "Sunday 22 November 2026",
+ "issue": 33,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-22",
@@ -29,15 +29,15 @@
    "words": "partly cloudy",
    "icon": "⛅",
    "high": 7,
-   "low": 3,
+   "low": 4,
    "rain_chance": 4,
    "rain_mm": 0.0,
-   "wind": 14,
-   "gusts": 28,
-   "direction": "south-easterly",
+   "wind": 11,
+   "gusts": 21,
+   "direction": "easterly",
    "sunrise": "07:26",
    "sunset": "16:01",
-   "summary": "Partly cloudy. A high of 7°C and a low of 3°C, a moderate breeze from the south-east. Sunrise 07:26, sunset 16:01.",
+   "summary": "Partly cloudy. A high of 7°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:26, sunset 16:01.",
    "label": "Tomorrow",
    "weekday": "Mon 23 Nov",
    "long": "Monday 23 November"
@@ -50,58 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-21",
-    "code": 51,
-    "words": "light drizzle",
-    "icon": "🌦️",
-    "high": 10,
-    "low": 4,
-    "rain_chance": 2,
-    "rain_mm": 0.1,
-    "wind": 11,
-    "gusts": 24,
-    "direction": "easterly",
-    "sunrise": "07:23",
-    "sunset": "16:03",
-    "summary": "Light drizzle possible (2% chance). A high of 10°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-21",
+    "day": "2026-11-22",
     "code": 3,
     "words": "cloudy",
     "icon": "☁️",
-    "high": 10,
-    "low": 4,
-    "rain_chance": 1,
+    "high": 9,
+    "low": 6,
+    "rain_chance": 0,
     "rain_mm": 0.0,
-    "wind": 10,
-    "gusts": 20,
+    "wind": 16,
+    "gusts": 33,
     "direction": "easterly",
-    "sunrise": "07:23",
-    "sunset": "16:03",
-    "summary": "Cloudy. A high of 10°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03."
+    "sunrise": "07:24",
+    "sunset": "16:02",
+    "summary": "Cloudy. A high of 9°C and a low of 6°C, a moderate breeze from the east, gusting 33 mph. Sunrise 07:24, sunset 16:02."
    }
   }
  ],
  "weather": {
-  "day": "2026-11-21",
+  "day": "2026-11-22",
   "code": 3,
   "words": "cloudy",
   "icon": "☁️",
-  "high": 10,
-  "low": 4,
-  "rain_chance": 1,
+  "high": 9,
+  "low": 6,
+  "rain_chance": 0,
   "rain_mm": 0.0,
-  "wind": 10,
-  "gusts": 20,
+  "wind": 16,
+  "gusts": 33,
   "direction": "easterly",
-  "sunrise": "07:23",
-  "sunset": "16:03",
-  "summary": "Cloudy. A high of 10°C and a low of 4°C, a moderate breeze from the east. Sunrise 07:23, sunset 16:03."
+  "sunrise": "07:24",
+  "sunset": "16:02",
+  "summary": "Cloudy. A high of 9°C and a low of 6°C, a moderate breeze from the east, gusting 33 mph. Sunrise 07:24, sunset 16:02."
  },
  "briefing": {
   "day": "2026-11-20",
@@ -117,6 +97,11 @@
   "title": "Funerals held for the crew of the Mary Stanford lifeboat"
  },
  "days": [
+  {
+   "day": "2026-11-22",
+   "url": "/2026/11/22/",
+   "label": "Sun 22 Nov"
+  },
   {
    "day": "2026-11-21",
    "url": "/2026/11/21/",
@@ -181,11 +166,6 @@
    "day": "2026-11-09",
    "url": "/2026/11/09/",
    "label": "Mon 9 Nov"
-  },
-  {
-   "day": "2026-11-08",
-   "url": "/2026/11/08/",
-   "label": "Sun 8 Nov"
   }
  ]
 }

@@ -55,12 +55,12 @@ related:
 - url: /2026/11/19/bexhill-councillor-raises-pedestrian-safety-concerns-over-146-homes/
   title: Bexhill councillor raises pedestrian safety concerns over 146 homes plan
   day: '2026-11-19'
+- url: /2026/11/22/political-accountability-bexhill-and-battle-mp-raises-beckley-school/
+  title: 'Political accountability: Bexhill and Battle MP raises Beckley school PE funding'
+  day: '2026-11-22'
 - url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
   title: Bexhill councillor calls parking permit charges 'extortionate'
   day: '2026-11-03'
-- url: /2026/11/11/councillor-calls-500-home-bexhill-plan-a-disaster-zone-waiting-to/
-  title: Councillor calls 500-home Bexhill plan a 'disaster zone waiting to happen'
-  day: '2026-11-11'
 ---
 {% raw %}
 The MP for Bexhill, Battle and the villages has backed a petition calling for a 20mph speed limit and weight restrictions on heavy goods vehicles through Pevensey and Westham.

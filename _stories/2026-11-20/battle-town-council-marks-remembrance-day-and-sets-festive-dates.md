@@ -56,9 +56,9 @@ related:
 - url: /2026/10/27/remembrance-day-service-and-civic-parade-for-alexandra-park/
   title: Remembrance Day service and civic parade for Alexandra Park
   day: '2026-10-27'
-- url: /2026/11/09/battle-bonfire-2026-guy-feaux-effigy-takes-a-swipe-at-ai/
-  title: 'Battle Bonfire 2026: ''Guy Feaux'' effigy takes a swipe at AI'
-  day: '2026-11-09'
+- url: /2026/11/22/political-accountability-rother-licensing-panel-considers-battle/
+  title: 'Political accountability: Rother licensing panel considers Battle premises licence'
+  day: '2026-11-22'
 ---
 {% raw %}
 Around 150 people gathered on the Battle Abbey Apron for the town's Remembrance Day ceremony, Battle Town Council said. Pupils from Battle & Langton CE Primary School, Claverham Community College and Netherfield CE Primary School gave readings, the Battle Abbey School Choir performed, and the Battle Bonfire Boyes fired the maroon to mark the two-minute silence.

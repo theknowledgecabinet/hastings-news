@@ -65,15 +65,15 @@ image:
   default: false
 checked: '2026-11-17T19:30:07+00:00'
 related:
+- url: /2026/11/22/political-accountability-rother-licensing-panel-considers-battle/
+  title: 'Political accountability: Rother licensing panel considers Battle premises licence'
+  day: '2026-11-22'
 - url: /2026/10/31/iden-s-the-bell-pub-moves-closer-to-reopening-after-plans-submitted/
   title: Iden's The Bell pub moves closer to reopening after plans submitted
   day: '2026-10-31'
 - url: /2026/10/24/bexhill-empty-shops-plan-opens-for-public-consultation/
   title: Bexhill empty shops plan opens for public consultation
   day: '2026-10-24'
-- url: /2026/11/19/work-set-to-begin-on-new-1-2m-loungers-restaurant-at-bexhill-colonnade/
-  title: Work set to begin on new £1.2m Loungers restaurant at Bexhill Colonnade
-  day: '2026-11-19'
 ---
 {% raw %}
 An application for an alcohol licence for a new tea room and wine bar in Rye is to be considered by Rother District Council.

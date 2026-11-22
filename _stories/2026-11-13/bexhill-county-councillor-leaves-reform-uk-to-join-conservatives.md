@@ -51,15 +51,15 @@ image:
   default: false
 checked: '2026-11-13T20:30:33+00:00'
 related:
+- url: /2026/11/22/political-accountability-bexhill-and-battle-mp-raises-beckley-school/
+  title: 'Political accountability: Bexhill and Battle MP raises Beckley school PE funding'
+  day: '2026-11-22'
 - url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
   title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
   day: '2026-11-03'
 - url: /2026/11/06/bexhill-mayor-celebrates-new-school-councillors-at-glenleigh-park/
   title: Bexhill mayor celebrates new school councillors at Glenleigh Park Primary
   day: '2026-11-06'
-- url: /2026/11/03/bexhill-councillor-calls-parking-permit-charges-extortionate/
-  title: Bexhill councillor calls parking permit charges 'extortionate'
-  day: '2026-11-03'
 ---
 {% raw %}
 A Bexhill county councillor has left Reform UK and joined the Conservative Party, the party's East Sussex group has said.

@@ -52,15 +52,15 @@ image:
   default: false
 checked: '2026-10-30T19:35:01+00:00'
 related:
+- url: /2026/11/22/political-accountability-hastings-museum-committee-meets-minutes-not/
+  title: 'Political accountability: Hastings Museum Committee meets, minutes not yet published'
+  day: '2026-11-22'
 - url: /2026/11/17/hastings-council-to-freeze-most-parking-charges-in-2027-28/
   title: Hastings council to freeze most parking charges in 2027/28
   day: '2026-11-17'
 - url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
   title: Free parking at Hastings council car parks in December
   day: '2026-11-03'
-- url: /2026/11/05/hastings-draft-local-plan-convent-site-open-for-comment-until-12/
-  title: 'Hastings Draft Local Plan: Convent site open for comment until 12 November'
-  day: '2026-11-05'
 ---
 {% raw %}
 Hastings Borough Council's Cabinet will meet on Monday 9 November to discuss a range of reports, the council said.
