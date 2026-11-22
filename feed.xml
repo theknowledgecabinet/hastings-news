@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 22 Nov 2026 13:10:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 21:18:59 +0000</lastBuildDate>
+  <item>
+    <title>Bexhill United clear Midhurst and Easebourne 5-1, move to sixth</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/bexhill-united-clear-midhurst-and-easebourne-5-1-move-to-sixth/</link>
+    <guid isPermaLink="false">story-259</guid>
+    <pubDate>Sun, 22 Nov 2026 21:18:59 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Bexhill United ran out comfortable winners at Polegrove on Saturday, beating Midhurst and Easebourne 5-1 in the latest of a long run of fixtures at the ground that has seen the Pirates climb steadily up the table.</description>
+  </item>
   <item>
     <title>Update: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/</link>
@@ -638,14 +646,6 @@
     <pubDate>Sun, 15 Nov 2026 13:06:16 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police have appealed for help to identify a man found dead on Rottingdean beach in October, who is still unknown.</description>
-  </item>
-  <item>
-    <title>East Sussex joins national programme to use creative activities for health</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/east-sussex-joins-national-programme-to-use-creative-activities-for/</link>
-    <guid isPermaLink="false">story-186</guid>
-    <pubDate>Sun, 15 Nov 2026 07:39:37 +0000</pubDate>
-    <category>Council</category>
-    <description>East Sussex County Council has been selected to join a national programme that uses creative and cultural activities to improve health and wellbeing.</description>
   </item>
 </channel>
 </rss>
