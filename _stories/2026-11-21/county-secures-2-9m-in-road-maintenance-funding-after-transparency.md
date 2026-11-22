@@ -31,18 +31,18 @@ image:
   card:
     url: /assets/media/story/257/card.webp
     w: 400
-    h: 286
+    h: 267
   medium:
     url: /assets/media/story/257/medium.webp
-    w: 640
-    h: 458
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/257/large.webp
-    w: 640
-    h: 458
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/257/share.jpg
-  color: '#61634d'
+  color: '#9a8b86'
   alt: Road resurfacing in Broadwell
   artist: Andy F
   match: generic
