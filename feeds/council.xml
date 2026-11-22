@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 22 Nov 2026 10:11:16 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 10:48:07 +0000</lastBuildDate>
+  <item>
+    <title>Quit-smoking support brought to Conquest emergency department</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/quit-smoking-support-brought-to-conquest-emergency-department/</link>
+    <guid isPermaLink="false">story-253</guid>
+    <pubDate>Sun, 22 Nov 2026 10:48:07 +0000</pubDate>
+    <category>Council</category>
+    <description>Smokers in Conquest Hospital&#x27;s emergency department can now get support to quit while they are in hospital.</description>
+  </item>
   <item>
     <title>Political accountability: County cabinet decisions on care payments and highway policy</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/political-accountability-county-cabinet-decisions-on-care-payments/</link>
@@ -398,14 +406,6 @@
     <pubDate>Fri, 30 Oct 2026 13:12:53 +0000</pubDate>
     <category>Council</category>
     <description>The council leader says the draft Local Plan consultation remains open until Tuesday, November 24, and the Tapestry development in Battle, which will provide 200 energy-efficient homes, has been shortlisted for the Best Development Award at the Inside Housing Development Awards.</description>
-  </item>
-  <item>
-    <title>Update: Holiday lets, flats and shops approved for arcade blaze site in George Street</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/27/holiday-lets-flats-and-shops-approved-for-arcade-blaze-site-in-george/</link>
-    <guid isPermaLink="false">story-30-update-2026-10-30T13:07:16+00:00</guid>
-    <pubDate>Fri, 30 Oct 2026 13:07:16 +0000</pubDate>
-    <category>Council</category>
-    <description>Residents have divided over the approved scheme. One, writing on the Observer&#x27;s Facebook page, said: &quot;We don&#x27;t need holiday lets and more shops; we need housing.&quot; Others suggested affordable bedsits or a hub for young people, while a handful backed the development.</description>
   </item>
 </channel>
 </rss>

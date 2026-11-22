@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 22 Nov 2026 10:11:16 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 10:48:07 +0000</lastBuildDate>
+  <item>
+    <title>Quit-smoking support brought to Conquest emergency department</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/quit-smoking-support-brought-to-conquest-emergency-department/</link>
+    <guid isPermaLink="false">story-253</guid>
+    <pubDate>Sun, 22 Nov 2026 10:48:07 +0000</pubDate>
+    <category>Council</category>
+    <description>Smokers in Conquest Hospital&#x27;s emergency department can now get support to quit while they are in hospital.</description>
+  </item>
   <item>
     <title>Political accountability: County cabinet decisions on care payments and highway policy</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/political-accountability-county-cabinet-decisions-on-care-payments/</link>
@@ -638,14 +646,6 @@
     <pubDate>Sat, 14 Nov 2026 07:22:18 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Brendan Brain, 39, of Waterlooville, Hampshire, has been jailed for a spree of shoplifting and burglary that stretched across Sussex and ten other counties, Sussex Police said.</description>
-  </item>
-  <item>
-    <title>Bexhill community hub to get more than £500,000 in developer funding</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/</link>
-    <guid isPermaLink="false">story-181</guid>
-    <pubDate>Sat, 14 Nov 2026 07:22:18 +0000</pubDate>
-    <category>Council</category>
-    <description>More than £500,000 has been allocated to create a new community hub in Bexhill town centre, Rother District Council said.</description>
   </item>
 </channel>
 </rss>
