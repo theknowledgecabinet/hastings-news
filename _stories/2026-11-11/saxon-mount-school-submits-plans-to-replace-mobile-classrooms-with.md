@@ -30,26 +30,31 @@ image:
   card:
     url: /assets/media/story/156/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/156/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/156/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/156/share.jpg
-  color: '#7c8d6f'
-  alt: New classrooms, Oakfield School, Ackworth. Two new modular classrooms for school.
-  artist: P Fletcher
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:New_classrooms,_Oakfield_School,_Ackworth_-_geograph.org.uk_-_93615.jpg
+  color: '#b2afaa'
+  alt: Old mobile classrooms next to a new two-storey school building under construction.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-11T19:19:22+00:00'
 related:

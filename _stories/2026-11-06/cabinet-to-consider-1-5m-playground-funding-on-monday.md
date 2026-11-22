@@ -29,18 +29,18 @@ image:
   card:
     url: /assets/media/story/126/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/126/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/126/large.webp
-    w: 1142
-    h: 857
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/126/share.jpg
-  color: '#6a8474'
+  color: '#9e948d'
   alt: Children's playground equipment
   artist: Richard Law
   match: generic

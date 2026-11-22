@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/189/card.webp
     w: 400
-    h: 305
+    h: 267
   medium:
     url: /assets/media/story/189/medium.webp
     w: 800
-    h: 610
+    h: 533
   large:
     url: /assets/media/story/189/large.webp
-    w: 1200
-    h: 915
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/189/share.jpg
-  color: '#3e3927'
-  alt: ''
-  artist: Thomas Buttersworth
-  match: generic
-  ai: false
-  by: null
-  licence: Public domain
+  color: '#686662'
+  alt: Misty rural field with distant figures walking away at dawn
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
   licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:Thomas_Buttersworth_(1768-1842)_-_A_Smuggling_Lugger_Chased_by_a_Naval_Brig_-_BHC1113_-_Royal_Museums_Greenwich.jpg
+  page: ''
   default: false
 checked: '2026-11-15T19:06:11+00:00'
 ---

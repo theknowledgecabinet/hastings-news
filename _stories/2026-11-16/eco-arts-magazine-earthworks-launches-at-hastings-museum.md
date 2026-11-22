@@ -33,23 +33,23 @@ image:
     h: 300
   medium:
     url: /assets/media/story/191/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 600
   large:
     url: /assets/media/story/191/large.webp
-    w: 640
-    h: 480
+    w: 1400
+    h: 1050
   share:
     url: /assets/media/story/191/share.jpg
-  color: '#707b74'
-  alt: Hastings Museum and Art Gallery
-  artist: Oast House Archive
+  color: '#787f73'
+  alt: Photograph of Hastings Museum & Art Gallery, taken January 2020
+  artist: Damobhoy
   match: exact
   ai: false
   by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_museum_(geograph_2430415).jpg
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0
+  page: https://commons.wikimedia.org/wiki/File:Hastings_Museum_%26_Art_Gallery_2020.jpg
   default: false
 related:
 - url: /2026/11/19/hastings-museum-opens-sustainability-exhibition-with-natural-history/

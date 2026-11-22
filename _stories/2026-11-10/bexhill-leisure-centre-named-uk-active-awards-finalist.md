@@ -30,23 +30,23 @@ image:
     h: 300
   medium:
     url: /assets/media/story/145/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 600
   large:
     url: /assets/media/story/145/large.webp
-    w: 640
-    h: 480
+    w: 1280
+    h: 960
   share:
     url: /assets/media/story/145/share.jpg
-  color: '#79898c'
-  alt: The Leisure Centre, Bexhill-on-Sea
-  artist: Bill Johnson
+  color: '#728255'
+  alt: Bexhill Leisure Centre
+  artist: Gerald England
   match: exact
   ai: false
   by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:The_Leisure_Centre,_Bexhill-on-Sea_-_geograph.org.uk_-_685407.jpg
+  page: https://commons.wikimedia.org/wiki/File:Bexhill_Leisure_Centre_-_geograph.org.uk_-_6262571.jpg
   default: false
 related:
 - url: /2026/11/14/bexhill-community-hub-to-get-more-than-500-000-in-developer-funding/

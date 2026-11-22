@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/174/card.webp
     w: 400
-    h: 263
+    h: 267
   medium:
     url: /assets/media/story/174/medium.webp
     w: 800
-    h: 527
+    h: 533
   large:
     url: /assets/media/story/174/large.webp
-    w: 1400
-    h: 922
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/174/share.jpg
-  color: '#73746d'
-  alt: Περιβαλλοντικό μάθημα στο δασύλλιο Πάτρας _ 9ο δημοτικό σχολείο
-  artist: Nikolaos Kotopoulis
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:Environmental_lesson_in_the_small_forest_of_Patras_9th_primary_school.jpg
+  color: '#aba397'
+  alt: Distant figures on a shingle beach interacting with nature
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/

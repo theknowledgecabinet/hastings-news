@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/165/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/165/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/165/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/165/share.jpg
-  color: '#6a7b85'
-  alt: Bexhill Seafront
-  artist: Paul Gillett
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Bexhill_Seafront_-_geograph.org.uk_-_2349324.jpg
+  color: '#686d71'
+  alt: Police car parked on empty street at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-12T12:50:42+00:00'
 related:

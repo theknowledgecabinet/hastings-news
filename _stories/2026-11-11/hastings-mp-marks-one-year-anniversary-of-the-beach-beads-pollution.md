@@ -34,26 +34,31 @@ image:
   card:
     url: /assets/media/story/151/card.webp
     w: 400
-    h: 225
+    h: 267
   medium:
     url: /assets/media/story/151/medium.webp
     w: 800
-    h: 450
+    h: 533
   large:
     url: /assets/media/story/151/large.webp
-    w: 1400
-    h: 788
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/151/share.jpg
-  color: '#8697a4'
-  alt: Palace of Westminster, London , England , United Kingdom
-  artist: Dietmar Rabich
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:London,_Palace_of_Westminster_--_2016_--_4800.jpg
+  color: '#9d9d9c'
+  alt: Volunteers cleaning plastic beads from a shingle beach.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-11T12:48:30+00:00'
 related:

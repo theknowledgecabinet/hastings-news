@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/136/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/136/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/136/large.webp
-    w: 896
-    h: 672
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/136/share.jpg
-  color: '#41311e'
-  alt: Crawley_town centre at night - Queen's Square
-  artist: jeffwarder
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 3.0
-  licence_url: https://creativecommons.org/licenses/by-sa/3.0
-  page: https://commons.wikimedia.org/wiki/File:Crawley_town_centre_at_night_-_Queen%27s_Square_-_panoramio.jpg
+  color: '#676a6c'
+  alt: Police car with flashing lights on wet street at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/25/manhunt-for-escaped-prisoner-with-links-to-sussex/

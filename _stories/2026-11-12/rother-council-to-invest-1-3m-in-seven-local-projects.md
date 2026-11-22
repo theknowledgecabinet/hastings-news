@@ -31,26 +31,31 @@ image:
   card:
     url: /assets/media/story/166/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/166/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/166/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/166/share.jpg
-  color: '#877e6b'
-  alt: 'Tiverton : Moorhayes Community Centre The interior of Moorhayes Community Centre is an area for people to use for meetings and leisure.'
-  artist: Lewis Clarke
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Tiverton_,_Moorhayes_Community_Centre_-_geograph.org.uk_-_1187704.jpg
+  color: '#9a897c'
+  alt: Roadworks barriers outside a disused building in a seaside town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-12T12:51:42+00:00'
 related:

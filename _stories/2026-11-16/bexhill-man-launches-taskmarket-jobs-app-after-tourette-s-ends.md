@@ -37,19 +37,24 @@ image:
     h: 533
   large:
     url: /assets/media/story/194/large.webp
-    w: 1400
-    h: 933
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/194/share.jpg
-  color: '#949494'
-  alt: A documentary wedding videographer capturing footage
-  artist: Andrew Michael Films
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:Documentary_wedding_videography.jpg
+  color: '#6f6f69'
+  alt: Person cleaning an oven in a bright kitchen
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-16T12:55:11+00:00'
 ---

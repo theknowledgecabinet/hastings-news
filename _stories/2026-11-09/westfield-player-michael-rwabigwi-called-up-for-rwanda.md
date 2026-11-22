@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/140/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/140/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/140/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/140/share.jpg
-  color: '#7a8b66'
-  alt: Sunday League. Sunday League football at Appleton near Warrington. Irlam Vale (under 15's) in blue playing Appleton JFC (under 15's). The match was a draw! SJ61978294.
-  artist: Keith Williamson
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Sunday_League_-_geograph.org.uk_-_64149.jpg
+  color: '#a2a691'
+  alt: Lone footballer on a small coastal pitch under a cloudy sky.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 ---
 {% raw %}

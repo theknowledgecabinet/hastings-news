@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/158/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/158/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/158/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/158/share.jpg
-  color: '#63635a'
-  alt: Southern liveried Bombardier Class 377/4 Electrostar No. 377401 at Portsmouth Harbour
-  artist: Peter Skuce
-  match: generic
-  ai: false
-  by: null
-  licence: Public domain
+  color: '#6f6e5f'
+  alt: Distant figures walking along a rural railway line under an overcast sky.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
   licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:SOUTHERN_377401.jpg
+  page: ''
   default: false
 related:
 - url: /2026/11/14/trains-between-bexhill-and-eastbourne-cut-short-by-signalling-fault/

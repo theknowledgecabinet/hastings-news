@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/179/card.webp
     w: 400
-    h: 400
+    h: 267
   medium:
     url: /assets/media/story/179/medium.webp
     w: 800
-    h: 800
+    h: 533
   large:
     url: /assets/media/story/179/large.webp
-    w: 1280
-    h: 1280
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/179/share.jpg
-  color: '#909891'
-  alt: East Sussex County Council Offices, St Anne's Crescent, Lewes, Lewes District, East Sussex, England.
-  artist: Hassocks5489
-  match: generic
-  ai: false
-  by: null
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:East_Sussex_County_Council_Offices,_St_Anne%27s_Crescent,_Lewes_(March_2022)_(1).JPG
+  color: '#90897b'
+  alt: Empty council meeting room with rows of chairs
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-13T20:30:33+00:00'
 related:

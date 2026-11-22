@@ -33,23 +33,23 @@ image:
     h: 265
   medium:
     url: /assets/media/story/164/medium.webp
-    w: 640
-    h: 424
+    w: 800
+    h: 530
   large:
     url: /assets/media/story/164/large.webp
-    w: 640
-    h: 424
+    w: 1400
+    h: 928
   share:
     url: /assets/media/story/164/share.jpg
-  color: '#7e8e82'
-  alt: Conquest Hospital, St Leonards From the lagoon
+  color: '#8f9488'
+  alt: Conquest Hospital, St Leonards-on-Sea
   artist: Julian P Guffogg
   match: exact
   ai: false
   by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Conquest_Hospital,_St_Leonards_-_geograph.org.uk_-_795540.jpg
+  page: https://commons.wikimedia.org/wiki/File:Conquest_Hospital,_St_Leonards-on-Sea_-_geograph.org.uk_-_3132519.jpg
   default: false
 related:
 - url: /2026/11/22/quit-smoking-support-brought-to-conquest-emergency-department/

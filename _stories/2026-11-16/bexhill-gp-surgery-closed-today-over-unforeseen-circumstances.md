@@ -38,26 +38,31 @@ image:
   card:
     url: /assets/media/story/193/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/193/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/193/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/193/share.jpg
-  color: '#807a79'
-  alt: Wallingford Medical Practice This was once a Cottage Hospital before all the changes in the NHS, the building on the left is the surgery where you see the doctors (if you can get an appointment) and i
-  artist: Bill Nicholls
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Wallingford_Medical_Practice_-_geograph.org.uk_-_701809.jpg
+  color: '#95938c'
+  alt: Closed medical building on a wet, overcast street in a seaside town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-16T12:54:08+00:00'
 related:

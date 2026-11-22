@@ -36,19 +36,24 @@ image:
     h: 533
   large:
     url: /assets/media/story/178/large.webp
-    w: 1400
-    h: 933
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/178/share.jpg
-  color: '#898c8c'
-  alt: Bexhill Seafront
-  artist: J.Hannan-Briggs
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Bexhill_Seafront_-_geograph.org.uk_-_4292609.jpg
+  color: '#b8b3a9'
+  alt: Empty seaside kiosk on a grey promenade with distant walkers.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-13T20:19:34+00:00'
 ---

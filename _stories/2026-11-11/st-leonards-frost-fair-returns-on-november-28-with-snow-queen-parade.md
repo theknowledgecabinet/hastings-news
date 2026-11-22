@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/154/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/154/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/154/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/154/share.jpg
-  color: '#898583'
-  alt: Hastings Seafront Looking towards St Leonards.
-  artist: JThomas
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Seafront_-_geograph.org.uk_-_1276110.jpg
+  color: '#858082'
+  alt: Colorful winter parade in a grey English seaside town street
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-11T12:50:15+00:00'
 related:

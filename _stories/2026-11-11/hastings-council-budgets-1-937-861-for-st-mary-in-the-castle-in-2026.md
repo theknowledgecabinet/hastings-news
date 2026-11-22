@@ -28,26 +28,26 @@ image:
   card:
     url: /assets/media/story/150/card.webp
     w: 400
-    h: 400
+    h: 300
   medium:
     url: /assets/media/story/150/medium.webp
     w: 800
-    h: 800
+    h: 600
   large:
     url: /assets/media/story/150/large.webp
     w: 1400
-    h: 1400
+    h: 1050
   share:
     url: /assets/media/story/150/share.jpg
-  color: '#707172'
-  alt: Former St Mary-in-the-Castle Church, Pelham Crescent, Hastings, East Sussex, England. Built in 1828 by Joseph Kay as the centrepiece of the residential Pelham Crescent. Now an arts centre. Listed at G
-  artist: The Voice of Hassocks
+  color: '#818586'
+  alt: St Mary in the Castle, Hastings
+  artist: Colin Smith
   match: exact
   ai: false
   by: null
-  licence: Public domain
-  licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:Former_St_Mary-in-the-Castle_Church,_Old_Town,_Hastings_(IoE_Code_294035).JPG
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:St_Mary_in_the_Castle,_Hastings_-_geograph.org.uk_-_2017268.jpg
   default: false
 checked: '2026-11-11T09:36:40+00:00'
 related:

@@ -33,22 +33,27 @@ image:
   medium:
     url: /assets/media/story/162/medium.webp
     w: 800
-    h: 534
+    h: 533
   large:
     url: /assets/media/story/162/large.webp
-    w: 1400
-    h: 934
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/162/share.jpg
-  color: '#8b8784'
-  alt: Electric vehicle charging stations in Stuttgart
-  artist: Alexander Migl
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:Electric_vehicle_charging_stations_in_Stuttgart_1X7A6287.jpg
+  color: '#8d8982'
+  alt: Heat pump on a seaside house wall during rain
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-12T07:45:07+00:00'
 related:

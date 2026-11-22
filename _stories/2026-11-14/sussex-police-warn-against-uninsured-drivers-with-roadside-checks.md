@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/184/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/184/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/184/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/184/share.jpg
-  color: '#60251b'
-  alt: This photo shows just one of the high performance sports cars seized for having no insurance by police in east Birmingham. Drive without car insurance and you're likely to get caught. That's the clear
-  artist: West Midlands Police from West Midlands, United Kingdom
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Day_209_-_West_Midlands_Police_-_Uninsured_vehicles_seized_(7656020788).jpg
+  color: '#9f9e96'
+  alt: Unmarked police car parked on a quiet, damp residential street.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-14T18:51:27+00:00'
 related:

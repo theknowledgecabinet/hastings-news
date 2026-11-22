@@ -30,26 +30,31 @@ image:
   card:
     url: /assets/media/story/185/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/185/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/185/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/185/share.jpg
-  color: '#777b7c'
-  alt: Southern 377626 electric multiple unit at Leatherhead station operating a service from Dorking to London Bridge.
-  artist: Mertbiol
-  match: generic
-  ai: false
-  by: null
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Southern_377626_unit_at_Leatherhead_station.jpg
+  color: '#908c8a'
+  alt: Empty railway platform in a misty English seaside town
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/11/southern-services-delayed-between-eastbourne-and-hastings-after/

@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/139/card.webp
     w: 400
-    h: 268
+    h: 267
   medium:
     url: /assets/media/story/139/medium.webp
     w: 800
-    h: 535
+    h: 533
   large:
     url: /assets/media/story/139/large.webp
-    w: 1400
-    h: 937
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/139/share.jpg
-  color: '#8a92a0'
-  alt: Lobuche East from the southeast
-  artist: Theprotrekker
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:Lobuche_East_Peak.jpg
+  color: '#9a9898'
+  alt: Two distant figures on a shingle beach looking at the sea.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-09T07:34:47+00:00'
 related:

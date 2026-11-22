@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/157/card.webp
     w: 400
-    h: 266
+    h: 267
   medium:
     url: /assets/media/story/157/medium.webp
     w: 800
-    h: 532
+    h: 533
   large:
     url: /assets/media/story/157/large.webp
-    w: 1400
-    h: 930
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/157/share.jpg
-  color: '#717479'
-  alt: Exterior of a supermarket
-  artist: Fernweh
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Exterior_of_a_supermarket_-_geograph.org.uk_-_4262252.jpg
+  color: '#898985'
+  alt: Police car parked on wet street near railway bridge
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-11T19:20:26+00:00'
 related:
