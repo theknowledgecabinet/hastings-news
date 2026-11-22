@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 22 Nov 2026 10:58:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 13:10:25 +0000</lastBuildDate>
+  <item>
+    <title>Update: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/</link>
+    <guid isPermaLink="false">story-67-update-2026-11-22T13:10:25+00:00</guid>
+    <pubDate>Sun, 22 Nov 2026 13:10:25 +0000</pubDate>
+    <category>Council</category>
+    <description>The Hastings Borough Council cabinet met on 9 November, and the decisions from that meeting are now recorded. The cabinet recommended the proposed 2027/28 fees and charges on existing services, to be implemented from 1 April 2027, to Full Council, and approved the Age Friendly Hastings strategy, action plan and evaluation framework. It also noted the successful securing of external funding totalling approximately £2.12 million for heritage, leisure and regeneration projects across Hastings.</description>
+  </item>
   <item>
     <title>Simpler disability allowance set for East Sussex care users</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/</link>
@@ -398,14 +406,6 @@
     <pubDate>Tue, 03 Nov 2026 13:10:26 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has agreed plans to provide free parking at its council-owned car parks on specific dates in the run-up to Christmas.</description>
-  </item>
-  <item>
-    <title>One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/</link>
-    <guid isPermaLink="false">story-86</guid>
-    <pubDate>Tue, 03 Nov 2026 07:48:05 +0000</pubDate>
-    <category>Council</category>
-    <description>The Government has announced it is minded to proceed with local government reorganisation in East Sussex, Hastings Borough Council has said.</description>
   </item>
 </channel>
 </rss>

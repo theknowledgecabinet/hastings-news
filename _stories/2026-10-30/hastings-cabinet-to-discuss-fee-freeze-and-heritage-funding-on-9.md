@@ -3,6 +3,7 @@ layout: story
 title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
 permalink: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
 date: 2026-10-30 19:34:17 +0000
+updated: '2026-11-22T13:10:25+00:00'
 sid: 67
 day: '2026-10-30'
 edition: evening
@@ -25,6 +26,13 @@ sources:
 - url: https://www.hastings.gov.uk/news/latest/November-Cabinet-meeting/
   name: Hastings Borough Council
 comment: The proposal to freeze many fees and charges will be the headline for residents worried about the cost of living. It is only a proposal until Cabinet meets, so the final figures are worth watching.
+updates:
+- date: '2026-11-22T13:10:25+00:00'
+  edition: midday
+  text: The Hastings Borough Council cabinet met on 9 November, and the decisions from that meeting are now recorded. The cabinet recommended the proposed 2027/28 fees and charges on existing services, to be implemented from 1 April 2027, to Full Council, and approved the Age Friendly Hastings strategy, action plan and evaluation framework. It also noted the successful securing of external funding totalling approximately £2.12 million for heritage, leisure and regeneration projects across Hastings.
+  sources:
+  - url: https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4
+    name: Hastings Borough Council
 image:
   card:
     url: /assets/media/story/67/card.webp
