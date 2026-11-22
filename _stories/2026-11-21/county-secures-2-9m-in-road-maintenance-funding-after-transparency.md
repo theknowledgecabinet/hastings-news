@@ -24,6 +24,9 @@ what_next: A further £2.9 million could be released later this year if the coun
 sources:
 - url: https://news.eastsussex.gov.uk/news-releases?Alttemplate=BlogPage&id=5153
   name: East Sussex County Council newsroom
+corrections:
+- at: '2026-11-22T12:15:34+00:00'
+  note: An earlier version said the funding 'goes towards the county's road network, which includes the county roads in the Hastings and Rother area'; the council's statement does not name the area, so that wording has been removed.
 image:
   card:
     url: /assets/media/story/257/card.webp
@@ -63,7 +66,7 @@ related:
 {% raw %}
 East Sussex County Council has secured £2.9 million of incentive funding from the Department for Transport for road maintenance after publishing its Highway Maintenance Transparency Report.
 
-The money, which the council said will support maintenance work including resurfacing and pothole repairs, goes towards the county's road network, which includes the county roads in the Hastings and Rother area. The council will also receive a £15.9 million baseline grant, and could receive a further £2.9 million later this year if it meets other DfT requirements, including spending its maintenance funding and publishing an updated policy for managing the highways network.
+The money, the council said, will support maintenance work including resurfacing and pothole repairs. The council will also receive a £15.9 million baseline grant, and could receive a further £2.9 million later this year if it meets other DfT requirements, including spending its maintenance funding and publishing an updated policy for managing the highways network.
 
 Cllr Peter Griffiths, the county council's lead member for transport and environment, said the transparency report enabled the council to set out publicly "an accurate picture of the condition of East Sussex roads, pavements, and structures".
 
