@@ -30,26 +30,26 @@ image:
   card:
     url: /assets/media/story/256/card.webp
     w: 400
-    h: 269
+    h: 300
   medium:
     url: /assets/media/story/256/medium.webp
-    w: 640
-    h: 430
+    w: 800
+    h: 600
   large:
     url: /assets/media/story/256/large.webp
-    w: 640
-    h: 430
+    w: 1400
+    h: 1050
   share:
     url: /assets/media/story/256/share.jpg
-  color: '#959494'
-  alt: Hastings Town Hall
-  artist: N Chadwick
+  color: '#5a5352'
+  alt: Meeting inside the Town Hall Council Chamber, view from the gallery.
+  artist: Alexis Markwick
   match: generic
   ai: false
   by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Town_Hall_-_geograph.org.uk_-_1965181.jpg
+  licence: CC0
+  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  page: https://commons.wikimedia.org/wiki/File:Bexhill_Town_Hall_Council_Chamber.jpg
   default: false
 related:
 - url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/
