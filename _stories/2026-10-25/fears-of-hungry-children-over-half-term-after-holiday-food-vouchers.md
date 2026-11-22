@@ -56,6 +56,9 @@ image:
   default: false
 checked: '2026-10-27T05:20:48+00:00'
 related:
+- url: /2026/11/21/county-council-protects-payments-to-ukrainian-family-hosts/
+  title: County council protects payments to Ukrainian family hosts
+  day: '2026-11-21'
 - url: /2026/10/31/secondary-school-applications-close-at-midnight-today/
   title: Secondary school applications close at midnight today
   day: '2026-10-31'

@@ -71,9 +71,9 @@ related:
 - url: /2026/11/06/cabinet-to-consider-1-5m-playground-funding-on-monday/
   title: Cabinet to consider £1.5m playground funding on Monday
   day: '2026-11-06'
-- url: /2026/11/15/east-sussex-joins-national-programme-to-use-creative-activities-for/
-  title: East Sussex joins national programme to use creative activities for health
-  day: '2026-11-15'
+- url: /2026/11/21/county-secures-2-9m-in-road-maintenance-funding-after-transparency/
+  title: County secures £2.9m in road maintenance funding after transparency report
+  day: '2026-11-21'
 series: accountability
 series_label: Political accountability
 series_record: /accountability/week/2026-11-21/east-sussex-county/
