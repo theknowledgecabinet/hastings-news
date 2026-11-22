@@ -391,19 +391,22 @@
       "title": "Decisions made by the Lead Cabinet Member on 20 July 2026",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Pan-Sussex Minerals and Waste Plan Proposal",
       "decision": true,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Highway Vegetation Management Policy - Review",
       "decision": true,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      }
     ],
     "attendance_by_party": [
@@ -412,6 +415,14 @@
       "present": 1,
       "apologies": 0,
       "absent": 0
+     }
+    ],
+    "present": [
+     {
+      "name": "Peter Griffiths",
+      "party": "Reform UK",
+      "ref": "5303",
+      "url": null
      }
     ],
     "apologies": [],
@@ -433,40 +444,47 @@
       "title": "Academy Update",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Local Authority Governor Appointments and Governor Services Update",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "School Resilience Preparedness",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "School Organisation Plan",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "ESGF Report/Verbal Update for Councillors to include",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Any other items previously notified under agenda item 4",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      }
     ],
     "attendance_by_party": [],
+    "present": [],
     "apologies": [],
     "absent": [],
     "area_councillors": [],
@@ -486,37 +504,43 @@
       "title": "Appointment of a Chair for the Meeting and Proposal for the Chair of the Committee",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Appointment of a Vice-Chair",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "External Audit: Introduction from Grant Thornton",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Internal Audit Strategy and Indicative Annual Audit Plan",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Approach to the Treasury Management Policy and Strategy, Capital Strategy and Minimum Revenue Provision Policy 2027/28",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Fire and Rescue Transfer: Update and Constitutional Amendments",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      }
     ],
     "attendance_by_party": [
@@ -545,6 +569,56 @@
       "absent": 0
      }
     ],
+    "present": [
+     {
+      "name": "Julie Cattell",
+      "party": "",
+      "ref": "5542",
+      "url": null
+     },
+     {
+      "name": "Tim Charters",
+      "party": "",
+      "ref": "5538",
+      "url": null
+     },
+     {
+      "name": "Amanda Evans",
+      "party": "",
+      "ref": "5541",
+      "url": null
+     },
+     {
+      "name": "Stephen Potts",
+      "party": "Reform UK",
+      "ref": "5297",
+      "url": null
+     },
+     {
+      "name": "Colin Swansborough",
+      "party": "Liberal Democrats",
+      "ref": "854",
+      "url": null
+     },
+     {
+      "name": "Georgia Taylor",
+      "party": "Green Party",
+      "ref": "2298",
+      "url": null
+     },
+     {
+      "name": "Deborah Urquhart",
+      "party": "",
+      "ref": "5254",
+      "url": null
+     },
+     {
+      "name": "Pete West",
+      "party": "",
+      "ref": "5540",
+      "url": null
+     }
+    ],
     "apologies": [
      "Nigel Dennis ()"
     ],
@@ -566,25 +640,29 @@
       "title": "Decisions of the last meeting 4 November 2026",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Net to gross residential and nursing provider payments business case",
       "decision": true,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Extension of Integrated Health and Wellbeing Service (IHWS) contract",
       "decision": true,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Proposed changes to Disability Related Expenditure",
       "decision": true,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      }
     ],
     "attendance_by_party": [
@@ -593,6 +671,14 @@
       "present": 1,
       "apologies": 0,
       "absent": 0
+     }
+    ],
+    "present": [
+     {
+      "name": "Mark Estcourt",
+      "party": "Reform UK",
+      "ref": "5322",
+      "url": "/representatives/east-sussex-county/mark-estcourt/"
      }
     ],
     "apologies": [],
@@ -622,40 +708,47 @@
       "title": "Any other non-exempt items considered urgent by the Chair",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Exempt minutes",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Report on previous cases",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "To consider if it is necessary to make an offer of transport or a change to provision in the following applications",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Any other exempt items considered urgent by the Chair",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Date and time for the next meeting",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      }
     ],
     "attendance_by_party": [],
+    "present": [],
     "apologies": [],
     "absent": [],
     "area_councillors": [],
@@ -675,22 +768,26 @@
       "title": "Matters arising and Declaration of Interests",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Local SEND Reform Plan - Update",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "AOB",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      }
     ],
     "attendance_by_party": [],
+    "present": [],
     "apologies": [],
     "absent": [],
     "area_councillors": [],
@@ -1322,19 +1419,34 @@
       "title": "Museum and NPO Update Report",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": [
+       {
+        "title": "Museum and NPO Update Report November 2026",
+        "url": "https://hastings.moderngov.co.uk/documents/s60374/doc.pdf",
+        "summary": "This report, presented to the Hastings Borough Council Museum Committee on 16 November 2026, updates members on museum operations. It recommends: \"To accept this report and recommend approval by Cabinet.\"\n\nKey figures show 37,510 visitors in 2025/26 and 21,781.24 in shop income for 2026/27. The Museums and Schools Programme funding has ended, reducing staff hours, though the museum will reapply for a new two-yearly fund starting April 2027.\n\nCurrent exhibitions include \"Hastings Open\" (3 October 2026 – 31 January 2027) and \"Tapestry of Black Britons\" (9 October – 8 November 2026). The \"Fixing Our Broken Planet\" exhibition opens on 21 November 2026. The Hastings Embroidery exhibition attracted 6,922 visitors and is planned as a touring exhibition.\n\nLocally, 4,031 children from over 70 schools engaged with learning programmes. The Arts Council England NPO 2028-33 application is due 15 December 2026. Upcoming events include a Fossils talk on 15 November and a Smugglers Film on 28 November."
+       }
+      ]
      },
      {
       "title": "Collections Report",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": [
+       {
+        "title": "Collections Report November 2026",
+        "url": "https://hastings.moderngov.co.uk/documents/s60375/doc.pdf",
+        "summary": "This document is a Collections Report from the Hastings Borough Council Museum Committee meeting on 16 November 2026. It records recent activities in collections care, access, acquisitions, and loans. The report notes that a corner of the Local Studies Room is damp, causing mould and silverfish, while temperature and humidity remain within acceptable ranges. Staff have documented 10 boxes of minerals and are researching the Samuel H Beckles collection. The Local Studies Room is open to the public every Wednesday, having received eight research bookings since September. An inventory of the archives is 85% complete, and a store audit has processed 25 boxes. Recent acquisitions include a brass weight stamped with the 1066 stamp, fossil sharks from Cooden Beach, wills dating from 1741–1756, and a 1963 MOD jacket. No disposals are recommended this quarter. The report recommends: “To accept this report and recommend approval by Cabinet.” The next collections meeting is scheduled for 24 November."
+       }
+      ]
      },
      {
       "title": "Museum Association Update",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      }
     ],
     "attendance_by_party": [
@@ -1367,6 +1479,62 @@
       "present": 1,
       "apologies": 0,
       "absent": 0
+     }
+    ],
+    "present": [
+     {
+      "name": "Julia Hilton",
+      "party": "Green Party",
+      "ref": "2041",
+      "url": "/representatives/hastings-borough/julia-hilton/"
+     },
+     {
+      "name": "Steph Fawbert",
+      "party": "Green Party",
+      "ref": "2805",
+      "url": "/representatives/hastings-borough/steph-fawbert/"
+     },
+     {
+      "name": "Peter Clarke",
+      "party": "Reform UK",
+      "ref": "2813",
+      "url": "/representatives/hastings-borough/peter-clarke/"
+     },
+     {
+      "name": "Amanda Jobson",
+      "party": "Green Party",
+      "ref": "2158",
+      "url": "/representatives/hastings-borough/amanda-jobson/"
+     },
+     {
+      "name": "Archie Lauchlan",
+      "party": "Green Party",
+      "ref": "2804",
+      "url": "/representatives/hastings-borough/archie-lauchlan/"
+     },
+     {
+      "name": "Karen Simnett",
+      "party": "Green Party",
+      "ref": "2809",
+      "url": "/representatives/hastings-borough/karen-simnett/"
+     },
+     {
+      "name": "Trevor Webb",
+      "party": "Labour",
+      "ref": "142",
+      "url": "/representatives/hastings-borough/trevor-webb/"
+     },
+     {
+      "name": "Susannah Farley-Green",
+      "party": "",
+      "ref": "643",
+      "url": null
+     },
+     {
+      "name": "Steve Peak",
+      "party": "",
+      "ref": "320",
+      "url": null
      }
     ],
     "apologies": [
@@ -1548,13 +1716,51 @@
       "title": "Appointment of Chair",
       "decision": true,
       "text": "Councillor Biggs was duly appointed as Chair of the Panel for the Hearing.",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Application for a Premises Licence at Battle Abbey School Boarding House, Whatlington Road, Battle, TN33 0ND",
       "decision": true,
       "text": "The Panel considered the Head of Environmental Services, Licensing and Community Safety’s report detailing a Premises Licence application for Battle Abbey School Boarding House, Whatlington Road, Battle, TN33 0ND, covering regulated entertainment, late night refreshment and alcohol sales indoors and outdoors within the premises shown in Appendix B to the report, Monday to Sunday, 12:00 to 00:30hrs.",
-      "local": true
+      "local": true,
+      "docs": [
+       {
+        "title": "Application for a Premises Licence at Battle Abbey School Boarding House, Whatlington Road, Battle, TN33 0ND",
+        "url": "https://rother.moderngov.co.uk/documents/s16726/doc.pdf",
+        "summary": "This report to the Rother District Council Licensing and General Purposes Committee, dated 16 November 2026, concerns a Premises Licence application for Battle Abbey School Boarding House, Whatlington Road, Battle, TN33 0ND. BAS (School) Limited seeks authorisation for the sale of alcohol and regulated entertainment, primarily for weddings and functions during school holidays. The officer recommendation is: \"It be RESOLVED: That the application for a Premises Licence be determined.\"\n\nThe application was validated on 22 September 2026. Eight relevant representations objecting to the application were received, raising concerns about crime, public nuisance, safety, and child protection. Sussex Police raised no objection provided agreed conditions are attached. Rother DC Planning noted that the proposed use for weddings requires separate planning permission, distinct from the licensing regime. Environmental Health raised no concerns. The premises, formerly Leeford Lodge, previously held a licence surrendered in October 2024. The report notes one recent, unsubstantiated complaint regarding low-frequency noise. The Panel is tasked with determining the application in accordance with Section 18 of the Licensing Act 2003."
+       },
+       {
+        "title": "Appendix A - Location Plan",
+        "url": "https://rother.moderngov.co.uk/documents/s16727/doc.pdf",
+        "summary": ""
+       },
+       {
+        "title": "Appendix B - Site and Licence Plan",
+        "url": "https://rother.moderngov.co.uk/documents/s16728/doc.pdf",
+        "summary": ""
+       },
+       {
+        "title": "Appendix C - Photographs",
+        "url": "https://rother.moderngov.co.uk/documents/s16729/doc.pdf",
+        "summary": ""
+       },
+       {
+        "title": "Appendix D - Operating Schedule",
+        "url": "https://rother.moderngov.co.uk/documents/s16730/doc.pdf",
+        "summary": ""
+       },
+       {
+        "title": "Appendix M - Police Conditions",
+        "url": "https://rother.moderngov.co.uk/documents/s16747/doc.pdf",
+        "summary": ""
+       },
+       {
+        "title": "Appendix 1",
+        "url": "https://rother.moderngov.co.uk/documents/s17065/doc.pdf",
+        "summary": ""
+       }
+      ]
      }
     ],
     "attendance_by_party": [
@@ -1569,6 +1775,20 @@
       "present": 1,
       "apologies": 0,
       "absent": 0
+     }
+    ],
+    "present": [
+     {
+      "name": "Tony Biggs",
+      "party": "Conservative",
+      "ref": "1991",
+      "url": "/representatives/rother-district/tony-biggs/"
+     },
+     {
+      "name": "Polly Gray",
+      "party": "Green Party",
+      "ref": "475",
+      "url": "/representatives/rother-district/polly-gray/"
      }
     ],
     "apologies": [
@@ -1595,19 +1815,70 @@
       "title": "Performance Report: Second Quarter 2026/27",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": [
+       {
+        "title": "Performance Report: Second Quarter 2026/27",
+        "url": "https://rother.moderngov.co.uk/documents/s16838/doc.pdf",
+        "summary": "Rother District Council’s Overview and Scrutiny Committee met on 16 November 2026 to review the \"Performance Report: Second Quarter 2026/27.\" The report, authored by Anna Evett, Head of Neighbourhood Services, monitors delivery of the Council’s Key Performance Indicators (KPIs) across nine service areas, including Housing, Climate Strategy, and Revenues.\n\nKey findings include that net direct emissions rose 40% to 51.61 TCO2e, exceeding the target by 48.54 TCO2e. Income from assets is below target due to voids. Housing performance is described as \"excellent,\" with an 80% increase in households prevented or relieved from homelessness compared to the previous quarter. However, the average cost of temporary accommodation is rising due to market supply and utility costs. Collection rates for Council Tax and Business Rates are currently challenging, prompting a focus on recovery and enforcement.\n\nThe officer recommendation states: \"It be RESOLVED: That the Overview and Scrutiny Committee consider these findings and recommend any actions to Cabinet, as necessary.\" The report notes financial risks associated with rising temporary accommodation costs and asset income shortfalls. No legal, human rights, or GDPR implications were identified."
+       },
+       {
+        "title": "Appendix A",
+        "url": "https://rother.moderngov.co.uk/documents/s16839/doc.pdf",
+        "summary": ""
+       }
+      ]
      },
      {
       "title": "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": [
+       {
+        "title": "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
+        "url": "https://rother.moderngov.co.uk/documents/s16840/doc.pdf",
+        "summary": "Rother District Council’s Overview and Scrutiny Committee met on 16 November 2026 to review the 2026/27 budget. The report, prepared by Director of Resources Charlotte Spendly, forecasts a revenue surplus of £668,000, driven by favourable financing costs and savings in Waste Services, offset by deficits in Strategic Asset Management and Planning. The capital programme is forecast at £194.3m, with £41.0m spent in 2026/27. Key schemes include the De La Warr Pavilion, where works are delayed to March 2027, and Skinners Shed, which faces delays due to asbestos. The report notes that £477,700 of savings targets are deliverable, while £86,800 are undeliverable. The General Reserve is expected to increase to £3.392m. The officer recommendation was: “That the report be noted and the Committee makes any recommendations to Cabinet as necessary.” The meeting took place, and the document records the financial position for local residents and businesses affected by service changes and capital projects."
+       },
+       {
+        "title": "Appendix 1 Revenue Budget Monitoring 2026/27",
+        "url": "https://rother.moderngov.co.uk/documents/s16841/doc.pdf",
+        "summary": ""
+       },
+       {
+        "title": "Appendix 2 Capital Monitoring - Quarter 2 Update",
+        "url": "https://rother.moderngov.co.uk/documents/s16842/doc.pdf",
+        "summary": ""
+       },
+       {
+        "title": "Appendix 3 Savings Targets Monitoring - Quarter 2 Update",
+        "url": "https://rother.moderngov.co.uk/documents/s16843/doc.pdf",
+        "summary": ""
+       }
+      ]
      },
      {
       "title": "Housing Development Strategy Update",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": [
+       {
+        "title": "Housing Development Strategy Update Report",
+        "url": "https://rother.moderngov.co.uk/documents/s16844/doc.pdf",
+        "summary": "This report to the Rother District Council Overview and Scrutiny Committee, dated 16 November 2026, updates members on the Housing Development Strategy adopted in July 2025. It recommends that Cabinet be requested to note progress, including the establishment of the Housing Delivery Team and support from the Council Housebuilding Support Service (CHoSS). The report proposes approving a programme feasibility budget of £192k under the Capital Programme for match funding, and approving a CHoSS revenue grant of £36,500 for feasibility work on five Council-owned sites. It also recommends granting delegated authority to the Director of Resources to receive grant awards. The strategy aims to deliver 557 new homes on Council-owned land, including 370 assumed temporary accommodation and social housing units, to reduce reliance on costly temporary accommodation currently costing £3.6 million annually. The wider Housing Development Programme targets 2,809 new dwellings by April 2029. These measures are intended to support homelessness priorities and provide a stronger case for external funding ahead of Local Government Reorganisation."
+       },
+       {
+        "title": "Appendix 1 – Summary of RDC Housing Development Programme and Explanation of Delivery Approaches",
+        "url": "https://rother.moderngov.co.uk/documents/s16845/doc.pdf",
+        "summary": ""
+       },
+       {
+        "title": "Appendix 2 - Conclusions and Recommedations from LP Report.docx",
+        "url": "https://rother.moderngov.co.uk/documents/s16846/doc.pdf",
+        "summary": ""
+       }
+      ]
      }
     ],
     "attendance_by_party": [
@@ -1648,6 +1919,62 @@
       "absent": 0
      }
     ],
+    "present": [
+     {
+      "name": "Paul Osborne",
+      "party": "Conservative",
+      "ref": "145",
+      "url": "/representatives/rother-district/paul-osborne/"
+     },
+     {
+      "name": "Mrs Vikki Cook",
+      "party": "Liberal Democrats",
+      "ref": "471",
+      "url": "/representatives/rother-district/vikki-cook/"
+     },
+     {
+      "name": "John Barnes",
+      "party": "Conservative",
+      "ref": "116",
+      "url": "/representatives/rother-district/john-barnes/"
+     },
+     {
+      "name": "Mrs Mary Barnes",
+      "party": "Conservative",
+      "ref": "113",
+      "url": "/representatives/rother-district/mary-barnes/"
+     },
+     {
+      "name": "Sue Burton",
+      "party": "Green Party",
+      "ref": "1741",
+      "url": "/representatives/rother-district/sue-burton/"
+     },
+     {
+      "name": "Terry Byrne",
+      "party": "Rother Association of Independent Councillors",
+      "ref": "470",
+      "url": "/representatives/rother-district/terry-byrne/"
+     },
+     {
+      "name": "Fazlul Chowdhury",
+      "party": "Labour",
+      "ref": "1965",
+      "url": "/representatives/rother-district/fazlul-chowdhury/"
+     },
+     {
+      "name": "Carl Maynard",
+      "party": "Conservative",
+      "ref": "139",
+      "url": "/representatives/rother-district/carl-maynard/"
+     },
+     {
+      "name": "Richard Thomas",
+      "party": "Liberal Democrats",
+      "ref": "481",
+      "url": "/representatives/rother-district/richard-thomas/"
+     }
+    ],
     "apologies": [
      "Charles Clark (Independent)",
      "Sam Coleman (Labour)",
@@ -1681,25 +2008,41 @@
       "title": "Performance Monitoring Report",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": [
+       {
+        "title": "Performance Monitoring Report",
+        "url": "https://rother.moderngov.co.uk/documents/s16979/doc.pdf",
+        "summary": "This report to Rother District Council’s Shareholder Executive Committee on 18 November 2026 monitors the performance of Rother DC Housing Company (RDCHC) for the Blackfriars development. It recommends that “the latest cashflow (exempt appendix C) be used to update the Development Facility Agreement (DFA), and that the DFA itself is extended until 31 July 2029, to allow some scope for any further delays with the final completions expected in May 2029.” The report notes peak debt reached £38.6m in October 2026, with final completion of sales now expected by May 2029. Construction is progressing well, though a one-month delay impacted cashflow. The scheme aims to deliver 200 new dwellings, including 130 affordable homes. Councillor Coupar has resigned from the RDCHC Board, leaving four directors; the committee is asked to consider if a further RDC Member appointment is required. The report also highlights that the Tapestry scheme was shortlisted for a national development award."
+       }
+      ]
      },
      {
       "title": "Mitigations and Options Appraisal",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": [
+       {
+        "title": "Mitigations and Options Appraisal",
+        "url": "https://rother.moderngov.co.uk/documents/s17017/doc.pdf",
+        "summary": "Rother District Council’s Shareholder Executive Committee met on 18 November 2026 to review the financial position of its wholly owned housing company, Rother DC Housing Company (RDCHC). The report focuses on the “Tapestry” development in Battle, where 130 homes were pre-sold to Places for People, but 70 open market sale dwellings remain unsold due to weak market conditions.\n\nThe Council’s shareholder loan reached peak debt of £38.6m in October 2026 against a £40m facility. The report notes that while the company holds valuable assets, it faces cash flow constraints from ongoing interest and holding costs.\n\nThe committee recommended that “protecting the Council’s investment whilst maximising long-term value should remain the principal objective.” It further recommended that “a further report be provided to SEC in January 2027 with clear recommendations for progression once further analysis, due diligence and market testing has been completed.” The report assesses options including additional funding, loan restructuring, bulk sale, or conversion to long-term investment assets, noting that no single option is likely to deliver the optimum outcome in isolation."
+       }
+      ]
      },
      {
       "title": "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      },
      {
       "title": "Mitigations and Options Appraisal - Confidential Appendix A",
       "decision": false,
       "text": "",
-      "local": false
+      "local": false,
+      "docs": []
      }
     ],
     "attendance_by_party": [
@@ -1726,6 +2069,56 @@
       "present": 3,
       "apologies": 0,
       "absent": 0
+     }
+    ],
+    "present": [
+     {
+      "name": "Doug Oliver",
+      "party": "Rother Association of Independent Councillors",
+      "ref": "117",
+      "url": "/representatives/rother-district/doug-oliver/"
+     },
+     {
+      "name": "Gareth Delany",
+      "party": "Labour",
+      "ref": "1960",
+      "url": "/representatives/rother-district/gareth-delany/"
+     },
+     {
+      "name": "Christine Bayliss",
+      "party": "Labour",
+      "ref": "469",
+      "url": "/representatives/rother-district/christine-bayliss/"
+     },
+     {
+      "name": "Ashan Jeeawon",
+      "party": "Rother Association of Independent Councillors",
+      "ref": "476",
+      "url": "/representatives/rother-district/ashan-jeeawon/"
+     },
+     {
+      "name": "Nicola McLaren",
+      "party": "Liberal Democrats",
+      "ref": "2227",
+      "url": "/representatives/rother-district/nicola-mclaren/"
+     },
+     {
+      "name": "Susan Prochak",
+      "party": "Liberal Democrats",
+      "ref": "112",
+      "url": "/representatives/rother-district/susan-prochak/"
+     },
+     {
+      "name": "Arren Rathbone Ariel",
+      "party": "Green Party",
+      "ref": "1972",
+      "url": "/representatives/rother-district/arren-rathbone-ariel/"
+     },
+     {
+      "name": "Hazel Timpe",
+      "party": "Rother Association of Independent Councillors",
+      "ref": "482",
+      "url": "/representatives/rother-district/hazel-timpe/"
      }
     ],
     "apologies": [
