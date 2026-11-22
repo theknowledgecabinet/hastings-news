@@ -20,12 +20,15 @@ lead: true
 places:
 - name: East Sussex
   slug: east-sussex
-description: East Sussex County Council has stepped in to protect payments to families hosting Ukrainian refugees after the government said the 'thank you' payment would fall from £350 to £100 a month from January 2027. The change affects hosts across the county, including households in the Hastings and Rother a
+description: East Sussex County Council has stepped in to protect payments to families hosting Ukrainian refugees after the government said the 'thank you' payment would fall from £350 to £100 a month from January 2027.
 what_next: The government's cut to £100 a month takes effect from January 2027, with the council's top-up keeping payments at £350 until the end of March.
 sources:
 - url: https://news.eastsussex.gov.uk/news-releases?Alttemplate=BlogPage&id=5155
   name: East Sussex County Council newsroom
 comment: 'The interesting date is not January but the end of March: the council''s top-up only bridges a few months, and households that opened their homes when the payment was £500 a month will be planning on a fraction of it by spring.'
+corrections:
+- at: '2026-11-22T11:54:33+00:00'
+  note: An earlier version said the payment change affects 'hosts across the county, including households in the Hastings and Rother area'; the council's statement does not name the area, so that wording has been removed.
 image:
   card:
     url: /assets/media/story/256/card.webp
@@ -63,7 +66,7 @@ related:
   day: '2026-11-10'
 ---
 {% raw %}
-East Sussex County Council has stepped in to protect payments to families hosting Ukrainian refugees after the government said the 'thank you' payment would fall from £350 to £100 a month from January 2027. The change affects hosts across the county, including households in the Hastings and Rother area.
+East Sussex County Council has stepped in to protect payments to families hosting Ukrainian refugees after the government said the 'thank you' payment would fall from £350 to £100 a month from January 2027.
 
 The council's lead member for adult social care and health has agreed to fund the shortfall, keeping payments at £350 a month until the end of March. Hosts welcoming new arrivals will be guaranteed £350 a month for their first six months of hosting, the council said.
 
