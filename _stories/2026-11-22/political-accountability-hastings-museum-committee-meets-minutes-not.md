@@ -19,7 +19,7 @@ colour: '#1f6f8b'
 places:
 - name: Hastings
   slug: hastings
-description: The only Hastings Borough Council meeting this week was the Museum Committee on Monday 16 November at 10.00 am, where reports on the museum and its collections were due to be discussed. Minutes are not yet published, so no decisions are on the record.
+description: The Museum Committee met on Monday 16 November; no minutes are published yet, so no decisions are on the record. An officers' report to the committee said 37,510 people visited the museum in 2025/26 and recommended that the report be accepted and approval recommended to Cabinet.
 sources:
 - url: https://theknowledgecabinet.github.io/hastings-news/accountability/week/2026-11-21/hastings-borough/
   name: Hastings Daily accountability record
@@ -29,6 +29,13 @@ sources:
   name: Hastings Borough Council
 - url: https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=391&MId=5850
   name: Hastings Borough Council
+- url: https://hastings.moderngov.co.uk/documents/s60374/doc.pdf
+  name: Museum and NPO Update Report November 2026
+- url: https://hastings.moderngov.co.uk/documents/s60375/doc.pdf
+  name: Collections Report November 2026
+revisions:
+- at: '2026-11-22T20:37:51+00:00'
+  note: Expanded on 22 November with what the meeting minutes and council papers say.
 image:
   card:
     url: /assets/media/story/250/card.webp
@@ -54,6 +61,7 @@ image:
   licence_url: https://creativecommons.org/licenses/by-sa/4.0
   page: https://commons.wikimedia.org/wiki/File:Hastings_Museum_%26_Art_Gallery_2020.jpg
   default: false
+checked: '2026-11-22T20:37:51+00:00'
 related:
 - url: /2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/
   title: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November
@@ -69,13 +77,13 @@ series_label: Political accountability
 series_record: /accountability/week/2026-11-21/hastings-borough/
 ---
 {% raw %}
-The only Hastings Borough Council meeting this week was the Museum Committee on Monday 16 November at 10.00 am, where reports on the museum and its collections were due to be discussed. Minutes are not yet published, so no decisions are on the record.
+The Museum Committee met on Monday 16 November; no minutes are published yet, so no decisions are on the record. An officers' report to the committee said 37,510 people visited the museum in 2025/26 and recommended that the report be accepted and approval recommended to Cabinet.
 
-Attendance as recorded was: five Green Party councillors present with one apology (Will Rumfitt); one Reform UK councillor present; one Labour councillor present; two present with four apologies where no party was listed (apologies from Hilda Kean, Bill Montgomery, Richard Street and Stephen Van Dulken); and no Conservative councillors present, with Paul Foster recorded as absent.
+One meeting was held. Present at the Museum Committee on Monday 16 November were Julia Hilton, Steph Fawbert, Amanda Jobson, Archie Lauchlan and Karen Simnett (Green Party), Peter Clarke (Reform UK), Trevor Webb (Labour), and Susannah Farley-Green and Steve Peak, who have no party listed. Apologies were sent by Will Rumfitt (Green Party), Hilda Kean, Bill Montgomery, Richard Street and Stephen Van Dulken. Councillor Paul Foster (Conservative) was absent.
 
-The council has 32 councillors, with 17 needed for a majority: Green Party 19, Reform UK 6, Labour 3, Conservative 2 and Independent 2. Glenn Haffenden (Green Party) leads the council, Julia Hilton (Green Party) is deputy leader and Paula Warne (Green Party) is mayor. There were no named votes or splits between groups this week.
+The council has 32 councillors, 17 needed for a majority: Green Party 19, Reform UK 6, Labour 3, Conservative 2, Independent 2. Glenn Haffenden (Green Party) is Leader of the Council, Julia Hilton is Deputy Leader and Paula Warne (Green Party) is Mayor. No named votes were recorded this week.
 
-The committee's agenda listed three reports: the Museum and NPO Update Report, the Collections Report and the Museum Association Update.
+No decisions are on the record yet, but the officers' reports set out the position. A report to the committee, the Museum and NPO Update Report for November 2026, says shop income for 2026/27 was £21,781.24, that the Museums and Schools Programme funding has ended, reducing staff hours, and that the museum will reapply for a two-yearly fund from April 2027. The "Fixing Our Broken Planet" exhibition opens on 21 November 2026. The Collections Report for November 2026 says a corner of the Local Studies Room is damp, causing mould, that the room is open to the public every Wednesday, that an inventory of the archives is 85% complete, and that a store audit has processed 25 boxes.
 
-The Regulatory Committee meets on Monday 23 November at 6.00 pm, where it is due to discuss Restricted Private Hire Driver Licences for School Transport Only, English language assessment requirements for hackney carriage and private hire drivers, and the review of the 2026 hackney carriage and private hire licensing policy. The Overview and Scrutiny Committee meets on Wednesday 2 December at 6.00 pm; its agenda has not yet been published.
+The Regulatory Committee is due to meet on Monday 23 November at 6.00 pm to consider restricted private hire driver licences for school transport only, English language assessment requirements for hackney carriage and private hire drivers, and a review of the Hackney Carriage and Private Hire Licensing Policy 2026. The Overview and Scrutiny Committee meets on Wednesday 2 December; its agenda is not yet published.
 {% endraw %}
