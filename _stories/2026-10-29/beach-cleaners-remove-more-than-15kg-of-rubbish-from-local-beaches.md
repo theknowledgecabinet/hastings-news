@@ -31,26 +31,31 @@ image:
   card:
     url: /assets/media/story/54/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/54/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/54/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/54/share.jpg
-  color: '#8a98a7'
-  alt: Volunteers clean up beach debris.jpg
-  artist: CapeHatterasNPS
-  match: generic
-  ai: false
-  by: null
-  licence: Public domain
+  color: '#b1a99d'
+  alt: Volunteers cleaning plastic waste on a shingle beach in an English seaside town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
   licence_url: null
-  page: https://commons.wikimedia.org/wiki/File:Volunteers_clean_up_beach_debris.jpg
+  page: ''
   default: false
 checked: '2026-10-29T12:45:40+00:00'
 related:

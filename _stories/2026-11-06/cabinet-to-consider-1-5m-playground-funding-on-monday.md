@@ -41,14 +41,19 @@ image:
   share:
     url: /assets/media/story/126/share.jpg
   color: '#9e948d'
-  alt: Children's playground equipment
-  artist: Richard Law
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Children%27s_playground_equipment_-_geograph.org.uk_-_3799941.jpg
+  alt: Empty modern playground in an English seaside town under an overcast sky.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-06T19:18:32+00:00'
 related:

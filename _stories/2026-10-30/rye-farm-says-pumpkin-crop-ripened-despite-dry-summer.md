@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/60/card.webp
     w: 400
-    h: 374
+    h: 267
   medium:
     url: /assets/media/story/60/medium.webp
-    w: 640
-    h: 598
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/60/large.webp
-    w: 640
-    h: 598
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/60/share.jpg
-  color: '#758e67'
-  alt: Pumpkin patch
-  artist: Evelyn Simak
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Pumpkin_patch_-_geograph.org.uk_-_5516905.jpg
+  color: '#9d9483'
+  alt: Rows of ripe pumpkins in a dry, sunlit field with distant figures.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-30T07:51:29+00:00'
 related:

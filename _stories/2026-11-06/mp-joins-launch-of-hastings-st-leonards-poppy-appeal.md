@@ -32,26 +32,31 @@ image:
   card:
     url: /assets/media/story/125/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/125/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/125/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/125/share.jpg
-  color: '#9b5f2f'
-  alt: Remembrance poppies in the Imperial War Museum London
-  artist: HH58
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:Remembrance_poppies_in_the_Imperial_War_Museum_London.jpg
+  color: '#8e8475'
+  alt: Distant figures viewing red poppies on a table in a bright supermarket aisle.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/28/eight-hastings-and-rother-residents-renew-challenge-to-mp-over/

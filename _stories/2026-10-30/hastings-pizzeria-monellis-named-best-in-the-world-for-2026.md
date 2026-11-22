@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/59/card.webp
     w: 400
-    h: 266
+    h: 267
   medium:
     url: /assets/media/story/59/medium.webp
     w: 800
-    h: 532
+    h: 533
   large:
     url: /assets/media/story/59/large.webp
-    w: 1400
-    h: 930
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/59/share.jpg
-  color: '#815e41'
-  alt: Sourdough pizza
-  artist: jeffreyw
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY 2.0
-  licence_url: https://creativecommons.org/licenses/by/2.0
-  page: https://commons.wikimedia.org/wiki/File:Sourdough_pizza.jpg
+  color: '#594230'
+  alt: Fresh sourdough pizza on a wooden table in a cozy pizzeria
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-30T07:50:46+00:00'
 ---

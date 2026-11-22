@@ -30,23 +30,28 @@ image:
     h: 267
   medium:
     url: /assets/media/story/84/medium.webp
-    w: 640
-    h: 427
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/84/large.webp
-    w: 640
-    h: 427
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/84/share.jpg
-  color: '#7f8b92'
-  alt: Behind the Flood Barrier, Upton Showing the structure of the newly erected temporary barrier. The metal support is covered with a plastic sheet held down with the weight of chains.
-  artist: Bob Embleton
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Behind_the_Flood_Barrier,_Upton_-_geograph.org.uk_-_292014.jpg
+  color: '#9ba096'
+  alt: Large steel support structure on overgrown grass in a seaside town
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-02T19:26:57+00:00'
 related:

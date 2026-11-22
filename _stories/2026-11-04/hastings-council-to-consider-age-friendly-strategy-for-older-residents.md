@@ -33,23 +33,28 @@ image:
     h: 267
   medium:
     url: /assets/media/story/97/medium.webp
-    w: 640
-    h: 427
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/97/large.webp
-    w: 640
-    h: 427
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/97/share.jpg
-  color: '#4f607d'
-  alt: 'The Old School Centre, South Brent In 1997 Devon County Council built a new school in South Brent. The old Victorian school was bought by the local community with grant aid and is used as a community '
-  artist: Adrian Platt
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:The_Old_School_Centre,_South_Brent_-_geograph.org.uk_-_1010187.jpg
+  color: '#979697'
+  alt: Two distant figures walking on a seaside promenade
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-04T08:18:22+00:00'
 related:

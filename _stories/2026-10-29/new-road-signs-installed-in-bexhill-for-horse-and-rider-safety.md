@@ -28,18 +28,18 @@ image:
   card:
     url: /assets/media/story/52/card.webp
     w: 400
-    h: 324
+    h: 267
   medium:
     url: /assets/media/story/52/medium.webp
     w: 800
-    h: 649
+    h: 533
   large:
     url: /assets/media/story/52/large.webp
-    w: 1400
-    h: 1136
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/52/share.jpg
-  color: '#747770'
+  color: '#7b7c6d'
   alt: Warning sign - horse riders, Broughton Road, Lodge
   artist: Jaggery
   match: generic

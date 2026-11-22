@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/87/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/87/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/87/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/87/share.jpg
-  color: '#7b7566'
-  alt: Sign for Drumchapel Hospital Not a general use hospital, but a rehabilitation hospital for mainly older patients who have suffered strokes or are suffering from general ortho-geriatric conditions.
-  artist: Stephen Sweeney
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Sign_for_Drumchapel_Hospital_-_geograph.org.uk_-_362957.jpg
+  color: '#8e887c'
+  alt: Distant figures exercising in a bright hospital rehabilitation room.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-03T07:49:28+00:00'
 related:

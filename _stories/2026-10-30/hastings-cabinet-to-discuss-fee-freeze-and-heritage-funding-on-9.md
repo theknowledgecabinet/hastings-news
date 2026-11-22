@@ -37,26 +37,31 @@ image:
   card:
     url: /assets/media/story/67/card.webp
     w: 400
-    h: 299
+    h: 267
   medium:
     url: /assets/media/story/67/medium.webp
     w: 800
-    h: 598
+    h: 533
   large:
     url: /assets/media/story/67/large.webp
-    w: 1400
-    h: 1047
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/67/share.jpg
-  color: '#695d53'
-  alt: Town hall interior
-  artist: Bob Harvey
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Town_hall_interior_-_geograph.org.uk_-_5138889.jpg
+  color: '#837e75'
+  alt: Empty council meeting room with rows of chairs
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-30T19:35:01+00:00'
 related:

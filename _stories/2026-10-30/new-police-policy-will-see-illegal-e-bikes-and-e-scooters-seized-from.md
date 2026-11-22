@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/66/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/66/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/66/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/66/share.jpg
-  color: '#777f7f'
-  alt: e-Scooter in Berlin
-  artist: Matti Blume
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 4.0
-  licence_url: https://creativecommons.org/licenses/by-sa/4.0
-  page: https://commons.wikimedia.org/wiki/File:Scooter,_Berlin_(P1080138).jpg
+  color: '#616d75'
+  alt: Abandoned electric scooter on wet street at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-30T19:21:39+00:00'
 related:

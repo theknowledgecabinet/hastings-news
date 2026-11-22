@@ -33,23 +33,28 @@ image:
     h: 267
   medium:
     url: /assets/media/story/107/medium.webp
-    w: 640
-    h: 427
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/107/large.webp
-    w: 640
-    h: 427
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/107/share.jpg
-  color: '#84847b'
-  alt: Former Convent of Holy Child Jesus
-  artist: Oast House Archive
-  match: exact
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Former_Convent_of_Holy_Child_Jesus_-_geograph.org.uk_-_2849925.jpg
+  color: '#969088'
+  alt: Two distant figures observing an old red-brick building near the coast.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/22/political-accountability-hastings-museum-committee-meets-minutes-not/

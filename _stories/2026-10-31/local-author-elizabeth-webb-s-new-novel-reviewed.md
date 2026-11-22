@@ -30,26 +30,31 @@ image:
   card:
     url: /assets/media/story/70/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/70/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/70/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/70/share.jpg
-  color: '#888b8b'
-  alt: Queens Road, Hastings
-  artist: Paul Gillett
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Queens_Road,_Hastings_-_geograph.org.uk_-_2897054.jpg
+  color: '#8f8f90'
+  alt: Paperback book on a bench near a shingle beach
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 ---
 {% raw %}

@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/71/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/71/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/71/large.webp
-    w: 1024
-    h: 768
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/71/share.jpg
-  color: '#697682'
-  alt: Secondary school entrance
-  artist: Mr Ignavy
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Secondary_school_entrance_-_geograph.org.uk_-_6776130.jpg
+  color: '#2f2f2e'
+  alt: Glowing laptop on a table in a dark room at night
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/

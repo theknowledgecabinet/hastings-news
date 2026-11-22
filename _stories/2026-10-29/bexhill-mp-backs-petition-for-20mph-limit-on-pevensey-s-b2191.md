@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/56/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/56/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/56/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/56/share.jpg
-  color: '#8a8888'
-  alt: Tractor traffic on the high street
-  artist: Jeff Gogarty
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Tractor_traffic_on_the_high_street_-_geograph.org.uk_-_4456912.jpg
+  color: '#787168'
+  alt: Historic narrow street with stone buildings and distant pedestrians
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-29T19:28:40+00:00'
 related:

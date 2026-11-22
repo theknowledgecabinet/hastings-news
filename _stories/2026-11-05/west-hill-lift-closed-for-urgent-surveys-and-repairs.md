@@ -30,26 +30,31 @@ image:
   card:
     url: /assets/media/story/111/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/111/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/111/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/111/share.jpg
-  color: '#86736a'
-  alt: The West Hill Cliff Railway at Hasting, East Sussex, England. For more information see the Wikipedia article West Hill Cliff Railway .
-  artist: Patrick Johnson.
-  match: exact
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:West_Cliff_Funicular_Railway,_Hastings.jpg
+  color: '#99867a'
+  alt: Orange barriers block a hillside funicular track in a misty seaside town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-05T13:47:46+00:00'
 related:

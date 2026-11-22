@@ -29,26 +29,26 @@ image:
   card:
     url: /assets/media/story/69/card.webp
     w: 400
-    h: 267
+    h: 195
   medium:
     url: /assets/media/story/69/medium.webp
     w: 800
-    h: 533
+    h: 390
   large:
     url: /assets/media/story/69/large.webp
     w: 1400
-    h: 933
+    h: 682
   share:
     url: /assets/media/story/69/share.jpg
-  color: '#31416b'
-  alt: A guitarist plays on stage under bright lights at a concert in the evening. Fans watch and enjoy the music while capturing the moment. The energy is high as the band performs.
-  artist: Shixart1985
-  match: generic
+  color: '#737778'
+  alt: Bandstand at De La Warr Pavilion
+  artist: Oast House Archive
+  match: exact
   ai: false
   by: null
-  licence: CC BY 2.0
-  licence_url: https://creativecommons.org/licenses/by/2.0
-  page: https://commons.wikimedia.org/wiki/File:Guitarist_performs_on_stage_during_a_nighttime_concert.jpg
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0
+  page: https://commons.wikimedia.org/wiki/File:Bandstand_at_De_La_Warr_Pavilion_-_geograph.org.uk_-_5802142.jpg
   default: false
 ---
 {% raw %}

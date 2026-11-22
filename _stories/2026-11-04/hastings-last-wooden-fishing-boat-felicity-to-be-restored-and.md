@@ -33,23 +33,28 @@ image:
     h: 267
   medium:
     url: /assets/media/story/101/medium.webp
-    w: 640
-    h: 427
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/101/large.webp
-    w: 640
-    h: 427
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/101/share.jpg
-  color: '#8b7c75'
-  alt: Felicity, RX58
-  artist: Oast House Archive
-  match: exact
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Felicity,_RX58_-_geograph.org.uk_-_2189616.jpg
+  color: '#a0a091'
+  alt: Weathered wooden fishing boat on grass near coastal road
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-04T12:48:39+00:00'
 related:

@@ -34,26 +34,31 @@ image:
   card:
     url: /assets/media/story/86/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/86/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/86/large.webp
-    w: 1024
-    h: 768
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/86/share.jpg
-  color: '#929a94'
-  alt: Local Government offices overlooking the bypass
-  artist: Eric Jones
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Local_Government_offices_overlooking_the_bypass_-_geograph.org.uk_-_1792657.jpg
+  color: '#a6a8a5'
+  alt: Empty deckchairs on a grey shingle beach under overcast skies
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/04/devolution-measures-to-bring-8m-to-sussex-and-brighton/

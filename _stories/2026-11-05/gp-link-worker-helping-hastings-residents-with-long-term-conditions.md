@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/113/card.webp
     w: 400
-    h: 261
+    h: 267
   medium:
     url: /assets/media/story/113/medium.webp
     w: 800
-    h: 522
+    h: 533
   large:
     url: /assets/media/story/113/large.webp
-    w: 1400
-    h: 914
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/113/share.jpg
-  color: '#9ea1b9'
-  alt: Hastings Seafront from the pier
-  artist: Barry Shimmon
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Hastings_Seafront_from_the_pier_-_geograph.org.uk_-_2687868.jpg
+  color: '#948f82'
+  alt: Chairs arranged for a seated exercise class in a community hall.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-05T13:49:55+00:00'
 related:

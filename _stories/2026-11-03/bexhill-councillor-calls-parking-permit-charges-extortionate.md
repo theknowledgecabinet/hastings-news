@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/92/card.webp
     w: 400
-    h: 260
+    h: 267
   medium:
     url: /assets/media/story/92/medium.webp
     w: 800
-    h: 519
+    h: 533
   large:
     url: /assets/media/story/92/large.webp
-    w: 1400
-    h: 908
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/92/share.jpg
-  color: '#8e8d8b'
-  alt: Parking meter - The Point car park
-  artist: John C
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Parking_meter_-_The_Point_car_park_-_geograph.org.uk_-_5735698.jpg
+  color: '#969491'
+  alt: Wet cobbled street with parked cars and distant figures
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/11/councillor-calls-500-home-bexhill-plan-a-disaster-zone-waiting-to/

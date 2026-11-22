@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/63/card.webp
     w: 400
-    h: 225
+    h: 267
   medium:
     url: /assets/media/story/63/medium.webp
     w: 800
-    h: 450
+    h: 533
   large:
     url: /assets/media/story/63/large.webp
-    w: 1400
-    h: 788
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/63/share.jpg
-  color: '#60684a'
-  alt: Horse Riding
-  artist: James Emmans
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Horse_Riding_-_geograph.org.uk_-_4531490.jpg
+  color: '#7e807e'
+  alt: White horse and car on quiet seaside street
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/27/police-appeal-after-catapults-reported-in-bexhill-s-egerton-park/

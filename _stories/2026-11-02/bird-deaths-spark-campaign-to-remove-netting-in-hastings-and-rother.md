@@ -41,26 +41,26 @@ image:
   card:
     url: /assets/media/story/83/card.webp
     w: 400
-    h: 290
+    h: 300
   medium:
     url: /assets/media/story/83/medium.webp
     w: 800
-    h: 581
+    h: 600
   large:
     url: /assets/media/story/83/large.webp
     w: 1400
-    h: 1016
+    h: 1050
   share:
     url: /assets/media/story/83/share.jpg
-  color: '#595959'
-  alt: portfolio, London Waterloo Station
-  artist: CGP Grey
-  match: generic
+  color: '#808388'
+  alt: Hastings War Memorial Library July 2024 - 1
+  artist: Jakob (TheLoyalOrder)
+  match: exact
   ai: false
   by: null
-  licence: CC BY 2.0
-  licence_url: https://creativecommons.org/licenses/by/2.0
-  page: https://commons.wikimedia.org/wiki/File:Waterloo_Station_statues_trapped_in_pigeon_netting_4887889232.jpg
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0
+  page: https://commons.wikimedia.org/wiki/File:Hastings_War_Memorial_Library_July_2024_-_1.jpg
   default: false
 checked: '2026-11-02T19:26:05+00:00'
 related:

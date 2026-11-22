@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/57/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/57/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/57/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/57/share.jpg
-  color: '#90918f'
-  alt: S.W.Doughty, family butcher This independent butcher shop on The Street, Doddington, is known for its sausages.
-  artist: pam fray
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:S.W.Doughty,_family_butcher_-_geograph.org.uk_-_736416.jpg
+  color: '#71635b'
+  alt: Interior of a traditional butcher shop with meat displays and calendars
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-29T19:29:26+00:00'
 related:

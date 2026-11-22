@@ -33,22 +33,27 @@ image:
   medium:
     url: /assets/media/story/116/medium.webp
     w: 800
-    h: 534
+    h: 533
   large:
     url: /assets/media/story/116/large.webp
-    w: 1400
-    h: 934
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/116/share.jpg
-  color: '#654b36'
-  alt: '500px provided description: Here is an hdr photograph taken from the council cambers inside Glasgow City Chambers. Located in Glasgow, Scotland, UK. (Taken with kind permission of the administration).'
-  artist: Michael D Beckwith
-  match: generic
-  ai: false
-  by: null
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_The_Council_Chamber_(215139877).jpeg
+  color: '#6b6858'
+  alt: Empty council chamber with one distant figure standing near the back.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-05T19:54:11+00:00'
 related:

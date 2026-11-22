@@ -36,19 +36,24 @@ image:
     h: 533
   large:
     url: /assets/media/story/53/large.webp
-    w: 1400
-    h: 933
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/53/share.jpg
-  color: '#bbbcb2'
-  alt: bird trapped in Fringilla ornithological station
-  artist: Екатерина Воеводина
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY 4.0
-  licence_url: https://creativecommons.org/licenses/by/4.0
-  page: https://commons.wikimedia.org/wiki/File:Siskin_is_trapped.jpg
+  color: '#a09c96'
+  alt: A healthy grey pigeon on a fence in a seaside town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/

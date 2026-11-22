@@ -32,22 +32,27 @@ image:
   medium:
     url: /assets/media/story/96/medium.webp
     w: 800
-    h: 534
+    h: 533
   large:
     url: /assets/media/story/96/large.webp
-    w: 1024
-    h: 683
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/96/share.jpg
-  color: '#737376'
-  alt: Police car on Abbey Street
-  artist: DS Pugh
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Police_car_on_Abbey_Street_-_geograph.org.uk_-_8119262.jpg
+  color: '#676b6b'
+  alt: Police car parked on a quiet street at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-11-03T19:23:10+00:00'
 related:
