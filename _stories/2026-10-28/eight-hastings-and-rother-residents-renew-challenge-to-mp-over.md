@@ -33,26 +33,31 @@ image:
   card:
     url: /assets/media/story/36/card.webp
     w: 400
-    h: 158
+    h: 267
   medium:
     url: /assets/media/story/36/medium.webp
     w: 800
-    h: 315
+    h: 533
   large:
     url: /assets/media/story/36/large.webp
-    w: 1400
-    h: 552
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/36/share.jpg
-  color: '#656a7e'
-  alt: 'The Palace of Westminster at night as seen from the opposite side of the River Thames . Victoria Tower and the House of Lords is on the left. The Clock Tower of Big Ben and the House of Commons is on '
-  artist: Diliff
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.5
-  licence_url: https://creativecommons.org/licenses/by-sa/2.5
-  page: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg
+  color: '#a1a09d'
+  alt: Two distant figures walking away on a wet seaside street
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/02/eight-hastings-and-bexhill-residents-arrested-outside-us-embassy/

@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/41/card.webp
     w: 400
-    h: 269
+    h: 267
   medium:
     url: /assets/media/story/41/medium.webp
-    w: 640
-    h: 430
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/41/large.webp
-    w: 640
-    h: 430
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/41/share.jpg
-  color: '#8a847d'
-  alt: Public Conveniences, Harold Place
-  artist: Nigel Chadwick
-  match: exact
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Public_Conveniences,_Harold_Place_-_geograph.org.uk_-_1190402.jpg
+  color: '#746f6a'
+  alt: Derelict brick building in wet town street with storm debris
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-28T13:07:09+00:00'
 related:

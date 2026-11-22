@@ -40,14 +40,19 @@ image:
   share:
     url: /assets/media/story/52/share.jpg
   color: '#7b7c6d'
-  alt: Warning sign - horse riders, Broughton Road, Lodge
-  artist: Jaggery
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Warning_sign_-_horse_riders,_Broughton_Road,_Lodge_-_geograph.org.uk_-_6228596.jpg
+  alt: Blank yellow road sign on a quiet street with distant rider
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-29T12:44:26+00:00'
 related:

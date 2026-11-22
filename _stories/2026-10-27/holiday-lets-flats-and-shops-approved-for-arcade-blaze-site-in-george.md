@@ -37,26 +37,31 @@ image:
   card:
     url: /assets/media/story/30/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/30/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/30/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/30/share.jpg
-  color: '#888b8e'
-  alt: New residential & retail building In Milton Keynes' theatre district, this rather new building homes several retail units on the ground floor and flats on the upper floors.
-  artist: Mr Biz
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:New_residential_and_retail_building_-_geograph.org.uk_-_746595.jpg
+  color: '#8e8982'
+  alt: Modern building under construction on a cobbled street in an English seaside town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-27T19:16:31+00:00'
 related:

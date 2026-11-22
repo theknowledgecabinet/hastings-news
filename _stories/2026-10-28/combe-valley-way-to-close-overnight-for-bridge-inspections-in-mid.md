@@ -34,22 +34,27 @@ image:
   medium:
     url: /assets/media/story/43/medium.webp
     w: 800
-    h: 534
+    h: 533
   large:
     url: /assets/media/story/43/large.webp
-    w: 1024
-    h: 684
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/43/share.jpg
-  color: '#7a928d'
-  alt: A2690 Combe Valley Way
-  artist: Robin Webster
-  match: exact
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:A2690_Combe_Valley_Way_-_geograph.org.uk_-_6140964.jpg
+  color: '#817d7c'
+  alt: Orange roadworks barriers blocking a wet street at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-28T19:04:32+00:00'
 ---

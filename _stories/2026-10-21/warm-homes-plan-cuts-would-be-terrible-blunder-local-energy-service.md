@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/3/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/3/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/3/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/3/share.jpg
-  color: '#71685c'
-  alt: Heat pump installation
-  artist: Jim Barton
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Heat_pump_installation_-_geograph.org.uk_-_7495844.jpg
+  color: '#7a756c'
+  alt: Heat pump unit on a seaside cottage wall in the rain
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-26T18:20:42+00:00'
 related:

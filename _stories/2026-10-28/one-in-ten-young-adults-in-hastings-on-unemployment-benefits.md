@@ -27,26 +27,31 @@ image:
   card:
     url: /assets/media/story/37/card.webp
     w: 400
-    h: 269
+    h: 267
   medium:
     url: /assets/media/story/37/medium.webp
-    w: 640
-    h: 430
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/37/large.webp
-    w: 640
-    h: 430
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/37/share.jpg
-  color: '#8d847d'
-  alt: High Street shops
-  artist: N Chadwick
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:High_Street_shops_-_geograph.org.uk_-_2352028.jpg
+  color: '#7b7872'
+  alt: Distant figures walking on a wet, empty high street in a grey English seaside town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/18/hastings-asking-rents-up-to-23-above-ons-average-housing-data-shows/

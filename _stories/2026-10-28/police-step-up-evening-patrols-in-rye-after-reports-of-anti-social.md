@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/45/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/45/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/45/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/45/share.jpg
-  color: '#878b80'
-  alt: Police Car on Western Lawns Eastbourne
-  artist: PAUL FARMER
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Police_Car_on_Western_Lawns_Eastbourne_-_geograph.org.uk_-_4080224.jpg
+  color: '#48545e'
+  alt: Empty cobblestone street in an English seaside town at dusk
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/03/police-increase-patrols-in-eldridge-way-area-of-st-leonards/

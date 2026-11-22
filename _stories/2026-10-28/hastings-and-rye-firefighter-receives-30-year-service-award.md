@@ -33,26 +33,31 @@ image:
   card:
     url: /assets/media/story/40/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/40/medium.webp
     w: 800
-    h: 600
+    h: 533
   large:
     url: /assets/media/story/40/large.webp
-    w: 1400
-    h: 1050
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/40/share.jpg
-  color: '#7f6a64'
-  alt: Open day at Newhaven fire station, East Sussex, UK. Vehicles operated by East Sussex Fire and Rescue Service
-  artist: HJ Mitchell
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY 4.0
-  licence_url: https://creativecommons.org/licenses/by/4.0
-  page: https://commons.wikimedia.org/wiki/File:Fire_station_open_day_in_Newhaven_04.jpg
+  color: '#847c79'
+  alt: Fire engine and crew on a wet cobbled street in an English town
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/

@@ -21,6 +21,11 @@ layout: default
 
   {% if page.image %}{% include figure.html image=page.image hero=true %}{% endif %}
 
+  {%- if page.revisions %}
+  <aside class="correction">
+    {%- for c in page.revisions %}<p><strong>Updated, {{ c.at | date: "%-d %B %Y" }}:</strong> {{ c.note }}</p>{% endfor %}
+  </aside>
+  {%- endif %}
   {%- if page.corrections %}
   <aside class="correction">
     {%- for c in page.corrections %}<p><strong>Correction, {{ c.at | date: "%-d %B %Y" }}:</strong> {{ c.note }}</p>{% endfor %}

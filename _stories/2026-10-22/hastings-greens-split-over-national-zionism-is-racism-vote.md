@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/15/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/15/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/15/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/15/share.jpg
-  color: '#3c3830'
-  alt: The council chamber in Swansea Guildhall This chamber is extensively covered in exotic hardwood and has a tapestry running all around it below the ceiling. For example, the supporting steel & concrete
-  artist: Nigel Davies
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:The_council_chamber_in_Swansea_Guildhall_-_geograph.org.uk_-_1491171.jpg
+  color: '#59554b'
+  alt: Empty council chamber with wooden desks and podium
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-27T05:48:45+00:00'
 related:

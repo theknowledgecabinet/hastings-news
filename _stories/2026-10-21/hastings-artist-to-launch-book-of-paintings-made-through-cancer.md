@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/4/card.webp
     w: 400
-    h: 303
+    h: 267
   medium:
     url: /assets/media/story/4/medium.webp
     w: 800
-    h: 605
+    h: 533
   large:
     url: /assets/media/story/4/large.webp
-    w: 1400
-    h: 1059
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/4/share.jpg
-  color: '#968d37'
-  alt: '''Abstract landscape with sun'' - large acrylic painting on canvas in colors green and yellow, painted in 1990 by Dutch artist Fons Heijnsbroek, free image of art in high resolutions'
-  artist: Fons Heijnsbroek
-  match: generic
-  ai: false
-  by: null
-  licence: CC0
-  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  page: https://commons.wikimedia.org/wiki/File:%27Abstract_landscape_with_sun%27_-_large_acrylic_painting_on_canvas,_painted_in_1990_by_Dutch_artist_Fons_Heijnsbroek,_free_image_of_art_in_high_resolutions.jpg
+  color: '#948b7f'
+  alt: Abstract acrylic paintings on easels in a bright, sunlit studio.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-26T18:20:45+00:00'
 related:

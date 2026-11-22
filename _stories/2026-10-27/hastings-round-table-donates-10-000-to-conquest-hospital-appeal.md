@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/29/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/29/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/29/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/29/share.jpg
-  color: '#7a8177'
-  alt: 'Conquest Hospital St Leonards East Sussex Main entrance to the Conquest Hospital on The Ridge St Leonards.The Conquest is a modern district hospital built on a gentle sloping site with 4 levels. Most '
-  artist: Janet Richardson
-  match: exact
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Conquest_Hospital_St_Leonards_East_Sussex_-_geograph.org.uk_-_154875.jpg
+  color: '#8c8b82'
+  alt: Medical equipment boxes in a hospital corridor with a distant sea view.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-27T12:49:25+00:00'
 related:

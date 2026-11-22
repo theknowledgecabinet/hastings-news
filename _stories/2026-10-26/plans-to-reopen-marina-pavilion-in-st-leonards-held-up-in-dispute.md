@@ -31,26 +31,31 @@ image:
   card:
     url: /assets/media/story/21/card.webp
     w: 400
-    h: 266
+    h: 267
   medium:
     url: /assets/media/story/21/medium.webp
-    w: 640
-    h: 425
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/21/large.webp
-    w: 640
-    h: 425
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/21/share.jpg
-  color: '#555864'
-  alt: The Marina Pavilion
-  artist: Ian Taylor
-  match: exact
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:The_Marina_Pavilion_-_geograph.org.uk_-_3765428.jpg
+  color: '#b0aea7'
+  alt: Empty, dilapidated seaside pavilion on a grey pebble beach
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-27T06:13:00+00:00'
 related:

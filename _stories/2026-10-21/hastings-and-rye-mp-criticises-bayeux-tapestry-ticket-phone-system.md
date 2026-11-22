@@ -39,26 +39,31 @@ image:
   card:
     url: /assets/media/story/1/card.webp
     w: 400
-    h: 298
+    h: 267
   medium:
     url: /assets/media/story/1/medium.webp
-    w: 624
-    h: 465
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/1/large.webp
-    w: 624
-    h: 465
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/1/share.jpg
-  color: '#7a6e63'
-  alt: The Entrance to the British Museum. The museum as seen from the entrance in Great Russell Street.
-  artist: Pam Brophy
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:The_Entrance_to_the_British_Museum_-_geograph.org.uk_-_7173.jpg
+  color: '#a9a9a9'
+  alt: Distant figure on phone on a pier in grey weather
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-26T18:19:29+00:00'
 ---

@@ -30,26 +30,31 @@ image:
   card:
     url: /assets/media/story/23/card.webp
     w: 400
-    h: 225
+    h: 267
   medium:
     url: /assets/media/story/23/medium.webp
     w: 800
-    h: 450
+    h: 533
   large:
     url: /assets/media/story/23/large.webp
-    w: 1400
-    h: 788
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/23/share.jpg
-  color: '#91a8c1'
-  alt: North Sea, Oil Rig
-  artist: Banja-Frans Mulder
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY 3.0
-  licence_url: https://creativecommons.org/licenses/by/3.0
-  page: https://commons.wikimedia.org/wiki/File:North_Sea,_Oil_Rig_-_panoramio.jpg
+  color: '#979c9b'
+  alt: Distant figures on a grey shingle beach looking at the sea
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 related:
 - url: /2026/10/28/eight-hastings-and-rother-residents-renew-challenge-to-mp-over/

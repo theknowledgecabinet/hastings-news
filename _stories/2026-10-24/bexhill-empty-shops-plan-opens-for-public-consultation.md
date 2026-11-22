@@ -44,19 +44,24 @@ image:
     h: 533
   large:
     url: /assets/media/story/8/large.webp
-    w: 1400
-    h: 933
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/8/share.jpg
-  color: '#888784'
-  alt: 'Haverfordwest, High Street: A row of empty shops'
-  artist: Michael Garlick
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Haverfordwest,_High_Street,_A_row_of_empty_shops_-_geograph.org.uk_-_6882639.jpg
+  color: '#888585'
+  alt: Empty shopfronts on a wet, overcast high street in a seaside town.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-26T18:35:58+00:00'
 related:

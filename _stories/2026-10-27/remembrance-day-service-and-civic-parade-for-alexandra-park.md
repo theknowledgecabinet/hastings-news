@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/33/card.webp
     w: 400
-    h: 269
+    h: 267
   medium:
     url: /assets/media/story/33/medium.webp
-    w: 640
-    h: 430
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/33/large.webp
-    w: 640
-    h: 430
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/33/share.jpg
-  color: '#959897'
-  alt: War Memorial, Alexandra Park
-  artist: N Chadwick
-  match: exact
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:War_Memorial,_Alexandra_Park_-_geograph.org.uk_-_2361096.jpg
+  color: '#888583'
+  alt: Distant figures in a civic parade on a wet English high street.
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-27T19:38:25+00:00'
 related:

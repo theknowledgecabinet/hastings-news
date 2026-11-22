@@ -32,23 +32,23 @@ image:
     h: 300
   medium:
     url: /assets/media/story/20/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 600
   large:
     url: /assets/media/story/20/large.webp
-    w: 640
-    h: 480
+    w: 1400
+    h: 1050
   share:
     url: /assets/media/story/20/share.jpg
-  color: '#767c80'
-  alt: Water Treatment Plant
-  artist: martin dawes
-  match: generic
+  color: '#727b77'
+  alt: Powdermill Reservoir
+  artist: Oast House Archive
+  match: exact
   ai: false
   by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Water_Treatment_Plant_-_geograph.org.uk_-_1181542.jpg
+  page: https://commons.wikimedia.org/wiki/File:Powdermill_Reservoir_-_geograph.org.uk_-_6809694.jpg
   default: false
 checked: '2026-10-27T06:00:46+00:00'
 related:

@@ -40,15 +40,15 @@ image:
     h: 1050
   share:
     url: /assets/media/story/44/share.jpg
-  color: '#898e7c'
-  alt: Tractor cutting gorse
-  artist: Philip Halling
-  match: generic
+  color: '#6a7f71'
+  alt: The Firehills Hastings Country Park
+  artist: PAUL FARMER
+  match: exact
   ai: false
   by: null
   licence: CC BY-SA 2.0
   licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Tractor_cutting_gorse_-_geograph.org.uk_-_7024692.jpg
+  page: https://commons.wikimedia.org/wiki/File:The_Firehills_Hastings_Country_Park_-_geograph.org.uk_-_3037197.jpg
   default: false
 checked: '2026-10-28T19:05:17+00:00'
 related:

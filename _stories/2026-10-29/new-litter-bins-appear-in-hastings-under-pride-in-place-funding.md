@@ -28,26 +28,31 @@ image:
   card:
     url: /assets/media/story/47/card.webp
     w: 400
-    h: 300
+    h: 267
   medium:
     url: /assets/media/story/47/medium.webp
-    w: 640
-    h: 480
+    w: 800
+    h: 533
   large:
     url: /assets/media/story/47/large.webp
-    w: 640
-    h: 480
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/47/share.jpg
-  color: '#7c8183'
-  alt: Litter bin in Salisbury Street
-  artist: Basher Eyre
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Litter_bin_in_Salisbury_Street_-_geograph.org.uk_-_4347221.jpg
+  color: '#a19b95'
+  alt: Modern litter bins on a seaside promenade
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-29T08:02:06+00:00'
 related:

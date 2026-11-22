@@ -29,26 +29,31 @@ image:
   card:
     url: /assets/media/story/51/card.webp
     w: 400
-    h: 366
+    h: 267
   medium:
     url: /assets/media/story/51/medium.webp
     w: 800
-    h: 731
+    h: 533
   large:
     url: /assets/media/story/51/large.webp
-    w: 1400
-    h: 1279
+    w: 1344
+    h: 896
   share:
     url: /assets/media/story/51/share.jpg
-  color: '#878383'
-  alt: Former bank building, Rosebery Avenue
-  artist: Jim Osley
-  match: generic
-  ai: false
-  by: null
-  licence: CC BY-SA 2.0
-  licence_url: https://creativecommons.org/licenses/by-sa/2.0
-  page: https://commons.wikimedia.org/wiki/File:Former_bank_building,_Rosebery_Avenue_-_geograph.org.uk_-_5272105.jpg
+  color: '#8e8a85'
+  alt: Vacant bank building on a seaside town street
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
   default: false
 checked: '2026-10-29T12:43:55+00:00'
 related:
