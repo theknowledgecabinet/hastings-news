@@ -7,7 +7,7 @@ layout: default
   <p class="eyebrow"><a href="{{ '/representatives/' | relative_url }}">Who represents you</a></p>
   <h1>{{ A.name }}</h1>
   {%- if A.county %}
-  <p class="muted">The county council runs schools, social care, roads and transport, libraries and waste disposal. These are the county councillors for Hastings, Rye, Bexhill, Battle and the Rother villages; each name links to their record.</p>
+  <p class="muted">The county council runs schools, social care, roads and transport, libraries and waste disposal. These are the county councillors for {{ site.area_text }}; each name links to their record.</p>
   {%- else %}
   <p class="muted">{{ A.about }} Each name links to their own page, with their record and how to contact them.</p>
   {%- endif %}
@@ -38,8 +38,8 @@ layout: default
     {%- if c.contact %}<a class="button ghost" href="{{ c.contact }}">Contact the council</a>{% endif %}
     {%- if c.key == "escc" %} <a class="button ghost" href="{{ '/representatives/east-sussex/' | relative_url }}">All our county councillors</a>{% else %} <a class="button ghost" href="{{ c.members }}">All councillors</a>{% endif %}
   </p>
-  {%- if c.key == "rdc" and A.slug == "hastings-and-rye" %}<p class="muted small">Rye, Winchelsea, Camber, Fairlight and the eastern villages are in Rother District but in the Hastings and Rye constituency. The rest of Rother is on the <a href="{{ '/representatives/bexhill-and-battle/' | relative_url }}">Bexhill and Battle</a> page.</p>{% endif %}
-  {%- if c.key == "rdc" and A.slug == "bexhill-and-battle" %}<p class="muted small">Rother's wards around Rye, Winchelsea and Fairlight are in the Hastings and Rye constituency: see the <a href="{{ '/representatives/hastings-and-rye/' | relative_url }}">Hastings and Rye</a> page.</p>{% endif %}
+  {%- if c.key == "rdc" and A.slug == "rye-and-eastern-rother" %}<p class="muted small">Rye, Winchelsea, Camber, Fairlight and the eastern villages are in Rother District but in the Hastings and Rye constituency. The rest of Rother is on the <a href="{{ '/representatives/bexhill-and-battle/' | relative_url }}">Bexhill and Battle</a> page.</p>{% endif %}
+  {%- if c.key == "rdc" and A.slug == "bexhill-and-battle" %}<p class="muted small">Rother's wards around Rye, Winchelsea and Fairlight are in the Hastings and Rye constituency: see the <a href="{{ '/representatives/rye-and-eastern-rother/' | relative_url }}">Rye and eastern Rother</a> page.</p>{% endif %}
   {%- include cllr-wards.html wards=c.wards kind=c.kind %}
 </section>
 {%- endfor %}

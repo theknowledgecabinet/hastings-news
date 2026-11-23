@@ -1,6 +1,5 @@
 title: Hastings Daily
-description: Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three
-  times a day.
+description: Local news for Hastings and St Leonards, three times a day.
 url: https://theknowledgecabinet.github.io
 baseurl: /hastings-news
 repo_url: https://github.com/theknowledgecabinet/hastings-news
@@ -16,3 +15,21 @@ collections:
     output: true
 exclude:
 - README.md
+profile: hastings
+wordmark: Hastings
+area_line: Hastings · St Leonards
+area_text: Hastings and St Leonards
+weather_place: Hastings
+editions_text: three times a day
+councils_text: Hastings Borough Council and East Sussex County Council
+accent: '#1a5d79'
+accent_dark: '#86c1da'
+sister:
+  title: Rother Daily
+  url: https://theknowledgecabinet.github.io/rother-daily/
+  about: Bexhill, Battle, Rye and the Rother villages
+mps:
+- Hastings and Rye
+artist:
+  name: Iris Ecclesbourne
+  url: /reporters/iris-ecclesbourne/

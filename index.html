@@ -7,7 +7,7 @@ layout: default
 {%- assign leads = today | where: "lead", true -%}
 {%- assign lead = leads | first | default: today.first | default: all.first -%}
 <header class="masthead">
-  <div class="ear ear-weather" aria-label="Weather for Hastings">
+  <div class="ear ear-weather" aria-label="Weather for {{ site.weather_place }}">
     {%- for w in L.forecast %}
     <div class="wx" title="{{ w.summary | escape }}">
       <span class="wx-day">{{ w.weekday }}</span>
@@ -22,7 +22,7 @@ layout: default
     {%- if L.briefing %}
     <span>Evening briefing<br><a href="{{ '/podcast/' | relative_url }}"><strong>🎧 Listen · {{ L.briefing.length }}</strong></a></span>
     {%- else %}
-    <span>Local news<br><strong>three times a day</strong></span>
+    <span>Local news<br><strong>{{ site.editions_text }}</strong></span>
     {%- endif %}
   </div>
 </header>
@@ -30,7 +30,7 @@ layout: default
   <span>{{ L.label }}</span>
   <span>Vol. 1 · No. {{ L.issue }}</span>
   {%- if L.edition_label %}<span>{{ L.edition_label }}</span>{% endif %}
-  <span>Hastings · St Leonards · Rye · Bexhill · Battle</span>
+  <span>{{ site.area_line }}</span>
 </p>
 
 {%- if lead %}

@@ -51,7 +51,7 @@ layout: default
     {%- for s in alpha %}<span class="seg-part s{{ forloop.index }}" style="flex: {{ s.seats }}" tabindex="0" data-tip="{{ s.seats }} of {{ B.total }} seats&#10;{{ s.party }}"><span class="seg-label">{{ s.seats }}</span></span>{% endfor %}
   </div>
   <ul class="legend">{% for s in alpha %}<li><i class="key s{{ forloop.index }}"></i>{{ s.party }} ({{ s.seats }})</li>{% endfor %}</ul>
-  <p class="muted small">{{ B.total }} councillors; {{ B.majority }} are needed for a majority.{% if R.area_only %} The county council covers all of East Sussex; this page follows what matters to Hastings and Rother.{% endif %}</p>
+  <p class="muted small">{{ B.total }} councillors; {{ B.majority }} are needed for a majority.{% if R.area_only %} The county council covers all of East Sussex; this page follows what matters to {{ site.area_text }}.{% endif %}</p>
   {%- if B.leaders.size > 0 %}
   <h3 class="acc-h3">Leading posts</h3>
   <ul>{% for l in B.leaders %}<li><strong>{{ l.name }}</strong> <span class="muted">({{ l.party }})</span>: {{ l.posts }}</li>{% endfor %}</ul>

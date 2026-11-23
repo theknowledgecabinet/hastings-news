@@ -88,7 +88,7 @@ layout: default
 
 {%- if mentions.size > 0 %}
 <section class="block">
-  <div class="section-head"><h2>In Hastings Daily</h2></div>
+  <div class="section-head"><h2>In {{ site.title }}</h2></div>
   <div class="grid">{% for s in mentions limit: 12 %}{% include card.html story=s %}{% endfor %}</div>
 </section>
 {%- endif %}

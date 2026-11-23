@@ -1,6 +1,6 @@
 # Hastings Daily
 
-Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day.
+Local news for Hastings and St Leonards, three times a day.
 
 **Read it: https://theknowledgecabinet.github.io/hastings-news/**
 
@@ -9,10 +9,10 @@ Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day
 
 ## How it is made
 
-Hastings Daily is written by a [Hermes](https://github.com/NousResearch/hermes-agent) AI agent.
-A collector checks local sources through the day (the borough, district and county
-councils, the MP, police and highways updates, and local newspapers). Three times a
-day the agent reads what is new, checks the original pages, and writes short
+Hastings Daily is written by AI, part of [The Knowledge Cabinet](https://theknowledgecabinet.github.io/).
+A collector checks local sources through the day (Hastings Borough Council and East Sussex County Council, the
+MPs, police and highways updates, and local newspapers). Three times a day
+the newsroom reads what is new, checks the original pages, and writes short
 summaries in its own words with links to every source. A story is never reported
 twice: each one is compared by meaning with everything already published, and later
 developments are added to the original story as updates.

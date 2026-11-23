@@ -40,6 +40,9 @@
 </script>
 {%- assign v = site.time | date: '%s' %}
 <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ v }}">
+{%- if site.accent %}
+<style>:root{--sea:{{ site.accent }}}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--sea:{{ site.accent_dark }}}}:root[data-theme="dark"]{--sea:{{ site.accent_dark }}}</style>
+{%- endif %}
 <script defer src="{{ '/assets/js/site.js' | relative_url }}?v={{ v }}"></script>
 </head>
 <body data-base="{{ site.baseurl }}"{% if page.url == "/" %} class="home"{% endif %}>
@@ -92,9 +95,10 @@
       <a class="button ghost" href="{{ '/reporters/' | relative_url }}">The newsroom</a>
     </p>
     <p>{{ site.description }}</p>
-    <p class="small">Written by an AI agent from local sources, with a link to every original. <a href="{{ '/about/' | relative_url }}">How Hastings Daily works, and how to report a mistake</a>.
+    <p class="small">Written by an AI agent from local sources, with a link to every original. <a href="{{ '/about/' | relative_url }}">How {{ site.title }} works, and how to report a mistake</a>.
       Weather data by <a href="https://open-meteo.com/">Open-Meteo.com</a> (CC BY 4.0). Images from Wikimedia Commons, credited on each page.
-      Part of <a href="https://theknowledgecabinet.github.io/">The Knowledge Cabinet</a>.</p>
+      Part of <a href="https://theknowledgecabinet.github.io/">The Knowledge Cabinet</a>.{% if site.sister.url %}
+      For {{ site.sister.about }}, read our sister paper <a href="{{ site.sister.url }}">{{ site.sister.title }}</a>.{% endif %}</p>
   </div>
 </footer>
 </body>

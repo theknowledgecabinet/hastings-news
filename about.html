@@ -1,18 +1,18 @@
 ---
 layout: default
-title: About Hastings Daily
+title: About
 permalink: /about/
 ---
 <section class="narrow prose-page">
-<h1>About Hastings Daily</h1>
-<p class="lede">Local news for Hastings, St Leonards, Rye, Bexhill and Battle, three times a day, written by an AI agent and always linked to its sources.</p>
+<h1>About {{ site.title }}</h1>
+<p class="lede">Local news for {{ site.area_text }}, {{ site.editions_text }}, written by AI and always linked to its sources.{% if site.sister.url %} For {{ site.sister.about }}, read our sister paper, <a href="{{ site.sister.url }}">{{ site.sister.title }}</a>.{% endif %}</p>
 <h2>How it works</h2>
-<p>Through the day a collector checks local sources: Hastings Borough, Rother District and East Sussex County councils, the MP for Hastings and Rye, Sussex Police and East Sussex Highways, and the local papers. Each morning, midday and evening, a <a href="https://github.com/NousResearch/hermes-agent">Hermes</a> AI agent reads what is new, opens the original pages, and writes short summaries in its own words. Every story links to its sources, and those originals are always worth reading.</p>
-<p>Each beat has its own <a href="{{ '/reporters/' | relative_url }}">AI correspondent</a>, a persona with a name, a style and a voice for the evening briefing. They are not real people; every story is written by the same agent under the same rules, and their portraits are AI-generated. The newsroom's picture editor, <a href="{{ '/reporters/iris-ecclesbourne/' | relative_url }}">Iris Ecclesbourne</a>, is a persona too: the name under which the AI illustrations are made.</p>
+<p>Through the day a collector checks local sources: {{ site.councils_text }}, {% if site.mps.size > 1 %}the area's two MPs{% else %}the MP for {{ site.mps[0] }}{% endif %}, Sussex Police and East Sussex Highways, and the local papers. Each edition ({{ site.editions_text }}), AI models pick what is new and worth reporting, read the original pages, and write short summaries in their own words, one story at a time. Every story links to its sources, and those originals are always worth reading.</p>
+<p>Each beat has its own <a href="{{ '/reporters/' | relative_url }}">AI correspondent</a>, a persona with a name, a style and a voice for the evening briefing. They are not real people; every story is written by the same AI under the same rules, and their portraits are AI-generated. The newsroom's picture editor, <a href="{{ site.artist.url | relative_url }}">{{ site.artist.name }}</a>, is a persona too: the name under which the AI illustrations are made.</p>
 <p>A story is never reported twice. Each one is compared by meaning with everything published before, and later developments are added to the original story as dated updates.</p>
 <p>The MP and councillors are looked up every day, so when someone new takes on a role, the sources we follow change with them. See <a href="{{ '/representatives/' | relative_url }}">who represents you</a>.</p>
 <h2 id="checks">How every story is checked</h2>
-<p>An AI must never make up news, so nothing is published on the agent's word alone. Before a story, update, event or history piece goes live, the publishing system itself:</p>
+<p>An AI must never make up news, so nothing is published on the writer's word alone. Before a story, update, event or history piece goes live, the publishing system itself:</p>
 <ol>
   <li>opens every source the story cites; a link that doesn't exist or can't be read doesn't count, and at least one must be readable;</li>
   <li>checks that every figure in the story (amounts, ages, percentages, counts) appears in those sources;</li>
@@ -24,7 +24,7 @@ permalink: /about/
 <ol>
   <li><strong>A real photo of the subject</strong>: a freely licensed photo of the actual building, place or thing the story is about, from Wikimedia Commons, credited to its photographer.</li>
   <li><strong>A library photo</strong>: a real photo of the same kind of thing (a pier, a council chamber, a police car), captioned "Library photo, used for illustration".</li>
-  <li><strong>An AI illustration</strong>: only when no real photo fits. A text model describes a generic scene for the story, an image model (Z-Image Turbo, running on a graphics card at home) draws it, and a vision model checks it for faces, text, distortion and anything upsetting before it is used. These are captioned "AI illustration by Iris Ecclesbourne, not a photo of the events described".</li>
+  <li><strong>An AI illustration</strong>: only when no real photo fits. A text model describes a generic scene for the story, an image model (Z-Image Turbo, running on a graphics card at home) draws it, and a vision model checks it for faces, text, distortion and anything upsetting before it is used. These are captioned "AI illustration by {{ site.artist.name }}, not a photo of the events described".</li>
 </ol>
 <p>AI illustrations follow strict rules: no real or identifiable people, no named buildings, landmarks or businesses, no readable signs or logos, and no people at all for crime and court stories. They show the kind of scene a story is about, never the event itself. A photo is never altered or generated to look like a record of what happened.</p>
 <h2>Our rules</h2>

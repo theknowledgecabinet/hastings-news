@@ -157,7 +157,7 @@ description: How the area's MPs and councillors attend, vote and take part, pers
   {%- endif %}
 </section>
 
-<p class="muted small narrow">Sources: UK Parliament open data (Commons votes, Hansard, written questions, early day motions, register of interests) and the published meeting records of Hastings Borough, Rother District and East Sussex County councils. Each person's page links to every record counted here.</p>
+<p class="muted small narrow">Sources: UK Parliament open data (Commons votes, Hansard, written questions, early day motions, register of interests) and the published meeting records of {{ site.councils_text }}. Each person's page links to every record counted here.</p>
 <div class="acc-tip" role="tooltip" hidden></div>
 <script type="application/json" id="acc-data">{{ A.councillors | jsonify | replace: "</", "<\/" }}</script>
 <script defer src="{{ '/assets/js/accountability.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
