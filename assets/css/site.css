@@ -449,3 +449,9 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
 .video-play { position: absolute; top: 50%; left: 73%; transform: translate(-50%, -50%); width: 68px; height: 68px; border-radius: 50%;
   display: grid; place-items: center; font-size: 28px; color: #fff; background: rgb(0 0 0 / .62); padding-left: 5px; }
 .video-facade:hover .video-play, .video-facade:focus-visible .video-play { background: var(--sea); }
+
+/* The next four stories under the lead: compact cards, two by two on wider screens. */
+.more-leads { display: grid; gap: 0 28px; margin-top: 24px; border-top: 1px solid var(--rule); }
+@media (min-width: 640px) { .more-leads { grid-template-columns: 1fr 1fr; } }
+.more-leads .card { grid-template-columns: 120px 1fr; align-items: start; gap: 14px; }
+.more-leads .card h3 { font-size: 1.05rem; }

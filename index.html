@@ -49,6 +49,14 @@ layout: default
     </a>
     <p class="standfirst">{{ lead.description }}</p>
     <p class="byline">By <a href="{{ lead.reporter.url | relative_url }}">{{ lead.reporter.name }}</a> <span class="muted">· {{ lead.date | date: "%A %-d %B, %H:%M" }}</span></p>
+    {%- comment %} The next stories as cards under the lead, so the column matches the one beside it {% endcomment %}
+    {%- assign shown = lead.url %}
+    <div class="more-leads">
+      {%- assign n = 0 %}
+      {%- for s in all %}{% if s.url != lead.url and n < 4 %}{% assign n = n | plus: 1 %}{% assign shown = shown | append: " " | append: s.url %}
+      {% include card.html story=s %}
+      {%- endif %}{% endfor %}
+    </div>
   </article>
 
   <aside class="latest">
@@ -71,13 +79,14 @@ layout: default
     <h2>Latest</h2>
     <ul class="headlines">
       {%- assign n = 0 %}
-      {%- for s in all %}{% if s.url != lead.url and n < 8 %}{% assign n = n | plus: 1 %}
+      {%- assign urls = shown | split: " " %}
+      {%- for s in all %}{% unless urls contains s.url %}{% if n < 5 %}{% assign n = n | plus: 1 %}
       <li style="--topic: {{ s.colour }}"><a href="{{ s.url | relative_url }}">
         <span class="kicker">{{ s.section_label }}</span>
         <span class="hl">{{ s.title }}</span>
         <span class="hl-meta">{{ s.date | date: "%a %-d %b, %H:%M" }} · {{ s.places | map: "name" | join: ", " }}{% if s.updated %} · <span class="badge">Updated</span>{% endif %}</span>
       </a></li>
-      {%- endif %}{% endfor %}
+      {%- endif %}{% endunless %}{% endfor %}
     </ul>
   </aside>
 </section>
