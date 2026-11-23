@@ -1,0 +1,11 @@
+{%- comment -%} The evening briefing on YouTube. Nothing loads from YouTube until the reader presses play:
+until then it is our own thumbnail; then the privacy-enhanced player (youtube-nocookie.com). {%- endcomment -%}
+{%- assign v = include.video -%}
+<div class="video-box">
+  <button class="video-facade" type="button" data-video="{{ v.id }}" aria-label="Play the video: {{ v.title | escape }}"
+    {%- if v.thumb %} style="background-image: url('{{ v.thumb | relative_url }}')"{% endif %}>
+    <span class="video-play" aria-hidden="true">▶</span>
+  </button>
+  <p class="small muted">{{ v.title }}. Plays from <a href="https://www.youtube.com/watch?v={{ v.id }}">YouTube</a>,
+    which loads only when you press play. Presenters and voices are AI-generated.</p>
+</div>

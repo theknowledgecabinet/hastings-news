@@ -53,6 +53,12 @@ layout: default
     {%- if L.otd %}
     <a class="otd-strip" href="{{ L.otd.url | relative_url }}"><span class="eyebrow">On this day</span><span class="otd-year">{{ L.otd.year }}</span><strong>{{ L.otd.title }}</strong></a>
     {%- endif %}
+    {%- if L.video %}
+    <section class="briefing-box">
+      <h2>📺 Watch the evening briefing</h2>
+      {% include video.html video=L.video %}
+    </section>
+    {%- endif %}
     {%- if L.briefing %}
     <section class="briefing-box">
       <h2>🎧 The evening briefing <span class="muted">· {{ L.briefing.length }}</span></h2>

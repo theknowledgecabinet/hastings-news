@@ -253,3 +253,21 @@
     if (q) { input.value = q; run(); }
   }
 })();
+
+// The briefing video: our own thumbnail until the reader presses play; only then the YouTube player
+// (privacy-enhanced youtube-nocookie.com), so just visiting a page never contacts YouTube.
+(() => {
+  document.querySelectorAll(".video-facade[data-video]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const id = btn.dataset.video;
+      if (!/^[\w-]{6,20}$/.test(id)) return;
+      const f = document.createElement("iframe");
+      f.src = `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0&cc_load_policy=1&hl=en-GB`;
+      f.title = btn.getAttribute("aria-label") || "Video";
+      f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+      f.allowFullscreen = true;
+      f.className = "video-frame";
+      btn.replaceWith(f);
+    });
+  });
+})();
