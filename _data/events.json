@@ -1,5 +1,16 @@
 [
  {
+  "starts": "2026-11-24",
+  "ends": null,
+  "title": "The Albion Skiffle Company",
+  "time": "8:30pm",
+  "venue": "The Albion, Hastings",
+  "places": "Hastings",
+  "url": "https://hastingssussex.uk/events/live-music/the-albion-skiffle-company/",
+  "summary": "Live skiffle music featuring authentic tracks, unexpected covers, and traditional instruments like washboard, tea chest bass, guitars, banjo, mandolin, fiddle, and uke.",
+  "when": "Tue 24 Nov"
+ },
+ {
   "starts": "2026-11-25",
   "ends": "2026-12-13",
   "title": "Made for Giving: pop-up gift shop",
@@ -22,6 +33,17 @@
   "when": "Wed 25 Nov"
  },
  {
+  "starts": "2026-11-27",
+  "ends": null,
+  "title": "Palmerama’s Comedyrama",
+  "time": "8:00pm – 10:00pm",
+  "venue": "The Pig, Hastings",
+  "places": "Hastings",
+  "url": "https://hastingssussex.uk/events/comedy/palmeramas-comedyrama/",
+  "summary": "Hastings’ longest running monthly comedy night features six acts from around the south east, hosted by local comedian Dan Palmer.",
+  "when": "Fri 27 Nov"
+ },
+ {
   "starts": "2026-11-28",
   "ends": null,
   "title": "Amuse Bouche comedy writing taster",
@@ -41,6 +63,39 @@
   "places": "Hastings",
   "url": "https://www.sussexexpress.co.uk/news/people/return-of-popular-christmas-tree-festival-at-hastings-old-town-church-9361129",
   "summary": "Decorated trees themed 'Christmas Characters', a craft fair and refreshments open the festival, which runs until 6 December with trees by treelight, handbells, border Morris and live music.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": null,
+  "title": "TAKE ME TO CHURCH",
+  "time": "4 pm to 10 pm",
+  "venue": "St Leonards Church, Hastings",
+  "places": "Hastings, St Leonards",
+  "url": "https://whatshappeninghastings.co.uk/event/more-fountains-x-metalheadz/",
+  "summary": "More Fountains and Metalheadz team up for a Blue Note Session featuring DJ Storm, Dillinja, Loxy and Elm Street in an acoustic church space.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": null,
+  "title": "Ben Maier & the Maier Brothers",
+  "time": "8:00pm",
+  "venue": "Mike's Shop, St Leonards-on-Sea",
+  "places": "St Leonards",
+  "url": "https://tourist.org.uk/east-sussex/st-leonards-on-sea/events/live-music/ben-maier-the-maier-brothers/",
+  "summary": "Hastings singer-songwriter Ben Maier is joined by his brothers for a one-off family performance at Mike's Shop.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": null,
+  "title": "NORTHERN SOUL DAY PARTY",
+  "time": "3 pm to 8 pm",
+  "venue": "Blackbox, Hastings",
+  "places": "Hastings",
+  "url": "https://whatshappeninghastings.co.uk/event/northern-soul-day-party/",
+  "summary": "The Northern Soul Day Party comes to Blackbox for an afternoon of rare soul records and dance floor favourites. Tickets are available from £12.50.",
   "when": "Sat 28 Nov"
  }
 ]
