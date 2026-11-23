@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "26 votes, 2 contributions, 3 written questions, 6 answers received",
+  "last30_text": "26 votes, 2 votes missed, 2 contributions, 3 written questions, 6 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -70,7 +70,7 @@
     ]
    }
   ],
-  "checked": "2026-11-23T23:19:16+00:00",
+  "checked": "2026-11-23T23:50:12+00:00",
   "last30": {
    "vote": 26,
    "speech": 2,
@@ -78,10 +78,55 @@
    "answer": 6,
    "edm": 0,
    "interest": 0,
-   "missed": 0,
+   "missed": 2,
    "against_party": 0
   },
   "days": [
+   {
+    "day": "2026-11-23",
+    "items": [
+     {
+      "kind": "vote",
+      "title": "Finance Bill: Reasoned Amendment to Second Reading",
+      "url": "https://votes.parliament.uk/votes/commons/division/2492",
+      "line": "Vote: Finance Bill: Reasoned Amendment to Second Reading: did not vote; defeated 98 to 317.",
+      "how": "did not vote",
+      "teller": false,
+      "result": "defeated",
+      "ayes": 98,
+      "noes": 317,
+      "against_party": false,
+      "party_side": null,
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     },
+     {
+      "kind": "vote",
+      "title": "Finance Bill: Second Reading",
+      "url": "https://votes.parliament.uk/votes/commons/division/2493",
+      "line": "Vote: Finance Bill: Second Reading: did not vote; passed 311 to 164.",
+      "how": "did not vote",
+      "teller": false,
+      "result": "passed",
+      "ayes": 311,
+      "noes": 164,
+      "against_party": false,
+      "party_side": null,
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     }
+    ]
+   },
    {
     "day": "2026-11-18",
     "items": [
@@ -1013,6 +1058,6 @@
     ]
    }
   ],
-  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 26 Commons votes recorded since 3 November 2026, they voted in 26 (100%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
+  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 28 Commons votes recorded since 3 November 2026, they voted in 26 (93%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
  }
 }
