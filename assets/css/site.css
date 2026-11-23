@@ -436,10 +436,11 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
 .acc-tip strong { color: var(--ink); font-size: .95rem; }
 .mp-summary p:first-of-type { font-size: 1.05rem; }
 
-/* The briefing video: a 16:9 thumbnail with a play button, then the YouTube player in its place. */
+/* The briefing video: a 16:9 thumbnail with a play button (over the picture half, clear of the
+   headline), then the YouTube player in its place. */
 .video-box { margin-bottom: 8px; }
 .video-facade, .video-frame { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: var(--radius); }
 .video-facade { position: relative; padding: 0; cursor: pointer; background: #14213d center / cover no-repeat; }
-.video-play { position: absolute; inset: 0; margin: auto; width: 68px; height: 68px; border-radius: 50%;
+.video-play { position: absolute; top: 50%; left: 73%; transform: translate(-50%, -50%); width: 68px; height: 68px; border-radius: 50%;
   display: grid; place-items: center; font-size: 28px; color: #fff; background: rgb(0 0 0 / .62); padding-left: 5px; }
 .video-facade:hover .video-play, .video-facade:focus-visible .video-play { background: var(--sea); }
