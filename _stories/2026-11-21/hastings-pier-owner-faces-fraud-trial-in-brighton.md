@@ -3,6 +3,7 @@ layout: story
 title: Hastings Pier owner faces fraud trial in Brighton
 permalink: /2026/11/21/hastings-pier-owner-faces-fraud-trial-in-brighton/
 date: 2026-11-21 07:28:28 +0000
+updated: '2026-11-23T12:37:01+00:00'
 sid: 239
 day: '2026-11-21'
 edition: morning
@@ -26,6 +27,13 @@ sources:
 - url: https://www.hastingsindependentpress.co.uk/articles/news/news-in-brief-26/
   name: Hastings Independent Press
 comment: A fraud trial over water bills is not the usual drama at a seaside pier, but it lands squarely on the town's most recognisable landmark.
+updates:
+- date: '2026-11-23T12:37:01+00:00'
+  edition: midday
+  text: Lewes Crown Court, sitting at Brighton, has heard that Sheikh Abid Gulzar, 81, and co-defendant Manasdeep Singh are charged with ten counts of fraud over £160,000 in unpaid water bills at three Eastbourne hotels. Both men deny the charges, which relate to a period since 2018 during which only one payment of £176 was made.
+  sources:
+  - url: https://www.sussexexpress.co.uk/news/courts/hastings-pier-owner-in-court-over-ps160k-in-unpaid-water-bills-9367916
+    name: Hastings Observer
 image:
   card:
     url: /assets/media/story/239/card.webp

@@ -6,7 +6,15 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 22 Nov 2026 13:10:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 12:37:21 +0000</lastBuildDate>
+  <item>
+    <title>Update: Hastings council seeks researchers to measure creative industries&#x27; economic impact</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/hastings-council-seeks-researchers-to-measure-creative-industries/</link>
+    <guid isPermaLink="false">story-232-update-2026-11-23T12:37:21+00:00</guid>
+    <pubDate>Mon, 23 Nov 2026 12:37:21 +0000</pubDate>
+    <category>Council</category>
+    <description>Hastings Council has confirmed it is seeking consultants to deliver a detailed assessment of the creative and cultural industries&#x27; economic impact, according to The Argus. Proposals for the study must be submitted by 5pm on Thursday, December 31.</description>
+  </item>
   <item>
     <title>Update: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/30/hastings-cabinet-to-discuss-fee-freeze-and-heritage-funding-on-9/</link>
@@ -514,17 +522,6 @@
     <category>Council</category>
     <description>Hastings Borough Council has drawn up an Age Friendly Hastings Strategy and Action Plan, with proposals to make the town more accessible and inclusive for people aged 50 and over.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/97/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>Free parking at Hastings council car parks in December</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/03/free-parking-at-hastings-council-car-parks-in-december/</link>
-    <guid isPermaLink="false">story-91</guid>
-    <pubDate>Tue, 03 Nov 2026 13:10:26 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Borough Council has agreed plans to provide free parking at its council-owned car parks on specific dates in the run-up to Christmas.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/91/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
       <media:credit role="illustrator">AI-generated illustration</media:credit>
     </media:content>
   </item>

@@ -6,7 +6,29 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:11:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 12:40:03 +0000</lastBuildDate>
+  <item>
+    <title>Council leader joins Active Hastings for 20th anniversary</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/23/council-leader-joins-active-hastings-for-20th-anniversary/</link>
+    <guid isPermaLink="false">story-265</guid>
+    <pubDate>Mon, 23 Nov 2026 12:40:03 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Councillor Glenn Haffenden, leader of Hastings Borough Council, is visiting Active Hastings sessions to mark the organisation&#x27;s 20th anniversary. The council leader, who is also the lead councillor for sport and leisure, will meet participants at various venues across the town to hear about the impact of the activities on their health and wellbeing.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/265/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
+  <item>
+    <title>Bohemia Christmas: Free evening of shopping, music and crafts in St Leonards</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/23/bohemia-christmas-free-evening-of-shopping-music-and-crafts-in-st/</link>
+    <guid isPermaLink="false">story-264</guid>
+    <pubDate>Mon, 23 Nov 2026 12:39:26 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A free community celebration is set for the Bohemia area of St Leonards on Thursday 3 December. From 4pm to 7pm, residents can enjoy late-night shopping, live music, Santa, and drop-in craft workshops.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/264/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>Jud Charlton performs one-man Christmas Carol in St Leonards</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/23/jud-charlton-performs-one-man-christmas-carol-in-st-leonards/</link>
@@ -517,28 +539,6 @@
     <category>Community &amp; people</category>
     <description>Award-winning jazz artist Liane Carroll is to give a Christmas concert in Hastings to raise vital funds for the Sara Lee Trust, the local cancer charity.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/159/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-    </media:content>
-  </item>
-  <item>
-    <title>Rye Town Clerk honoured with the town&#x27;s highest civic award</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/rye-town-clerk-honoured-with-the-town-s-highest-civic-award/</link>
-    <guid isPermaLink="false">story-153</guid>
-    <pubDate>Wed, 11 Nov 2026 12:47:32 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Richard Farhall has been made an Honorary Freeman of the Ancient Town of Rye, the town&#x27;s highest civic award, in recognition of his 26 years of service as Rye Town Clerk.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/153/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>St Leonards Frost Fair returns on November 28 with Snow Queen parade</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/11/st-leonards-frost-fair-returns-on-november-28-with-snow-queen-parade/</link>
-    <guid isPermaLink="false">story-154</guid>
-    <pubDate>Wed, 11 Nov 2026 12:47:32 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The St Leonards Frost Fair returns on Saturday 28 November with a parade of colourful fairy-tale characters, led by the Snow Queen, processing through the streets.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/154/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
     </media:content>
   </item>
 </channel>

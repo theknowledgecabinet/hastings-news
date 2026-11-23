@@ -3,6 +3,7 @@ layout: story
 title: Hastings council seeks researchers to measure creative industries' economic impact
 permalink: /2026/11/20/hastings-council-seeks-researchers-to-measure-creative-industries/
 date: 2026-11-20 07:44:14 +0000
+updated: '2026-11-23T12:37:21+00:00'
 sid: 232
 day: '2026-11-20'
 edition: morning
@@ -26,6 +27,13 @@ sources:
   name: Hastings Borough Council
 - url: https://www.sussexexpress.co.uk/your-world/call-out-to-creative-and-culture-industry-in-hastings-9361712
   name: Hastings Observer
+updates:
+- date: '2026-11-23T12:37:21+00:00'
+  edition: midday
+  text: Hastings Council has confirmed it is seeking consultants to deliver a detailed assessment of the creative and cultural industries' economic impact, according to The Argus. Proposals for the study must be submitted by 5pm on Thursday, December 31.
+  sources:
+  - url: https://www.theargus.co.uk/news/26747221.hastings-council-plans-study-arts-culture-economy/?ref=rss
+    name: The Argus
 image:
   card:
     url: /assets/media/story/232/card.webp

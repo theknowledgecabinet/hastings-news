@@ -56,6 +56,9 @@ image:
   default: false
 checked: '2026-11-11T12:50:15+00:00'
 related:
+- url: /2026/11/23/bohemia-christmas-free-evening-of-shopping-music-and-crafts-in-st/
+  title: 'Bohemia Christmas: Free evening of shopping, music and crafts in St Leonards'
+  day: '2026-11-23'
 - url: /2026/10/25/gruffalo-parade-to-close-hastings-storytelling-festival-on-the-stade/
   title: Gruffalo parade to close Hastings Storytelling Festival on the Stade
   day: '2026-10-25'

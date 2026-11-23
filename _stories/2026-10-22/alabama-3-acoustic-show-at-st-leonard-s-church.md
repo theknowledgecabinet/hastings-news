@@ -54,12 +54,12 @@ related:
 - url: /2026/11/05/from-hastings-to-the-royal-albert-hall-count-us-in-set-to-perform/
   title: 'From Hastings to the Royal Albert Hall: Count Us IN set to perform'
   day: '2026-11-05'
+- url: /2026/11/23/bohemia-christmas-free-evening-of-shopping-music-and-crafts-in-st/
+  title: 'Bohemia Christmas: Free evening of shopping, music and crafts in St Leonards'
+  day: '2026-11-23'
 - url: /2026/10/25/hastings-philharmonic-choir-to-sing-schubert-and-saint-saens/
   title: Hastings Philharmonic Choir to sing Schubert and Saint-Saëns
   day: '2026-10-25'
-- url: /2026/11/08/swansea-sound-to-open-tour-at-the-piper-in-st-leonards/
-  title: Swansea Sound to open tour at The Piper in St Leonards
-  day: '2026-11-08'
 ---
 {% raw %}
 Alabama 3 are bringing their acoustic show to St Leonard's Church, St Leonards-on-Sea, on Saturday 14 November, the Hastings Independent Press reported.

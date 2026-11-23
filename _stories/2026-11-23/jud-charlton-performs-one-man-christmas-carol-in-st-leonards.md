@@ -59,6 +59,9 @@ related:
 - url: /2026/11/11/liane-carroll-to-give-christmas-concert-at-st-clement-s-for-the-sara/
   title: Liane Carroll to give Christmas concert at St Clement's for the Sara Lee Trust
   day: '2026-11-11'
+- url: /2026/11/23/bohemia-christmas-free-evening-of-shopping-music-and-crafts-in-st/
+  title: 'Bohemia Christmas: Free evening of shopping, music and crafts in St Leonards'
+  day: '2026-11-23'
 ---
 {% raw %}
 Actor Jud Charlton is set to perform a one-man adaptation of Charles Dickens’s A Christmas Carol at the Old Church in St Leonards. The production runs from 8 to 17 December, with two shows daily: a matinee for local schools and an evening performance for families.
