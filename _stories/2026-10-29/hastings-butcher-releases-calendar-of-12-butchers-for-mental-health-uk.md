@@ -63,9 +63,9 @@ related:
 - url: /2026/11/20/uk-disability-history-month-begins-in-hastings/
   title: UK Disability History Month begins in Hastings
   day: '2026-11-20'
-- url: /2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/
-  title: Sculptor Leigh Dyer's steel fins go on sale at At Sea
-  day: '2026-11-05'
+- url: /2026/11/23/hastings-arts-forum-opens-made-for-giving-popup-shop/
+  title: Hastings Arts Forum opens Made for Giving popup shop
+  day: '2026-11-23'
 ---
 {% raw %}
 Steve Fisher of P A Fisher & Son Family Butchers in Hastings is publishing a calendar featuring 12 independent butchers from across Great Britain to raise money for Mental Health UK.

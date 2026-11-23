@@ -62,9 +62,9 @@ related:
 - url: /2026/11/07/the-plough-in-rye-named-among-britain-s-best-pubs/
   title: The Plough in Rye named among Britain's best pubs
   day: '2026-11-07'
-- url: /2026/11/09/rye-bonfire-named-among-the-uk-s-best-bonfire-night-displays/
-  title: Rye Bonfire named among the UK's best Bonfire Night displays
-  day: '2026-11-09'
+- url: /2026/11/23/crowhurst-park-lodges-wins-regional-guest-satisfaction-award/
+  title: Crowhurst Park Lodges wins regional guest satisfaction award
+  day: '2026-11-23'
 ---
 {% raw %}
 Camber Sands Holiday Park, near Rye, has been named one of the lowest-rated holiday parks in the country.

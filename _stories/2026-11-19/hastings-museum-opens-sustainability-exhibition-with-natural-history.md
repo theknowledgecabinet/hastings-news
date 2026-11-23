@@ -55,12 +55,12 @@ related:
 - url: /2026/11/16/eco-arts-magazine-earthworks-launches-at-hastings-museum/
   title: Eco-arts magazine Earthworks launches at Hastings Museum
   day: '2026-11-16'
+- url: /2026/11/23/hastings-arts-forum-opens-made-for-giving-popup-shop/
+  title: Hastings Arts Forum opens Made for Giving popup shop
+  day: '2026-11-23'
 - url: /2026/11/12/new-wheelchair-and-mobility-scooter-support-group-launched-in-hastings/
   title: New wheelchair and mobility scooter support group launched in Hastings
   day: '2026-11-12'
-- url: /2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/
-  title: Sculptor Leigh Dyer's steel fins go on sale at At Sea
-  day: '2026-11-05'
 ---
 {% raw %}
 Hastings Museum & Art Gallery is opening a new sustainability exhibition in partnership with the Natural History Museum and local students.

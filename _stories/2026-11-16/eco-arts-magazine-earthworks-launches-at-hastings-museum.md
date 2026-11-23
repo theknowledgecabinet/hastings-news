@@ -55,12 +55,12 @@ related:
 - url: /2026/11/19/hastings-museum-opens-sustainability-exhibition-with-natural-history/
   title: Hastings Museum opens sustainability exhibition with Natural History Museum and local students
   day: '2026-11-19'
+- url: /2026/11/23/hastings-arts-forum-opens-made-for-giving-popup-shop/
+  title: Hastings Arts Forum opens Made for Giving popup shop
+  day: '2026-11-23'
 - url: /2026/11/12/new-wheelchair-and-mobility-scooter-support-group-launched-in-hastings/
   title: New wheelchair and mobility scooter support group launched in Hastings
   day: '2026-11-12'
-- url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
-  title: New litter bins appear in Hastings under Pride in Place funding
-  day: '2026-10-29'
 ---
 {% raw %}
 A new eco-arts magazine is launching in Hastings on the same day the town's museum opens its new environmentally themed exhibition.

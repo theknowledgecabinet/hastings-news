@@ -56,15 +56,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/23/hastings-arts-forum-opens-made-for-giving-popup-shop/
+  title: Hastings Arts Forum opens Made for Giving popup shop
+  day: '2026-11-23'
 - url: /2026/11/06/seagull-artist-s-gull-version-masterpieces-on-show-in-crown-pub/
   title: Seagull artist's gull-version masterpieces on show in Crown pub
   day: '2026-11-06'
 - url: /2026/11/19/hastings-museum-opens-sustainability-exhibition-with-natural-history/
   title: Hastings Museum opens sustainability exhibition with Natural History Museum and local students
   day: '2026-11-19'
-- url: /2026/11/04/hastings-last-wooden-fishing-boat-felicity-to-be-restored-and/
-  title: Hastings' last wooden fishing boat 'Felicity' to be restored and displayed in Rock-a-Nore
-  day: '2026-11-04'
 ---
 {% raw %}
 The metal sculptor behind several well-known works around Hastings has opened a new line for sale at the At Sea gallery in the Old Town.

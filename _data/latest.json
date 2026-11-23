@@ -1,8 +1,8 @@
 {
- "day": "2026-11-22",
- "label": "Sunday 22 November 2026",
- "issue": 33,
- "edition_label": "Evening edition",
+ "day": "2026-11-23",
+ "label": "Monday 23 November 2026",
+ "issue": 34,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-23",
@@ -50,56 +50,16 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-22",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 9,
-    "low": 6,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 16,
-    "gusts": 33,
-    "direction": "easterly",
-    "sunrise": "07:24",
-    "sunset": "16:02",
-    "summary": "Cloudy. A high of 9°C and a low of 6°C, a moderate breeze from the east, gusting 33 mph. Sunrise 07:24, sunset 16:02."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-22",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 9,
-    "low": 5,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 16,
-    "gusts": 33,
-    "direction": "easterly",
-    "sunrise": "07:24",
-    "sunset": "16:02",
-    "summary": "Cloudy. A high of 9°C and a low of 5°C, a moderate breeze from the east, gusting 33 mph. Sunrise 07:24, sunset 16:02."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-23",
     "code": 3,
     "words": "cloudy",
     "icon": "☁️",
     "high": 7,
     "low": 5,
-    "rain_chance": 4,
+    "rain_chance": 2,
     "rain_mm": 0.0,
-    "wind": 10,
-    "gusts": 21,
+    "wind": 11,
+    "gusts": 23,
     "direction": "easterly",
     "sunrise": "07:26",
     "sunset": "16:01",
@@ -114,10 +74,10 @@
   "icon": "☁️",
   "high": 7,
   "low": 5,
-  "rain_chance": 4,
+  "rain_chance": 2,
   "rain_mm": 0.0,
-  "wind": 10,
-  "gusts": 21,
+  "wind": 11,
+  "gusts": 23,
   "direction": "easterly",
   "sunrise": "07:26",
   "sunset": "16:01",
@@ -137,6 +97,11 @@
   "title": "Coastguard boat and six crew lost in 1834 rescue attempt"
  },
  "days": [
+  {
+   "day": "2026-11-23",
+   "url": "/2026/11/23/",
+   "label": "Mon 23 Nov"
+  },
   {
    "day": "2026-11-22",
    "url": "/2026/11/22/",
@@ -201,11 +166,6 @@
    "day": "2026-11-10",
    "url": "/2026/11/10/",
    "label": "Tue 10 Nov"
-  },
-  {
-   "day": "2026-11-09",
-   "url": "/2026/11/09/",
-   "label": "Mon 9 Nov"
   }
  ]
 }
