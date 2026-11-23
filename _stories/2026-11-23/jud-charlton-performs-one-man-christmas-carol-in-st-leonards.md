@@ -26,23 +26,34 @@ sources:
   name: Hastings Online Times
 image:
   card:
-    url: /assets/media/abstract/story-263/card.webp
+    url: /assets/media/story/263/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-263/medium.webp
+    url: /assets/media/story/263/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-263/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/263/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-263/share.jpg
-  color: '#552e16'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/263/share.jpg
+  color: '#423b32'
+  alt: Candle-lit tables inside a historic church hall
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-23T07:11:32+00:00'
 related:
 - url: /2026/11/11/liane-carroll-to-give-christmas-concert-at-st-clement-s-for-the-sara/
