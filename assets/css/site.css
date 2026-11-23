@@ -450,8 +450,21 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
   display: grid; place-items: center; font-size: 28px; color: #fff; background: rgb(0 0 0 / .62); padding-left: 5px; }
 .video-facade:hover .video-play, .video-facade:focus-visible .video-play { background: var(--sea); }
 
-/* The next four stories under the lead: compact cards, two by two on wider screens. */
-.more-leads { display: grid; gap: 0 28px; margin-top: 24px; border-top: 1px solid var(--rule); }
-@media (min-width: 640px) { .more-leads { grid-template-columns: 1fr 1fr; } }
-.more-leads .card { grid-template-columns: 120px 1fr; align-items: start; gap: 14px; }
-.more-leads .card h3 { font-size: 1.05rem; }
+/* Latest: a grid of cards (small picture, section, headline), BBC-style; a compact list on phones. */
+.latest-grid { margin-top: 32px; }
+.tiles { list-style: none; margin: 0; padding: 0; display: grid; gap: 0 24px; }
+.tiles li { border-bottom: 1px solid var(--rule); }
+.tiles a { display: grid; grid-template-columns: 112px 1fr; gap: 12px; padding: 12px 0; text-decoration: none; color: inherit; }
+.tile-media { aspect-ratio: 4 / 3; border-radius: 4px; overflow: hidden; }
+.tile-media img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.tile-text { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.tiles .kicker { color: var(--topic); }
+.tiles .hl { font: 600 1.05rem/1.3 var(--serif); }
+.tiles a:hover .hl { text-decoration: underline; text-underline-offset: 3px; }
+.tiles .hl-meta { font-size: .8rem; color: var(--ink-2); }
+@media (min-width: 640px) {
+  .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+  .tiles li { border: 0; }
+  .tiles a { grid-template-columns: 1fr; padding: 0; gap: 8px; }
+}
+@media (min-width: 900px) { .tiles { grid-template-columns: repeat(4, minmax(0, 1fr)); } }

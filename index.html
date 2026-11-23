@@ -49,18 +49,9 @@ layout: default
     </a>
     <p class="standfirst">{{ lead.description }}</p>
     <p class="byline">By <a href="{{ lead.reporter.url | relative_url }}">{{ lead.reporter.name }}</a> <span class="muted">· {{ lead.date | date: "%A %-d %B, %H:%M" }}</span></p>
-    {%- comment %} The next stories as cards under the lead (four, or two while a paper has few stories), so the
-    column ends level with the one beside it {% endcomment %}
-    {%- assign shown = lead.url %}
-    <div class="more-leads">
-      {%- assign n = 0 %}{% if all.size < 12 %}{% assign cards = 2 %}{% else %}{% assign cards = 4 %}{% endif %}
-      {%- for s in all %}{% if s.url != lead.url and n < cards %}{% assign n = n | plus: 1 %}{% assign shown = shown | append: " " | append: s.url %}
-      {% include card.html story=s %}
-      {%- endif %}{% endfor %}
-    </div>
   </article>
 
-  <aside class="latest">
+  <aside class="side">
     {%- if L.video or L.briefing or L.otd %}
     <section class="tonight" aria-label="Watch, listen and history">
       {%- if L.video %}
@@ -77,22 +68,31 @@ layout: default
       {%- endif %}
     </section>
     {%- endif %}
-    <h2>Latest</h2>
-    <ul class="headlines">
-      {%- assign n = 0 %}
-      {%- assign urls = shown | split: " " %}
-      {%- for s in all %}{% unless urls contains s.url %}{% if n < 4 %}{% assign n = n | plus: 1 %}
-      <li style="--topic: {{ s.colour }}"><a href="{{ s.url | relative_url }}">
-        <span class="kicker">{{ s.section_label }}</span>
-        <span class="hl">{{ s.title }}</span>
-        <span class="hl-meta">{{ s.date | date: "%a %-d %b, %H:%M" }} · {{ s.places | map: "name" | join: ", " }}{% if s.updated %} · <span class="badge">Updated</span>{% endif %}</span>
-      </a></li>
-      {%- endif %}{% endunless %}{% endfor %}
-    </ul>
   </aside>
 </section>
 {%- else %}
 <section class="narrow"><p class="lede">The first edition is on its way.</p></section>
+{%- endif %}
+
+{%- if lead %}
+<section class="latest-grid" aria-label="Latest">
+  <div class="section-head"><h2>Latest</h2></div>
+  <ul class="tiles">
+    {%- assign n = 0 %}
+    {%- for s in all %}{% if s.url != lead.url and n < 8 %}{% assign n = n | plus: 1 %}
+    <li style="--topic: {{ s.colour }}"><a href="{{ s.url | relative_url }}">
+      <div class="tile-media" style="background-color: {{ s.image.color | default: '#dde8ee' }}">
+        {%- if s.image %}<img src="{{ s.image.card.url | relative_url }}" width="{{ s.image.card.w }}" height="{{ s.image.card.h }}" alt="" loading="lazy" decoding="async">{% endif %}
+      </div>
+      <div class="tile-text">
+        <span class="kicker">{{ s.section_label }}</span>
+        <span class="hl">{{ s.title }}</span>
+        <span class="hl-meta">{{ s.date | date: "%a %-d %b, %H:%M" }} · {{ s.places | map: "name" | join: ", " }}{% if s.updated %} · <span class="badge">Updated</span>{% endif %}</span>
+      </div>
+    </a></li>
+    {%- endif %}{% endfor %}
+  </ul>
+</section>
 {%- endif %}
 
 <section class="desk" aria-label="Sections">
