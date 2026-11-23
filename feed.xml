@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Hastings Daily</title>
   <link>https://theknowledgecabinet.github.io/hastings-news/</link>
@@ -14,6 +14,9 @@
     <pubDate>Mon, 23 Nov 2026 07:11:31 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Actor Jud Charlton is set to perform a one-man adaptation of Charles Dickens’s A Christmas Carol at the Old Church in St Leonards. The production runs from 8 to 17 December, with two shows daily: a matinee for local schools and an evening performance for families.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/263/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Crowhurst Park Lodges wins regional guest satisfaction award</title>
@@ -22,6 +25,9 @@
     <pubDate>Mon, 23 Nov 2026 07:08:41 +0000</pubDate>
     <category>Business</category>
     <description>Crowhurst Park Lodges in Battle has been named the Relax &amp; Explore Small Park destination in the South of England. The holiday park received the honour at Hoseasons’ 21st annual Diamond Awards, which celebrate UK holiday parks and lodge resorts rated highest by guests during the 2026 season.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/262/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings Arts Forum opens Made for Giving popup shop</title>
@@ -30,6 +36,9 @@
     <pubDate>Mon, 23 Nov 2026 07:07:44 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A popup shop called Made for Giving opens at the Hastings Arts Forum in Marine Court on Wednesday 25 November. The exhibition features original gifts from 20 local artists, makers, and designers, including paintings, ceramics, textiles, and jewellery.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/261/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Marianne North Centre hosts Victorian orchid talk in Hastings</title>
@@ -38,6 +47,9 @@
     <pubDate>Mon, 23 Nov 2026 07:07:41 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The Marianne North Centre is hosting a talk and Q&amp;A session with author Professor Sarah Bilston on Sunday 6 December.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/260/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>On this day, 1867: No 1 Battery raised at St Leonards in 1867</title>
@@ -46,6 +58,9 @@
     <pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>No 1 Battery at St Leonards was originally designated as the 7th Cinque Ports Artillery Volunteer Corps and was raised on 23 November 1867. The unit formed part of the broader Volunteer Movement that emerged following an invasion scare in 1859. This enthusiasm led to the creation of many part-time units, including coastal artillery corps along the Kent and Sussex coast, which were later brought together to form the 1st Cinque Ports Artillery Volunteers at Dover in September 1862.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/20/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill United clear Midhurst and Easebourne 5-1, move to sixth</title>
@@ -54,6 +69,9 @@
     <pubDate>Sun, 22 Nov 2026 21:18:59 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Bexhill United ran out comfortable winners at Polegrove on Saturday, beating Midhurst and Easebourne 5-1 in the latest of a long run of fixtures at the ground that has seen the Pirates climb steadily up the table.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/259/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Update: Hastings Cabinet to discuss fee freeze and heritage funding on 9 November</title>
@@ -70,6 +88,8 @@
     <pubDate>Sun, 22 Nov 2026 13:07:28 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Four performers are turning the Downstairs Bar at the White Rock Hotel into a day of comedy and creative writing on the Hastings seafront.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/258/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Hastings man Harun Yildiz jailed for eight years for rape</title>
@@ -78,6 +98,9 @@
     <pubDate>Sun, 22 Nov 2026 10:58:13 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A man from Hastings has been jailed for raping a woman, police said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/254/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Simpler disability allowance set for East Sussex care users</title>
@@ -86,6 +109,9 @@
     <pubDate>Sun, 22 Nov 2026 10:58:13 +0000</pubDate>
     <category>Council</category>
     <description>People in East Sussex who pay towards adult social care will get a simpler way to claim support for disability-related costs, the county council has approved.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/255/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Quit-smoking support brought to Conquest emergency department</title>
@@ -94,6 +120,8 @@
     <pubDate>Sun, 22 Nov 2026 10:48:07 +0000</pubDate>
     <category>Council</category>
     <description>Smokers in Conquest Hospital&#x27;s emergency department can now get support to quit while they are in hospital.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/253/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Political accountability: County cabinet decisions on care payments and highway policy</title>
@@ -102,6 +130,9 @@
     <pubDate>Sun, 22 Nov 2026 10:11:16 +0000</pubDate>
     <category>Council</category>
     <description>The most significant items for the area this week were decisions published by the county council&#x27;s lead cabinet members. At the Lead Member for Adult Social Care and Health meeting on Thursday 19 November at 2.00 pm, three decisions were published: the net to gross residential and nursing provider payments business case, the extension of the Integrated Health and Wellbeing Service contract, and proposed changes to Disability Related Expenditure. Area councillor Mark Estcourt was present. Councillor Johnny Denis (Green Party) declared a personal interest as the Lewes District Council cabinet member for community wellbeing, arts, culture, tourism and leisure, and did not consider it to be prejudicial.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/252/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Political accountability: Hastings and Rye MP takes part in every vote of the week</title>
@@ -110,6 +141,9 @@
     <pubDate>Sun, 22 Nov 2026 10:02:00 +0000</pubDate>
     <category>Politics</category>
     <description>This week&#x27;s official record for the MP for Hastings and Rye shows a week of routine votes and written answers, with no item relating to the constituency. Helena Dollimore, the Labour (Co-operative) MP for Hastings and Rye, took part in all ten recorded votes in the Commons.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/248/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Political accountability: Bexhill and Battle MP raises Beckley school PE funding</title>
@@ -118,6 +152,9 @@
     <pubDate>Sun, 22 Nov 2026 10:02:00 +0000</pubDate>
     <category>Politics</category>
     <description>The most local item of the week was a Topical Question on Monday about physical education funding at a school in the constituency. Dr Kieran Mullan, the Conservative MP for Bexhill and Battle, said that teachers at Beckley Church of England primary school, as well as parents of pupils, had contacted him about the impact of the Government&#x27;s reforms to the way physical education is funded in schools on the school&#x27;s provision, in which there had been a massive drop. He asked the Minister whether she would agree to meet him to discuss what is happening in Beckley and at other schools.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/249/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Political accountability: Hastings Museum Committee meets, minutes not yet published</title>
@@ -126,6 +163,8 @@
     <pubDate>Sun, 22 Nov 2026 10:02:00 +0000</pubDate>
     <category>Council</category>
     <description>The Museum Committee met on Monday 16 November; no minutes are published yet, so no decisions are on the record. An officers&#x27; report to the committee said 37,510 people visited the museum in 2025/26 and recommended that the report be accepted and approval recommended to Cabinet.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/250/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Political accountability: Rother licensing panel considers Battle premises licence</title>
@@ -134,6 +173,9 @@
     <pubDate>Sun, 22 Nov 2026 10:02:00 +0000</pubDate>
     <category>Council</category>
     <description>The main local item this week came from the Licensing and General Purposes Committee&#x27;s General Licensing Panel on Monday 16 November at 10.00 am, whose minutes have been published. The panel appointed Councillor Biggs as chair and considered the report on an application for a premises licence at Battle Abbey School Boarding House, Whatlington Road, Battle. The application covers regulated entertainment, late night refreshment and alcohol sales indoors and outdoors within the premises, Monday to Sunday, 12.00 to 00.30.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/251/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>On this day, 1834: Coastguard boat and six crew lost in 1834 rescue attempt</title>
@@ -142,6 +184,9 @@
     <pubDate>Sun, 22 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>On 20 November 1834, a Coastguard boat and her six crew were lost whilst attempting to rescue the crew of the collier Good Intent. This tragedy occurred just four years after the French lugger La Constance was driven ashore at Fairlight in 1830, an event that had previously seen two coastguard officers awarded RNIPLS Gold Medals for their rescue efforts in heavy snow and violent seas.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/19/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>County council protects payments to Ukrainian family hosts</title>
@@ -150,6 +195,9 @@
     <pubDate>Sat, 21 Nov 2026 18:30:00 +0000</pubDate>
     <category>Council</category>
     <description>East Sussex County Council has stepped in to protect payments to families hosting Ukrainian refugees after the government said the &#x27;thank you&#x27; payment would fall from £350 to £100 a month from January 2027.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/256/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>County secures £2.9m in road maintenance funding after transparency report</title>
@@ -158,6 +206,9 @@
     <pubDate>Sat, 21 Nov 2026 18:30:00 +0000</pubDate>
     <category>Council</category>
     <description>East Sussex County Council has secured £2.9 million of incentive funding from the Department for Transport for road maintenance after publishing its Highway Maintenance Transparency Report.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/257/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill pedestrian safety improved with relocated Sea Road zebra crossing</title>
@@ -166,6 +217,9 @@
     <pubDate>Sat, 21 Nov 2026 12:53:43 +0000</pubDate>
     <category>Council</category>
     <description>A zebra crossing in Bexhill has been moved and widened after work to improve pedestrian safety on Sea Road was completed, the county council has confirmed.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/245/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Rother residents asked for views on waste and recycling collections</title>
@@ -174,6 +228,9 @@
     <pubDate>Sat, 21 Nov 2026 12:53:43 +0000</pubDate>
     <category>Council</category>
     <description>Residents across Rother are being asked for their views on the district&#x27;s waste and recycling collections, Rother District Council has said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/246/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings charity secretary speaks out for mothers separated from their children</title>
@@ -182,6 +239,9 @@
     <pubDate>Sat, 21 Nov 2026 12:53:43 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A Hastings-based charity secretary has talked about the mothers living apart from their children, who still feel judged, she says.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/247/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings Pier owner faces fraud trial in Brighton</title>
@@ -190,6 +250,9 @@
     <pubDate>Sat, 21 Nov 2026 07:28:28 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A trial by jury has opened for the owner of Hastings Pier over allegations of fraud, a court heard.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/239/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings water supply under pressure as reservoir stands at 41 per cent</title>
@@ -198,6 +261,9 @@
     <pubDate>Sat, 21 Nov 2026 07:28:28 +0000</pubDate>
     <category>Council</category>
     <description>Hastings households are being told the area&#x27;s water supply is running well below normal levels, and that winter rain is now needed to top up reservoirs, rivers and groundwater.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/240/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings women take to seafront to support &#x27;Lift the Curfew&#x27; campaign</title>
@@ -206,6 +272,9 @@
     <pubDate>Sat, 21 Nov 2026 07:28:28 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>More than 30 women took to the Hastings seafront on a Wednesday evening at the end of October, torches and hi-vis in hand, to back a national campaign on women&#x27;s safety when exercising outdoors in the dark.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/241/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>On this day, 1997: Michael Foster makes his maiden speech in Parliament</title>
@@ -214,6 +283,9 @@
     <pubDate>Sat, 21 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>Michael Foster made his maiden speech on 21 November 1997. He had won the Hastings and Rye seat at the 1997 General Election, where he became the second least expected Labour MP in the landslide. In that election, he defeated the new sitting Conservative MP, Jacqui Lait, by 2,560 votes. Foster served as the Member of Parliament for Hastings and Rye from 1997 to 2010. He was a British lawyer and Labour politician who also served in government as a Minister for Equalities from 2009 to 2010. Foster was born in Hastings, Sussex, and attended the local Hastings Secondary School for Boys and the Hastings Grammar School. He later attended the University of Leicester, where he received a Master of Laws degree. He was admitted as a solicitor in 1980 and worked as a partner of Fynmores Solicitors in Bexhill-on-Sea, specialising in employment law, until 1998.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/18/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Update: Bird deaths spark campaign to remove netting in Hastings and Rother</title>
@@ -238,6 +310,9 @@
     <pubDate>Fri, 20 Nov 2026 18:30:00 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>More than £20,000 of illegal tobacco has been seized from shops across East Sussex in a major operation to tackle money laundering.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/242/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Battle resident wins £100 of high street vouchers in Solar Town draw</title>
@@ -246,6 +321,9 @@
     <pubDate>Fri, 20 Nov 2026 18:30:00 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A Battle resident has won £100 worth of vouchers to spend at independent shops in the town after winning the first prize draw for Battle Solar Town&#x27;s community solar survey.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/243/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Volunteers invited to care for Rother&#x27;s micro woods during Tree Week</title>
@@ -254,6 +332,9 @@
     <pubDate>Fri, 20 Nov 2026 18:30:00 +0000</pubDate>
     <category>Council</category>
     <description>Residents are being invited to help look after three community micro woods across Rother during National Tree Week, which runs from 21 to 29 November.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/244/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Metal Christmas tree returns to Hastings town centre</title>
@@ -262,6 +343,9 @@
     <pubDate>Fri, 20 Nov 2026 12:59:28 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The illuminated metal Christmas tree has returned to Hastings town centre for a second year, and with it the debate has returned.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/238/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Christmas parking concessions in Battle, Bexhill, Rye and Little Common</title>
@@ -270,6 +354,9 @@
     <pubDate>Fri, 20 Nov 2026 12:54:52 +0000</pubDate>
     <category>Council</category>
     <description>Rother District Council has published its Christmas parking concessions, with charges suspended in a selection of off-street car parks across Battle, Bexhill, Little Common and Rye from late November through December.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/235/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Smudger&#x27;s Charity Golf Day raises over £7,500 for two local causes</title>
@@ -278,6 +365,9 @@
     <pubDate>Fri, 20 Nov 2026 12:54:52 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The 18th Smudger&#x27;s Charity Golf Day has raised more than £7,500, taking the total raised since the charity launched to more than £110,000, the Hastings Observer reports.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/236/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Planning roundup: new houses, surgery flats and games area among latest applications</title>
@@ -286,6 +376,9 @@
     <pubDate>Fri, 20 Nov 2026 12:54:52 +0000</pubDate>
     <category>Council</category>
     <description>Proposals for four new houses, the conversion of a former GP surgery into flats and a new outdoor sports facility are among the latest planning applications submitted to Hastings Borough Council, the Hastings Observer reports.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/237/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Refugee resettlement project reports 264 moved into work or education</title>
@@ -294,6 +387,8 @@
     <pubDate>Fri, 20 Nov 2026 07:44:14 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council&#x27;s Resettlement Employability Project has supported more than 384 people since launching in 2023, with 264 participants moving into employment or education, the council said. That includes 56 people so far this year.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/231/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Hastings council seeks researchers to measure creative industries&#x27; economic impact</title>
@@ -302,6 +397,9 @@
     <pubDate>Fri, 20 Nov 2026 07:44:14 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has issued a call out to consultants and research teams to undertake a study of what the creative and cultural industries bring to the town&#x27;s economy.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/232/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>UK Disability History Month begins in Hastings</title>
@@ -310,6 +408,9 @@
     <pubDate>Fri, 20 Nov 2026 07:44:14 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>UK Disability History Month has begun, running until Saturday 19 December, Hastings Borough Council has said. The month celebrates the achievements and contributions of disabled people and encourages reflection on how to create a more inclusive society.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/233/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Battle Town Council marks Remembrance Day and sets festive dates</title>
@@ -318,6 +419,9 @@
     <pubDate>Fri, 20 Nov 2026 07:44:14 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Around 150 people gathered on the Battle Abbey Apron for the town&#x27;s Remembrance Day ceremony, Battle Town Council said. Pupils from Battle &amp; Langton CE Primary School, Claverham Community College and Netherfield CE Primary School gave readings, the Battle Abbey School Choir performed, and the Battle Bonfire Boyes fired the maroon to mark the two-minute silence.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/234/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>On this day, 1928: Funerals held for the crew of the Mary Stanford lifeboat</title>
@@ -326,6 +430,8 @@
     <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>On Tuesday 20 November 1928, five days after the RNLI lifeboat Mary Stanford capsized and the entire crew of 17 was lost, the town of Rye gathered for the funerals of fifteen of the men, buried in a communal grave.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/17/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Green Automotive Centre of Excellence opens at Ore Valley campus</title>
@@ -334,6 +440,9 @@
     <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
     <category>Council</category>
     <description>A new Green Automotive Centre of Excellence has opened at East Sussex College Group&#x27;s Ore Valley campus in Hastings.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/227/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill councillor raises pedestrian safety concerns over 146 homes plan</title>
@@ -342,6 +451,9 @@
     <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
     <category>Council</category>
     <description>A Bexhill councillor has raised concerns over pedestrian safety as part of proposals to build 146 new homes on land off Spindlewood Drive in Little Common.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/228/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings veteran to walk 40 miles for two local charities</title>
@@ -350,6 +462,8 @@
     <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>John Holland-Hobbs from Hastings will walk 40 miles in 12 hours on Saturday 28 November to raise funds for the East Sussex Veterans Hub and the Hastings and Rother Ukrainian Branch.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/229/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Christmas Tree Festival returns to St Clements Church</title>
@@ -358,6 +472,8 @@
     <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>St Clements Church in Hastings Old Town is holding its popular Christmas Tree Festival from Saturday 28 November.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/230/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Hastings Museum opens sustainability exhibition with Natural History Museum and local students</title>
@@ -366,6 +482,8 @@
     <pubDate>Thu, 19 Nov 2026 12:53:09 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Museum &amp; Art Gallery is opening a new sustainability exhibition in partnership with the Natural History Museum and local students.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/226/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Police appeal for witnesses after alleged assault in Hastings town centre</title>
@@ -374,6 +492,9 @@
     <pubDate>Thu, 19 Nov 2026 12:48:59 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police are asking for witnesses after an alleged assault in Hastings town centre.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/223/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Work set to begin on new £1.2m Loungers restaurant at Bexhill Colonnade</title>
@@ -382,6 +503,8 @@
     <pubDate>Thu, 19 Nov 2026 12:48:59 +0000</pubDate>
     <category>Business</category>
     <description>Work is set to begin on a new restaurant at the Colonnade in Bexhill after plans were approved by Rother District Council.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/224/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Rye man receives East Sussex Divisional Commendation for public service</title>
@@ -390,6 +513,9 @@
     <pubDate>Thu, 19 Nov 2026 12:48:59 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A Rye resident has received a special award from Sussex Police for his services to community safety across Hastings and Rother.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/225/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings council approves £4.4 million for playgrounds, padel courts and heritage repairs</title>
@@ -398,6 +524,9 @@
     <pubDate>Thu, 19 Nov 2026 09:54:39 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has approved more than £4.4 million for projects across the town, covering playgrounds, sports facilities and improving some of the town&#x27;s best-known historic attractions, The Argus reported.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/222/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Battle and Rye both win in East Sussex League weekend</title>
@@ -406,6 +535,9 @@
     <pubDate>Thu, 19 Nov 2026 07:43:19 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Battle Town and Rye Town both won in Saturday&#x27;s East Sussex Football League Premier Division matches, according to the Hastings Observer.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/221/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>On this day, 1910: Royal Cinema de Luxe held its opening night at Pelham Place</title>
@@ -414,6 +546,8 @@
     <pubDate>Thu, 19 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>On 19 November 1910, a thousand people turned up at the opening night of the Royal Cinema de Luxe at Pelham Place, the Sussex Express reported.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/16/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Hastings man found guilty of multiple rapes, police say</title>
@@ -422,6 +556,9 @@
     <pubDate>Wed, 18 Nov 2026 18:57:05 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A Hastings man has been found guilty of five rapes and three other sexual offences, police said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/217/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings asking rents up to 23% above ONS average, housing data shows</title>
@@ -430,6 +567,9 @@
     <pubDate>Wed, 18 Nov 2026 18:57:05 +0000</pubDate>
     <category>Council</category>
     <description>Median asking rents in Hastings are running well above the official average, with the gap on three-bedroom homes reaching 23%, housing website Dwellio says.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/218/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings RNLI fish supper raises £920 at Old Town Fryer</title>
@@ -438,6 +578,9 @@
     <pubDate>Wed, 18 Nov 2026 18:57:05 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The annual Hastings RNLI fish supper has raised £920, with a sell-out crowd at the Old Town Fryer in Hastings Old Town.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/219/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Rye College marks World Kindness Day with school-wide events</title>
@@ -446,6 +589,9 @@
     <pubDate>Wed, 18 Nov 2026 18:57:05 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Rye College marked World Kindness Day with a series of activities built around its &quot;Be Kind&quot; value, as part of the school&#x27;s Values Celebration Days.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/220/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Rye Harbour marks anniversary of Mary Stanford lifeboat disaster</title>
@@ -454,6 +600,9 @@
     <pubDate>Wed, 18 Nov 2026 13:00:58 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A service and wreath laying took place at Rye Harbour Church on Sunday 15 November to remember the 17 crew members of the Mary Stanford lifeboat who lost their lives in 1928.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/215/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings Lions donate more than £8,000 to local causes</title>
@@ -462,6 +611,9 @@
     <pubDate>Wed, 18 Nov 2026 13:00:58 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Hastings Lions has donated more than £8,000 to local causes.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/216/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Update: Alcohol licence bid for Rye tea room goes to council panel</title>
@@ -478,6 +630,9 @@
     <pubDate>Wed, 18 Nov 2026 12:54:39 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has warned dog owners that fines are in force under an updated dog control order.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/213/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Officers visit East Sussex College to talk to students about knife crime</title>
@@ -486,6 +641,9 @@
     <pubDate>Wed, 18 Nov 2026 12:54:39 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police have been visiting East Sussex College to talk to students about knife crime.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/214/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>10cc to play Hastings White Rock Theatre in May 2027</title>
@@ -494,6 +652,9 @@
     <pubDate>Wed, 18 Nov 2026 07:29:50 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The 10cc will play a greatest hits show at the White Rock Theatre on Wednesday 20 May 2027, the band&#x27;s booking for the town has been announced.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/210/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>A259 Little Common Road, Bexhill, blocked after multi-vehicle collision</title>
@@ -502,6 +663,9 @@
     <pubDate>Wed, 18 Nov 2026 07:29:50 +0000</pubDate>
     <category>Traffic &amp; roadworks</category>
     <description>A collision involving multiple vehicles was reported on the A259 Little Common Road in Bexhill on Tuesday evening.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/211/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Morris dancers close Hastings Old Town Cider Festival at the Crown</title>
@@ -510,6 +674,9 @@
     <pubDate>Wed, 18 Nov 2026 07:29:50 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Hastings&#x27; newest Morris dance side, The Molly Winklers, danced at the Crown pub in All Saints Street on Saturday as the final act of the Old Town Cider Festival.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/212/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>On this day, 1886: Hastings-born filmmaker Geoffrey Malins born in 1886</title>
@@ -518,6 +685,9 @@
     <pubDate>Wed, 18 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>On this day in 1886, Arthur Herbert Malins was born in Hastings, Sussex. He would later change his name to Geoffrey Herbert Malins and become a British film director, most famous for his camera and editing work on the 1916 war film The Battle of the Somme. This production combined documentary and propaganda, reaching an audience of over 20 million viewers.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/23/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Director fined over fire safety breaches at Hastings York Gardens</title>
@@ -526,6 +696,9 @@
     <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A property company and its sole director have been fined over fire safety breaches at premises in Hastings.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/206/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings housing co-operative to dissolve after a year at 5 Harold Place</title>
@@ -534,6 +707,9 @@
     <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>A Hastings housing co-operative has announced it is to be dissolved, having been unable to continue.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/207/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Alcohol licence bid for Rye tea room goes to council panel</title>
@@ -542,6 +718,9 @@
     <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>An application for an alcohol licence for a new tea room and wine bar in Rye is to be considered by Rother District Council.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/208/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Claremont School submits plans for games area at Clyde House</title>
@@ -550,6 +729,9 @@
     <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
     <category>Council</category>
     <description>A St Leonards boarding school has put forward plans to build an outdoor sports facility on a property it owns.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/209/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Update: Bexhill GP surgery closed today over &#x27;unforeseen circumstances&#x27;</title>
@@ -566,6 +748,9 @@
     <pubDate>Tue, 17 Nov 2026 12:44:38 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police are urgently searching for a 39-year-old woman who is missing from St Leonards.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/204/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings Old Town Carnival donates over £5,000 to local good causes</title>
@@ -574,6 +759,9 @@
     <pubDate>Tue, 17 Nov 2026 12:44:38 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>The Hastings Old Town Carnival Association has donated more than £5,000 to local charities after a successful Old Town Week.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/205/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Battle duo take on South Downs Trail Run to fund Hastings girl&#x27;s therapy</title>
@@ -582,6 +770,9 @@
     <pubDate>Tue, 17 Nov 2026 08:30:31 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Two bricklayers from Battle are taking on the South Downs Trail Run on 28 November to help an 11-year-old Hastings gymnast continue her rehabilitation.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/203/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings council to freeze most parking charges in 2027/28</title>
@@ -590,6 +781,9 @@
     <pubDate>Tue, 17 Nov 2026 07:40:58 +0000</pubDate>
     <category>Council</category>
     <description>Hastings council has confirmed plans to freeze most pay-and-display parking charges for 2027/28, following three years of increases. Cabinet members backed the proposals on Monday (9 November) ahead of a full council vote.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/200/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill care home manager shortlisted for East Sussex Care Award</title>
@@ -598,6 +792,8 @@
     <pubDate>Tue, 17 Nov 2026 07:40:58 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Fiona Yurteri, Home Manager at Care UK&#x27;s Southlands Place on Hastings Road in Bexhill-on-Sea, has been shortlisted for the Leader of the Year Award at the East Sussex Care Awards 2026.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/abstract/story-201/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Bexhill school opens weekly performing arts stage for local children</title>
@@ -606,6 +802,9 @@
     <pubDate>Tue, 17 Nov 2026 07:40:58 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Mulberry Academy Bexhill has launched Ready Set Perform, a weekly performing arts class open to any child in Years 4 to 7, whatever school they attend.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/202/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>On this day, 1908: Father Eden dies in office at Ticehurst</title>
@@ -614,6 +813,9 @@
     <pubDate>Tue, 17 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>Rev. Arthur Eden died in office on 17 November 1908 at St Mary&#x27;s Church, Ticehurst. He was subsequently buried in the churchyard on 21 November, surrounded by many loving parishioners and friends. The sentiments of those gathered were summarised by lines written about him by parishioner William J. Courthope, who was sometime Professor of Poetry at Oxford.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/22/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Pilot Field power works to finish by early December, MP says</title>
@@ -622,6 +824,9 @@
     <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
     <category>Politics</category>
     <description>UK Power Networks has been working on an underground electrical main in the Pilot Field area of Hastings, and the works have caused a number of power cuts and noisy temporary generators in the neighbourhood in recent months.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/196/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Conquest Hospital Radio wins King&#x27;s Award</title>
@@ -630,6 +835,8 @@
     <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Conquest Hospital Radio, the volunteer-run station that has been bringing music and company into hospitals in Hastings and the Rother for more than 50 years, has received a King&#x27;s Award, the highest recognition given to voluntary organisations in the UK.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/197/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Police appeal after two &#x27;deliberate&#x27; vehicle fires in Bewbush</title>
@@ -638,6 +845,8 @@
     <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police are appealing for witnesses after two vehicle fires in Bewbush, which are being treated as deliberate.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/198/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>HMS Prince of Wales spotted off the Hastings coast</title>
@@ -646,6 +855,8 @@
     <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Royal Navy aircraft carrier HMS Prince of Wales passed the Hastings coast on the morning of Monday 16 November, according to local photographer Marie Richardson, who captured the picture.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/199/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
 </channel>
 </rss>

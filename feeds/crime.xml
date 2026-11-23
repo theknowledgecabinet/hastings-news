@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Hastings Daily: Crime &amp; courts</title>
   <link>https://theknowledgecabinet.github.io/hastings-news/section/crime/</link>
@@ -14,6 +14,9 @@
     <pubDate>Sun, 22 Nov 2026 10:58:13 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A man from Hastings has been jailed for raping a woman, police said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/254/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings Pier owner faces fraud trial in Brighton</title>
@@ -22,6 +25,9 @@
     <pubDate>Sat, 21 Nov 2026 07:28:28 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A trial by jury has opened for the owner of Hastings Pier over allegations of fraud, a court heard.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/239/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>More than £20,000 of illegal tobacco seized from East Sussex shops</title>
@@ -30,6 +36,9 @@
     <pubDate>Fri, 20 Nov 2026 18:30:00 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>More than £20,000 of illegal tobacco has been seized from shops across East Sussex in a major operation to tackle money laundering.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/242/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police appeal for witnesses after alleged assault in Hastings town centre</title>
@@ -38,6 +47,9 @@
     <pubDate>Thu, 19 Nov 2026 12:48:59 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police are asking for witnesses after an alleged assault in Hastings town centre.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/223/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings man found guilty of multiple rapes, police say</title>
@@ -46,6 +58,9 @@
     <pubDate>Wed, 18 Nov 2026 18:57:05 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A Hastings man has been found guilty of five rapes and three other sexual offences, police said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/217/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Officers visit East Sussex College to talk to students about knife crime</title>
@@ -54,6 +69,9 @@
     <pubDate>Wed, 18 Nov 2026 12:54:39 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police have been visiting East Sussex College to talk to students about knife crime.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/214/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Director fined over fire safety breaches at Hastings York Gardens</title>
@@ -62,6 +80,9 @@
     <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A property company and its sole director have been fined over fire safety breaches at premises in Hastings.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/206/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Urgent 999 appeal as officers search for missing St Leonards woman</title>
@@ -70,6 +91,9 @@
     <pubDate>Tue, 17 Nov 2026 12:44:38 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police are urgently searching for a 39-year-old woman who is missing from St Leonards.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/204/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police appeal after two &#x27;deliberate&#x27; vehicle fires in Bewbush</title>
@@ -78,6 +102,8 @@
     <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police are appealing for witnesses after two vehicle fires in Bewbush, which are being treated as deliberate.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/198/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Police appeal to identify man found on Rottingdean beach</title>
@@ -86,6 +112,9 @@
     <pubDate>Sun, 15 Nov 2026 13:06:16 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police have appealed for help to identify a man found dead on Rottingdean beach in October, who is still unknown.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/187/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Sussex Police warn against uninsured drivers with roadside checks</title>
@@ -94,6 +123,9 @@
     <pubDate>Sat, 14 Nov 2026 18:50:58 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police have warned motorists against uninsured driving, with officers carrying out roadside checks this week in the Eastbourne and Wealden area.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/184/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Shoplifter jailed for thefts across Sussex after £31,000 spree</title>
@@ -102,6 +134,9 @@
     <pubDate>Sat, 14 Nov 2026 07:22:18 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Brendan Brain, 39, of Waterlooville, Hampshire, has been jailed for a spree of shoplifting and burglary that stretched across Sussex and ten other counties, Sussex Police said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/180/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Aldwick man jailed for 15 years over murder of his wife</title>
@@ -110,6 +145,9 @@
     <pubDate>Fri, 13 Nov 2026 20:15:06 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Michael Pyke, 79, of Aldwick, has been jailed for 15 years for the murder of his wife, Sussex Police have confirmed.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/177/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police appeal for information over St Leonards burglary</title>
@@ -118,6 +156,9 @@
     <pubDate>Fri, 13 Nov 2026 12:58:56 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police are appealing for information in connection with a burglary in Eversfield Place, St Leonards.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/176/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Southwick man jailed for 12 years over £2m jewellery and gold scams</title>
@@ -126,6 +167,9 @@
     <pubDate>Fri, 13 Nov 2026 07:45:28 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>James Charles, 49, of Roman Crescent, Southwick, has been jailed for 12 years after running a major fraud operation through his companies, Sussex Police said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/172/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police appeal for information after St Leonards building vandalised</title>
@@ -134,6 +178,9 @@
     <pubDate>Thu, 12 Nov 2026 19:10:02 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police have appealed for witnesses after windows were smashed and graffiti was daubed on a building in St Leonards.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/168/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police &#x27;urgently searching&#x27; for 14-year-old girl missing from Bexhill</title>
@@ -142,6 +189,9 @@
     <pubDate>Thu, 12 Nov 2026 12:49:06 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police are urgently searching for a 14-year-old girl who has been missing from Bexhill since Tuesday (November 10).</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/165/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Former Bexhill teacher jailed for raping and sexually assaulting a child</title>
@@ -150,6 +200,9 @@
     <pubDate>Thu, 12 Nov 2026 07:42:36 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A former teacher from Bexhill has been jailed for raping and sexually assaulting a child, Sussex Police said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/160/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Man charged with theft after evading police across railway line at Rye</title>
@@ -158,6 +211,9 @@
     <pubDate>Wed, 11 Nov 2026 19:18:20 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A 45-year-old man has been charged with theft after stealing alcohol worth £130 from Jempsons supermarket at Rye.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/157/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police seek man over theft of cash from Bexhill M&amp;S</title>
@@ -166,6 +222,9 @@
     <pubDate>Wed, 11 Nov 2026 12:47:32 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police is seeking a man in connection with the theft of cash from the Marks and Spencer store in Ravenside Retail Park, Bexhill.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/152/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Two men charged with murder of Bexhill cyclist</title>
@@ -174,6 +233,9 @@
     <pubDate>Wed, 11 Nov 2026 08:25:29 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Two men have appeared at Lewes Crown Court, charged with the murder of a Bexhill cyclist, Sussex Police have said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/147/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police launch manhunt for man wanted for recall to prison</title>
@@ -182,6 +244,9 @@
     <pubDate>Sun, 08 Nov 2026 18:52:40 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police have launched a manhunt for a man wanted for recall to prison and are asking anyone who sees him to call 999.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/136/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Two Sussex police officers charged over assault of detained man</title>
@@ -190,6 +255,9 @@
     <pubDate>Sun, 08 Nov 2026 08:12:10 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Two Sussex Police officers have been charged with assault occasioning actual bodily harm over an incident involving a man detained in hospital under the Mental Health Act, according to the Independent Office for Police Conduct (IOPC).</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/134/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Driver jailed for 13 months after 104mph police pursuit ended in ditch</title>
@@ -198,6 +266,9 @@
     <pubDate>Thu, 05 Nov 2026 19:52:43 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A disqualified driver has been jailed for 13 months after leading police on a 31-minute pursuit through Hastings, Winchelsea and Rye that ended in a ditch in Iden.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/115/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Man pleads guilty to shoplifting across Hastings and Rother</title>
@@ -206,6 +277,9 @@
     <pubDate>Thu, 05 Nov 2026 13:53:42 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A 45-year-old man from Winchelsea Beach has been charged in connection with a series of shop theft offences across Hastings and Rother.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/114/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Car wash owner sentenced over illegal workers</title>
@@ -214,6 +288,9 @@
     <pubDate>Wed, 04 Nov 2026 08:17:32 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A car wash owner in Hastings has been sentenced after illegal workers were repeatedly found at his business, Sussex Police said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/98/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police increase patrols in Eldridge Way area of St Leonards</title>
@@ -222,6 +299,9 @@
     <pubDate>Tue, 03 Nov 2026 19:22:39 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police said they are increasing patrols in and around Eldridge Way, St Leonards, near The Ridge, following reports of anti-social behaviour from local residents.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/96/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police make 18 weekend arrests in Hastings and Rother</title>
@@ -230,6 +310,9 @@
     <pubDate>Tue, 03 Nov 2026 19:18:06 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police made 18 arrests in Hastings and Rother between 30 October and 1 November, a spokesperson said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/94/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Man convicted of 18 offences after shop thefts in Hastings</title>
@@ -238,6 +321,9 @@
     <pubDate>Mon, 02 Nov 2026 19:24:23 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Tom Marchant, 44, of no fixed address, has been convicted of 18 offences after a series of shop thefts in Hastings, Sussex Police have reported.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/82/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police appeal to find Orion, 15, last seen in St Leonards</title>
@@ -246,6 +332,9 @@
     <pubDate>Sun, 01 Nov 2026 13:07:27 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police are appealing to the public to help find a missing 15-year-old boy who was last seen in St Leonards on Saturday (31 October).</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/74/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>New police policy will see illegal e-bikes and e-scooters seized from Sunday</title>
@@ -254,6 +343,9 @@
     <pubDate>Fri, 30 Oct 2026 19:19:29 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police and Surrey Police have introduced a tougher policy under which riders caught using illegal electric vehicles in public could have their vehicles seized and destroyed.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/66/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police appeal after car and horse rider incident in Bexhill</title>
@@ -262,6 +354,9 @@
     <pubDate>Fri, 30 Oct 2026 12:54:17 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Rother Police are appealing for information following a road traffic incident in the Broad Oak Lane area of Bexhill.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/63/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police step up evening patrols in Rye after reports of anti-social behaviour</title>
@@ -270,6 +365,9 @@
     <pubDate>Wed, 28 Oct 2026 19:03:52 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Officers and police community support officers have continued with reassurance patrols in Rye and the surrounding areas, with particular attention given to Love Lane, Sussex Police has said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/45/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police launch Safer Town Centres campaign and new ASB powers</title>
@@ -278,6 +376,9 @@
     <pubDate>Wed, 28 Oct 2026 13:04:48 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Sussex Police is launching a month-long Safer Town Centres campaign across Sussex, backed by new powers to tackle anti-social behaviour, a police spokesperson said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/42/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Portslade man jailed for eight years for rape and abusive behaviour</title>
@@ -286,6 +387,9 @@
     <pubDate>Wed, 28 Oct 2026 10:36:16 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Paul Savage, 50, of Carlton Terrace, Portslade, was sentenced to eight years&#x27; imprisonment at Lewes Crown Court, a Sussex Police spokesperson said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/35/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police appeal after catapults reported in Bexhill&#x27;s Egerton Park</title>
@@ -294,6 +398,9 @@
     <pubDate>Tue, 27 Oct 2026 12:46:07 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police are appealing for information after reports of animals being targeted with catapults in Egerton Park, Bexhill-on-Sea.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/26/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Man found not guilty of sex offences on Camber Sands beach</title>
@@ -302,6 +409,9 @@
     <pubDate>Mon, 26 Oct 2026 18:30:00 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>A man from Kent has been found not guilty of a number of sexual offences against a woman on Camber Sands.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/12/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Manhunt for escaped prisoner with links to Sussex</title>
@@ -310,6 +420,9 @@
     <pubDate>Sun, 25 Oct 2026 12:30:00 +0000</pubDate>
     <category>Crime &amp; courts</category>
     <description>Police have launched a manhunt for a convicted prisoner with links to Sussex who escaped from a medical facility in South London on Friday.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/19/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Police secure closure order for Hastings property</title>
@@ -318,6 +431,9 @@
     <pubDate>Fri, 23 Oct 2026 07:00:00 +0100</pubDate>
     <category>Crime &amp; courts</category>
     <description>Officers from the Hastings Neighbourhood Policing Team have secured a Closure Order for a property in Cornwallis Terrace, Hastings.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/18/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
 </channel>
 </rss>

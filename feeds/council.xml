@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Hastings Daily: Council</title>
   <link>https://theknowledgecabinet.github.io/hastings-news/section/council/</link>
@@ -22,6 +22,9 @@
     <pubDate>Sun, 22 Nov 2026 10:58:13 +0000</pubDate>
     <category>Council</category>
     <description>People in East Sussex who pay towards adult social care will get a simpler way to claim support for disability-related costs, the county council has approved.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/255/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Quit-smoking support brought to Conquest emergency department</title>
@@ -30,6 +33,8 @@
     <pubDate>Sun, 22 Nov 2026 10:48:07 +0000</pubDate>
     <category>Council</category>
     <description>Smokers in Conquest Hospital&#x27;s emergency department can now get support to quit while they are in hospital.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/253/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Political accountability: County cabinet decisions on care payments and highway policy</title>
@@ -38,6 +43,9 @@
     <pubDate>Sun, 22 Nov 2026 10:11:16 +0000</pubDate>
     <category>Council</category>
     <description>The most significant items for the area this week were decisions published by the county council&#x27;s lead cabinet members. At the Lead Member for Adult Social Care and Health meeting on Thursday 19 November at 2.00 pm, three decisions were published: the net to gross residential and nursing provider payments business case, the extension of the Integrated Health and Wellbeing Service contract, and proposed changes to Disability Related Expenditure. Area councillor Mark Estcourt was present. Councillor Johnny Denis (Green Party) declared a personal interest as the Lewes District Council cabinet member for community wellbeing, arts, culture, tourism and leisure, and did not consider it to be prejudicial.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/252/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Political accountability: Hastings Museum Committee meets, minutes not yet published</title>
@@ -46,6 +54,8 @@
     <pubDate>Sun, 22 Nov 2026 10:02:00 +0000</pubDate>
     <category>Council</category>
     <description>The Museum Committee met on Monday 16 November; no minutes are published yet, so no decisions are on the record. An officers&#x27; report to the committee said 37,510 people visited the museum in 2025/26 and recommended that the report be accepted and approval recommended to Cabinet.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/250/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Political accountability: Rother licensing panel considers Battle premises licence</title>
@@ -54,6 +64,9 @@
     <pubDate>Sun, 22 Nov 2026 10:02:00 +0000</pubDate>
     <category>Council</category>
     <description>The main local item this week came from the Licensing and General Purposes Committee&#x27;s General Licensing Panel on Monday 16 November at 10.00 am, whose minutes have been published. The panel appointed Councillor Biggs as chair and considered the report on an application for a premises licence at Battle Abbey School Boarding House, Whatlington Road, Battle. The application covers regulated entertainment, late night refreshment and alcohol sales indoors and outdoors within the premises, Monday to Sunday, 12.00 to 00.30.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/251/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>County council protects payments to Ukrainian family hosts</title>
@@ -62,6 +75,9 @@
     <pubDate>Sat, 21 Nov 2026 18:30:00 +0000</pubDate>
     <category>Council</category>
     <description>East Sussex County Council has stepped in to protect payments to families hosting Ukrainian refugees after the government said the &#x27;thank you&#x27; payment would fall from £350 to £100 a month from January 2027.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/256/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>County secures £2.9m in road maintenance funding after transparency report</title>
@@ -70,6 +86,9 @@
     <pubDate>Sat, 21 Nov 2026 18:30:00 +0000</pubDate>
     <category>Council</category>
     <description>East Sussex County Council has secured £2.9 million of incentive funding from the Department for Transport for road maintenance after publishing its Highway Maintenance Transparency Report.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/257/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill pedestrian safety improved with relocated Sea Road zebra crossing</title>
@@ -78,6 +97,9 @@
     <pubDate>Sat, 21 Nov 2026 12:53:43 +0000</pubDate>
     <category>Council</category>
     <description>A zebra crossing in Bexhill has been moved and widened after work to improve pedestrian safety on Sea Road was completed, the county council has confirmed.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/245/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Rother residents asked for views on waste and recycling collections</title>
@@ -86,6 +108,9 @@
     <pubDate>Sat, 21 Nov 2026 12:53:43 +0000</pubDate>
     <category>Council</category>
     <description>Residents across Rother are being asked for their views on the district&#x27;s waste and recycling collections, Rother District Council has said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/246/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings water supply under pressure as reservoir stands at 41 per cent</title>
@@ -94,6 +119,9 @@
     <pubDate>Sat, 21 Nov 2026 07:28:28 +0000</pubDate>
     <category>Council</category>
     <description>Hastings households are being told the area&#x27;s water supply is running well below normal levels, and that winter rain is now needed to top up reservoirs, rivers and groundwater.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/240/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Volunteers invited to care for Rother&#x27;s micro woods during Tree Week</title>
@@ -102,6 +130,9 @@
     <pubDate>Fri, 20 Nov 2026 18:30:00 +0000</pubDate>
     <category>Council</category>
     <description>Residents are being invited to help look after three community micro woods across Rother during National Tree Week, which runs from 21 to 29 November.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/244/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Christmas parking concessions in Battle, Bexhill, Rye and Little Common</title>
@@ -110,6 +141,9 @@
     <pubDate>Fri, 20 Nov 2026 12:54:52 +0000</pubDate>
     <category>Council</category>
     <description>Rother District Council has published its Christmas parking concessions, with charges suspended in a selection of off-street car parks across Battle, Bexhill, Little Common and Rye from late November through December.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/235/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Planning roundup: new houses, surgery flats and games area among latest applications</title>
@@ -118,6 +152,9 @@
     <pubDate>Fri, 20 Nov 2026 12:54:52 +0000</pubDate>
     <category>Council</category>
     <description>Proposals for four new houses, the conversion of a former GP surgery into flats and a new outdoor sports facility are among the latest planning applications submitted to Hastings Borough Council, the Hastings Observer reports.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/237/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Refugee resettlement project reports 264 moved into work or education</title>
@@ -126,6 +163,8 @@
     <pubDate>Fri, 20 Nov 2026 07:44:14 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council&#x27;s Resettlement Employability Project has supported more than 384 people since launching in 2023, with 264 participants moving into employment or education, the council said. That includes 56 people so far this year.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/231/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Hastings council seeks researchers to measure creative industries&#x27; economic impact</title>
@@ -134,6 +173,9 @@
     <pubDate>Fri, 20 Nov 2026 07:44:14 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has issued a call out to consultants and research teams to undertake a study of what the creative and cultural industries bring to the town&#x27;s economy.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/232/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Green Automotive Centre of Excellence opens at Ore Valley campus</title>
@@ -142,6 +184,9 @@
     <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
     <category>Council</category>
     <description>A new Green Automotive Centre of Excellence has opened at East Sussex College Group&#x27;s Ore Valley campus in Hastings.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/227/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill councillor raises pedestrian safety concerns over 146 homes plan</title>
@@ -150,6 +195,9 @@
     <pubDate>Thu, 19 Nov 2026 19:07:22 +0000</pubDate>
     <category>Council</category>
     <description>A Bexhill councillor has raised concerns over pedestrian safety as part of proposals to build 146 new homes on land off Spindlewood Drive in Little Common.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/228/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings Museum opens sustainability exhibition with Natural History Museum and local students</title>
@@ -158,6 +206,8 @@
     <pubDate>Thu, 19 Nov 2026 12:53:09 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Museum &amp; Art Gallery is opening a new sustainability exhibition in partnership with the Natural History Museum and local students.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/226/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Hastings council approves £4.4 million for playgrounds, padel courts and heritage repairs</title>
@@ -166,6 +216,9 @@
     <pubDate>Thu, 19 Nov 2026 09:54:39 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has approved more than £4.4 million for projects across the town, covering playgrounds, sports facilities and improving some of the town&#x27;s best-known historic attractions, The Argus reported.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/222/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings asking rents up to 23% above ONS average, housing data shows</title>
@@ -174,6 +227,9 @@
     <pubDate>Wed, 18 Nov 2026 18:57:05 +0000</pubDate>
     <category>Council</category>
     <description>Median asking rents in Hastings are running well above the official average, with the gap on three-bedroom homes reaching 23%, housing website Dwellio says.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/218/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings dog owners face £100 fine under updated dog control order</title>
@@ -182,6 +238,9 @@
     <pubDate>Wed, 18 Nov 2026 12:54:39 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has warned dog owners that fines are in force under an updated dog control order.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/213/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Claremont School submits plans for games area at Clyde House</title>
@@ -190,6 +249,9 @@
     <pubDate>Tue, 17 Nov 2026 19:27:35 +0000</pubDate>
     <category>Council</category>
     <description>A St Leonards boarding school has put forward plans to build an outdoor sports facility on a property it owns.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/209/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Update: Bexhill GP surgery closed today over &#x27;unforeseen circumstances&#x27;</title>
@@ -206,6 +268,9 @@
     <pubDate>Tue, 17 Nov 2026 07:40:58 +0000</pubDate>
     <category>Council</category>
     <description>Hastings council has confirmed plans to freeze most pay-and-display parking charges for 2027/28, following three years of increases. Cabinet members backed the proposals on Monday (9 November) ahead of a full council vote.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/200/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Planning round-up: HMO proposals in St Leonards among latest applications</title>
@@ -214,6 +279,9 @@
     <pubDate>Mon, 16 Nov 2026 12:58:51 +0000</pubDate>
     <category>Council</category>
     <description>A series of planning applications have been submitted to Hastings Borough Council, including proposals for three houses in multiple occupation in St Leonards, according to a round-up of applications published by the Hastings Observer.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/195/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill GP surgery closed today over &#x27;unforeseen circumstances&#x27;</title>
@@ -222,6 +290,9 @@
     <pubDate>Mon, 16 Nov 2026 12:53:16 +0000</pubDate>
     <category>Council</category>
     <description>Sidley Medical Practice, the Bexhill GP surgery on Turkey Road and Albert Road, is closed today. The practice said on its website that &quot;due to some unforeseen circumstances we are unable to operate from our building today&quot;.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/193/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>East Sussex joins national programme to use creative activities for health</title>
@@ -230,6 +301,8 @@
     <pubDate>Sun, 15 Nov 2026 07:39:37 +0000</pubDate>
     <category>Council</category>
     <description>East Sussex County Council has been selected to join a national programme that uses creative and cultural activities to improve health and wellbeing.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/186/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Update: Rother to consult on 2027/28 budget with £2.72m in reserves</title>
@@ -246,6 +319,9 @@
     <pubDate>Sat, 14 Nov 2026 07:22:18 +0000</pubDate>
     <category>Council</category>
     <description>More than £500,000 has been allocated to create a new community hub in Bexhill town centre, Rother District Council said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/181/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Health watchdog orders rapid improvements at Conquest Hospital emergency care</title>
@@ -254,6 +330,8 @@
     <pubDate>Thu, 12 Nov 2026 12:49:06 +0000</pubDate>
     <category>Council</category>
     <description>The Care Quality Commission has downgraded the urgent and emergency care service at the Conquest Hospital in St Leonards from &#x27;good&#x27; to &#x27;requires improvement&#x27; and ordered East Sussex Healthcare NHS Trust to submit an action plan showing what action it is taking to make immediate improvements. The hospital&#x27;s overall rating has moved from &#x27;outstanding&#x27; to &#x27;good&#x27;.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/164/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Rother council to invest £1.3m in seven local projects</title>
@@ -262,6 +340,9 @@
     <pubDate>Thu, 12 Nov 2026 12:49:06 +0000</pubDate>
     <category>Council</category>
     <description>Rother District Council has approved £1.3m from its Community Infrastructure Levy (CIL) fund to support seven projects across the district, aimed at improving local facilities, enhancing accessibility and promoting sustainability.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/166/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings council rejects community asset bid for St Leonards convent site</title>
@@ -270,6 +351,8 @@
     <pubDate>Thu, 12 Nov 2026 12:49:06 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has turned down a bid to list the former Convent of the Holy Child Jesus on Magdalen Road, St Leonards, as an Asset of Community Value.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/167/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>New wheelchair and mobility scooter support group launched in Hastings</title>
@@ -278,6 +361,9 @@
     <pubDate>Thu, 12 Nov 2026 07:42:36 +0000</pubDate>
     <category>Council</category>
     <description>A new support group for residents who use wheelchairs or mobility scooters is being launched in Hastings.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/161/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Saxon Mount School submits plans to replace mobile classrooms with two-storey building</title>
@@ -286,6 +372,9 @@
     <pubDate>Wed, 11 Nov 2026 19:18:20 +0000</pubDate>
     <category>Council</category>
     <description>Saxon Mount School, in Edinburgh Road, St Leonards, has submitted a planning application to replace its four single-storey mobile classrooms with a new two-storey building.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/156/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Update: Rother to consult on 2027/28 budget with £2.72m in reserves</title>
@@ -302,6 +391,8 @@
     <pubDate>Wed, 11 Nov 2026 09:35:20 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has budgeted spending of £1,937,861 on the Grade II* listed seafront building St Mary in the Castle in the 2026/27 financial year, with the majority set to come forward as capital spending.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/150/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Update: Rother to consult on 2027/28 budget with £2.72m in reserves</title>
@@ -318,6 +409,9 @@
     <pubDate>Tue, 10 Nov 2026 12:50:32 +0000</pubDate>
     <category>Council</category>
     <description>People in supported housing across the district can have their say on how it should improve, Rother District Council has said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/144/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Plans for 42 new homes by St Leonards&#x27; Bannatyne&#x27;s Spa Hotel</title>
@@ -326,6 +420,9 @@
     <pubDate>Mon, 09 Nov 2026 12:54:36 +0000</pubDate>
     <category>Council</category>
     <description>Outline permission has been submitted to build up to 42 homes on land at Bannatyne&#x27;s Spa Hotel in Hastings Road, St Leonards, according to the latest Hastings Borough Council planning applications.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/141/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Cabinet to consider £1.5m playground funding on Monday</title>
@@ -334,6 +431,9 @@
     <pubDate>Fri, 06 Nov 2026 19:17:07 +0000</pubDate>
     <category>Council</category>
     <description>More than £1.5m to improve playgrounds across the town is set to be considered at the council&#x27;s Cabinet meeting on Monday evening.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/126/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Call for interest in future use of Sandhurst Recreation Ground</title>
@@ -342,6 +442,9 @@
     <pubDate>Fri, 06 Nov 2026 12:55:13 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council is asking sports clubs, groups and organisations to register their interest in the future of Sandhurst Recreation Ground. The council wants to know how much demand there is for the sports pitches, which organisations would like to use the site, and whether it could be managed or developed by the community.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/122/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Have your say on renewal of five gated paths in Hastings and St Leonards</title>
@@ -350,6 +453,9 @@
     <pubDate>Fri, 06 Nov 2026 08:21:12 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council is asking for views on plans to renew gating orders for five public rights of way in Hastings and St Leonards.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/118/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Update: White Rock Gardens could get covered padel and tennis courts</title>
@@ -366,6 +472,9 @@
     <pubDate>Thu, 05 Nov 2026 13:47:17 +0000</pubDate>
     <category>Council</category>
     <description>The West Hill Lift has been closed for essential surveys and repairs, according to the Hastings Independent Press.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/111/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings Draft Local Plan: Convent site open for comment until 12 November</title>
@@ -374,6 +483,9 @@
     <pubDate>Thu, 05 Nov 2026 08:19:34 +0000</pubDate>
     <category>Council</category>
     <description>The deadline for the public to comment on the Hastings Borough Council&#x27;s Draft Local Plan is Thursday 12 November, and one of the most argued-over parts of it is what happens to the Convent of the Holy Child Jesus in Lower Bohemia.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/107/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Council to seek group to take lease of Hollington Community Centre</title>
@@ -382,6 +494,9 @@
     <pubDate>Wed, 04 Nov 2026 19:18:58 +0000</pubDate>
     <category>Council</category>
     <description>East Sussex County Council is looking for a local group to take on the lease of Hollington Community Centre in Old Church Road, after saying the building needs significant investment to bring it back into good repair.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/103/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Update: Hastings Castle to get £288,500 from Historic England for repairs</title>
@@ -398,6 +513,9 @@
     <pubDate>Wed, 04 Nov 2026 08:17:32 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has drawn up an Age Friendly Hastings Strategy and Action Plan, with proposals to make the town more accessible and inclusive for people aged 50 and over.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/97/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Free parking at Hastings council car parks in December</title>
@@ -406,6 +524,9 @@
     <pubDate>Tue, 03 Nov 2026 13:10:26 +0000</pubDate>
     <category>Council</category>
     <description>Hastings Borough Council has agreed plans to provide free parking at its council-owned car parks on specific dates in the run-up to Christmas.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/91/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
 </channel>
 </rss>

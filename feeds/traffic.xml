@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Hastings Daily: Traffic &amp; roadworks</title>
   <link>https://theknowledgecabinet.github.io/hastings-news/section/traffic/</link>
@@ -14,6 +14,9 @@
     <pubDate>Wed, 18 Nov 2026 07:29:50 +0000</pubDate>
     <category>Traffic &amp; roadworks</category>
     <description>A collision involving multiple vehicles was reported on the A259 Little Common Road in Bexhill on Tuesday evening.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/211/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Trains between Bexhill and Eastbourne cut short by signalling fault</title>
@@ -22,6 +25,9 @@
     <pubDate>Sat, 14 Nov 2026 19:20:30 +0000</pubDate>
     <category>Traffic &amp; roadworks</category>
     <description>Southern services between Bexhill and Eastbourne have been disrupted by a signalling fault, The Argus has reported.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/185/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Southern services delayed between Eastbourne and Hastings after trespassers</title>
@@ -30,6 +36,9 @@
     <pubDate>Wed, 11 Nov 2026 19:18:20 +0000</pubDate>
     <category>Traffic &amp; roadworks</category>
     <description>Travellers between Eastbourne and Hastings faced delays on Wednesday afternoon after trespassers were found on the railway.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/158/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Combe Valley Way to close overnight for bridge inspections in mid-November</title>
@@ -38,6 +47,9 @@
     <pubDate>Wed, 28 Oct 2026 19:03:52 +0000</pubDate>
     <category>Traffic &amp; roadworks</category>
     <description>The A2690 Combe Valley Way will close to traffic between 8pm and 6am on Wednesday 18 November and Thursday 19 November, ending at 6am on Friday 20 November, East Sussex Highways has said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/43/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>New crossings and lighting completed around Hastings station</title>
@@ -46,6 +58,8 @@
     <pubDate>Tue, 27 Oct 2026 09:13:10 +0000</pubDate>
     <category>Traffic &amp; roadworks</category>
     <description>The improvement works around Hastings railway station have been completed, East Sussex County Council has said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/25/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
   </item>
   <item>
     <title>Buses replace trains between Tonbridge and Wadhurst from Saturday</title>
@@ -54,6 +68,9 @@
     <pubDate>Sat, 24 Oct 2026 07:00:00 +0100</pubDate>
     <category>Traffic &amp; roadworks</category>
     <description>No trains will run between Tonbridge and Wadhurst from Saturday 24 October until Sunday 1 November, as Network Rail carries out major work on the Hastings line. Rail replacement buses will operate throughout, and the closure extends to Battle on the final day.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/9/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
 </channel>
 </rss>

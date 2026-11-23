@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Hastings Daily: Politics</title>
   <link>https://theknowledgecabinet.github.io/hastings-news/section/politics/</link>
@@ -14,6 +14,9 @@
     <pubDate>Sun, 22 Nov 2026 10:02:00 +0000</pubDate>
     <category>Politics</category>
     <description>This week&#x27;s official record for the MP for Hastings and Rye shows a week of routine votes and written answers, with no item relating to the constituency. Helena Dollimore, the Labour (Co-operative) MP for Hastings and Rye, took part in all ten recorded votes in the Commons.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/248/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Political accountability: Bexhill and Battle MP raises Beckley school PE funding</title>
@@ -22,6 +25,9 @@
     <pubDate>Sun, 22 Nov 2026 10:02:00 +0000</pubDate>
     <category>Politics</category>
     <description>The most local item of the week was a Topical Question on Monday about physical education funding at a school in the constituency. Dr Kieran Mullan, the Conservative MP for Bexhill and Battle, said that teachers at Beckley Church of England primary school, as well as parents of pupils, had contacted him about the impact of the Government&#x27;s reforms to the way physical education is funded in schools on the school&#x27;s provision, in which there had been a massive drop. He asked the Minister whether she would agree to meet him to discuss what is happening in Beckley and at other schools.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/249/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Pilot Field power works to finish by early December, MP says</title>
@@ -30,6 +36,9 @@
     <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
     <category>Politics</category>
     <description>UK Power Networks has been working on an underground electrical main in the Pilot Field area of Hastings, and the works have caused a number of power cuts and noisy temporary generators in the neighbourhood in recent months.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/196/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings MP says £1.27 million secured for local playgrounds</title>
@@ -38,6 +47,9 @@
     <pubDate>Sun, 15 Nov 2026 13:11:30 +0000</pubDate>
     <category>Politics</category>
     <description>Hastings MP Helena Dollimore has said the town will receive £1.27 million to upgrade its playgrounds.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/188/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill county councillor leaves Reform UK to join Conservatives</title>
@@ -46,6 +58,9 @@
     <pubDate>Fri, 13 Nov 2026 20:29:58 +0000</pubDate>
     <category>Politics</category>
     <description>A Bexhill county councillor has left Reform UK and joined the Conservative Party, the party&#x27;s East Sussex group has said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/179/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>East Sussex energy group urges residents to contact MPs on heat pumps and EV targets</title>
@@ -54,6 +69,9 @@
     <pubDate>Thu, 12 Nov 2026 07:42:36 +0000</pubDate>
     <category>Politics</category>
     <description>As the UN climate summit, COP31, begins in Turkey, the local community benefit society Energise Sussex Coast is calling on the government to restore heat pump funding, keep its current electric vehicle targets and reject the Rosebank oil field in the North Sea, according to the Hastings Online Times.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/162/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings MP marks one-year anniversary of the beach &#x27;beads&#x27; pollution incident</title>
@@ -62,6 +80,9 @@
     <pubDate>Wed, 11 Nov 2026 12:47:32 +0000</pubDate>
     <category>Politics</category>
     <description>It is a year since Southern Water admitted responsibility for the millions of plastic beads that washed up on the beaches at Hastings, Camber Sands and at Rye Harbour Nature Reserve, and Hastings MP Helena Dollimore has marked the anniversary of what is thought to be one of the biggest plastic pollution incidents on the South Coast of England.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/151/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Councillor calls 500-home Bexhill plan a &#x27;disaster zone waiting to happen&#x27;</title>
@@ -70,6 +91,9 @@
     <pubDate>Wed, 11 Nov 2026 08:25:29 +0000</pubDate>
     <category>Politics</category>
     <description>A Bexhill town councillor has described proposals for a potential 500 new homes in the town as a &#x27;disaster zone waiting to happen&#x27;.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/148/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Labour ends cooperation with Greens on 11 councils</title>
@@ -78,6 +102,9 @@
     <pubDate>Thu, 05 Nov 2026 19:52:43 +0000</pubDate>
     <category>Politics</category>
     <description>Labour has withdrawn from power-sharing agreements with Green councillors in 11 local authorities, including Arun, Lewes and Wealden district councils in Sussex, over the party&#x27;s ‘Zionism is Racism’ policy.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/116/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Devolution measures to bring £8m to Sussex and Brighton</title>
@@ -86,6 +113,9 @@
     <pubDate>Wed, 04 Nov 2026 08:32:03 +0000</pubDate>
     <category>Politics</category>
     <description>Last week&#x27;s budget included measures to give devolved local government in England a bigger share of its own tax revenues, the Hastings Online Times reports.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/100/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill councillor calls parking permit charges &#x27;extortionate&#x27;</title>
@@ -94,6 +124,9 @@
     <pubDate>Tue, 03 Nov 2026 13:10:26 +0000</pubDate>
     <category>Politics</category>
     <description>A Bexhill town councillor has branded the price of residential parking permits in the town &#x27;extortionate and over the top&#x27;.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/92/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Eight Hastings and Bexhill residents arrested outside US embassy</title>
@@ -102,6 +135,9 @@
     <pubDate>Mon, 02 Nov 2026 09:30:40 +0000</pubDate>
     <category>Politics</category>
     <description>Eight residents of Hastings and Bexhill were arrested outside the US embassy in London on Saturday 31 October, the Hastings Online Times reported. The group was peacefully holding signs reading &#x27;I oppose genocide. I support Palestine Action&#x27;.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/78/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Coalition says October&#x27;s budget cut the Warm Homes Plan by up to £5.7bn</title>
@@ -110,6 +146,9 @@
     <pubDate>Mon, 02 Nov 2026 08:39:57 +0000</pubDate>
     <category>Politics</category>
     <description>A fuel poverty coalition says the government&#x27;s October budget failed to protect households on the coast from volatile gas prices, and cut the Warm Homes Plan by up to £5.7 billion.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/75/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Update: Eastbourne MP calls for shuttle bus between Eastbourne and Hastings hospitals</title>
@@ -126,6 +165,9 @@
     <pubDate>Thu, 29 Oct 2026 19:27:04 +0000</pubDate>
     <category>Politics</category>
     <description>The MP for Bexhill, Battle and the villages has backed a petition calling for a 20mph speed limit and weight restrictions on heavy goods vehicles through Pevensey and Westham.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/56/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Eastbourne MP calls for shuttle bus between Eastbourne and Hastings hospitals</title>
@@ -134,6 +176,9 @@
     <pubDate>Thu, 29 Oct 2026 08:01:21 +0000</pubDate>
     <category>Politics</category>
     <description>Eastbourne MP Josh Babarinde has called for a dedicated shuttle bus between District General Hospital in Eastbourne and the Conquest Hospital in Hastings.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/49/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Eight Hastings and Rother residents renew challenge to MP over Palestine Action ban</title>
@@ -142,6 +187,9 @@
     <pubDate>Wed, 28 Oct 2026 10:36:16 +0000</pubDate>
     <category>Politics</category>
     <description>Eight residents of Hastings, Bexhill and St Leonards who were arrested under the Terrorism Act have sent an open letter to Helena Dollimore MP, renewing their call for her to meet them on film to defend her vote to ban Palestine Action, according to the Hastings Online Times.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/36/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>173 residents urge Hastings MP to publicly oppose Rosebank oil field</title>
@@ -150,6 +198,9 @@
     <pubDate>Tue, 27 Oct 2026 09:13:10 +0000</pubDate>
     <category>Politics</category>
     <description>A letter signed by 173 residents of the Hastings and Rye constituency has called on local MP Helena Dollimore to &quot;get off the fence and publicly oppose all new oil and gas projects in the North Sea&quot;.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/23/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings Greens split over national &#x27;Zionism is racism&#x27; vote</title>
@@ -158,6 +209,9 @@
     <pubDate>Thu, 22 Oct 2026 07:00:00 +0100</pubDate>
     <category>Politics</category>
     <description>The chair of Hastings Greens, Justin Lee Wynne, resigned his post and cancelled his party membership on Friday, citing an internal dispute over alleged bullying and his &#x27;deeply uncomfortable&#x27; reaction to the national party&#x27;s October 4 conference vote declaring the party &#x27;anti-Zionist&#x27; and labelling Zionism as racism, the Hastings Independent Press reported.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/15/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Hastings and Rye MP criticises Bayeux Tapestry ticket phone system</title>
@@ -166,6 +220,9 @@
     <pubDate>Wed, 21 Oct 2026 07:00:00 +0100</pubDate>
     <category>Politics</category>
     <description>The MP for Hastings and Rye has criticised the phone line the British Museum set up for local residents to book tickets for the Bayeux tapestry exhibition.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/1/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Warm Homes Plan cuts would be &#x27;terrible blunder&#x27;, local energy service warns</title>
@@ -174,6 +231,9 @@
     <pubDate>Wed, 21 Oct 2026 07:00:00 +0100</pubDate>
     <category>Politics</category>
     <description>A local energy advice service has warned that cuts to the government&#x27;s Warm Homes Plan would be a &#x27;terrible blunder&#x27; for households across East Sussex.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/3/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
 </channel>
 </rss>
