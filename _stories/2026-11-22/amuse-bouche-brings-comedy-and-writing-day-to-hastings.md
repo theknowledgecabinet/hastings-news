@@ -52,6 +52,9 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Creative_Writing_Lab_(11651243).jpg
   default: false
 related:
+- url: /2026/11/23/penny-pincher-s-christmas-carol-returns-to-white-rock-hotel/
+  title: Penny Pincher's Christmas Carol returns to White Rock Hotel
+  day: '2026-11-23'
 - url: /2026/11/02/hastings-joins-in-the-dusking-morris-dancing-tradition/
   title: Hastings joins in the 'Dusking' morris-dancing tradition
   day: '2026-11-02'

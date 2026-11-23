@@ -50,6 +50,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:East_Hastings_Sea_Angling_Association_-_geograph.org.uk_-_1196162.jpg
   default: false
 checked: '2026-10-27T19:18:51+00:00'
+related:
+- url: /2026/11/23/hastings-rowing-club-names-new-chair-and-celebrates-2026-awards/
+  title: Hastings Rowing Club names new chair and celebrates 2026 awards
+  day: '2026-11-23'
 ---
 {% raw %}
 The Hastings Winkle Club has paid tribute to Mike Trigg, a committee member for more than 30 years who died on 6 October.

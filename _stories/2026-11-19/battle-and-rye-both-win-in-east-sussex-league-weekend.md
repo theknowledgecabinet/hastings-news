@@ -61,12 +61,12 @@ related:
 - url: /2026/11/19/rye-man-receives-east-sussex-divisional-commendation-for-public/
   title: Rye man receives East Sussex Divisional Commendation for public service
   day: '2026-11-19'
+- url: /2026/11/23/hastings-east-sussex-football-league-teams-play-out-cup-thrillers/
+  title: Hastings East Sussex Football League teams play out cup thrillers
+  day: '2026-11-23'
 - url: /2026/11/15/steyning-second-half-surge-sinks-hastings-united-4-1/
   title: Steyning second-half surge sinks Hastings United 4-1
   day: '2026-11-15'
-- url: /2026/10/21/council-s-free-business-support-pilot-to-visit-hastings-old-town-and/
-  title: Council's free business support pilot to visit Hastings Old Town and Rye high streets
-  day: '2026-10-21'
 ---
 {% raw %}
 Battle Town and Rye Town both won in Saturday's East Sussex Football League Premier Division matches, according to the Hastings Observer.

@@ -60,6 +60,9 @@ related:
 - url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
   title: Hastings council to consider Age Friendly strategy for older residents
   day: '2026-11-04'
+- url: /2026/11/23/hastings-rowing-club-names-new-chair-and-celebrates-2026-awards/
+  title: Hastings Rowing Club names new chair and celebrates 2026 awards
+  day: '2026-11-23'
 ---
 {% raw %}
 A Hastings couple is to celebrate its 70th, or Platinum, wedding anniversary next month.

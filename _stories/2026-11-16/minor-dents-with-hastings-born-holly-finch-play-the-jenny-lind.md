@@ -57,6 +57,9 @@ related:
 - url: /2026/11/18/morris-dancers-close-hastings-old-town-cider-festival-at-the-crown/
   title: Morris dancers close Hastings Old Town Cider Festival at the Crown
   day: '2026-11-18'
+- url: /2026/11/23/penny-pincher-s-christmas-carol-returns-to-white-rock-hotel/
+  title: Penny Pincher's Christmas Carol returns to White Rock Hotel
+  day: '2026-11-23'
 ---
 {% raw %}
 A psychedelic rock trio fronted by a Hastings-born singer plays a free gig at the Jenny Lind in December for the last Adventures in Pop! music evening of the year.

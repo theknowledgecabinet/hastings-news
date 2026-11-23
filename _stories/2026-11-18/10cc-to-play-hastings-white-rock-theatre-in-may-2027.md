@@ -60,6 +60,9 @@ related:
 - url: /2026/11/05/from-hastings-to-the-royal-albert-hall-count-us-in-set-to-perform/
   title: 'From Hastings to the Royal Albert Hall: Count Us IN set to perform'
   day: '2026-11-05'
+- url: /2026/11/23/penny-pincher-s-christmas-carol-returns-to-white-rock-hotel/
+  title: Penny Pincher's Christmas Carol returns to White Rock Hotel
+  day: '2026-11-23'
 - url: /2026/11/17/hastings-council-to-freeze-most-parking-charges-in-2027-28/
   title: Hastings council to freeze most parking charges in 2027/28
   day: '2026-11-17'
