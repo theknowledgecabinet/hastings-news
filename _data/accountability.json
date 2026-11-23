@@ -22,7 +22,7 @@
    "absent": 0,
    "other": 4,
    "declarations": 2,
-   "votes": 2,
+   "votes": 4,
    "rate": 79,
    "committees": 4
   },
@@ -47,7 +47,7 @@
    "absent": 0,
    "other": 3,
    "declarations": 1,
-   "votes": 0,
+   "votes": 2,
    "rate": 100,
    "committees": 2
   },
@@ -71,8 +71,8 @@
    "apologies": 1,
    "absent": 0,
    "other": 2,
-   "declarations": 1,
-   "votes": 0,
+   "declarations": 2,
+   "votes": 2,
    "rate": 80,
    "committees": 3
   },
@@ -97,7 +97,7 @@
    "absent": 0,
    "other": 2,
    "declarations": 1,
-   "votes": 0,
+   "votes": 2,
    "rate": 89,
    "committees": 4
   },
@@ -122,7 +122,7 @@
    "absent": 0,
    "other": 13,
    "declarations": 1,
-   "votes": 1,
+   "votes": 3,
    "rate": 67,
    "committees": 3
   },
@@ -147,7 +147,7 @@
    "absent": 0,
    "other": 3,
    "declarations": 0,
-   "votes": 0,
+   "votes": 2,
    "rate": 71,
    "committees": 4
   },
@@ -170,7 +170,7 @@
    "present": 12,
    "apologies": 1,
    "absent": 0,
-   "other": 6,
+   "other": 7,
    "declarations": 1,
    "votes": 0,
    "rate": 92,
@@ -191,14 +191,14 @@
    "keypost": false,
    "keyposts": null,
    "service": "Under a year",
-   "expected": 8,
-   "present": 7,
+   "expected": 9,
+   "present": 8,
    "apologies": 1,
    "absent": 0,
    "other": 7,
    "declarations": 2,
-   "votes": 0,
-   "rate": 88,
+   "votes": 2,
+   "rate": 89,
    "committees": 4
   },
   {
@@ -1079,12 +1079,12 @@
     {
      "name": "Green Party",
      "councillors": 6,
-     "expected": 44,
-     "present": 35,
+     "expected": 45,
+     "present": 36,
      "apologies": 9,
      "absent": 0,
      "other": 30,
-     "declarations": 6,
+     "declarations": 7,
      "rate": 80
     },
     {
@@ -1094,18 +1094,18 @@
      "present": 23,
      "apologies": 4,
      "absent": 0,
-     "other": 10,
+     "other": 11,
      "declarations": 3,
      "rate": 85
     }
    ],
    "councillors": 8,
-   "expected": 71,
-   "present": 58,
+   "expected": 72,
+   "present": 59,
    "apologies": 13,
    "absent": 0,
-   "other": 40,
-   "declarations": 9,
+   "other": 41,
+   "declarations": 10,
    "rate": 82
   }
  ],
@@ -1166,6 +1166,186 @@
  ],
  "agreement": null,
  "votes": [
+  {
+   "council": "East Sussex County Council",
+   "council_key": "escc",
+   "committee": "Full Council",
+   "day": "2026-10-13",
+   "item": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+   "motion": "on the motion moved by Councillor Lunn",
+   "result": "Carried",
+   "for": 24,
+   "against": 0,
+   "abstain": 20,
+   "matched": 44,
+   "parties": [
+    {
+     "party": "Reform UK",
+     "for": 20,
+     "against": 0,
+     "abstain": 0
+    },
+    {
+     "party": "Green Party",
+     "for": 0,
+     "against": 0,
+     "abstain": 10
+    },
+    {
+     "party": "Liberal Democrats",
+     "for": 0,
+     "against": 0,
+     "abstain": 9
+    },
+    {
+     "party": "Conservative",
+     "for": 3,
+     "against": 0,
+     "abstain": 0
+    },
+    {
+     "party": "Independent",
+     "for": 1,
+     "against": 0,
+     "abstain": 1
+    }
+   ],
+   "local": [
+    {
+     "name": "Shaun Dowling",
+     "party": "Green Party",
+     "how": "abstain",
+     "ref": "5316"
+    },
+    {
+     "name": "Aidan Fisher",
+     "party": "Reform UK",
+     "how": "for",
+     "ref": "5130"
+    },
+    {
+     "name": "Julia Hilton",
+     "party": "Green Party",
+     "how": "abstain",
+     "ref": "2302"
+    },
+    {
+     "name": "Becca Horn",
+     "party": "Green Party",
+     "how": "abstain",
+     "ref": "5301"
+    },
+    {
+     "name": "Amanda Jobson",
+     "party": "Green Party",
+     "how": "abstain",
+     "ref": "5327"
+    },
+    {
+     "name": "Karen Simnett",
+     "party": "Green Party",
+     "how": "abstain",
+     "ref": "5295"
+    },
+    {
+     "name": "Jo Walker",
+     "party": "Green Party",
+     "how": "abstain",
+     "ref": "5309"
+    }
+   ],
+   "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4"
+  },
+  {
+   "council": "East Sussex County Council",
+   "council_key": "escc",
+   "committee": "Full Council",
+   "day": "2026-10-13",
+   "item": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+   "motion": "on the amendment moved by Councillor Keenan",
+   "result": "Lost",
+   "for": 20,
+   "against": 23,
+   "abstain": 0,
+   "matched": 43,
+   "parties": [
+    {
+     "party": "Reform UK",
+     "for": 0,
+     "against": 20,
+     "abstain": 0
+    },
+    {
+     "party": "Green Party",
+     "for": 10,
+     "against": 0,
+     "abstain": 0
+    },
+    {
+     "party": "Liberal Democrats",
+     "for": 8,
+     "against": 0,
+     "abstain": 0
+    },
+    {
+     "party": "Conservative",
+     "for": 0,
+     "against": 3,
+     "abstain": 0
+    },
+    {
+     "party": "Independent",
+     "for": 2,
+     "against": 0,
+     "abstain": 0
+    }
+   ],
+   "local": [
+    {
+     "name": "Shaun Dowling",
+     "party": "Green Party",
+     "how": "for",
+     "ref": "5316"
+    },
+    {
+     "name": "Aidan Fisher",
+     "party": "Reform UK",
+     "how": "against",
+     "ref": "5130"
+    },
+    {
+     "name": "Julia Hilton",
+     "party": "Green Party",
+     "how": "for",
+     "ref": "2302"
+    },
+    {
+     "name": "Becca Horn",
+     "party": "Green Party",
+     "how": "for",
+     "ref": "5301"
+    },
+    {
+     "name": "Amanda Jobson",
+     "party": "Green Party",
+     "how": "for",
+     "ref": "5327"
+    },
+    {
+     "name": "Karen Simnett",
+     "party": "Green Party",
+     "how": "for",
+     "ref": "5295"
+    },
+    {
+     "name": "Jo Walker",
+     "party": "Green Party",
+     "how": "for",
+     "ref": "5309"
+    }
+   ],
+   "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4"
+  },
   {
    "council": "East Sussex County Council",
    "council_key": "escc",
