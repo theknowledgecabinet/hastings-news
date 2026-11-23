@@ -47,7 +47,6 @@ layout: default
       <span class="kicker">{{ lead.section_label }} · {{ lead.places | map: "name" | join: ", " }}</span>
       <h2>{{ lead.title }}</h2>
     </a>
-    <p class="standfirst">{{ lead.description }}</p>
     <p class="byline">By <a href="{{ lead.reporter.url | relative_url }}">{{ lead.reporter.name }}</a> <span class="muted">· {{ lead.date | date: "%A %-d %B, %H:%M" }}</span></p>
   </article>
 
