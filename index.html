@@ -49,27 +49,25 @@ layout: default
     </a>
     <p class="standfirst">{{ lead.description }}</p>
     <p class="byline">By <a href="{{ lead.reporter.url | relative_url }}">{{ lead.reporter.name }}</a> <span class="muted">· {{ lead.date | date: "%A %-d %B, %H:%M" }}</span></p>
-    <div class="lead-extras">
-    {%- if L.otd %}
-    <a class="otd-strip" href="{{ L.otd.url | relative_url }}"><span class="eyebrow">On this day</span><span class="otd-year">{{ L.otd.year }}</span><strong>{{ L.otd.title }}</strong></a>
-    {%- endif %}
-    {%- if L.video %}
-    <section class="briefing-box">
-      <h2>📺 Watch the evening briefing</h2>
-      {% include video.html video=L.video %}
-    </section>
-    {%- endif %}
-    {%- if L.briefing %}
-    <section class="briefing-box">
-      <h2>🎧 The evening briefing <span class="muted">· {{ L.briefing.length }}</span></h2>
-      {% include player.html src=L.briefing.url seconds=L.briefing.seconds title=L.briefing.day %}
-      <p class="small"><a href="{{ '/podcast/' | relative_url }}">Subscribe as a podcast</a></p>
-    </section>
-    {%- endif %}
-    </div>
   </article>
 
   <aside class="latest">
+    {%- if L.video or L.briefing or L.otd %}
+    <section class="tonight" aria-label="Watch, listen and history">
+      {%- if L.video %}
+      <h2>📺 Watch the evening briefing</h2>
+      {% include video.html video=L.video %}
+      {%- endif %}
+      {%- if L.briefing %}
+      <h2>🎧 Listen <span class="muted">· {{ L.briefing.length }}</span></h2>
+      {% include player.html src=L.briefing.url seconds=L.briefing.seconds title=L.briefing.day %}
+      <p class="small"><a href="{{ '/podcast/' | relative_url }}">Subscribe as a podcast</a></p>
+      {%- endif %}
+      {%- if L.otd %}
+      <a class="otd-strip" href="{{ L.otd.url | relative_url }}"><span class="eyebrow">On this day</span><span class="otd-year">{{ L.otd.year }}</span><strong>{{ L.otd.title }}</strong></a>
+      {%- endif %}
+    </section>
+    {%- endif %}
     <h2>Latest</h2>
     <ul class="headlines">
       {%- assign n = 0 %}

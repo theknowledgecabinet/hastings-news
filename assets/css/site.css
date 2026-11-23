@@ -263,9 +263,14 @@ mark { background: color-mix(in srgb, var(--signal) 30%, transparent); color: in
 @media (max-width: 420px) { .theme-label { display: none; } }
 
 .nav a { white-space: nowrap; }
-.lead-extras { display: grid; gap: 16px; margin-top: 28px; }
-@media (min-width: 640px) { .lead-extras { grid-template-columns: 1fr 1fr; align-items: start; } }
-.lead-extras .otd-strip, .lead-extras .briefing-box { margin: 0; }
+/* Watch, listen and On this day, together at the top of the right-hand column (after the lead on phones). */
+.tonight { background: var(--paper-2); border-radius: var(--radius); padding: 14px 16px 4px; margin-bottom: 24px; }
+.tonight h2 { font: 700 1rem/1.3 var(--sans); text-transform: none; letter-spacing: 0; border: 0; padding: 0; margin: 4px 0 8px; }
+.tonight .video-box { margin-bottom: 14px; }
+.tonight .video-box p { font-size: .8rem; line-height: 1.45; margin-top: 6px; }
+.tonight .otd-strip { background: var(--paper); margin: 6px 0 12px; padding: 12px 14px; }
+.tonight .otd-strip .otd-year { font-size: 1.6rem; }
+.tonight .otd-strip strong { font-size: 1.05rem; }
 
 @media (min-width: 600px) and (max-width: 899px) { .sections-row a { padding: 6px 7px; font-size: .76rem; letter-spacing: .05em; } }
 .council .actions { margin: 10px 0 14px; }
