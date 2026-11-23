@@ -26,23 +26,34 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/story-267/card.webp
+    url: /assets/media/story/267/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-267/medium.webp
+    url: /assets/media/story/267/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-267/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/267/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-267/share.jpg
-  color: '#aa6d37'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/267/share.jpg
+  color: '#655c4f'
+  alt: A small stage set for a Christmas comedy show in a hotel function room
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Iris Ecclesbourne
+    slug: iris-ecclesbourne
+    title: Picture editor and illustrator
+    url: /reporters/iris-ecclesbourne/
+    photo: /assets/reporters/iris-ecclesbourne.jpg
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 related:
 - url: /2026/11/22/amuse-bouche-brings-comedy-and-writing-day-to-hastings/
   title: Amuse Bouche brings comedy and writing day to Hastings
