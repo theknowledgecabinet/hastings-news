@@ -6,7 +6,18 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 23 Nov 2026 18:44:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 07:00:00 +0000</lastBuildDate>
+  <item>
+    <title>On this day, 1937: Hastings by-election: Conservative candidate wins seat</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-24/</link>
+    <guid isPermaLink="false">otd-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:00:00 +0000</pubDate>
+    <category>On this day</category>
+    <description>On this day in 1937, the Hastings by-election was held. The contest resulted in a victory for the Conservative candidate, Maurice Hely-Hutchinson.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/35/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>Hastings East Sussex Football League teams play out cup thrillers</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/23/hastings-east-sussex-football-league-teams-play-out-cup-thrillers/</link>
@@ -842,17 +853,6 @@
     <category>Community &amp; people</category>
     <description>The Hastings Old Town Carnival Association has donated more than £5,000 to local charities after a successful Old Town Week.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/205/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>Battle duo take on South Downs Trail Run to fund Hastings girl&#x27;s therapy</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/17/battle-duo-take-on-south-downs-trail-run-to-fund-hastings-girl-s/</link>
-    <guid isPermaLink="false">story-203</guid>
-    <pubDate>Tue, 17 Nov 2026 08:30:31 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Two bricklayers from Battle are taking on the South Downs Trail Run on 28 November to help an 11-year-old Hastings gymnast continue her rehabilitation.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/203/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
       <media:credit role="illustrator">AI-generated illustration</media:credit>
     </media:content>
   </item>

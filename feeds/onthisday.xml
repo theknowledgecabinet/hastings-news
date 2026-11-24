@@ -6,7 +6,18 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/onthisday.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 07:00:00 +0000</lastBuildDate>
+  <item>
+    <title>On this day, 1937: Hastings by-election: Conservative candidate wins seat</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-24/</link>
+    <guid isPermaLink="false">otd-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:00:00 +0000</pubDate>
+    <category>On this day</category>
+    <description>On this day in 1937, the Hastings by-election was held. The contest resulted in a victory for the Conservative candidate, Maurice Hely-Hutchinson.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/35/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>On this day, 1867: No 1 Battery raised at St Leonards in 1867</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-23/</link>
