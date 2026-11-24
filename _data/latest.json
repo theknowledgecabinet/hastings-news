@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-11-23",
-   "code": 3,
-   "words": "cloudy",
-   "icon": "☁️",
-   "high": 6,
-   "low": 5,
-   "rain_chance": 0,
-   "rain_mm": 0.0,
-   "wind": 11,
-   "gusts": 23,
-   "direction": "easterly",
-   "sunrise": "07:26",
-   "sunset": "16:01",
-   "summary": "Cloudy. A high of 6°C and a low of 5°C, a moderate breeze from the east. Sunrise 07:26, sunset 16:01.",
-   "label": "Today",
-   "weekday": "Mon 23 Nov",
-   "long": "Monday 23 November"
-  },
-  {
    "day": "2026-11-24",
    "code": 3,
    "words": "cloudy",
@@ -38,13 +19,32 @@
    "sunrise": "07:27",
    "sunset": "16:00",
    "summary": "Cloudy. A high of 8°C and a low of 6°C, a moderate breeze from the south-east. Sunrise 07:27, sunset 16:00.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Tue 24 Nov",
    "long": "Tuesday 24 November"
+  },
+  {
+   "day": "2026-11-25",
+   "code": 3,
+   "words": "cloudy",
+   "icon": "☁️",
+   "high": 6,
+   "low": 4,
+   "rain_chance": 12,
+   "rain_mm": 0.0,
+   "wind": 14,
+   "gusts": 28,
+   "direction": "north-easterly",
+   "sunrise": "07:29",
+   "sunset": "15:59",
+   "summary": "Cloudy. A high of 6°C and a low of 4°C, a moderate breeze from the north east. Sunrise 07:29, sunset 15:59.",
+   "label": "Tomorrow",
+   "weekday": "Wed 25 Nov",
+   "long": "Wednesday 25 November"
   }
  ],
- "today_label": "Monday 23 November 2026",
- "today_short": "Mon 23 Nov",
+ "today_label": "Tuesday 24 November 2026",
+ "today_short": "Tue 24 Nov",
  "editions": [
   {
    "name": "morning",
