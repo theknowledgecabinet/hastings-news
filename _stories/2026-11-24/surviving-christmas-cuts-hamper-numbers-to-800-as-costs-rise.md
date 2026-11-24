@@ -39,8 +39,8 @@ image:
     h: 896
   share:
     url: /assets/media/story/270/share.jpg
-  color: '#746656'
-  alt: Volunteers packing food boxes in a community hall
+  color: '#746e61'
+  alt: Rows of packed food hampers on a table in a community hall.
   artist: AI-generated illustration
   match: ai
   ai: true
