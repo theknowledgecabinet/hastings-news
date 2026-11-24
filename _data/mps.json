@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "26 votes, 4 votes missed, 2 contributions, 3 written questions, 6 answers received",
+  "last30_text": "26 votes, 6 votes missed, 2 contributions, 3 written questions, 6 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -70,7 +70,7 @@
     ]
    }
   ],
-  "checked": "2026-11-24T20:01:29+00:00",
+  "checked": "2026-11-24T20:32:41+00:00",
   "last30": {
    "vote": 26,
    "speech": 2,
@@ -78,13 +78,53 @@
    "answer": 6,
    "edm": 0,
    "interest": 0,
-   "missed": 4,
+   "missed": 6,
    "against_party": 0
   },
   "days": [
    {
     "day": "2026-11-24",
     "items": [
+     {
+      "kind": "vote",
+      "title": "Cyber Security and Resilience (Network and Information Systems) Bill: Motion to disagree with Lords Amendment 108",
+      "url": "https://votes.parliament.uk/votes/commons/division/2496",
+      "line": "Vote: Cyber Security and Resilience (Network and Information Systems) Bill: Motion to disagree with Lords Amendment 108: did not vote; passed 260 to 98.",
+      "how": "did not vote",
+      "teller": false,
+      "result": "passed",
+      "ayes": 260,
+      "noes": 98,
+      "against_party": false,
+      "party_side": null,
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     },
+     {
+      "kind": "vote",
+      "title": "Cyber Security and Resilience (Network and Information Systems): Amendment (a) to Lords Amendment 33",
+      "url": "https://votes.parliament.uk/votes/commons/division/2497",
+      "line": "Vote: Cyber Security and Resilience (Network and Information Systems): Amendment (a) to Lords Amendment 33: did not vote; defeated 93 to 278.",
+      "how": "did not vote",
+      "teller": false,
+      "result": "defeated",
+      "ayes": 93,
+      "noes": 278,
+      "against_party": false,
+      "party_side": null,
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     },
      {
       "kind": "vote",
       "title": "Armed Forces Bill Lords Amendment 2: Motion to disagree",
@@ -1103,6 +1143,6 @@
     ]
    }
   ],
-  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 30 Commons votes recorded since 3 November 2026, they voted in 26 (87%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
+  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 32 Commons votes recorded since 3 November 2026, they voted in 26 (81%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
  }
 }
