@@ -56,6 +56,9 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/24/hastings-united-lose-2-0-to-broadbridge-heath-in-sussex-derby/
+  title: Hastings United lose 2-0 to Broadbridge Heath in Sussex derby
+  day: '2026-11-24'
 - url: /2026/11/15/steyning-second-half-surge-sinks-hastings-united-4-1/
   title: Steyning second-half surge sinks Hastings United 4-1
   day: '2026-11-15'

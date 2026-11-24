@@ -65,9 +65,9 @@ related:
 - url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
   title: Police appeal for witnesses after alleged assault in Hastings town centre
   day: '2026-11-19'
-- url: /2026/11/06/call-for-interest-in-future-use-of-sandhurst-recreation-ground/
-  title: Call for interest in future use of Sandhurst Recreation Ground
-  day: '2026-11-06'
+- url: /2026/11/24/hastings-united-lose-2-0-to-broadbridge-heath-in-sussex-derby/
+  title: Hastings United lose 2-0 to Broadbridge Heath in Sussex derby
+  day: '2026-11-24'
 ---
 {% raw %}
 Teams in the Macron Sports Hub Hastings East Sussex Football League enjoyed an action-packed weekend as the ESFL Challenge Cup took centre stage. With most clubs involved in cup competition, there was plenty of excitement as teams battled for places in the next round.

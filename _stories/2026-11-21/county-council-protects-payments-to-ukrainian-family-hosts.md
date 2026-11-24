@@ -66,9 +66,9 @@ related:
 - url: /2026/10/25/fears-of-hungry-children-over-half-term-after-holiday-food-vouchers/
   title: Fears of hungry children over half-term after holiday food vouchers axed
   day: '2026-10-25'
-- url: /2026/11/10/residents-to-have-say-on-east-sussex-supported-housing-strategy/
-  title: Residents to have say on East Sussex supported housing strategy
-  day: '2026-11-10'
+- url: /2026/11/24/surviving-christmas-cuts-hamper-numbers-to-800-as-costs-rise/
+  title: Surviving Christmas cuts hamper numbers to 800 as costs rise
+  day: '2026-11-24'
 ---
 {% raw %}
 East Sussex County Council has stepped in to protect payments to families hosting Ukrainian refugees after the government said the 'thank you' payment would fall from £350 to £100 a month from January 2027.

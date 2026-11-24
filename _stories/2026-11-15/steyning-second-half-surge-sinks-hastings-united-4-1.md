@@ -55,15 +55,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/24/hastings-united-lose-2-0-to-broadbridge-heath-in-sussex-derby/
+  title: Hastings United lose 2-0 to Broadbridge Heath in Sussex derby
+  day: '2026-11-24'
 - url: /2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/
   title: Battle and Rye both win in East Sussex League weekend
   day: '2026-11-19'
 - url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
   title: Police appeal for witnesses after alleged assault in Hastings town centre
   day: '2026-11-19'
-- url: /2026/11/23/hastings-east-sussex-football-league-teams-play-out-cup-thrillers/
-  title: Hastings East Sussex Football League teams play out cup thrillers
-  day: '2026-11-23'
 ---
 {% raw %}
 Hastings United suffered a heavy defeat on a cold Saturday afternoon at The Pilot Field, where Steyning Town produced a second-half comeback to win 4-1 in the Isthmian South East division in front of a crowd of 1,034.
