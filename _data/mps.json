@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "26 votes, 2 votes missed, 2 contributions, 3 written questions, 6 answers received",
+  "last30_text": "26 votes, 4 votes missed, 2 contributions, 3 written questions, 6 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -70,7 +70,7 @@
     ]
    }
   ],
-  "checked": "2026-11-24T18:06:13+00:00",
+  "checked": "2026-11-24T18:36:08+00:00",
   "last30": {
    "vote": 26,
    "speech": 2,
@@ -78,10 +78,55 @@
    "answer": 6,
    "edm": 0,
    "interest": 0,
-   "missed": 2,
+   "missed": 4,
    "against_party": 0
   },
   "days": [
+   {
+    "day": "2026-11-24",
+    "items": [
+     {
+      "kind": "vote",
+      "title": "Armed Forces Bill Lords Amendment 2: Motion to disagree",
+      "url": "https://votes.parliament.uk/votes/commons/division/2494",
+      "line": "Vote: Armed Forces Bill Lords Amendment 2: Motion to disagree: did not vote; passed 299 to 87.",
+      "how": "did not vote",
+      "teller": false,
+      "result": "passed",
+      "ayes": 299,
+      "noes": 87,
+      "against_party": false,
+      "party_side": null,
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     },
+     {
+      "kind": "vote",
+      "title": "Armed Forces Bill: Motion to disagree with Lords Amendments 11 and 25 and to propose amendments to the words so restored to the Bill",
+      "url": "https://votes.parliament.uk/votes/commons/division/2495",
+      "line": "Vote: Armed Forces Bill: Motion to disagree with Lords Amendments 11 and 25 and to propose amendments to the words so restored to the Bill: did not vote; passed 296 to 171.",
+      "how": "did not vote",
+      "teller": false,
+      "result": "passed",
+      "ayes": 296,
+      "noes": 171,
+      "against_party": false,
+      "party_side": null,
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     }
+    ]
+   },
    {
     "day": "2026-11-23",
     "items": [
@@ -1058,6 +1103,6 @@
     ]
    }
   ],
-  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 28 Commons votes recorded since 3 November 2026, they voted in 26 (93%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
+  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 30 Commons votes recorded since 3 November 2026, they voted in 26 (87%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
  }
 }

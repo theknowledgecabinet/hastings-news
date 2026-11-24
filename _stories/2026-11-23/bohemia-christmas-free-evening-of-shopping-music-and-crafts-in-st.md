@@ -56,15 +56,15 @@ image:
   default: false
 checked: '2026-11-23T12:39:26+00:00'
 related:
+- url: /2026/11/24/hastings-old-town-traders-to-hold-late-night-christmas-shopping-event/
+  title: Hastings Old Town traders to hold late-night Christmas shopping event
+  day: '2026-11-24'
 - url: /2026/11/03/former-st-leonards-church-becomes-community-hub-with-weekly-market/
   title: Former St Leonards church becomes community hub with weekly market
   day: '2026-11-03'
 - url: /2026/10/30/st-michael-s-hospice-opens-festive-market-in-st-leonards/
   title: St Michael's Hospice opens Festive Market in St Leonards
   day: '2026-10-30'
-- url: /2026/10/22/alabama-3-acoustic-show-at-st-leonard-s-church/
-  title: Alabama 3 acoustic show at St Leonard's Church
-  day: '2026-10-22'
 ---
 {% raw %}
 A free community celebration is set for the Bohemia area of St Leonards on Thursday 3 December. From 4pm to 7pm, residents can enjoy late-night shopping, live music, Santa, and drop-in craft workshops.

@@ -59,12 +59,12 @@ related:
 - url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
   title: Hastings Old Town Carnival donates over £5,000 to local good causes
   day: '2026-11-17'
+- url: /2026/11/24/hastings-old-town-traders-to-hold-late-night-christmas-shopping-event/
+  title: Hastings Old Town traders to hold late-night Christmas shopping event
+  day: '2026-11-24'
 - url: /2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/
   title: Hastings Lions donate more than £8,000 to local causes
   day: '2026-11-18'
-- url: /2026/11/04/hastings-last-wooden-fishing-boat-felicity-to-be-restored-and/
-  title: Hastings' last wooden fishing boat 'Felicity' to be restored and displayed in Rock-a-Nore
-  day: '2026-11-04'
 ---
 {% raw %}
 The annual Hastings RNLI fish supper has raised £920, with a sell-out crowd at the Old Town Fryer in Hastings Old Town.

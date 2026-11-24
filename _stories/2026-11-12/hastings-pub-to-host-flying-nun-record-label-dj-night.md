@@ -56,6 +56,9 @@ image:
   default: false
 checked: '2026-11-12T19:12:54+00:00'
 related:
+- url: /2026/11/24/hastings-old-town-traders-to-hold-late-night-christmas-shopping-event/
+  title: Hastings Old Town traders to hold late-night Christmas shopping event
+  day: '2026-11-24'
 - url: /2026/11/02/hastings-joins-in-the-dusking-morris-dancing-tradition/
   title: Hastings joins in the 'Dusking' morris-dancing tradition
   day: '2026-11-02'

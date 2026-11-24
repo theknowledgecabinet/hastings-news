@@ -63,6 +63,9 @@ related:
 - url: /2026/11/23/hastings-rowing-club-names-new-chair-and-celebrates-2026-awards/
   title: Hastings Rowing Club names new chair and celebrates 2026 awards
   day: '2026-11-23'
+- url: /2026/11/24/hastings-old-town-traders-to-hold-late-night-christmas-shopping-event/
+  title: Hastings Old Town traders to hold late-night Christmas shopping event
+  day: '2026-11-24'
 ---
 {% raw %}
 A Hastings couple is to celebrate its 70th, or Platinum, wedding anniversary next month.

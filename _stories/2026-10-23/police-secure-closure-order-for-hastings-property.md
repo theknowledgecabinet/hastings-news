@@ -3,6 +3,7 @@ layout: story
 title: Police secure closure order for Hastings property
 permalink: /2026/10/23/police-secure-closure-order-for-hastings-property/
 date: 2026-10-23 07:00:00 +0100
+updated: '2026-11-24T18:37:51+00:00'
 sid: 18
 day: '2026-10-23'
 edition: morning
@@ -24,6 +25,13 @@ what_next: The order remains in force for three months from 16 October.
 sources:
 - url: https://sussexexpress.co.uk/news/people/police-gain-closure-order-for-hastings-property-following-reports-of-anti-social-behaviour-9304496
   name: Sussex Express
+updates:
+- date: '2026-11-24T18:37:51+00:00'
+  edition: evening
+  text: Police have confirmed the closure order for a flat in St James House, Elphinstone Road, came into effect on 19 November 2026. The order remains in place for three months, restricting access to authorised persons only.
+  sources:
+  - url: https://www.sussexexpress.co.uk/news/crime/police-closure-order-on-hastings-flat-for-anti-social-behaviour-drug-related-activity-and-other-criminality-9368799
+    name: Hastings Observer
 image:
   card:
     url: /assets/media/story/18/card.webp

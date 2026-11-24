@@ -60,12 +60,12 @@ related:
 - url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
   title: Christmas Tree Festival returns to St Clements Church
   day: '2026-11-19'
+- url: /2026/11/24/hastings-old-town-traders-to-hold-late-night-christmas-shopping-event/
+  title: Hastings Old Town traders to hold late-night Christmas shopping event
+  day: '2026-11-24'
 - url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
   title: Police appeal for witnesses after alleged assault in Hastings town centre
   day: '2026-11-19'
-- url: /2026/11/12/bricks-are-temporary-on-st-clements-gate-pillar-church-says/
-  title: Bricks are temporary on St Clements gate pillar, church says
-  day: '2026-11-12'
 ---
 {% raw %}
 The illuminated metal Christmas tree has returned to Hastings town centre for a second year, and with it the debate has returned.

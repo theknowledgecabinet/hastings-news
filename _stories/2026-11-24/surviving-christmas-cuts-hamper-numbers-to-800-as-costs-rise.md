@@ -3,6 +3,7 @@ layout: story
 title: Surviving Christmas cuts hamper numbers to 800 as costs rise
 permalink: /2026/11/24/surviving-christmas-cuts-hamper-numbers-to-800-as-costs-rise/
 date: 2026-11-24 12:38:47 +0000
+updated: '2026-11-24T18:38:18+00:00'
 sid: 270
 day: '2026-11-24'
 edition: midday
@@ -24,6 +25,13 @@ what_next: Volunteers will begin packing hampers on December 14, and the charity
 sources:
 - url: https://www.sussexexpress.co.uk/news/people/hastings-charity-surviving-christmas-appeals-for-donations-as-rising-costs-force-cut-to-festive-hampers-9370742
   name: Hastings Observer
+updates:
+- date: '2026-11-24T18:38:18+00:00'
+  edition: evening
+  text: Surviving Christmas has confirmed it will reduce the number of festive hampers distributed to 800 this year, down from over 1,000 last year, due to rising food costs. The charity said the total cost for food has remained the same, meaning real-term costs have increased by about 45 per cent. It added that the project will still go ahead, with volunteers starting to pack hampers on December 14.
+  sources:
+  - url: https://www.sussexexpress.co.uk/news/people/hastings-charity-cuts-number-of-festive-hampers-for-those-in-need-due-to-cost-of-living-crisis-9370742
+    name: Hastings Observer
 image:
   card:
     url: /assets/media/story/270/card.webp

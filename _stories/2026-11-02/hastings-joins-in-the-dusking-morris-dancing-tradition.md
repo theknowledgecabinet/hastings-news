@@ -63,9 +63,9 @@ related:
 - url: /2026/11/21/hastings-women-take-to-seafront-to-support-lift-the-curfew-campaign/
   title: Hastings women take to seafront to support 'Lift the Curfew' campaign
   day: '2026-11-21'
-- url: /2026/11/20/metal-christmas-tree-returns-to-hastings-town-centre/
-  title: Metal Christmas tree returns to Hastings town centre
-  day: '2026-11-20'
+- url: /2026/11/24/hastings-old-town-traders-to-hold-late-night-christmas-shopping-event/
+  title: Hastings Old Town traders to hold late-night Christmas shopping event
+  day: '2026-11-24'
 ---
 {% raw %}
 A new autumn ritual called 'Dusking' has reached the Hastings seafront, bringing morris dancing to the town's darkening days.

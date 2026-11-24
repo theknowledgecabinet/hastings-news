@@ -57,9 +57,9 @@ related:
 - url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
   title: Christmas Tree Festival returns to St Clements Church
   day: '2026-11-19'
-- url: /2026/10/22/alabama-3-acoustic-show-at-st-leonard-s-church/
-  title: Alabama 3 acoustic show at St Leonard's Church
-  day: '2026-10-22'
+- url: /2026/11/24/hastings-old-town-traders-to-hold-late-night-christmas-shopping-event/
+  title: Hastings Old Town traders to hold late-night Christmas shopping event
+  day: '2026-11-24'
 ---
 {% raw %}
 The Hastings Philharmonic Choir's next concert, Songs of Light, brings two choral masterpieces to All Saints Church in the Old Town on Saturday 7 November.

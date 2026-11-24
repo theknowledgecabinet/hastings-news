@@ -58,12 +58,12 @@ related:
 - url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
   title: Christmas Tree Festival returns to St Clements Church
   day: '2026-11-19'
+- url: /2026/11/24/hastings-old-town-traders-to-hold-late-night-christmas-shopping-event/
+  title: Hastings Old Town traders to hold late-night Christmas shopping event
+  day: '2026-11-24'
 - url: /2026/11/11/st-leonards-frost-fair-returns-on-november-28-with-snow-queen-parade/
   title: St Leonards Frost Fair returns on November 28 with Snow Queen parade
   day: '2026-11-11'
-- url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
-  title: Hastings Old Town Carnival donates over £5,000 to local good causes
-  day: '2026-11-17'
 ---
 {% raw %}
 The Hastings Storytelling Festival comes to a close on Sunday, October 25, with a free Children's Day on the Stade and a Gruffalo themed parade through the Old Town.
