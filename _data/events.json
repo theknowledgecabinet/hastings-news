@@ -33,6 +33,28 @@
   "when": "Wed 25 Nov"
  },
  {
+  "starts": "2026-11-25",
+  "ends": null,
+  "title": "Babies and Toddlers",
+  "time": "9:30am – 11:30am",
+  "venue": "Halton Baptist Church, Hastings",
+  "places": "Hastings",
+  "url": "https://hastingssussex.uk/events/childrens-activities/babies-and-toddlers/",
+  "summary": "A weekly session for pre-school aged children, babies, and their adult carers featuring toys, activities, and refreshments at Halton Baptist Church.",
+  "when": "Wed 25 Nov"
+ },
+ {
+  "starts": "2026-11-25",
+  "ends": null,
+  "title": "Joyful Movement and Breath Work",
+  "time": "9:30am – 10:30am",
+  "venue": "Lior Wellness Studio, St Leonards-on-Sea",
+  "places": "St Leonards",
+  "url": "https://tourist.org.uk/east-sussex/st-leonards-on-sea/events/health/joyful-movement-and-breath-work/",
+  "summary": "A transformative morning practice combining breathwork and somatic movement to help you feel grounded and present. Designed to release tension and cultivate lightness in the body.",
+  "when": "Wed 25 Nov"
+ },
+ {
   "starts": "2026-11-27",
   "ends": null,
   "title": "Palmerama’s Comedyrama",
@@ -96,6 +118,28 @@
   "places": "Hastings",
   "url": "https://whatshappeninghastings.co.uk/event/northern-soul-day-party/",
   "summary": "The Northern Soul Day Party comes to Blackbox for an afternoon of rare soul records and dance floor favourites. Tickets are available from £12.50.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": null,
+  "title": "Hastings Makers Market",
+  "time": "11 am – 4 pm",
+  "venue": "The Yard, Hastings",
+  "places": "Hastings",
+  "url": "https://whatshappeninghastings.co.uk/event/hastings-makers-market-2/",
+  "summary": "Browse 50-ish stalls for vintage homeware, handmade ceramics and dog treats, with resident studios open to meet the makers. Food, coffee and live music are on site.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": null,
+  "title": "Adrian Cox Trio",
+  "time": "7:00pm",
+  "venue": "Henry Ward Hall, Hastings",
+  "places": "Hastings",
+  "url": "https://hastingssussex.uk/events/live-music/adrian-cox-trio/",
+  "summary": "Internationally acclaimed clarinetist Adrian Cox performs New Orleans music with his trio, featuring guitarist Honey Boulton and bassist Alex Gilson.",
   "when": "Sat 28 Nov"
  }
 ]
