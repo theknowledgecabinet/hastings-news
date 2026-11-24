@@ -31,7 +31,7 @@
    "high": 6,
    "low": 3,
    "rain_chance": 6,
-   "rain_mm": 0.2,
+   "rain_mm": 0.8,
    "wind": 13,
    "gusts": 26,
    "direction": "north-easterly",
