@@ -6,7 +6,18 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 25 Nov 2026 07:12:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 12:37:08 +0000</lastBuildDate>
+  <item>
+    <title>Stonehouse View named for Four Courts redevelopment</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/25/stonehouse-view-named-for-four-courts-redevelopment/</link>
+    <guid isPermaLink="false">story-277</guid>
+    <pubDate>Wed, 25 Nov 2026 12:37:08 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Southern Housing has chosen a new name for its proposed major redevelopment of the Four Courts tower blocks in St Leonards. The 1960s social housing scheme, comprising Bevin, Roosevelt, Kennedy, and Churchill Courts, is set to be demolished and rebuilt.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/277/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>New cancer support hub to open at Eastbourne DGH</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/25/new-cancer-support-hub-to-open-at-eastbourne-dgh/</link>
@@ -839,17 +850,6 @@
     <category>Community &amp; people</category>
     <description>The 10cc will play a greatest hits show at the White Rock Theatre on Wednesday 20 May 2027, the band&#x27;s booking for the town has been announced.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/210/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>A259 Little Common Road, Bexhill, blocked after multi-vehicle collision</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/a259-little-common-road-bexhill-blocked-after-multi-vehicle-collision/</link>
-    <guid isPermaLink="false">story-211</guid>
-    <pubDate>Wed, 18 Nov 2026 07:29:50 +0000</pubDate>
-    <category>Traffic &amp; roadworks</category>
-    <description>A collision involving multiple vehicles was reported on the A259 Little Common Road in Bexhill on Tuesday evening.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/211/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
       <media:credit role="illustrator">AI-generated illustration</media:credit>
     </media:content>
   </item>
