@@ -25,34 +25,23 @@ sources:
   name: The Argus
 image:
   card:
-    url: /assets/media/story/274/card.webp
+    url: /assets/media/abstract/story-274/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/story/274/medium.webp
+    url: /assets/media/abstract/story-274/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/story/274/large.webp
-    w: 1344
-    h: 896
+    url: /assets/media/abstract/story-274/large.webp
+    w: 1400
+    h: 933
   share:
-    url: /assets/media/story/274/share.jpg
-  color: '#63686b'
-  alt: Abandoned damaged car on wet English street at dusk
-  artist: AI-generated illustration
-  match: ai
-  ai: true
-  by:
-    name: Iris Ecclesbourne
-    slug: iris-ecclesbourne
-    title: Picture editor and illustrator
-    url: /reporters/iris-ecclesbourne/
-    photo: /assets/reporters/iris-ecclesbourne.jpg
-  licence: ''
-  licence_url: null
-  page: ''
-  default: false
+    url: /assets/media/abstract/story-274/share.jpg
+  color: '#ab413c'
+  alt: ''
+  abstract: true
+  default: true
 checked: '2026-11-25T07:08:53+00:00'
 related:
 - url: /2026/11/17/director-fined-over-fire-safety-breaches-at-hastings-york-gardens/
