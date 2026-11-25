@@ -55,15 +55,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/25/snow-white-panto-returns-to-the-white-rock-this-christmas/
+  title: Snow White panto returns to The White Rock this Christmas
+  day: '2026-11-25'
 - url: /2026/11/22/amuse-bouche-brings-comedy-and-writing-day-to-hastings/
   title: Amuse Bouche brings comedy and writing day to Hastings
   day: '2026-11-22'
 - url: /2026/11/18/10cc-to-play-hastings-white-rock-theatre-in-may-2027/
   title: 10cc to play Hastings White Rock Theatre in May 2027
   day: '2026-11-18'
-- url: /2026/11/20/metal-christmas-tree-returns-to-hastings-town-centre/
-  title: Metal Christmas tree returns to Hastings town centre
-  day: '2026-11-20'
 ---
 {% raw %}
 A local Christmas comedy tradition is back in Hastings for its ninth year. Penny Pincher’s Christmas Carol, performed by local theatre duo Kate Tym and John Knowles, returns to the White Rock Hotel this December.

@@ -63,9 +63,9 @@ related:
 - url: /2026/11/23/penny-pincher-s-christmas-carol-returns-to-white-rock-hotel/
   title: Penny Pincher's Christmas Carol returns to White Rock Hotel
   day: '2026-11-23'
-- url: /2026/11/17/hastings-council-to-freeze-most-parking-charges-in-2027-28/
-  title: Hastings council to freeze most parking charges in 2027/28
-  day: '2026-11-17'
+- url: /2026/11/25/snow-white-panto-returns-to-the-white-rock-this-christmas/
+  title: Snow White panto returns to The White Rock this Christmas
+  day: '2026-11-25'
 ---
 {% raw %}
 The 10cc will play a greatest hits show at the White Rock Theatre on Wednesday 20 May 2027, the band's booking for the town has been announced.

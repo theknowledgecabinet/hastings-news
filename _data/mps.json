@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "26 votes, 6 votes missed, 2 contributions, 3 written questions, 6 answers received",
+  "last30_text": "27 votes, 6 votes missed, 2 contributions, 3 written questions, 6 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -75,9 +75,9 @@
     ]
    }
   ],
-  "checked": "2026-11-25T18:09:52+00:00",
+  "checked": "2026-11-25T18:35:47+00:00",
   "last30": {
-   "vote": 26,
+   "vote": 27,
    "speech": 2,
    "question": 3,
    "answer": 6,
@@ -87,6 +87,31 @@
    "against_party": 0
   },
   "days": [
+   {
+    "day": "2026-11-25",
+    "items": [
+     {
+      "kind": "vote",
+      "title": "Opposition day: Restoration and renewal of the Palace of Westminster",
+      "url": "https://votes.parliament.uk/votes/commons/division/2498",
+      "line": "Vote: Opposition day: Restoration and renewal of the Palace of Westminster: voted No; defeated 102 to 291.",
+      "how": "No",
+      "teller": false,
+      "result": "defeated",
+      "ayes": 102,
+      "noes": 291,
+      "against_party": false,
+      "party_side": "No",
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     }
+    ]
+   },
    {
     "day": "2026-11-24",
     "items": [
@@ -1148,6 +1173,6 @@
     ]
    }
   ],
-  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 32 Commons votes recorded since 3 November 2026, they voted in 26 (81%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
+  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
  }
 }

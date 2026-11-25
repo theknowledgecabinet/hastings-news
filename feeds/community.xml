@@ -6,7 +6,17 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 25 Nov 2026 12:37:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 18:41:46 +0000</lastBuildDate>
+  <item>
+    <title>Snow White panto returns to The White Rock this Christmas</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/25/snow-white-panto-returns-to-the-white-rock-this-christmas/</link>
+    <guid isPermaLink="false">story-278</guid>
+    <pubDate>Wed, 25 Nov 2026 18:41:46 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>The White Rock in Hastings is set to host its Christmas panto, Snow White, from Saturday 12 December 2026 to Sunday 3 January 2027. The production features a cast led by Shona McGarty, who plays Snow White, and Matt Terry, who takes the role of Prince Henry.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/278/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
+  </item>
   <item>
     <title>Stonehouse View named for Four Courts redevelopment</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/25/stonehouse-view-named-for-four-courts-redevelopment/</link>
@@ -528,17 +538,6 @@
     <category>Community &amp; people</category>
     <description>A psychedelic rock trio fronted by a Hastings-born singer plays a free gig at the Jenny Lind in December for the last Adventures in Pop! music evening of the year.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/192/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-    </media:content>
-  </item>
-  <item>
-    <title>The 1828 battle over smuggled goods at Sidley Green</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/15/the-1828-battle-over-smuggled-goods-at-sidley-green/</link>
-    <guid isPermaLink="false">story-189</guid>
-    <pubDate>Sun, 15 Nov 2026 19:05:09 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>A new BBC feature looks back at the night in 1828 when a chase for smuggled goods turned into one of East Sussex&#x27;s most dramatic confrontations in the fields around Sidley, the village that long ago became part of suburban Bexhill.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/189/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
     </media:content>
   </item>
 </channel>

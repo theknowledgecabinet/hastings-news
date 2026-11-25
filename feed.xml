@@ -6,7 +6,17 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 25 Nov 2026 12:37:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 18:41:46 +0000</lastBuildDate>
+  <item>
+    <title>Snow White panto returns to The White Rock this Christmas</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/25/snow-white-panto-returns-to-the-white-rock-this-christmas/</link>
+    <guid isPermaLink="false">story-278</guid>
+    <pubDate>Wed, 25 Nov 2026 18:41:46 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>The White Rock in Hastings is set to host its Christmas panto, Snow White, from Saturday 12 December 2026 to Sunday 3 January 2027. The production features a cast led by Shona McGarty, who plays Snow White, and Matt Terry, who takes the role of Prince Henry.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/278/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
+  </item>
   <item>
     <title>Stonehouse View named for Four Courts redevelopment</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/25/stonehouse-view-named-for-four-courts-redevelopment/</link>
@@ -839,17 +849,6 @@
     <category>Crime &amp; courts</category>
     <description>Police have been visiting East Sussex College to talk to students about knife crime.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/214/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>10cc to play Hastings White Rock Theatre in May 2027</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/10cc-to-play-hastings-white-rock-theatre-in-may-2027/</link>
-    <guid isPermaLink="false">story-210</guid>
-    <pubDate>Wed, 18 Nov 2026 07:29:50 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>The 10cc will play a greatest hits show at the White Rock Theatre on Wednesday 20 May 2027, the band&#x27;s booking for the town has been announced.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/210/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
       <media:credit role="illustrator">AI-generated illustration</media:credit>
     </media:content>
   </item>
