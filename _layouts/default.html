@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {%- assign page_title = page.title | default: site.title -%}
 {%- assign desc = page.description | default: site.description | strip_html | strip_newlines | truncate: 200 -%}
-<title>{% if page.title and page.title != site.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+<title>{% if page.title and page.title != site.title %}{{ page.title | escape }} · {{ site.title | escape }}{% else %}{{ site.title | escape }} – local news for {{ site.area_text | escape }}{% endif %}</title>
 <meta name="description" content="{{ desc | escape }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <meta property="og:site_name" content="{{ site.title | escape }}">
@@ -26,6 +26,32 @@
 <meta name="theme-color" content="#0d151b" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="{{ site.title | escape }}">
+{%- comment %} Structured data for search engines. The paper is the author: the correspondents are AI personas. {% endcomment %}
+{%- capture publisher %}{"@type":"NewsMediaOrganization","name":{{ site.title | jsonify }},"url":{{ '/' | absolute_url | jsonify }},"logo":{"@type":"ImageObject","url":{{ '/assets/icons/apple-touch-icon.png' | absolute_url | jsonify }}}}{% endcapture %}
+{%- if page.layout == 'story' %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle",
+"headline":{{ page.title | truncate: 110 | jsonify }},
+"description":{{ desc | jsonify }},
+"mainEntityOfPage":{{ page.url | absolute_url | jsonify }},
+"datePublished":{{ page.date | date_to_xmlschema | jsonify }},
+"dateModified":{{ page.checked | default: page.date | date_to_xmlschema | jsonify }},
+{%- if page.image.large %}"image":[{{ page.image.large.url | absolute_url | jsonify }}{% if page.image.share %},{{ page.image.share.url | absolute_url | jsonify }}{% endif %}],{% endif %}
+{%- if page.section_label %}"articleSection":{{ page.section_label | jsonify }},{% endif %}
+{%- if page.places.size > 0 %}"contentLocation":[{% for pl in page.places %}{"@type":"Place","name":{{ pl.name | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}],{% endif %}
+{%- if page.sources.size > 0 %}"isBasedOn":[{% for s in page.sources %}{{ s.url | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}],{% endif %}
+"inLanguage":"en-GB","author":{{ publisher }},"publisher":{{ publisher }}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+{"@type":"ListItem","position":1,"name":{{ site.title | jsonify }},"item":{{ '/' | absolute_url | jsonify }}}
+{%- if page.section %},{"@type":"ListItem","position":2,"name":{{ page.section_label | jsonify }},"item":{{ '/section/' | append: page.section | append: '/' | absolute_url | jsonify }}}{% endif %},
+{"@type":"ListItem","position":{% if page.section %}3{% else %}2{% endif %},"name":{{ page.title | jsonify }}}]}</script>
+{%- elsif page.url == "/" %}
+<script type="application/ld+json">[{"@context":"https://schema.org","@type":"WebSite","name":{{ site.title | jsonify }},"url":{{ '/' | absolute_url | jsonify }},
+"potentialAction":{"@type":"SearchAction","target":"{{ '/search/' | absolute_url }}?q={search_term_string}","query-input":"required name=search_term_string"}},
+{"@context":"https://schema.org","@type":"NewsMediaOrganization","name":{{ site.title | jsonify }},"url":{{ '/' | absolute_url | jsonify }},
+"description":{{ site.description | jsonify }},"areaServed":{{ site.area_text | jsonify }},"inLanguage":"en-GB",
+"logo":{"@type":"ImageObject","url":{{ '/assets/icons/apple-touch-icon.png' | absolute_url | jsonify }}},
+"sameAs":["https://www.youtube.com/channel/UCUqmL8DzJ7ZjIOyw99pug9g"]}]</script>
+{%- endif %}
 <link rel="manifest" href="{{ '/manifest.webmanifest' | relative_url }}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/icons/favicon-32.png' | relative_url }}">
 <link rel="apple-touch-icon" href="{{ '/assets/icons/apple-touch-icon.png' | relative_url }}">
