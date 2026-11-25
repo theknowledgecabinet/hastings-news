@@ -54,12 +54,12 @@ related:
 - url: /2026/11/12/health-watchdog-orders-rapid-improvements-at-conquest-hospital/
   title: Health watchdog orders rapid improvements at Conquest Hospital emergency care
   day: '2026-11-12'
+- url: /2026/11/25/new-cancer-support-hub-to-open-at-eastbourne-dgh/
+  title: New cancer support hub to open at Eastbourne DGH
+  day: '2026-11-25'
 - url: /2026/11/16/conquest-hospital-radio-wins-king-s-award/
   title: Conquest Hospital Radio wins King's Award
   day: '2026-11-16'
-- url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
-  title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
-  day: '2026-10-27'
 ---
 {% raw %}
 Smokers in Conquest Hospital's emergency department can now get support to quit while they are in hospital.

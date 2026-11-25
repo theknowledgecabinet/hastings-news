@@ -55,6 +55,10 @@ image:
   page: ''
   default: false
 checked: '2026-11-23T07:07:41+00:00'
+related:
+- url: /2026/11/25/hastings-library-hosts-grief-workshops-and-photo-talk-in-december/
+  title: Hastings Library hosts grief workshops and photo talk in December
+  day: '2026-11-25'
 ---
 {% raw %}
 The Marianne North Centre is hosting a talk and Q&A session with author Professor Sarah Bilston on Sunday 6 December.

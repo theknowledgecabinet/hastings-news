@@ -1,8 +1,8 @@
 {
- "day": "2026-11-24",
- "label": "Tuesday 24 November 2026",
- "issue": 35,
- "edition_label": "Evening edition",
+ "day": "2026-11-25",
+ "label": "Wednesday 25 November 2026",
+ "issue": 36,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-25",
@@ -50,78 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-24",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 7,
-    "low": 4,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 24,
-    "direction": "south-easterly",
-    "sunrise": "07:27",
-    "sunset": "16:00",
-    "summary": "Cloudy. A high of 7°C and a low of 4°C, a moderate breeze from the south-east. Sunrise 07:27, sunset 16:00."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-24",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 7,
-    "low": 5,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 25,
-    "direction": "south-easterly",
-    "sunrise": "07:27",
-    "sunset": "16:00",
-    "summary": "Cloudy. A high of 7°C and a low of 5°C, a moderate breeze from the south-east. Sunrise 07:27, sunset 16:00."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-25",
-    "code": 51,
-    "words": "light drizzle",
-    "icon": "🌦️",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
     "high": 6,
-    "low": 3,
-    "rain_chance": 6,
-    "rain_mm": 0.2,
+    "low": 2,
+    "rain_chance": 0,
+    "rain_mm": 0.0,
     "wind": 13,
     "gusts": 26,
     "direction": "north-easterly",
     "sunrise": "07:29",
     "sunset": "15:59",
-    "summary": "Light drizzle possible (6% chance). A high of 6°C and a low of 3°C, a moderate breeze from the north east. Sunrise 07:29, sunset 15:59."
+    "summary": "Cloudy. A high of 6°C and a low of 2°C, a moderate breeze from the north east. Sunrise 07:29, sunset 15:59."
    }
   }
  ],
  "weather": {
   "day": "2026-11-25",
-  "code": 51,
-  "words": "light drizzle",
-  "icon": "🌦️",
+  "code": 3,
+  "words": "cloudy",
+  "icon": "☁️",
   "high": 6,
-  "low": 3,
-  "rain_chance": 6,
-  "rain_mm": 0.2,
+  "low": 2,
+  "rain_chance": 0,
+  "rain_mm": 0.0,
   "wind": 13,
   "gusts": 26,
   "direction": "north-easterly",
   "sunrise": "07:29",
   "sunset": "15:59",
-  "summary": "Light drizzle possible (6% chance). A high of 6°C and a low of 3°C, a moderate breeze from the north east. Sunrise 07:29, sunset 15:59."
+  "summary": "Cloudy. A high of 6°C and a low of 2°C, a moderate breeze from the north east. Sunrise 07:29, sunset 15:59."
  },
  "briefing": {
   "day": "2026-11-24",
@@ -143,6 +103,11 @@
   "title": "Hastings by-election: Conservative candidate wins seat"
  },
  "days": [
+  {
+   "day": "2026-11-25",
+   "url": "/2026/11/25/",
+   "label": "Wed 25 Nov"
+  },
   {
    "day": "2026-11-24",
    "url": "/2026/11/24/",
@@ -207,11 +172,6 @@
    "day": "2026-11-12",
    "url": "/2026/11/12/",
    "label": "Thu 12 Nov"
-  },
-  {
-   "day": "2026-11-11",
-   "url": "/2026/11/11/",
-   "label": "Wed 11 Nov"
   }
  ]
 }

@@ -69,6 +69,9 @@ related:
 - url: /2026/11/15/hastings-mp-says-1-27-million-secured-for-local-playgrounds/
   title: Hastings MP says £1.27 million secured for local playgrounds
   day: '2026-11-15'
+- url: /2026/11/25/new-cancer-support-hub-to-open-at-eastbourne-dgh/
+  title: New cancer support hub to open at Eastbourne DGH
+  day: '2026-11-25'
 ---
 {% raw %}
 Eastbourne MP Josh Babarinde has called for a dedicated shuttle bus between District General Hospital in Eastbourne and the Conquest Hospital in Hastings.

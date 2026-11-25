@@ -64,9 +64,9 @@ related:
 - url: /2026/11/21/hastings-women-take-to-seafront-to-support-lift-the-curfew-campaign/
   title: Hastings women take to seafront to support 'Lift the Curfew' campaign
   day: '2026-11-21'
-- url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
-  title: Hastings Old Town Carnival donates over £5,000 to local good causes
-  day: '2026-11-17'
+- url: /2026/11/25/hastings-driver-fined-for-hitting-traffic-lights/
+  title: Hastings driver fined for hitting traffic lights
+  day: '2026-11-25'
 ---
 {% raw %}
 A Hastings mother has won a national award for her campaign to make the roads safer, following the death of her son in a road accident.

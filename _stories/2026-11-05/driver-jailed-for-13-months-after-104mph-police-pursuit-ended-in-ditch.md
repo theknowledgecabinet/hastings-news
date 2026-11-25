@@ -58,6 +58,10 @@ image:
   licence_url: null
   page: ''
   default: false
+related:
+- url: /2026/11/25/hastings-driver-fined-for-hitting-traffic-lights/
+  title: Hastings driver fined for hitting traffic lights
+  day: '2026-11-25'
 ---
 {% raw %}
 A disqualified driver has been jailed for 13 months after leading police on a 31-minute pursuit through Hastings, Winchelsea and Rye that ended in a ditch in Iden.

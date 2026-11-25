@@ -6,7 +6,29 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 24 Nov 2026 18:43:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 07:12:27 +0000</lastBuildDate>
+  <item>
+    <title>New cancer support hub to open at Eastbourne DGH</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/25/new-cancer-support-hub-to-open-at-eastbourne-dgh/</link>
+    <guid isPermaLink="false">story-276</guid>
+    <pubDate>Wed, 25 Nov 2026 07:12:27 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A new dedicated cancer support hub is set to open at Eastbourne District General Hospital, providing a space for patients and families across East Sussex.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/276/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
+  <item>
+    <title>Hastings Library hosts grief workshops and photo talk in December</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/25/hastings-library-hosts-grief-workshops-and-photo-talk-in-december/</link>
+    <guid isPermaLink="false">story-275</guid>
+    <pubDate>Wed, 25 Nov 2026 07:12:14 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>East Sussex Libraries are holding a series of workshops and events about grief throughout December. The programme includes sessions in Hastings, Bexhill, Battle, Rye, and Newhaven, designed for those dealing with personal loss or interested in learning more about bereavement.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/275/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>Christmas Sussex Belle steam train arrives in Hastings tomorrow</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/24/christmas-sussex-belle-steam-train-arrives-in-hastings-tomorrow/</link>
@@ -516,28 +538,6 @@
     <category>Community &amp; people</category>
     <description>Hastings United suffered a heavy defeat on a cold Saturday afternoon at The Pilot Field, where Steyning Town produced a second-half comeback to win 4-1 in the Isthmian South East division in front of a crowd of 1,034.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/190/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>Nova &#x27;78 documentary screens at the Electric Palace</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/nova-78-documentary-screens-at-the-electric-palace/</link>
-    <guid isPermaLink="false">story-183</guid>
-    <pubDate>Sat, 14 Nov 2026 13:03:25 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>An 80-minute documentary about the Nova Convention in 1978 New York is coming to Hastings this weekend.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/183/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>Rye bonfire procession starts at 7pm on Saturday night</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/14/rye-bonfire-procession-starts-at-7pm-on-saturday-night/</link>
-    <guid isPermaLink="false">story-182</guid>
-    <pubDate>Sat, 14 Nov 2026 07:22:18 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Rye holds its annual bonfire celebrations on Saturday, with a torchlit procession starting at 7pm, according to a guide published by the local press.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/182/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
       <media:credit role="illustrator">AI-generated illustration</media:credit>
     </media:content>
   </item>

@@ -58,15 +58,15 @@ image:
   default: false
 checked: '2026-11-19T19:08:16+00:00'
 related:
+- url: /2026/11/25/new-cancer-support-hub-to-open-at-eastbourne-dgh/
+  title: New cancer support hub to open at Eastbourne DGH
+  day: '2026-11-25'
 - url: /2026/11/16/eco-arts-magazine-earthworks-launches-at-hastings-museum/
   title: Eco-arts magazine Earthworks launches at Hastings Museum
   day: '2026-11-16'
 - url: /2026/11/19/hastings-museum-opens-sustainability-exhibition-with-natural-history/
   title: Hastings Museum opens sustainability exhibition with Natural History Museum and local students
   day: '2026-11-19'
-- url: /2026/11/02/free-off-grid-solar-workshops-coming-to-hastings-and-battle/
-  title: Free off-grid solar workshops coming to Hastings and Battle
-  day: '2026-11-02'
 ---
 {% raw %}
 A new Green Automotive Centre of Excellence has opened at East Sussex College Group's Ore Valley campus in Hastings.

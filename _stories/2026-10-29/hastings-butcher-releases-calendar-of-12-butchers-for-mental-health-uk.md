@@ -57,15 +57,15 @@ image:
   default: false
 checked: '2026-10-29T19:29:26+00:00'
 related:
+- url: /2026/11/25/hastings-library-hosts-grief-workshops-and-photo-talk-in-december/
+  title: Hastings Library hosts grief workshops and photo talk in December
+  day: '2026-11-25'
 - url: /2026/11/24/surviving-christmas-cuts-hamper-numbers-to-800-as-costs-rise/
   title: Surviving Christmas cuts hamper numbers to 800 as costs rise
   day: '2026-11-24'
 - url: /2026/10/21/hastings-artist-to-launch-book-of-paintings-made-through-cancer/
   title: Hastings artist to launch book of paintings made through cancer
   day: '2026-10-21'
-- url: /2026/11/20/uk-disability-history-month-begins-in-hastings/
-  title: UK Disability History Month begins in Hastings
-  day: '2026-11-20'
 ---
 {% raw %}
 Steve Fisher of P A Fisher & Son Family Butchers in Hastings is publishing a calendar featuring 12 independent butchers from across Great Britain to raise money for Mental Health UK.

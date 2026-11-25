@@ -62,9 +62,9 @@ related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
-- url: /2026/11/04/car-wash-owner-sentenced-over-illegal-workers/
-  title: Car wash owner sentenced over illegal workers
-  day: '2026-11-04'
+- url: /2026/11/25/hastings-driver-fined-for-hitting-traffic-lights/
+  title: Hastings driver fined for hitting traffic lights
+  day: '2026-11-25'
 ---
 {% raw %}
 A property company and its sole director have been fined over fire safety breaches at premises in Hastings.
