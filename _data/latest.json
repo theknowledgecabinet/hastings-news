@@ -29,15 +29,15 @@
    "words": "light drizzle",
    "icon": "🌦️",
    "high": 6,
-   "low": 4,
+   "low": 3,
    "rain_chance": 20,
-   "rain_mm": 0.1,
+   "rain_mm": 0.2,
    "wind": 13,
    "gusts": 26,
    "direction": "south-easterly",
    "sunrise": "07:32",
    "sunset": "15:57",
-   "summary": "Light drizzle possible (20% chance). A high of 6°C and a low of 4°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57.",
+   "summary": "Light drizzle possible (20% chance). A high of 6°C and a low of 3°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57.",
    "label": "Tomorrow",
    "weekday": "Fri 27 Nov",
    "long": "Friday 27 November"
@@ -126,9 +126,9 @@
  "briefing": {
   "day": "2026-11-26",
   "url": "/assets/podcast/2026-11-26.mp3",
-  "seconds": 262,
-  "bytes": 1046252,
-  "length": "4 min"
+  "seconds": 696,
+  "bytes": 2783180,
+  "length": "12 min"
  },
  "video": {
   "id": "KgZRFYa-GWQ",
