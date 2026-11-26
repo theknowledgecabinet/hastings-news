@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "27 votes, 6 votes missed, 2 contributions, 3 written questions, 6 answers received",
+  "last30_text": "27 votes, 6 votes missed, 2 contributions, 3 written questions, 3 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -75,12 +75,12 @@
     ]
    }
   ],
-  "checked": "2026-11-25T23:45:51+00:00",
+  "checked": "2026-11-26T00:16:22+00:00",
   "last30": {
    "vote": 27,
    "speech": 2,
    "question": 3,
-   "answer": 6,
+   "answer": 3,
    "edm": 0,
    "interest": 0,
    "missed": 6,
