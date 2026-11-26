@@ -1116,20 +1116,20 @@
    "constituency": "Hastings and Rye",
    "url": "/representatives/hastings-and-rye/mp/",
    "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-   "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2).",
+   "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 6 times in 4 debates (about 830 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2).",
    "since": "2026-11-03",
    "votes_total": 33,
    "votes_cast": 27,
    "missed": 6,
    "rate": 82,
    "against_party": 0,
-   "speeches": 5,
-   "speech_words": 676,
+   "speeches": 6,
+   "speech_words": 830,
    "debates": 4,
    "top_debates": [
     {
      "name": "Business of the House",
-     "count": 2
+     "count": 3
     },
     {
      "name": "International Update",

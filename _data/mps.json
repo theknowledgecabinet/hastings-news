@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "27 votes, 6 votes missed, 2 contributions, 3 written questions, 3 answers received",
+  "last30_text": "27 votes, 6 votes missed, 3 contributions, 3 written questions, 3 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -75,10 +75,10 @@
     ]
    }
   ],
-  "checked": "2026-11-26T13:15:46+00:00",
+  "checked": "2026-11-26T13:47:23+00:00",
   "last30": {
    "vote": 27,
-   "speech": 2,
+   "speech": 3,
    "question": 3,
    "answer": 3,
    "edm": 0,
@@ -87,6 +87,31 @@
    "against_party": 0
   },
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "speech",
+      "title": "Business of the House",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-26/debates/0DC7DE1A-BBFD-4701-A89B-70BB574BA117/BusinessOfTheHouse#contribution-C5500178-63E3-4B04-B590-B8A3A304B53B",
+      "line": "Spoke in \"Business of the House\" (Commons Chamber): \"May I join your tribute, Mr Speaker, to Wayne our brilliant Doorkeeper? Twenty-eight elderly residents of Old Hastings House care home have been given the worst news in the run-up to Christmas, because the care company that owns the home is hiking fees by up t\"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "May I join your tribute, Mr Speaker, to Wayne our brilliant Doorkeeper? Twenty-eight elderly residents of Old Hastings House care home have been given the worst news in the run-up to Christmas, because the care company that owns the home is hiking fees by up to 80%, with no notice, and residents have been told that they have to leave before Christmas and find a new home. The care company recently purchased the home and, as far as I can tell from Companies House, it has at least three different guises: Adey Care, Arissa Care and Suricare, which are all run by a Mr Thind. Does the Leader of the House agree that it is callous to evict elderly residents at such short notice, especially before Christmas, and that Mr Thind must give residents more time to find new homes? Will he thank council staff who are working hard to support them in that?",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "Commons Chamber"
+     }
+    ]
+   },
    {
     "day": "2026-11-25",
     "items": [
@@ -1173,6 +1198,6 @@
     ]
    }
   ],
-  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
+  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 6 times in 4 debates (about 830 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
  }
 }

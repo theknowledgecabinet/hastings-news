@@ -2173,7 +2173,7 @@
    },
    {
     "day": "2026-12-03",
-    "time": "",
+    "time": "2.00 pm",
     "committee": "SBSA - Overview and Scrutiny Committee",
     "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=658&MId=7198"
    }
@@ -4669,12 +4669,6 @@
     "time": "6.00 pm",
     "committee": "Full Council",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5837"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -4722,16 +4716,16 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -5096,16 +5090,16 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -5532,16 +5526,16 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -6318,12 +6312,6 @@
     "time": "6.00 pm",
     "committee": "Full Council",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5837"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -6682,16 +6670,16 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -6929,12 +6917,6 @@
     "time": "6.00 pm",
     "committee": "Full Council",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5837"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -7364,12 +7346,6 @@
     "time": "6.00 pm",
     "committee": "Audit Committee",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=158&MId=5844"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -8067,12 +8043,6 @@
     "time": "6.00 pm",
     "committee": "Audit Committee",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=158&MId=5844"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -9090,16 +9060,16 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -9559,12 +9529,6 @@
     "time": "6.00 pm",
     "committee": "Full Council",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5837"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -9594,16 +9558,16 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -10034,16 +9998,16 @@
       "how": "present",
       "role": "Vice-Chair",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -10665,12 +10629,6 @@
     "time": "6.00 pm",
     "committee": "Audit Committee",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=158&MId=5844"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -10900,16 +10858,16 @@
       "how": "apologies",
       "role": "Committee Member",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -11195,16 +11153,16 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -11968,12 +11926,6 @@
     "time": "6.00 pm",
     "committee": "Full Council",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5837"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -12539,16 +12491,16 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -12798,16 +12750,16 @@
       "how": "present",
       "role": "Chair",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -13354,12 +13306,6 @@
     "time": "6.00 pm",
     "committee": "Audit Committee",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=158&MId=5844"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -14033,12 +13979,6 @@
     "time": "6.00 pm",
     "committee": "Audit Committee",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=158&MId=5844"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -14583,12 +14523,6 @@
     "time": "6.00 pm",
     "committee": "Full Council",
     "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5837"
-   },
-   {
-    "day": "2026-12-11",
-    "time": "11.00 am",
-    "committee": "Licensing Sub Committee",
-    "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=164&MId=5946"
    }
   ],
   "days": [
@@ -14618,16 +14552,16 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
@@ -14959,16 +14893,16 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Cabinet",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829",
+      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=130&MId=5829&Ver=4",
       "business": [
+       "Call Over",
        "Finance, Performance and Risk Monitoring Report – Q2",
        "Treasury Management Update – 2026/27 Quarter 2",
        "Fees & Charges 2027/28",
        "External Funding and Grant Applications",
        "Age Friendly Hastings Strategy & Action Plan",
        "Museum minutes and recommendations",
-       "Extension to election printing contract (Items 11 & 13 taken in open session)",
-       "Special Urgency - Delivering Residents' priorities through investment in playgrounds"
+       "Extension to election printing contract (Items 11 & 13 taken in open session)"
       ],
       "decided": [
        "Finance, Performance and Risk Monitoring Report – Q2",
