@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "27 votes, 6 votes missed, 4 contributions, 3 written questions, 3 answers received",
+  "last30_text": "27 votes, 6 votes missed, 5 contributions, 3 written questions, 3 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -75,10 +75,10 @@
     ]
    }
   ],
-  "checked": "2026-11-26T16:20:46+00:00",
+  "checked": "2026-11-26T16:51:46+00:00",
   "last30": {
    "vote": 27,
-   "speech": 4,
+   "speech": 5,
    "question": 3,
    "answer": 3,
    "edm": 0,
@@ -90,6 +90,26 @@
    {
     "day": "2026-11-26",
     "items": [
+     {
+      "kind": "speech",
+      "title": "Access to Legal Services",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-26/debates/D3C7FFCD-9417-4B15-BE3D-B584E5BD7CD8/AccessToLegalServices#contribution-6F00E428-B7A3-476C-BAA3-1E416B17F481",
+      "line": "Spoke in \"Access to Legal Services\" (Commons Chamber): \"May I thank the Chair of the Select Committee for that important statement about the importance of free legal advice for those who need it most, especially at a time when this Labour Government are working to expand many rights in law? The Renters Rights Act 2\"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "May I thank the Chair of the Select Committee for that important statement about the importance of free legal advice for those who need it most, especially at a time when this Labour Government are working to expand many rights in law? The Renters Rights Act 2025 gives renters more rights; Awaab’s law gives tenants the right to action within 48 hours if they have black mould in their home; and there are new powers of community ownership. There are many brilliant local charities in my constituency, such as the Hastings Advice and Representation Centre and Citizens Advice 1066, working to help people with that advice. Luckily, they have benefited from Government funding. Will my hon. Friend join me in thanking the volunteers involved for that work, and all the solicitors working pro bono across the country, and in Hastings and Rye, who support people in this way?",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "Commons Chamber"
+     },
      {
       "kind": "speech",
       "title": "Ofgem January Energy Price Cap",
@@ -1218,6 +1238,6 @@
     ]
    }
   ],
-  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 7 times in 5 debates (about 997 words); most often in \"Business of the House\", \"International Update\" and \"Ofgem January Energy Price Cap\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
+  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 8 times in 6 debates (about 1,145 words); most often in \"Business of the House\", \"Access to Legal Services\" and \"International Update\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
  }
 }
