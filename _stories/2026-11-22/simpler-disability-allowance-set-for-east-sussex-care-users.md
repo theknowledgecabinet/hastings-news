@@ -56,15 +56,15 @@ image:
   default: false
 checked: '2026-11-22T10:59:48+00:00'
 related:
+- url: /2026/11/26/ombudsman-upholds-complaint-against-east-sussex-county-council/
+  title: Ombudsman upholds complaint against East Sussex County Council
+  day: '2026-11-26'
 - url: /2026/11/10/residents-to-have-say-on-east-sussex-supported-housing-strategy/
   title: Residents to have say on East Sussex supported housing strategy
   day: '2026-11-10'
 - url: /2026/11/15/east-sussex-joins-national-programme-to-use-creative-activities-for/
   title: East Sussex joins national programme to use creative activities for health
   day: '2026-11-15'
-- url: /2026/11/04/council-to-seek-group-to-take-lease-of-hollington-community-centre/
-  title: Council to seek group to take lease of Hollington Community Centre
-  day: '2026-11-04'
 ---
 {% raw %}
 People in East Sussex who pay towards adult social care will get a simpler way to claim support for disability-related costs, the county council has approved.

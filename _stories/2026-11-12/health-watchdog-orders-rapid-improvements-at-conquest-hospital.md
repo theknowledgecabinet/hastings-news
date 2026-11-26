@@ -55,12 +55,12 @@ related:
 - url: /2026/11/22/quit-smoking-support-brought-to-conquest-emergency-department/
   title: Quit-smoking support brought to Conquest emergency department
   day: '2026-11-22'
+- url: /2026/11/26/ombudsman-upholds-complaint-against-east-sussex-county-council/
+  title: Ombudsman upholds complaint against East Sussex County Council
+  day: '2026-11-26'
 - url: /2026/11/16/conquest-hospital-radio-wins-king-s-award/
   title: Conquest Hospital Radio wins King's Award
   day: '2026-11-16'
-- url: /2026/11/05/hastings-care-home-rated-good-across-all-five-cqc-areas/
-  title: Hastings care home rated 'Good' across all five CQC areas
-  day: '2026-11-05'
 ---
 {% raw %}
 The Care Quality Commission has downgraded the urgent and emergency care service at the Conquest Hospital in St Leonards from 'good' to 'requires improvement' and ordered East Sussex Healthcare NHS Trust to submit an action plan showing what action it is taking to make immediate improvements. The hospital's overall rating has moved from 'outstanding' to 'good'.

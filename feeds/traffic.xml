@@ -6,7 +6,18 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/traffic.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 18 Nov 2026 07:29:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 07:09:52 +0000</lastBuildDate>
+  <item>
+    <title>Line-side fault causes incorrect train delays on Hastings-Ashford route</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/26/line-side-fault-causes-incorrect-train-delays-on-hastings-ashford/</link>
+    <guid isPermaLink="false">story-280</guid>
+    <pubDate>Thu, 26 Nov 2026 07:09:52 +0000</pubDate>
+    <category>Traffic &amp; roadworks</category>
+    <description>Trains between Hastings and Ashford International are showing as delayed on journey planners this morning, Wednesday 25 November, due to a line-side equipment fault.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/280/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>A259 Little Common Road, Bexhill, blocked after multi-vehicle collision</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/18/a259-little-common-road-bexhill-blocked-after-multi-vehicle-collision/</link>

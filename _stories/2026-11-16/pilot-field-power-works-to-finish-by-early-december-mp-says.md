@@ -63,9 +63,9 @@ related:
 - url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
   title: Work begins on 27 'luxury flats' development in St Leonards
   day: '2026-11-04'
-- url: /2026/11/02/bird-deaths-spark-campaign-to-remove-netting-in-hastings-and-rother/
-  title: Bird deaths spark campaign to remove netting in Hastings and Rother
-  day: '2026-11-02'
+- url: /2026/11/26/line-side-fault-causes-incorrect-train-delays-on-hastings-ashford/
+  title: Line-side fault causes incorrect train delays on Hastings-Ashford route
+  day: '2026-11-26'
 ---
 {% raw %}
 UK Power Networks has been working on an underground electrical main in the Pilot Field area of Hastings, and the works have caused a number of power cuts and noisy temporary generators in the neighbourhood in recent months.

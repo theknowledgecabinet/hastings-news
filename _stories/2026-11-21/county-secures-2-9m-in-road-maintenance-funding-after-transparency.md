@@ -64,9 +64,9 @@ related:
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
-- url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/
-  title: Simpler disability allowance set for East Sussex care users
-  day: '2026-11-22'
+- url: /2026/11/26/ombudsman-upholds-complaint-against-east-sussex-county-council/
+  title: Ombudsman upholds complaint against East Sussex County Council
+  day: '2026-11-26'
 ---
 {% raw %}
 East Sussex County Council has secured £2.9 million of incentive funding from the Department for Transport for road maintenance after publishing its Highway Maintenance Transparency Report.

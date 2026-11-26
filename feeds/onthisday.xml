@@ -6,7 +6,17 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/onthisday.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 24 Nov 2026 07:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 07:00:00 +0000</lastBuildDate>
+  <item>
+    <title>On this day, 1846: Hastings line opens in stages from the north</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-26/</link>
+    <guid isPermaLink="false">otd-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 07:00:00 +0000</pubDate>
+    <category>On this day</category>
+    <description>This week in 1846, the Hastings line of the South Eastern Railway opened in stages from the north, with the first section commencing on 25 November. The line was later extended from Robertsbridge to Battle on 18 January 1852. It served as a terminus for only a month before the line was completed to Bopeep Junction on 18 February 1852.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/36/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
+  </item>
   <item>
     <title>On this day, 1937: Hastings by-election: Conservative candidate wins seat</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-24/</link>

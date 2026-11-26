@@ -6,7 +6,18 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 23 Nov 2026 12:37:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 07:08:19 +0000</lastBuildDate>
+  <item>
+    <title>Ombudsman upholds complaint against East Sussex County Council</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/26/ombudsman-upholds-complaint-against-east-sussex-county-council/</link>
+    <guid isPermaLink="false">story-279</guid>
+    <pubDate>Thu, 26 Nov 2026 07:08:19 +0000</pubDate>
+    <category>Council</category>
+    <description>The Local Government and Social Care Ombudsman has upheld a complaint against East Sussex County Council regarding the handling of a child’s special educational needs.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/279/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>Update: Hastings council seeks researchers to measure creative industries&#x27; economic impact</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/20/hastings-council-seeks-researchers-to-measure-creative-industries/</link>
@@ -513,17 +524,6 @@
     <pubDate>Wed, 04 Nov 2026 12:47:52 +0000</pubDate>
     <category>Council</category>
     <description>Following the £288,500 Historic England award and a £200,000 contribution from the council, the first phase of conservation works at Hastings Castle has begun, with specialist contractors removing vegetation from sections of the castle walls and the motte. The works are due to be completed by 16 November.</description>
-  </item>
-  <item>
-    <title>Hastings council to consider Age Friendly strategy for older residents</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/</link>
-    <guid isPermaLink="false">story-97</guid>
-    <pubDate>Wed, 04 Nov 2026 08:17:32 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Borough Council has drawn up an Age Friendly Hastings Strategy and Action Plan, with proposals to make the town more accessible and inclusive for people aged 50 and over.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/97/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
   </item>
 </channel>
 </rss>

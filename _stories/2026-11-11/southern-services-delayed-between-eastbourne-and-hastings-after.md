@@ -59,12 +59,12 @@ related:
 - url: /2026/11/14/trains-between-bexhill-and-eastbourne-cut-short-by-signalling-fault/
   title: Trains between Bexhill and Eastbourne cut short by signalling fault
   day: '2026-11-14'
+- url: /2026/11/26/line-side-fault-causes-incorrect-train-delays-on-hastings-ashford/
+  title: Line-side fault causes incorrect train delays on Hastings-Ashford route
+  day: '2026-11-26'
 - url: /2026/10/24/buses-replace-trains-between-tonbridge-and-wadhurst-from-saturday/
   title: Buses replace trains between Tonbridge and Wadhurst from Saturday
   day: '2026-10-24'
-- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
-  title: Police appeal for witnesses after alleged assault in Hastings town centre
-  day: '2026-11-19'
 ---
 {% raw %}
 Travellers between Eastbourne and Hastings faced delays on Wednesday afternoon after trespassers were found on the railway.

@@ -67,9 +67,9 @@ related:
 - url: /2026/10/31/secondary-school-applications-close-at-midnight-today/
   title: Secondary school applications close at midnight today
   day: '2026-10-31'
-- url: /2026/10/21/warm-homes-plan-cuts-would-be-terrible-blunder-local-energy-service/
-  title: Warm Homes Plan cuts would be 'terrible blunder', local energy service warns
-  day: '2026-10-21'
+- url: /2026/11/26/ombudsman-upholds-complaint-against-east-sussex-county-council/
+  title: Ombudsman upholds complaint against East Sussex County Council
+  day: '2026-11-26'
 ---
 {% raw %}
 Families across East Sussex have not received automatic food vouchers for the October half term after the county council ended the school holiday scheme, raising fears that vulnerable children could go hungry.

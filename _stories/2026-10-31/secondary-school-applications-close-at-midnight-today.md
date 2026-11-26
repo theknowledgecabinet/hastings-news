@@ -62,6 +62,9 @@ related:
 - url: /2026/10/25/fears-of-hungry-children-over-half-term-after-holiday-food-vouchers/
   title: Fears of hungry children over half-term after holiday food vouchers axed
   day: '2026-10-25'
+- url: /2026/11/26/ombudsman-upholds-complaint-against-east-sussex-county-council/
+  title: Ombudsman upholds complaint against East Sussex County Council
+  day: '2026-11-26'
 ---
 {% raw %}
 Parents and carers in East Sussex have until midnight today to submit applications for secondary school places for September 2027.

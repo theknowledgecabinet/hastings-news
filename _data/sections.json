@@ -18,7 +18,7 @@
   "label": "Council",
   "colour": "#1f6f8b",
   "url": "/section/council/",
-  "count": 64
+  "count": 65
  },
  {
   "key": "community",
@@ -39,6 +39,6 @@
   "label": "Traffic & roadworks",
   "colour": "#9a7b12",
   "url": "/section/traffic/",
-  "count": 6
+  "count": 7
  }
 ]
