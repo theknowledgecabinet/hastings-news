@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "27 votes, 6 votes missed, 3 contributions, 3 written questions, 3 answers received",
+  "last30_text": "27 votes, 6 votes missed, 4 contributions, 3 written questions, 3 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -75,10 +75,10 @@
     ]
    }
   ],
-  "checked": "2026-11-26T14:48:41+00:00",
+  "checked": "2026-11-26T15:19:28+00:00",
   "last30": {
    "vote": 27,
-   "speech": 3,
+   "speech": 4,
    "question": 3,
    "answer": 3,
    "edm": 0,
@@ -90,6 +90,26 @@
    {
     "day": "2026-11-26",
     "items": [
+     {
+      "kind": "speech",
+      "title": "Ofgem January Energy Price Cap",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-26/debates/26D03681-1ACE-45F7-BF53-19DA7FEE30B6/OfgemJanuaryEnergyPriceCap#contribution-B7AE56E5-190A-4FC3-BC38-47F8CF74C71B",
+      "line": "Spoke in \"Ofgem January Energy Price Cap\" (Commons Chamber): \"I share the Minister’s view that the energy system is fundamentally broken, and I welcome the Government giving more than 40,000 households in Hastings and Rye £100 to help with rising energy bills. The wars in Iran and Ukraine show that the best way to bring \"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "I share the Minister’s view that the energy system is fundamentally broken, and I welcome the Government giving more than 40,000 households in Hastings and Rye £100 to help with rising energy bills. The wars in Iran and Ukraine show that the best way to bring down bills and take control is to invest in home-grown clean energy, and Hastings and Rye wants to be at the forefront of that transition. Last week, I opened a new electric vehicle training centre, with millions of pounds of Government investment to give young people new green jobs locally. Energise Sussex Coast, a local co-op, is working to help people access Government grants to put solar panels on their roofs, and I am campaigning for Hastings borough council to put solar panels on the many retail parks that they own along Bexhill road to further bring down bills for local businesses. Does the Minister share my view that coastal",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "Commons Chamber"
+     },
      {
       "kind": "speech",
       "title": "Business of the House",
@@ -1198,6 +1218,6 @@
     ]
    }
   ],
-  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 6 times in 4 debates (about 830 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
+  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 7 times in 5 debates (about 997 words); most often in \"Business of the House\", \"International Update\" and \"Ofgem January Energy Price Cap\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2)."
  }
 }
