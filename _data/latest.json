@@ -10,7 +10,7 @@
    "words": "cloudy",
    "icon": "☁️",
    "high": 5,
-   "low": 2,
+   "low": 3,
    "rain_chance": 2,
    "rain_mm": 0.0,
    "wind": 12,
@@ -18,7 +18,7 @@
    "direction": "north-easterly",
    "sunrise": "07:30",
    "sunset": "15:58",
-   "summary": "Cloudy. A high of 5°C and a low of 2°C, a moderate breeze from the north east. Sunrise 07:30, sunset 15:58.",
+   "summary": "Cloudy. A high of 5°C and a low of 3°C, a moderate breeze from the north east. Sunrise 07:30, sunset 15:58.",
    "label": "Today",
    "weekday": "Thu 26 Nov",
    "long": "Thursday 26 November"
