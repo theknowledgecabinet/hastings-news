@@ -77,6 +77,39 @@
   "when": "Fri 27 Nov"
  },
  {
+  "starts": "2026-11-27",
+  "ends": "2026-12-31",
+  "title": "Trees R Good @ Stella Dore Gallery",
+  "time": "6 pm – 8 pm",
+  "venue": "Stella Dore Gallery, St Leonards",
+  "places": "St Leonards",
+  "url": "https://whatshappeninghastings.co.uk/event/trees-r-good-stella-dore-gallery/",
+  "summary": "Stella Dore’s Christmas show features work by Grow Up Art, Haus of Lucy, Shuby and others. The exhibition opens with a private viewing on 27 November.",
+  "when": "Fri 27 Nov"
+ },
+ {
+  "starts": "2026-11-27",
+  "ends": null,
+  "title": "McNiff’s Folk Sundowner",
+  "time": "5:00pm – 7:00pm",
+  "venue": "The Jenny Lind, Hastings",
+  "places": "Hastings",
+  "url": "https://hastingssussex.uk/events/live-music/mcniffs-folk-sundowner/",
+  "summary": "Fridays early evening at the Jenny Lind hosted by singer / songwriter Jason McNiff. Free Entry.",
+  "when": "Fri 27 Nov"
+ },
+ {
+  "starts": "2026-11-27",
+  "ends": null,
+  "title": "Jason McNiff + Roger Hubbard + MAR at The Jenny Lind",
+  "time": "5pm",
+  "venue": "The Jenny Lind, Hastings",
+  "places": "Hastings",
+  "url": "https://hastingsflyer.com/events/jason-mcniff-roger-hubbard-mar-at-the-jenny-lind/",
+  "summary": "McNiff’s Folk Sundowner features Jason McNiff with weekly special guests Roger Hubbard and MAR. The event takes place at 5pm with free entry.",
+  "when": "Fri 27 Nov"
+ },
+ {
   "starts": "2026-11-28",
   "ends": null,
   "title": "Amuse Bouche comedy writing taster",
@@ -151,6 +184,28 @@
   "places": "Hastings",
   "url": "https://hastingssussex.uk/events/live-music/adrian-cox-trio/",
   "summary": "Internationally acclaimed clarinetist Adrian Cox performs New Orleans music with his trio, featuring guitarist Honey Boulton and bassist Alex Gilson.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": null,
+  "title": "St Leonards Frost Fair 2026",
+  "time": "10:00",
+  "venue": "Central St Leonards",
+  "places": "St Leonards",
+  "url": "https://hastingsflyer.com/events/st-leonards-frost-fair-2026/",
+  "summary": "Join the parade and get into the festive spirit with free entry. The event features entertainment, over 30 market stalls and local independent shops.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": null,
+  "title": "Blackbox Presents: DAVE PEARCE – Trance Anthems",
+  "time": "21:00",
+  "venue": "Black Box Hastings, Hastings",
+  "places": "Hastings",
+  "url": "https://hastingsflyer.com/events/blackbox-presents-dave-pearce-trance-anthems/",
+  "summary": "Dave Pearce, the creator of BBC Radio 1’s Dance Anthems, performs an extended set of uplifting and anthemic big room music. He is joined by Mark Dickson, Skie, Kel and Sweeney.",
   "when": "Sat 28 Nov"
  }
 ]
