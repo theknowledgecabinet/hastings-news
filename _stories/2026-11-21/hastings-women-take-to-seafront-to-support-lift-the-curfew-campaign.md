@@ -57,15 +57,15 @@ image:
   default: false
 checked: '2026-11-21T07:30:44+00:00'
 related:
+- url: /2026/11/26/hastings-bexhill-harriers-launch-free-monday-evening-women-s-run/
+  title: Hastings & Bexhill Harriers launch free Monday evening women's run
+  day: '2026-11-26'
 - url: /2026/11/02/hastings-joins-in-the-dusking-morris-dancing-tradition/
   title: Hastings joins in the 'Dusking' morris-dancing tradition
   day: '2026-11-02'
 - url: /2026/11/12/east-sussex-energy-group-urges-residents-to-contact-mps-on-heat-pumps/
   title: East Sussex energy group urges residents to contact MPs on heat pumps and EV targets
   day: '2026-11-12'
-- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
-  title: Police appeal for witnesses after alleged assault in Hastings town centre
-  day: '2026-11-19'
 ---
 {% raw %}
 More than 30 women took to the Hastings seafront on a Wednesday evening at the end of October, torches and hi-vis in hand, to back a national campaign on women's safety when exercising outdoors in the dark.

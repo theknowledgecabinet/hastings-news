@@ -6,7 +6,18 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/politics.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 22 Nov 2026 10:02:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 18:40:57 +0000</lastBuildDate>
+  <item>
+    <title>Energy price cap rises to £2,166 for typical households</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/26/energy-price-cap-rises-to-2-166-for-typical-households/</link>
+    <guid isPermaLink="false">story-283</guid>
+    <pubDate>Thu, 26 Nov 2026 18:40:57 +0000</pubDate>
+    <category>Politics</category>
+    <description>Ofgem has announced that the energy price cap will rise to £2,166 for a typical dual-fuel household paying by direct debit from 1 January to 31 March 2027. The Parliamentary Under-Secretary of State for Energy Security and Net Zero, Ms Polly Billington, stated in the Commons that this increase is driven primarily by soaring international wholesale gas prices resulting from the war in Iran.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/283/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>Political accountability: Hastings and Rye MP takes part in every vote of the week</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/22/political-accountability-hastings-and-rye-mp-takes-part-in-every-vote/</link>

@@ -72,9 +72,9 @@ related:
 - url: /2026/11/20/christmas-parking-concessions-in-battle-bexhill-rye-and-little-common/
   title: Christmas parking concessions in Battle, Bexhill, Rye and Little Common
   day: '2026-11-20'
-- url: /2026/11/20/battle-town-council-marks-remembrance-day-and-sets-festive-dates/
-  title: Battle Town Council marks Remembrance Day and sets festive dates
-  day: '2026-11-20'
+- url: /2026/11/26/new-bid-to-sell-alcohol-at-hastings-convenience-store/
+  title: New bid to sell alcohol at Hastings convenience store
+  day: '2026-11-26'
 series: accountability
 series_label: Political accountability
 series_record: /accountability/week/2026-11-21/rother-district/

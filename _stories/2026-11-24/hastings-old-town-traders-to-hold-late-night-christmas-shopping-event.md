@@ -61,9 +61,9 @@ related:
 - url: /2026/11/20/metal-christmas-tree-returns-to-hastings-town-centre/
   title: Metal Christmas tree returns to Hastings town centre
   day: '2026-11-20'
-- url: /2026/11/24/christmas-sussex-belle-steam-train-arrives-in-hastings-tomorrow/
-  title: Christmas Sussex Belle steam train arrives in Hastings tomorrow
-  day: '2026-11-24'
+- url: /2026/11/26/new-bid-to-sell-alcohol-at-hastings-convenience-store/
+  title: New bid to sell alcohol at Hastings convenience store
+  day: '2026-11-26'
 ---
 {% raw %}
 Hastings Old Town traders are inviting residents to a late-night Christmas shopping event on Thursday, 3 December. The shops will remain open until 8pm.

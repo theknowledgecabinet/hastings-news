@@ -56,6 +56,9 @@ image:
   default: false
 checked: '2026-11-23T07:11:32+00:00'
 related:
+- url: /2026/11/26/drawing-life-carers-exhibition-opens-at-electro-studios/
+  title: Drawing Life carers exhibition opens at Electro Studios
+  day: '2026-11-26'
 - url: /2026/11/11/liane-carroll-to-give-christmas-concert-at-st-clement-s-for-the-sara/
   title: Liane Carroll to give Christmas concert at St Clement's for the Sara Lee Trust
   day: '2026-11-11'

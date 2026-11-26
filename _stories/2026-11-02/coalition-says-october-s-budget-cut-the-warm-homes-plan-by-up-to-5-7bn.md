@@ -59,6 +59,9 @@ related:
 - url: /2026/10/21/warm-homes-plan-cuts-would-be-terrible-blunder-local-energy-service/
   title: Warm Homes Plan cuts would be 'terrible blunder', local energy service warns
   day: '2026-10-21'
+- url: /2026/11/26/energy-price-cap-rises-to-2-166-for-typical-households/
+  title: Energy price cap rises to £2,166 for typical households
+  day: '2026-11-26'
 ---
 {% raw %}
 A fuel poverty coalition says the government's October budget failed to protect households on the coast from volatile gas prices, and cut the Warm Homes Plan by up to £5.7 billion.

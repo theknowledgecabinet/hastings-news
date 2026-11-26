@@ -56,15 +56,15 @@ image:
   default: false
 checked: '2026-10-27T12:49:25+00:00'
 related:
+- url: /2026/11/26/hastings-pride-in-place-board-agrees-75-000-capacity-funding/
+  title: Hastings Pride in Place board agrees £75,000 capacity funding
+  day: '2026-11-26'
 - url: /2026/11/16/conquest-hospital-radio-wins-king-s-award/
   title: Conquest Hospital Radio wins King's Award
   day: '2026-11-16'
 - url: /2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/
   title: Hastings Lions donate more than £8,000 to local causes
   day: '2026-11-18'
-- url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
-  title: Hastings to get £1.2 million Fairness Fund for community projects
-  day: '2026-10-28'
 ---
 {% raw %}
 Hastings Round Table has given £10,000 to the Friends of Conquest Hospital's 2026 Equipment Appeal, one of the largest grants the Round Table has made in recent years.

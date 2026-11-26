@@ -62,9 +62,9 @@ related:
 - url: /2026/10/28/hastings-to-get-1-2-million-fairness-fund-for-community-projects/
   title: Hastings to get £1.2 million Fairness Fund for community projects
   day: '2026-10-28'
-- url: /2026/10/28/hastings-to-receive-1m-from-the-government-s-derelict-buildings-fund/
-  title: Hastings to receive £1m from the government's derelict buildings fund
-  day: '2026-10-28'
+- url: /2026/11/26/hastings-pride-in-place-board-agrees-75-000-capacity-funding/
+  title: Hastings Pride in Place board agrees £75,000 capacity funding
+  day: '2026-11-26'
 ---
 {% raw %}
 New litter bins are being installed around Hastings as part of the government's Pride in Place scheme, which saw the town awarded £20 million.

@@ -57,6 +57,9 @@ related:
 - url: /2026/11/13/bexhill-christmas-lights-switch-on-and-market-on-december-5/
   title: Bexhill Christmas lights switch-on and market on December 5
   day: '2026-11-13'
+- url: /2026/11/26/drawing-life-carers-exhibition-opens-at-electro-studios/
+  title: Drawing Life carers exhibition opens at Electro Studios
+  day: '2026-11-26'
 ---
 {% raw %}
 Bexhill Artists' Workspace is holding its Christmas Makers' Fair at The Studio, De La Warr Pavilion, Bexhill, on Saturday 7 November.

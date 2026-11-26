@@ -6,7 +6,18 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/council.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 26 Nov 2026 07:08:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 18:38:45 +0000</lastBuildDate>
+  <item>
+    <title>Hastings Pride in Place board agrees £75,000 capacity funding</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/26/hastings-pride-in-place-board-agrees-75-000-capacity-funding/</link>
+    <guid isPermaLink="false">story-281</guid>
+    <pubDate>Thu, 26 Nov 2026 18:38:45 +0000</pubDate>
+    <category>Council</category>
+    <description>The Hastings Pride in Place Board met on 13 November to decide how to allocate capacity funding for community groups. The board agreed to release up to £75,000 for the current funding round, with the remaining £25,000 from the total £100,000 allocation carried forward to future rounds.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/281/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>Ombudsman upholds complaint against East Sussex County Council</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/26/ombudsman-upholds-complaint-against-east-sussex-county-council/</link>
@@ -516,14 +527,6 @@
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/103/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
       <media:credit role="illustrator">AI-generated illustration</media:credit>
     </media:content>
-  </item>
-  <item>
-    <title>Update: Hastings Castle to get £288,500 from Historic England for repairs</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/10/25/hastings-castle-to-get-288-500-from-historic-england-for-repairs/</link>
-    <guid isPermaLink="false">story-5-update-2026-11-04T12:47:52+00:00</guid>
-    <pubDate>Wed, 04 Nov 2026 12:47:52 +0000</pubDate>
-    <category>Council</category>
-    <description>Following the £288,500 Historic England award and a £200,000 contribution from the council, the first phase of conservation works at Hastings Castle has begun, with specialist contractors removing vegetation from sections of the castle walls and the motte. The works are due to be completed by 16 November.</description>
   </item>
 </channel>
 </rss>

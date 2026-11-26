@@ -62,9 +62,9 @@ related:
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
-- url: /2026/10/27/holiday-lets-flats-and-shops-approved-for-arcade-blaze-site-in-george/
-  title: Holiday lets, flats and shops approved for arcade blaze site in George Street
-  day: '2026-10-27'
+- url: /2026/11/26/new-bid-to-sell-alcohol-at-hastings-convenience-store/
+  title: New bid to sell alcohol at Hastings convenience store
+  day: '2026-11-26'
 ---
 {% raw %}
 A Hastings housing co-operative has announced it is to be dissolved, having been unable to continue.
