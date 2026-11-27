@@ -2,7 +2,7 @@
  "day": "2026-11-27",
  "label": "Friday 27 November 2026",
  "issue": 38,
- "edition_label": "Morning edition",
+ "edition_label": "Midday edition",
  "forecast": [
   {
    "day": "2026-11-27",
@@ -65,23 +65,43 @@
     "sunset": "15:57",
     "summary": "Cloudy. A high of 6°C and a low of 2°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57."
    }
+  },
+  {
+   "name": "midday",
+   "label": "Midday edition",
+   "weather": {
+    "day": "2026-11-27",
+    "code": 51,
+    "words": "light drizzle",
+    "icon": "🌦️",
+    "high": 5,
+    "low": 2,
+    "rain_chance": 6,
+    "rain_mm": 0.2,
+    "wind": 12,
+    "gusts": 24,
+    "direction": "south-easterly",
+    "sunrise": "07:32",
+    "sunset": "15:57",
+    "summary": "Light drizzle possible (6% chance). A high of 5°C and a low of 2°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57."
+   }
   }
  ],
  "weather": {
   "day": "2026-11-27",
-  "code": 3,
-  "words": "cloudy",
-  "icon": "☁️",
-  "high": 6,
+  "code": 51,
+  "words": "light drizzle",
+  "icon": "🌦️",
+  "high": 5,
   "low": 2,
   "rain_chance": 6,
-  "rain_mm": 0.0,
+  "rain_mm": 0.2,
   "wind": 12,
   "gusts": 24,
   "direction": "south-easterly",
   "sunrise": "07:32",
   "sunset": "15:57",
-  "summary": "Cloudy. A high of 6°C and a low of 2°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57."
+  "summary": "Light drizzle possible (6% chance). A high of 5°C and a low of 2°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57."
  },
  "briefing": {
   "day": "2026-11-26",

@@ -58,11 +58,11 @@ related:
 - url: /2026/11/24/hastings-united-lose-2-0-to-broadbridge-heath-in-sussex-derby/
   title: Hastings United lose 2-0 to Broadbridge Heath in Sussex derby
   day: '2026-11-24'
+- url: /2026/11/27/hastings-united-boss-ronnie-dolan-confident-of-turnaround-after-slump/
+  title: Hastings United boss Ronnie Dolan confident of turnaround after slump
+  day: '2026-11-27'
 - url: /2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/
   title: Battle and Rye both win in East Sussex League weekend
-  day: '2026-11-19'
-- url: /2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/
-  title: Police appeal for witnesses after alleged assault in Hastings town centre
   day: '2026-11-19'
 ---
 {% raw %}

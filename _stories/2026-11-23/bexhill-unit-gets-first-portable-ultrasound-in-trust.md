@@ -59,6 +59,9 @@ related:
 - url: /2026/11/03/charity-raises-4-000-to-save-bexhill-hospital-stroke-rehabilitation/
   title: Charity raises £4,000 to save Bexhill Hospital stroke rehabilitation service
   day: '2026-11-03'
+- url: /2026/11/27/east-sussex-healthcare-nhs-trust-asks-visitors-to-wear-masks-amid/
+  title: East Sussex Healthcare NHS Trust asks visitors to wear masks amid respiratory rise
+  day: '2026-11-27'
 - url: /2026/11/25/new-cancer-support-hub-to-open-at-eastbourne-dgh/
   title: New cancer support hub to open at Eastbourne DGH
   day: '2026-11-25'

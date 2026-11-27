@@ -6,7 +6,28 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feeds/community.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 26 Nov 2026 18:42:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 12:38:52 +0000</lastBuildDate>
+  <item>
+    <title>Hastings United boss Ronnie Dolan confident of turnaround after slump</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/27/hastings-united-boss-ronnie-dolan-confident-of-turnaround-after-slump/</link>
+    <guid isPermaLink="false">story-288</guid>
+    <pubDate>Fri, 27 Nov 2026 12:38:52 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings United manager Ronnie Dolan says the team will &quot;start firing again&quot; as they look to end a slump that has seen them lose five Isthmian League East games in six.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/288/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
+  <item>
+    <title>East Sussex Healthcare NHS Trust asks visitors to wear masks amid respiratory rise</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/27/east-sussex-healthcare-nhs-trust-asks-visitors-to-wear-masks-amid/</link>
+    <guid isPermaLink="false">story-287</guid>
+    <pubDate>Fri, 27 Nov 2026 12:38:37 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>East Sussex Healthcare NHS Trust has asked people to wear face masks in some areas of its hospitals.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/287/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
+  </item>
   <item>
     <title>Hastings &amp; Bexhill Harriers launch free Monday evening women&#x27;s run</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/26/hastings-bexhill-harriers-launch-free-monday-evening-women-s-run/</link>
@@ -520,26 +541,6 @@
     <description>Mulberry Academy Bexhill has launched Ready Set Perform, a weekly performing arts class open to any child in Years 4 to 7, whatever school they attend.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/202/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
       <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>Conquest Hospital Radio wins King&#x27;s Award</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/conquest-hospital-radio-wins-king-s-award/</link>
-    <guid isPermaLink="false">story-197</guid>
-    <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Conquest Hospital Radio, the volunteer-run station that has been bringing music and company into hospitals in Hastings and the Rother for more than 50 years, has received a King&#x27;s Award, the highest recognition given to voluntary organisations in the UK.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/197/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-    </media:content>
-  </item>
-  <item>
-    <title>HMS Prince of Wales spotted off the Hastings coast</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/16/hms-prince-of-wales-spotted-off-the-hastings-coast/</link>
-    <guid isPermaLink="false">story-199</guid>
-    <pubDate>Mon, 16 Nov 2026 18:50:24 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Royal Navy aircraft carrier HMS Prince of Wales passed the Hastings coast on the morning of Monday 16 November, according to local photographer Marie Richardson, who captured the picture.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/199/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
     </media:content>
   </item>
 </channel>

@@ -6,7 +6,28 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 26 Nov 2026 18:42:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 12:38:52 +0000</lastBuildDate>
+  <item>
+    <title>Hastings United boss Ronnie Dolan confident of turnaround after slump</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/27/hastings-united-boss-ronnie-dolan-confident-of-turnaround-after-slump/</link>
+    <guid isPermaLink="false">story-288</guid>
+    <pubDate>Fri, 27 Nov 2026 12:38:52 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings United manager Ronnie Dolan says the team will &quot;start firing again&quot; as they look to end a slump that has seen them lose five Isthmian League East games in six.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/288/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
+  <item>
+    <title>East Sussex Healthcare NHS Trust asks visitors to wear masks amid respiratory rise</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/27/east-sussex-healthcare-nhs-trust-asks-visitors-to-wear-masks-amid/</link>
+    <guid isPermaLink="false">story-287</guid>
+    <pubDate>Fri, 27 Nov 2026 12:38:37 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>East Sussex Healthcare NHS Trust has asked people to wear face masks in some areas of its hospitals.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/287/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+    </media:content>
+  </item>
   <item>
     <title>New bid to sell alcohol at Hastings convenience store</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/26/new-bid-to-sell-alcohol-at-hastings-convenience-store/</link>
@@ -831,27 +852,6 @@
     <description>Hastings Borough Council has approved more than £4.4 million for projects across the town, covering playgrounds, sports facilities and improving some of the town&#x27;s best-known historic attractions, The Argus reported.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/222/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
       <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>Battle and Rye both win in East Sussex League weekend</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/battle-and-rye-both-win-in-east-sussex-league-weekend/</link>
-    <guid isPermaLink="false">story-221</guid>
-    <pubDate>Thu, 19 Nov 2026 07:43:19 +0000</pubDate>
-    <category>Community &amp; people</category>
-    <description>Battle Town and Rye Town both won in Saturday&#x27;s East Sussex Football League Premier Division matches, according to the Hastings Observer.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/221/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
-    </media:content>
-  </item>
-  <item>
-    <title>On this day, 1910: Royal Cinema de Luxe held its opening night at Pelham Place</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/on-this-day/2026-11-19/</link>
-    <guid isPermaLink="false">otd-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 07:00:00 +0000</pubDate>
-    <category>On this day</category>
-    <description>On 19 November 1910, a thousand people turned up at the opening night of the Royal Cinema de Luxe at Pelham Place, the Sussex Express reported.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/onthisday/16/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
     </media:content>
   </item>
 </channel>
