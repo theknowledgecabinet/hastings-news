@@ -11,7 +11,7 @@
    "contact": "https://members.parliament.uk/member/5192/contact",
    "parliament": "https://members.parliament.uk/member/5192",
    "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-   "last30_text": "27 votes, 6 votes missed, 5 contributions, 3 written questions, 3 answers received"
+   "last30_text": "27 votes, 6 votes missed, 4 contributions, 3 written questions, 3 answers received"
   }
  ],
  "councils": [],
@@ -48,7 +48,7 @@
     "contact": "https://members.parliament.uk/member/5192/contact",
     "parliament": "https://members.parliament.uk/member/5192",
     "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-    "last30_text": "27 votes, 6 votes missed, 5 contributions, 3 written questions, 3 answers received"
+    "last30_text": "27 votes, 6 votes missed, 4 contributions, 3 written questions, 3 answers received"
    },
    "sections": [
     {
@@ -85,7 +85,7 @@
          "since": null,
          "email": "cllr.sorrell.marlow-eastwood@hastings.gov.uk",
          "url": "/representatives/hastings-borough/sorrell-marlow-eastwood/",
-         "attendance_text": "15 of 16 meetings (94%)"
+         "attendance_text": "14 of 15 meetings (93%)"
         }
        ]
       },
@@ -116,7 +116,7 @@
          "since": null,
          "email": "Cllr.Yunis.Smith@Hastings.gov.uk",
          "url": "/representatives/hastings-borough/yunis-smith/",
-         "attendance_text": "18 of 21 meetings (86%)"
+         "attendance_text": "17 of 20 meetings (85%)"
         }
        ]
       },
@@ -147,7 +147,7 @@
          "since": null,
          "email": "cllr.mark.etherington@hastings.gov.uk",
          "url": "/representatives/hastings-borough/mark-etherington/",
-         "attendance_text": "10 of 15 meetings (67%)"
+         "attendance_text": "10 of 14 meetings (71%)"
         }
        ]
       },
@@ -165,7 +165,7 @@
          "since": null,
          "email": "cllr.becca.horn@hastings.gov.uk",
          "url": "/representatives/hastings-borough/becca-horn/",
-         "attendance_text": "13 of 13 meetings (100%)"
+         "attendance_text": "12 of 12 meetings (100%)"
         },
         {
          "name": "Steph Fawbert",
@@ -196,7 +196,7 @@
          "since": null,
          "email": "cllr.adele.bates@hastings.gov.uk",
          "url": "/representatives/hastings-borough/adele-bates/",
-         "attendance_text": "11 of 14 meetings (79%)"
+         "attendance_text": "10 of 13 meetings (77%)"
         },
         {
          "name": "Solly Solamito",
@@ -227,7 +227,7 @@
          "since": "2024-05-06",
          "email": "cllr.paul.foster@hastings.gov.uk",
          "url": "/representatives/hastings-borough/paul-foster/",
-         "attendance_text": "11 of 17 meetings (65%)"
+         "attendance_text": "10 of 16 meetings (62%)"
         },
         {
          "name": "Rob Drew",
@@ -258,7 +258,7 @@
          "since": null,
          "email": "cllr.amanda.jobson@hastings.gov.uk",
          "url": "/representatives/hastings-borough/amanda-jobson/",
-         "attendance_text": "20 of 20 meetings (100%)"
+         "attendance_text": "19 of 19 meetings (100%)"
         },
         {
          "name": "Paula Warne",
@@ -271,7 +271,7 @@
          "since": null,
          "email": "cllr.paula.warne@hastings.gov.uk",
          "url": "/representatives/hastings-borough/paula-warne/",
-         "attendance_text": "23 of 25 meetings (92%)"
+         "attendance_text": "22 of 24 meetings (92%)"
         }
        ]
       },
@@ -289,7 +289,7 @@
          "since": null,
          "email": "cllr.danuta.kean@hastings.gov.uk",
          "url": "/representatives/hastings-borough/danuta-kean/",
-         "attendance_text": "9 of 12 meetings (75%)"
+         "attendance_text": "8 of 11 meetings (73%)"
         },
         {
          "name": "Will Chapman",
@@ -320,7 +320,7 @@
          "since": null,
          "email": "cllr.darren.mackenzie@hastings.gov.uk",
          "url": "/representatives/hastings-borough/darren-mackenzie/",
-         "attendance_text": "17 of 17 meetings (100%)"
+         "attendance_text": "16 of 16 meetings (100%)"
         },
         {
          "name": "Karen Simnett",
@@ -351,7 +351,7 @@
          "since": "2021-05-11",
          "email": "cllr.julia.hilton@hastings.gov.uk",
          "url": "/representatives/hastings-borough/julia-hilton/",
-         "attendance_text": "24 of 27 meetings (89%)"
+         "attendance_text": "23 of 26 meetings (88%)"
         },
         {
          "name": "Mike Frith",
@@ -395,7 +395,7 @@
          "since": null,
          "email": "cllr.jo.walker@hastings.gov.uk",
          "url": "/representatives/hastings-borough/jo-walker/",
-         "attendance_text": "21 of 22 meetings (95%)"
+         "attendance_text": "20 of 21 meetings (95%)"
         }
        ]
       },
@@ -413,7 +413,7 @@
          "since": null,
          "email": "cllr.billie.barnes@hastings.gov.uk",
          "url": "/representatives/hastings-borough/billie-barnes/",
-         "attendance_text": "6 of 7 meetings (86%)"
+         "attendance_text": "5 of 6 meetings (83%)"
         },
         {
          "name": "Dulcie Reynolds",
@@ -444,7 +444,7 @@
          "since": null,
          "email": "cllr.andy.batsford@hastings.gov.uk",
          "url": "/representatives/hastings-borough/andy-batsford/",
-         "attendance_text": "5 of 13 meetings (38%)"
+         "attendance_text": "5 of 12 meetings (42%)"
         },
         {
          "name": "Peter Clarke",
@@ -475,7 +475,7 @@
          "since": null,
          "email": "cllr.glenn.haffenden@hastings.gov.uk",
          "url": "/representatives/hastings-borough/glenn-haffenden/",
-         "attendance_text": "19 of 20 meetings (95%)"
+         "attendance_text": "18 of 19 meetings (95%)"
         },
         {
          "name": "Natalie Gaimster",
@@ -488,7 +488,7 @@
          "since": null,
          "email": "cllr.natalie.gaimster@hastings.gov.uk",
          "url": "/representatives/hastings-borough/natalie-gaimster/",
-         "attendance_text": "12 of 15 meetings (80%)"
+         "attendance_text": "11 of 14 meetings (79%)"
         }
        ]
       },
@@ -519,7 +519,7 @@
          "since": null,
          "email": "cllr.trevor.webb@hastings.gov.uk",
          "url": "/representatives/hastings-borough/trevor-webb/",
-         "attendance_text": "16 of 20 meetings (80%)"
+         "attendance_text": "15 of 19 meetings (79%)"
         }
        ]
       },
@@ -550,7 +550,7 @@
          "since": null,
          "email": "cllr.helen.kay@hastings.gov.uk",
          "url": "/representatives/hastings-borough/helen-kay/",
-         "attendance_text": "9 of 10 meetings (90%)"
+         "attendance_text": "8 of 9 meetings (89%)"
         }
        ]
       }

@@ -5,25 +5,6 @@
  "edition_label": "Evening edition",
  "forecast": [
   {
-   "day": "2026-11-26",
-   "code": 3,
-   "words": "cloudy",
-   "icon": "☁️",
-   "high": 5,
-   "low": 3,
-   "rain_chance": 2,
-   "rain_mm": 0.0,
-   "wind": 12,
-   "gusts": 23,
-   "direction": "north-easterly",
-   "sunrise": "07:30",
-   "sunset": "15:58",
-   "summary": "Cloudy. A high of 5°C and a low of 3°C, a moderate breeze from the north east. Sunrise 07:30, sunset 15:58.",
-   "label": "Today",
-   "weekday": "Thu 26 Nov",
-   "long": "Thursday 26 November"
-  },
-  {
    "day": "2026-11-27",
    "code": 3,
    "words": "cloudy",
@@ -38,13 +19,32 @@
    "sunrise": "07:32",
    "sunset": "15:57",
    "summary": "Cloudy. A high of 6°C and a low of 3°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57.",
-   "label": "Tomorrow",
+   "label": "Today",
    "weekday": "Fri 27 Nov",
    "long": "Friday 27 November"
+  },
+  {
+   "day": "2026-11-28",
+   "code": 61,
+   "words": "light rain",
+   "icon": "🌦️",
+   "high": 12,
+   "low": 6,
+   "rain_chance": 96,
+   "rain_mm": 3.7,
+   "wind": 19,
+   "gusts": 35,
+   "direction": "southerly",
+   "sunrise": "07:33",
+   "sunset": "15:57",
+   "summary": "Light rain likely. A high of 12°C and a low of 6°C, a fresh breeze from the south, gusting 35 mph. Sunrise 07:33, sunset 15:57.",
+   "label": "Tomorrow",
+   "weekday": "Sat 28 Nov",
+   "long": "Saturday 28 November"
   }
  ],
- "today_label": "Thursday 26 November 2026",
- "today_short": "Thu 26 Nov",
+ "today_label": "Friday 27 November 2026",
+ "today_short": "Fri 27 Nov",
  "editions": [
   {
    "name": "morning",

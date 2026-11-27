@@ -2793,12 +2793,6 @@
   "rate": 89,
   "upcoming": [
    {
-    "day": "2026-11-27",
-    "time": "10.30 am",
-    "committee": "Audit Committee",
-    "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=517&MId=6820"
-   },
-   {
     "day": "2026-12-01",
     "time": "10.00 am",
     "committee": "Full Council",
@@ -3322,7 +3316,7 @@
   "since": null,
   "email": "cllr.sorrell.marlow-eastwood@hastings.gov.uk",
   "url": "/representatives/hastings-borough/sorrell-marlow-eastwood/",
-  "attendance_text": "15 of 16 meetings (94%)",
+  "attendance_text": "14 of 15 meetings (93%)",
   "committees": [
    {
     "id": "168",
@@ -3344,8 +3338,8 @@
    }
   ],
   "tally": {
-   "expected": 16,
-   "present": 15,
+   "expected": 15,
+   "present": 14,
    "apologies": 1,
    "absent": 0,
    "attended": 0,
@@ -3353,7 +3347,7 @@
    "declarations": 2,
    "votes": 0
   },
-  "rate": 94,
+  "rate": 93,
   "upcoming": [
    {
     "day": "2026-12-09",
@@ -3677,29 +3671,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1175",
@@ -3708,7 +3679,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1175",
   "also": [],
   "ref_raw": "1175",
-  "summary": "Sorrell Marlow-Eastwood is a Conservative councillor for Ashdown on Hastings Borough Council. In the last 12 months they were expected at 16 meetings and attended 15 (94%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 79% for its Conservative councillors here. They sent apologies for 1 meeting. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
+  "summary": "Sorrell Marlow-Eastwood is a Conservative councillor for Ashdown on Hastings Borough Council. In the last 12 months they were expected at 15 meetings and attended 14 (93%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 77% for its Conservative councillors here. They sent apologies for 1 meeting. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
  },
  "hbc-2803": {
   "name": "Will Rumfitt",
@@ -4101,7 +4072,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2803",
   "also": [],
   "ref_raw": "2803",
-  "summary": "Will Rumfitt is a Green Party councillor for Baird on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 15 meetings and attended 11 (73%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 4 meetings. They sit on 6 committees and bodies."
+  "summary": "Will Rumfitt is a Green Party councillor for Baird on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 15 meetings and attended 11 (73%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 4 meetings. They sit on 6 committees and bodies."
  },
  "hbc-2310": {
   "name": "Yunis Smith",
@@ -4114,7 +4085,7 @@
   "since": null,
   "email": "Cllr.Yunis.Smith@Hastings.gov.uk",
   "url": "/representatives/hastings-borough/yunis-smith/",
-  "attendance_text": "18 of 21 meetings (86%)",
+  "attendance_text": "17 of 20 meetings (85%)",
   "committees": [
    {
     "id": "168",
@@ -4136,8 +4107,8 @@
    }
   ],
   "tally": {
-   "expected": 21,
-   "present": 18,
+   "expected": 20,
+   "present": 17,
    "apologies": 3,
    "absent": 0,
    "attended": 0,
@@ -4145,7 +4116,7 @@
    "declarations": 0,
    "votes": 0
   },
-  "rate": 86,
+  "rate": 85,
   "upcoming": [
    {
     "day": "2026-12-02",
@@ -4557,29 +4528,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2310",
@@ -4588,7 +4536,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2310",
   "also": [],
   "ref_raw": "2310",
-  "summary": "Yunis Smith is a Green Party councillor for Baird on Hastings Borough Council. Their posts: Migrant Champion. In the last 12 months they were expected at 21 meetings and attended 18 (86%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 3 meetings. They sit on 3 committees and bodies, chairing Planning Committee."
+  "summary": "Yunis Smith is a Green Party councillor for Baird on Hastings Borough Council. Their posts: Migrant Champion. In the last 12 months they were expected at 20 meetings and attended 17 (85%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They sit on 3 committees and bodies, chairing Planning Committee."
  },
  "hbc-2804": {
   "name": "Archie Lauchlan",
@@ -5034,7 +4982,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2804",
   "also": [],
   "ref_raw": "2804",
-  "summary": "Archie Lauchlan is a Green Party councillor for Braybrooke on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 16 meetings and attended 13 (81%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 7 committees and bodies, chairing Regulatory Committee."
+  "summary": "Archie Lauchlan is a Green Party councillor for Braybrooke on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 16 meetings and attended 13 (81%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 7 committees and bodies, chairing Regulatory Committee."
  },
  "hbc-2311": {
   "name": "Mark Etherington",
@@ -5047,7 +4995,7 @@
   "since": null,
   "email": "cllr.mark.etherington@hastings.gov.uk",
   "url": "/representatives/hastings-borough/mark-etherington/",
-  "attendance_text": "10 of 15 meetings (67%)",
+  "attendance_text": "10 of 14 meetings (71%)",
   "committees": [
    {
     "id": "130",
@@ -5063,16 +5011,16 @@
    }
   ],
   "tally": {
-   "expected": 15,
+   "expected": 14,
    "present": 10,
-   "apologies": 5,
+   "apologies": 4,
    "absent": 0,
    "attended": 0,
    "substitute": 0,
    "declarations": 0,
    "votes": 0
   },
-  "rate": 67,
+  "rate": 71,
   "upcoming": [
    {
     "day": "2026-12-09",
@@ -5421,29 +5369,6 @@
       ]
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "apologies",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2311",
@@ -5452,7 +5377,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2311",
   "also": [],
   "ref_raw": "2311",
-  "summary": "Mark Etherington is a Green Party councillor for Braybrooke on Hastings Borough Council. Their posts: Planning, Infrastructure & Regulatory Services Portfolio Holder; Armed Forces Champion. In the last 12 months they were expected at 15 meetings and attended 10 (67%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 5 meetings. They sit on 2 committees and bodies."
+  "summary": "Mark Etherington is a Green Party councillor for Braybrooke on Hastings Borough Council. Their posts: Planning, Infrastructure & Regulatory Services Portfolio Holder; Armed Forces Champion. In the last 12 months they were expected at 14 meetings and attended 10 (71%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 4 meetings. They sit on 2 committees and bodies."
  },
  "hbc-2312": {
   "name": "Becca Horn",
@@ -5465,7 +5390,7 @@
   "since": null,
   "email": "cllr.becca.horn@hastings.gov.uk",
   "url": "/representatives/hastings-borough/becca-horn/",
-  "attendance_text": "13 of 13 meetings (100%)",
+  "attendance_text": "12 of 12 meetings (100%)",
   "committees": [
    {
     "id": "130",
@@ -5487,8 +5412,8 @@
    }
   ],
   "tally": {
-   "expected": 13,
-   "present": 13,
+   "expected": 12,
+   "present": 12,
    "apologies": 0,
    "absent": 0,
    "attended": 0,
@@ -5816,29 +5741,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Chair",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2312",
@@ -5853,7 +5755,7 @@
    }
   ],
   "ref_raw": "2312",
-  "summary": "Becca Horn is a Green Party councillor for Castle on Hastings Borough Council. Their posts: Community Safety and Environmental Services Portfolio Holder. In the last 12 months they were expected at 13 meetings and attended 13 (100%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies."
+  "summary": "Becca Horn is a Green Party councillor for Castle on Hastings Borough Council. Their posts: Community Safety and Environmental Services Portfolio Holder. In the last 12 months they were expected at 12 meetings and attended 12 (100%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies."
  },
  "hbc-2805": {
   "name": "Steph Fawbert",
@@ -6249,7 +6151,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2805",
   "also": [],
   "ref_raw": "2805",
-  "summary": "Steph Fawbert is a Green Party councillor for Castle on Hastings Borough Council, a councillor since May 2026. Their posts: Heritage Champion. In the last 12 months they were expected at 14 meetings and attended 12 (86%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 2 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
+  "summary": "Steph Fawbert is a Green Party councillor for Castle on Hastings Borough Council, a councillor since May 2026. Their posts: Heritage Champion. In the last 12 months they were expected at 14 meetings and attended 12 (86%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 2 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
  },
  "hbc-2313": {
   "name": "Adele Bates",
@@ -6262,7 +6164,7 @@
   "since": null,
   "email": "cllr.adele.bates@hastings.gov.uk",
   "url": "/representatives/hastings-borough/adele-bates/",
-  "attendance_text": "11 of 14 meetings (79%)",
+  "attendance_text": "10 of 13 meetings (77%)",
   "committees": [
    {
     "id": "173",
@@ -6296,8 +6198,8 @@
    }
   ],
   "tally": {
-   "expected": 14,
-   "present": 11,
+   "expected": 13,
+   "present": 10,
    "apologies": 3,
    "absent": 0,
    "attended": 0,
@@ -6305,7 +6207,7 @@
    "declarations": 0,
    "votes": 0
   },
-  "rate": 79,
+  "rate": 77,
   "upcoming": [
    {
     "day": "2026-12-09",
@@ -6559,29 +6461,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2313",
@@ -6590,7 +6469,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2313",
   "also": [],
   "ref_raw": "2313",
-  "summary": "Adele Bates is a Green Party councillor for Central St Leonards on Hastings Borough Council. In the last 12 months they were expected at 14 meetings and attended 11 (79%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 3 meetings. They sit on 5 committees and bodies, chairing Council Appointments Committee."
+  "summary": "Adele Bates is a Green Party councillor for Central St Leonards on Hastings Borough Council. In the last 12 months they were expected at 13 meetings and attended 10 (77%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They sit on 5 committees and bodies, chairing Council Appointments Committee."
  },
  "hbc-2806": {
   "name": "Solly Solamito",
@@ -6848,7 +6727,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2806",
   "also": [],
   "ref_raw": "2806",
-  "summary": "Solly Solamito is a Green Party councillor for Central St Leonards on Hastings Borough Council, a councillor since May 2026. Their posts: Corporate Services, Communities and Equalities Portfolio Holder. In the last 12 months they were expected at 7 meetings and attended 5 (71%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 2 meetings. They sit on 4 committees and bodies."
+  "summary": "Solly Solamito is a Green Party councillor for Central St Leonards on Hastings Borough Council, a councillor since May 2026. Their posts: Corporate Services, Communities and Equalities Portfolio Holder. In the last 12 months they were expected at 7 meetings and attended 5 (71%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 2 meetings. They sit on 4 committees and bodies."
  },
  "hbc-1173": {
   "name": "Paul Foster",
@@ -6861,7 +6740,7 @@
   "since": "2024-05-06",
   "email": "cllr.paul.foster@hastings.gov.uk",
   "url": "/representatives/hastings-borough/paul-foster/",
-  "attendance_text": "11 of 17 meetings (65%)",
+  "attendance_text": "10 of 16 meetings (62%)",
   "committees": [
    {
     "id": "168",
@@ -6895,8 +6774,8 @@
    }
   ],
   "tally": {
-   "expected": 17,
-   "present": 11,
+   "expected": 16,
+   "present": 10,
    "apologies": 5,
    "absent": 1,
    "attended": 1,
@@ -6904,7 +6783,7 @@
    "declarations": 0,
    "votes": 0
   },
-  "rate": 65,
+  "rate": 62,
   "upcoming": [
    {
     "day": "2026-12-02",
@@ -7240,29 +7119,6 @@
       ]
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=1173",
@@ -7271,7 +7127,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1173",
   "also": [],
   "ref_raw": "1173",
-  "summary": "Paul Foster is a Conservative councillor for Conquest on Hastings Borough Council, a councillor since May 2024. Their posts: Conservative Group Leader. In the last 12 months they were expected at 17 meetings and attended 11 (65%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 79% for its Conservative councillors here. They sent apologies for 5 meetings and were recorded absent without apologies at 1. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
+  "summary": "Paul Foster is a Conservative councillor for Conquest on Hastings Borough Council, a councillor since May 2024. Their posts: Conservative Group Leader. In the last 12 months they were expected at 16 meetings and attended 10 (62%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 77% for its Conservative councillors here. They sent apologies for 5 meetings and were recorded absent without apologies at 1. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
  },
  "hbc-2807": {
   "name": "Rob Drew",
@@ -7507,7 +7363,7 @@
   "since": null,
   "email": "cllr.amanda.jobson@hastings.gov.uk",
   "url": "/representatives/hastings-borough/amanda-jobson/",
-  "attendance_text": "20 of 20 meetings (100%)",
+  "attendance_text": "19 of 19 meetings (100%)",
   "committees": [
    {
     "id": "168",
@@ -7541,8 +7397,8 @@
    }
   ],
   "tally": {
-   "expected": 20,
-   "present": 20,
+   "expected": 19,
+   "present": 19,
    "apologies": 0,
    "absent": 0,
    "attended": 0,
@@ -7931,29 +7787,6 @@
       ]
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2158",
@@ -7968,7 +7801,7 @@
    }
   ],
   "ref_raw": "2158",
-  "summary": "Amanda Jobson is a Green Party councillor for Gensing on Hastings Borough Council. Their posts: Deputy Mayor and Older Persons Champion. In the last 12 months they were expected at 20 meetings and attended 20 (100%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sit on 5 committees and bodies, chairing Licensing Committee."
+  "summary": "Amanda Jobson is a Green Party councillor for Gensing on Hastings Borough Council. Their posts: Deputy Mayor and Older Persons Champion. In the last 12 months they were expected at 19 meetings and attended 19 (100%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sit on 5 committees and bodies, chairing Licensing Committee."
  },
  "hbc-2314": {
   "name": "Paula Warne",
@@ -7981,7 +7814,7 @@
   "since": null,
   "email": "cllr.paula.warne@hastings.gov.uk",
   "url": "/representatives/hastings-borough/paula-warne/",
-  "attendance_text": "23 of 25 meetings (92%)",
+  "attendance_text": "22 of 24 meetings (92%)",
   "committees": [
    {
     "id": "158",
@@ -8021,8 +7854,8 @@
    }
   ],
   "tally": {
-   "expected": 25,
-   "present": 23,
+   "expected": 24,
+   "present": 22,
    "apologies": 2,
    "absent": 0,
    "attended": 0,
@@ -8513,29 +8346,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2314",
@@ -8544,7 +8354,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2314",
   "also": [],
   "ref_raw": "2314",
-  "summary": "Paula Warne is a Green Party councillor for Gensing on Hastings Borough Council. Their posts: Mayor of the Borough of Hastings. In the last 12 months they were expected at 25 meetings and attended 23 (92%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 2 meetings. They sit on 6 committees and bodies, chairing Full Council."
+  "summary": "Paula Warne is a Green Party councillor for Gensing on Hastings Borough Council. Their posts: Mayor of the Borough of Hastings. In the last 12 months they were expected at 24 meetings and attended 22 (92%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 2 meetings. They sit on 6 committees and bodies, chairing Full Council."
  },
  "hbc-2315": {
   "name": "Danuta Kean",
@@ -8557,7 +8367,7 @@
   "since": null,
   "email": "cllr.danuta.kean@hastings.gov.uk",
   "url": "/representatives/hastings-borough/danuta-kean/",
-  "attendance_text": "9 of 12 meetings (75%)",
+  "attendance_text": "8 of 11 meetings (73%)",
   "committees": [
    {
     "id": "158",
@@ -8573,8 +8383,8 @@
    }
   ],
   "tally": {
-   "expected": 12,
-   "present": 9,
+   "expected": 11,
+   "present": 8,
    "apologies": 3,
    "absent": 0,
    "attended": 0,
@@ -8582,7 +8392,7 @@
    "declarations": 0,
    "votes": 0
   },
-  "rate": 75,
+  "rate": 73,
   "upcoming": [
    {
     "day": "2026-12-09",
@@ -8814,29 +8624,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2315",
@@ -8845,7 +8632,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2315",
   "also": [],
   "ref_raw": "2315",
-  "summary": "Danuta Kean is an Independent councillor for Hollington on Hastings Borough Council. In the last 12 months they were expected at 12 meetings and attended 9 (75%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 56% for its Independent councillors here. They sent apologies for 3 meetings. They sit on 2 committees and bodies, chairing Audit Committee."
+  "summary": "Danuta Kean is an Independent councillor for Hollington on Hastings Borough Council. In the last 12 months they were expected at 11 meetings and attended 8 (73%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 57% for its Independent councillors here. They sent apologies for 3 meetings. They sit on 2 committees and bodies, chairing Audit Committee."
  },
  "hbc-2808": {
   "name": "Will Chapman",
@@ -9005,7 +8792,7 @@
   "since": null,
   "email": "cllr.darren.mackenzie@hastings.gov.uk",
   "url": "/representatives/hastings-borough/darren-mackenzie/",
-  "attendance_text": "17 of 17 meetings (100%)",
+  "attendance_text": "16 of 16 meetings (100%)",
   "committees": [
    {
     "id": "130",
@@ -9033,8 +8820,8 @@
    }
   ],
   "tally": {
-   "expected": 17,
-   "present": 17,
+   "expected": 16,
+   "present": 16,
    "apologies": 0,
    "absent": 0,
    "attended": 0,
@@ -9423,29 +9210,6 @@
       ]
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2321",
@@ -9454,7 +9218,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2321",
   "also": [],
   "ref_raw": "2321",
-  "summary": "Darren Mackenzie is a Green Party councillor for Maze Hill on Hastings Borough Council. Their posts: Finance, IT, Risk and Assets Portfolio Holder. In the last 12 months they were expected at 17 meetings and attended 17 (100%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sit on 4 committees and bodies, chairing Standards Committee."
+  "summary": "Darren Mackenzie is a Green Party councillor for Maze Hill on Hastings Borough Council. Their posts: Finance, IT, Risk and Assets Portfolio Holder. In the last 12 months they were expected at 16 meetings and attended 16 (100%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sit on 4 committees and bodies, chairing Standards Committee."
  },
  "hbc-2809": {
   "name": "Karen Simnett",
@@ -9882,7 +9646,7 @@
    }
   ],
   "ref_raw": "2809",
-  "summary": "Karen Simnett is a Green Party councillor for Maze Hill on Hastings Borough Council, a councillor since May 2026. Their posts: Mental Health Champion. In the last 12 months they were expected at 15 meetings and attended 12 (80%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
+  "summary": "Karen Simnett is a Green Party councillor for Maze Hill on Hastings Borough Council, a councillor since May 2026. Their posts: Mental Health Champion. In the last 12 months they were expected at 15 meetings and attended 12 (80%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
  },
  "hbc-2041": {
   "name": "Julia Hilton",
@@ -9895,7 +9659,7 @@
   "since": "2021-05-11",
   "email": "cllr.julia.hilton@hastings.gov.uk",
   "url": "/representatives/hastings-borough/julia-hilton/",
-  "attendance_text": "24 of 27 meetings (89%)",
+  "attendance_text": "23 of 26 meetings (88%)",
   "committees": [
    {
     "id": "130",
@@ -9941,8 +9705,8 @@
    }
   ],
   "tally": {
-   "expected": 27,
-   "present": 24,
+   "expected": 26,
+   "present": 23,
    "apologies": 3,
    "absent": 0,
    "attended": 0,
@@ -9950,7 +9714,7 @@
    "declarations": 0,
    "votes": 0
   },
-  "rate": 89,
+  "rate": 88,
   "upcoming": [
    {
     "day": "2026-12-09",
@@ -10529,29 +10293,6 @@
       ]
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2041",
@@ -10566,7 +10307,7 @@
    }
   ],
   "ref_raw": "2041",
-  "summary": "Julia Hilton is a Green Party councillor for Old Hastings on Hastings Borough Council, a councillor since May 2021. Their posts: Deputy Leader of the Council, Shaping Places, Regeneration and Community Wealth Building Portfolio Holder. In the last 12 months they were expected at 27 meetings and attended 24 (89%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 3 meetings. They sit on 7 committees and bodies, chairing Museum Committee."
+  "summary": "Julia Hilton is a Green Party councillor for Old Hastings on Hastings Borough Council, a councillor since May 2021. Their posts: Deputy Leader of the Council, Shaping Places, Regeneration and Community Wealth Building Portfolio Holder. In the last 12 months they were expected at 26 meetings and attended 23 (88%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They sit on 7 committees and bodies, chairing Museum Committee."
  },
  "hbc-2810": {
   "name": "Mike Frith",
@@ -10784,7 +10525,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2810",
   "also": [],
   "ref_raw": "2810",
-  "summary": "Mike Frith is a Green Party councillor for Old Hastings on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 6 (100%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 4 committees and bodies."
+  "summary": "Mike Frith is a Green Party councillor for Old Hastings on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 6 (100%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 4 committees and bodies."
  },
  "hbc-2811": {
   "name": "Clem McCulloch",
@@ -11079,7 +10820,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2811",
   "also": [],
   "ref_raw": "2811",
-  "summary": "Clem McCulloch is a Green Party councillor for Ore on Hastings Borough Council, a councillor since May 2026. Their posts: Chair of the Charity Committee. In the last 12 months they were expected at 8 meetings and attended 7 (88%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Charity Committee."
+  "summary": "Clem McCulloch is a Green Party councillor for Ore on Hastings Borough Council, a councillor since May 2026. Their posts: Chair of the Charity Committee. In the last 12 months they were expected at 8 meetings and attended 7 (88%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Charity Committee."
  },
  "hbc-2316": {
   "name": "Jo Walker",
@@ -11092,7 +10833,7 @@
   "since": null,
   "email": "cllr.jo.walker@hastings.gov.uk",
   "url": "/representatives/hastings-borough/jo-walker/",
-  "attendance_text": "21 of 22 meetings (95%)",
+  "attendance_text": "20 of 21 meetings (95%)",
   "committees": [
    {
     "id": "130",
@@ -11114,8 +10855,8 @@
    }
   ],
   "tally": {
-   "expected": 22,
-   "present": 21,
+   "expected": 21,
+   "present": 20,
    "apologies": 1,
    "absent": 0,
    "attended": 0,
@@ -11620,29 +11361,6 @@
       ]
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2316",
@@ -11657,7 +11375,7 @@
    }
   ],
   "ref_raw": "2316",
-  "summary": "Jo Walker is a Green Party councillor for Ore on Hastings Borough Council. Their posts: Climate, Nature and Green Spaces Portfolio Holder. In the last 12 months they were expected at 22 meetings and attended 21 (95%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 1 meeting. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
+  "summary": "Jo Walker is a Green Party councillor for Ore on Hastings Borough Council. Their posts: Climate, Nature and Green Spaces Portfolio Holder. In the last 12 months they were expected at 21 meetings and attended 20 (95%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 1 meeting. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
  },
  "hbc-2317": {
   "name": "Billie Barnes",
@@ -11670,7 +11388,7 @@
   "since": null,
   "email": "cllr.billie.barnes@hastings.gov.uk",
   "url": "/representatives/hastings-borough/billie-barnes/",
-  "attendance_text": "6 of 7 meetings (86%)",
+  "attendance_text": "5 of 6 meetings (83%)",
   "committees": [
    {
     "id": "168",
@@ -11686,8 +11404,8 @@
    }
   ],
   "tally": {
-   "expected": 7,
-   "present": 6,
+   "expected": 6,
+   "present": 5,
    "apologies": 0,
    "absent": 1,
    "attended": 0,
@@ -11695,7 +11413,7 @@
    "declarations": 0,
    "votes": 0
   },
-  "rate": 86,
+  "rate": 83,
   "upcoming": [
    {
     "day": "2026-12-09",
@@ -11826,29 +11544,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2317",
@@ -11857,7 +11552,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2317",
   "also": [],
   "ref_raw": "2317",
-  "summary": "Billie Barnes is a Labour councillor for Silverhill on Hastings Borough Council. In the last 12 months they were expected at 7 meetings and attended 6 (86%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 84% for its Labour councillors here. They were recorded absent without apologies at 1. They sit on 2 committees and bodies."
+  "summary": "Billie Barnes is a Labour councillor for Silverhill on Hastings Borough Council. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 82% for its Labour councillors here. They were recorded absent without apologies at 1. They sit on 2 committees and bodies."
  },
  "hbc-2812": {
   "name": "Dulcie Reynolds",
@@ -12074,7 +11769,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2812",
   "also": [],
   "ref_raw": "2812",
-  "summary": "Dulcie Reynolds is a Green Party councillor for Silverhill on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 7 meetings and attended 6 (86%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 1 meeting. They sit on 5 committees and bodies."
+  "summary": "Dulcie Reynolds is a Green Party councillor for Silverhill on Hastings Borough Council, a councillor since May 2026. In the last 12 months they were expected at 7 meetings and attended 6 (86%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 1 meeting. They sit on 5 committees and bodies."
  },
  "hbc-110": {
   "name": "Andy Batsford",
@@ -12087,7 +11782,7 @@
   "since": null,
   "email": "cllr.andy.batsford@hastings.gov.uk",
   "url": "/representatives/hastings-borough/andy-batsford/",
-  "attendance_text": "5 of 13 meetings (38%)",
+  "attendance_text": "5 of 12 meetings (42%)",
   "committees": [
    {
     "id": "168",
@@ -12103,16 +11798,16 @@
    }
   ],
   "tally": {
-   "expected": 13,
+   "expected": 12,
    "present": 5,
-   "apologies": 8,
+   "apologies": 7,
    "absent": 0,
    "attended": 0,
    "substitute": 0,
    "declarations": 0,
    "votes": 0
   },
-  "rate": 38,
+  "rate": 42,
   "upcoming": [
    {
     "day": "2026-12-02",
@@ -12356,29 +12051,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "apologies",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=110",
@@ -12387,7 +12059,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=110",
   "also": [],
   "ref_raw": "110",
-  "summary": "Andy Batsford is an Independent councillor for St Helens on Hastings Borough Council. In the last 12 months they were expected at 13 meetings and attended 5 (38%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 56% for its Independent councillors here. They sent apologies for 8 meetings. They sit on 2 committees and bodies."
+  "summary": "Andy Batsford is an Independent councillor for St Helens on Hastings Borough Council. In the last 12 months they were expected at 12 meetings and attended 5 (42%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 57% for its Independent councillors here. They sent apologies for 7 meetings. They sit on 2 committees and bodies."
  },
  "hbc-2813": {
   "name": "Peter Clarke",
@@ -12701,7 +12373,7 @@
   "since": null,
   "email": "cllr.glenn.haffenden@hastings.gov.uk",
   "url": "/representatives/hastings-borough/glenn-haffenden/",
-  "attendance_text": "19 of 20 meetings (95%)",
+  "attendance_text": "18 of 19 meetings (95%)",
   "committees": [
    {
     "id": "130",
@@ -12723,8 +12395,8 @@
    }
   ],
   "tally": {
-   "expected": 20,
-   "present": 19,
+   "expected": 19,
+   "present": 18,
    "apologies": 1,
    "absent": 0,
    "attended": 0,
@@ -13206,29 +12878,6 @@
       ]
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2159",
@@ -13237,7 +12886,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2159",
   "also": [],
   "ref_raw": "2159",
-  "summary": "Glenn Haffenden is a Green Party councillor for Tressell on Hastings Borough Council. Their posts: Leader of the Council and Housing, Health, Active Communities and LGR Portfolio Holder. In the last 12 months they were expected at 20 meetings and attended 19 (95%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Cabinet and Employment Committee."
+  "summary": "Glenn Haffenden is a Green Party councillor for Tressell on Hastings Borough Council. Their posts: Leader of the Council and Housing, Health, Active Communities and LGR Portfolio Holder. In the last 12 months they were expected at 19 meetings and attended 18 (95%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Cabinet and Employment Committee."
  },
  "hbc-2319": {
   "name": "Natalie Gaimster",
@@ -13250,7 +12899,7 @@
   "since": null,
   "email": "cllr.natalie.gaimster@hastings.gov.uk",
   "url": "/representatives/hastings-borough/natalie-gaimster/",
-  "attendance_text": "12 of 15 meetings (80%)",
+  "attendance_text": "11 of 14 meetings (79%)",
   "committees": [
    {
     "id": "158",
@@ -13284,8 +12933,8 @@
    }
   ],
   "tally": {
-   "expected": 15,
-   "present": 12,
+   "expected": 14,
+   "present": 11,
    "apologies": 3,
    "absent": 0,
    "attended": 0,
@@ -13293,7 +12942,7 @@
    "declarations": 0,
    "votes": 0
   },
-  "rate": 80,
+  "rate": 79,
   "upcoming": [
    {
     "day": "2026-12-09",
@@ -13631,29 +13280,6 @@
       ]
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2319",
@@ -13662,7 +13288,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2319",
   "also": [],
   "ref_raw": "2319",
-  "summary": "Natalie Gaimster is a Green Party councillor for Tressell on Hastings Borough Council. In the last 12 months they were expected at 15 meetings and attended 12 (80%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 88% for its Green Party councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
+  "summary": "Natalie Gaimster is a Green Party councillor for Tressell on Hastings Borough Council. In the last 12 months they were expected at 14 meetings and attended 11 (79%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 87% for its Green Party councillors here. They sent apologies for 3 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
  },
  "hbc-2814": {
   "name": "Derek Lawrence",
@@ -13917,7 +13543,7 @@
   "since": null,
   "email": "cllr.trevor.webb@hastings.gov.uk",
   "url": "/representatives/hastings-borough/trevor-webb/",
-  "attendance_text": "16 of 20 meetings (80%)",
+  "attendance_text": "15 of 19 meetings (79%)",
   "committees": [
    {
     "id": "158",
@@ -13957,8 +13583,8 @@
    }
   ],
   "tally": {
-   "expected": 20,
-   "present": 16,
+   "expected": 19,
+   "present": 15,
    "apologies": 3,
    "absent": 1,
    "attended": 0,
@@ -13966,7 +13592,7 @@
    "declarations": 2,
    "votes": 0
   },
-  "rate": 80,
+  "rate": 79,
   "upcoming": [
    {
     "day": "2026-12-09",
@@ -14411,29 +14037,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=142",
@@ -14442,7 +14045,7 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=142",
   "also": [],
   "ref_raw": "142",
-  "summary": "Trevor Webb is a Labour councillor for West St Leonards on Hastings Borough Council. In the last 12 months they were expected at 20 meetings and attended 16 (80%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 84% for its Labour councillors here. They sent apologies for 3 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings."
+  "summary": "Trevor Webb is a Labour councillor for West St Leonards on Hastings Borough Council. In the last 12 months they were expected at 19 meetings and attended 15 (79%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 82% for its Labour councillors here. They sent apologies for 3 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings."
  },
  "hbc-2815": {
   "name": "Doreena Ross",
@@ -14838,7 +14441,7 @@
   "since": null,
   "email": "cllr.helen.kay@hastings.gov.uk",
   "url": "/representatives/hastings-borough/helen-kay/",
-  "attendance_text": "9 of 10 meetings (90%)",
+  "attendance_text": "8 of 9 meetings (89%)",
   "committees": [
    {
     "id": "173",
@@ -14860,8 +14463,8 @@
    }
   ],
   "tally": {
-   "expected": 10,
-   "present": 9,
+   "expected": 9,
+   "present": 8,
    "apologies": 1,
    "absent": 0,
    "attended": 1,
@@ -14869,7 +14472,7 @@
    "declarations": 0,
    "votes": 0
   },
-  "rate": 90,
+  "rate": 89,
   "upcoming": [
    {
     "day": "2026-12-02",
@@ -15089,29 +14692,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-26",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Full Council",
-      "url": "https://hastings.moderngov.co.uk/ieListDocuments.aspx?CId=168&MId=5632&Ver=4",
-      "business": [
-       "Announcements from the Mayor and Leader",
-       "Questions (if any) from:",
-       "Amendments to the Code of Conduct",
-       "Amendments to the Council's Constitution",
-       "Membership of Committees",
-       "Reports of Committees",
-       "Motion (Rule 14)",
-       "Motion (Rule 14)"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://hastings.moderngov.co.uk/mgUserInfo.aspx?UID=2320",
@@ -15120,6 +14700,6 @@
   "declarations_page": "https://hastings.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2320",
   "also": [],
   "ref_raw": "2320",
-  "summary": "Helen Kay is a Labour councillor for Wishing Tree on Hastings Borough Council. Their posts: Anti-Poverty Champion, Labour Group Leader. In the last 12 months they were expected at 10 meetings and attended 9 (90%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 84% for its Labour councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Overview and Scrutiny Committee."
+  "summary": "Helen Kay is a Labour councillor for Wishing Tree on Hastings Borough Council. Their posts: Anti-Poverty Champion, Labour Group Leader. In the last 12 months they were expected at 9 meetings and attended 8 (89%). The comparable figure is 84% for all Hastings Borough Council councillors in this area and 82% for its Labour councillors here. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Overview and Scrutiny Committee."
  }
 }
