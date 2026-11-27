@@ -39,7 +39,7 @@ image:
     h: 896
   share:
     url: /assets/media/story/289/share.jpg
-  color: '#9a948c'
+  color: '#aca99c'
   alt: Two people standing outside a modern community hub entrance on a cloudy day.
   artist: AI-generated illustration
   match: ai
