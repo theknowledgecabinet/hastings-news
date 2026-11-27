@@ -52,11 +52,11 @@ related:
 - url: /2026/11/05/hastings-care-home-rated-good-across-all-five-cqc-areas/
   title: Hastings care home rated 'Good' across all five CQC areas
   day: '2026-11-05'
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 - url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
   title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
-  day: '2026-11-03'
-- url: /2026/11/03/free-parking-at-hastings-council-car-parks-in-december/
-  title: Free parking at Hastings council car parks in December
   day: '2026-11-03'
 ---
 {% raw %}

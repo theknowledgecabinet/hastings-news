@@ -56,6 +56,10 @@ image:
   page: ''
   default: false
 checked: '2026-10-30T07:50:46+00:00'
+related:
+- url: /2026/11/27/hastings-pub-wins-platinum-grading-in-loo-of-the-year-awards/
+  title: Hastings pub wins platinum grading in Loo of the Year Awards
+  day: '2026-11-27'
 ---
 {% raw %}
 Monellis Sourdough Pizza, a family-run pizzeria in Hastings Old Town, has been named the best in the world for 2026, topping The World's 100 Best Pizzerias, a list compiled by international travel and venue-ranking platform Worth a Journey.

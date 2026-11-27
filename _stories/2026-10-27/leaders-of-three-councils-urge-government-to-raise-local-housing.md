@@ -66,9 +66,9 @@ related:
 - url: /2026/11/03/one-east-sussex-reorganisation-to-proceed-with-four-lewes-wards/
   title: One East Sussex reorganisation to proceed, with four Lewes wards moving to Brighton
   day: '2026-11-03'
-- url: /2026/11/04/devolution-measures-to-bring-8m-to-sussex-and-brighton/
-  title: Devolution measures to bring £8m to Sussex and Brighton
-  day: '2026-11-04'
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 ---
 {% raw %}
 Councillors in Hastings, Lewes and Eastbourne have asked the government to raise the housing benefit rates that help people pay private rents.

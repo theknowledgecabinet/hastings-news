@@ -64,6 +64,9 @@ related:
 - url: /2026/11/16/planning-round-up-hmo-proposals-in-st-leonards-among-latest/
   title: 'Planning round-up: HMO proposals in St Leonards among latest applications'
   day: '2026-11-16'
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 ---
 {% raw %}
 Southern Housing has chosen a new name for its proposed major redevelopment of the Four Courts tower blocks in St Leonards. The 1960s social housing scheme, comprising Bevin, Roosevelt, Kennedy, and Churchill Courts, is set to be demolished and rebuilt.

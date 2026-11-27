@@ -55,6 +55,9 @@ image:
   default: false
 checked: '2026-10-27T05:35:15+00:00'
 related:
+- url: /2026/11/27/hastings-pub-wins-platinum-grading-in-loo-of-the-year-awards/
+  title: Hastings pub wins platinum grading in Loo of the Year Awards
+  day: '2026-11-27'
 - url: /2026/10/31/iden-s-the-bell-pub-moves-closer-to-reopening-after-plans-submitted/
   title: Iden's The Bell pub moves closer to reopening after plans submitted
   day: '2026-10-31'

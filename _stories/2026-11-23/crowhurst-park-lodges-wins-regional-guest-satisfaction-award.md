@@ -61,6 +61,9 @@ related:
 - url: /2026/11/07/camber-sands-holiday-park-ranked-among-worst-in-uk/
   title: Camber Sands holiday park ranked among worst in UK
   day: '2026-11-07'
+- url: /2026/11/27/hastings-pub-wins-platinum-grading-in-loo-of-the-year-awards/
+  title: Hastings pub wins platinum grading in Loo of the Year Awards
+  day: '2026-11-27'
 ---
 {% raw %}
 Crowhurst Park Lodges in Battle has been named the Relax & Explore Small Park destination in the South of England. The holiday park received the honour at Hoseasons’ 21st annual Diamond Awards, which celebrate UK holiday parks and lodge resorts rated highest by guests during the 2026 season.

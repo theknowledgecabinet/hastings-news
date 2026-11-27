@@ -56,15 +56,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
 - url: /2026/10/28/residents-call-for-action-over-former-hastings-public-toilets-site/
   title: Residents call for action over former Hastings public toilets site
   day: '2026-10-28'
-- url: /2026/11/26/new-bid-to-sell-alcohol-at-hastings-convenience-store/
-  title: New bid to sell alcohol at Hastings convenience store
-  day: '2026-11-26'
 ---
 {% raw %}
 A Hastings housing co-operative has announced it is to be dissolved, having been unable to continue.

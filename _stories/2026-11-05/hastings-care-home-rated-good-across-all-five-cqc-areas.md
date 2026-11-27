@@ -61,9 +61,9 @@ related:
 - url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
   title: New crossings and lighting completed around Hastings station
   day: '2026-10-27'
-- url: /2026/11/04/hastings-council-to-consider-age-friendly-strategy-for-older-residents/
-  title: Hastings council to consider Age Friendly strategy for older residents
-  day: '2026-11-04'
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 ---
 {% raw %}
 Mountside Care Home in Hastings has been rated 'Good' in all five areas assessed by the Care Quality Commission.

@@ -55,15 +55,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/27/hastings-pub-wins-platinum-grading-in-loo-of-the-year-awards/
+  title: Hastings pub wins platinum grading in Loo of the Year Awards
+  day: '2026-11-27'
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
   title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
   day: '2026-10-27'
 - url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
   title: New crossings and lighting completed around Hastings station
   day: '2026-10-27'
-- url: /2026/11/12/new-wheelchair-and-mobility-scooter-support-group-launched-in-hastings/
-  title: New wheelchair and mobility scooter support group launched in Hastings
-  day: '2026-11-12'
 ---
 {% raw %}
 Hastings Rowing Club has marked the end of a successful year at its annual general meeting and awards night. The event brought together members to recognise the contributions of rowers, coaches, and volunteers throughout 2026.

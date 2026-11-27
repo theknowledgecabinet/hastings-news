@@ -54,15 +54,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/27/new-youth-hub-opens-at-6-7-cornwallis-street-in-hastings/
+  title: New youth hub opens at 6-7 Cornwallis Street in Hastings
+  day: '2026-11-27'
 - url: /2026/11/18/hastings-asking-rents-up-to-23-above-ons-average-housing-data-shows/
   title: Hastings asking rents up to 23% above ONS average, housing data shows
   day: '2026-11-18'
 - url: /2026/11/12/new-wheelchair-and-mobility-scooter-support-group-launched-in-hastings/
   title: New wheelchair and mobility scooter support group launched in Hastings
   day: '2026-11-12'
-- url: /2026/11/21/hastings-water-supply-under-pressure-as-reservoir-stands-at-41-per/
-  title: Hastings water supply under pressure as reservoir stands at 41 per cent
-  day: '2026-11-21'
 ---
 {% raw %}
 More than one in ten young adults in Hastings are claiming unemployment-related benefits, Office for National Statistics figures show, according to The Argus.

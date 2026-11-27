@@ -60,15 +60,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 - url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/
   title: Simpler disability allowance set for East Sussex care users
   day: '2026-11-22'
 - url: /2026/10/25/fears-of-hungry-children-over-half-term-after-holiday-food-vouchers/
   title: Fears of hungry children over half-term after holiday food vouchers axed
   day: '2026-10-25'
-- url: /2026/11/24/surviving-christmas-cuts-hamper-numbers-to-800-as-costs-rise/
-  title: Surviving Christmas cuts hamper numbers to 800 as costs rise
-  day: '2026-11-24'
 ---
 {% raw %}
 East Sussex County Council has stepped in to protect payments to families hosting Ukrainian refugees after the government said the 'thank you' payment would fall from £350 to £100 a month from January 2027.

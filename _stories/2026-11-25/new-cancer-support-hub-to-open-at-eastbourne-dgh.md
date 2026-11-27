@@ -59,12 +59,12 @@ related:
 - url: /2026/11/22/simpler-disability-allowance-set-for-east-sussex-care-users/
   title: Simpler disability allowance set for East Sussex care users
   day: '2026-11-22'
+- url: /2026/11/27/new-youth-hub-opens-at-6-7-cornwallis-street-in-hastings/
+  title: New youth hub opens at 6-7 Cornwallis Street in Hastings
+  day: '2026-11-27'
 - url: /2026/11/22/quit-smoking-support-brought-to-conquest-emergency-department/
   title: Quit-smoking support brought to Conquest emergency department
   day: '2026-11-22'
-- url: /2026/11/12/new-wheelchair-and-mobility-scooter-support-group-launched-in-hastings/
-  title: New wheelchair and mobility scooter support group launched in Hastings
-  day: '2026-11-12'
 ---
 {% raw %}
 A new dedicated cancer support hub is set to open at Eastbourne District General Hospital, providing a space for patients and families across East Sussex.

@@ -61,9 +61,9 @@ related:
 - url: /2026/11/09/rye-bonfire-named-among-the-uk-s-best-bonfire-night-displays/
   title: Rye Bonfire named among the UK's best Bonfire Night displays
   day: '2026-11-09'
-- url: /2026/11/07/camber-sands-holiday-park-ranked-among-worst-in-uk/
-  title: Camber Sands holiday park ranked among worst in UK
-  day: '2026-11-07'
+- url: /2026/11/27/hastings-pub-wins-platinum-grading-in-loo-of-the-year-awards/
+  title: Hastings pub wins platinum grading in Loo of the Year Awards
+  day: '2026-11-27'
 ---
 {% raw %}
 A pub in Rye has been named among the best in the country, with recognition for what the guide calls an unpretentious country pub.

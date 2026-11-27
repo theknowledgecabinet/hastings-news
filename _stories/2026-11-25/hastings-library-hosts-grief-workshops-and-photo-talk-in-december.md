@@ -64,9 +64,9 @@ related:
 - url: /2026/11/20/uk-disability-history-month-begins-in-hastings/
   title: UK Disability History Month begins in Hastings
   day: '2026-11-20'
-- url: /2026/11/23/marianne-north-centre-hosts-victorian-orchid-talk-in-hastings/
-  title: Marianne North Centre hosts Victorian orchid talk in Hastings
-  day: '2026-11-23'
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 ---
 {% raw %}
 East Sussex Libraries are holding a series of workshops and events about grief throughout December. The programme includes sessions in Hastings, Bexhill, Battle, Rye, and Newhaven, designed for those dealing with personal loss or interested in learning more about bereavement.

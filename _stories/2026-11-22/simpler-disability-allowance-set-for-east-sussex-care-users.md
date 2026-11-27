@@ -56,15 +56,15 @@ image:
   default: false
 checked: '2026-11-22T10:59:48+00:00'
 related:
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 - url: /2026/11/26/ombudsman-upholds-complaint-against-east-sussex-county-council/
   title: Ombudsman upholds complaint against East Sussex County Council
   day: '2026-11-26'
 - url: /2026/11/10/residents-to-have-say-on-east-sussex-supported-housing-strategy/
   title: Residents to have say on East Sussex supported housing strategy
   day: '2026-11-10'
-- url: /2026/11/15/east-sussex-joins-national-programme-to-use-creative-activities-for/
-  title: East Sussex joins national programme to use creative activities for health
-  day: '2026-11-15'
 ---
 {% raw %}
 People in East Sussex who pay towards adult social care will get a simpler way to claim support for disability-related costs, the county council has approved.

@@ -50,6 +50,10 @@ image:
   page: https://commons.wikimedia.org/wiki/File:Professional_Eyelash_Extension_Preparation.jpg
   default: false
 checked: '2026-11-09T12:58:59+00:00'
+related:
+- url: /2026/11/27/new-youth-hub-opens-at-6-7-cornwallis-street-in-hastings/
+  title: New youth hub opens at 6-7 Cornwallis Street in Hastings
+  day: '2026-11-27'
 ---
 {% raw %}
 Grace Guenigault, 19, has opened her own beauty salon in Bexhill, the Hastings Observer reported.

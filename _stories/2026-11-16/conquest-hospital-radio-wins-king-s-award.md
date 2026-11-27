@@ -56,9 +56,9 @@ related:
 - url: /2026/11/12/health-watchdog-orders-rapid-improvements-at-conquest-hospital/
   title: Health watchdog orders rapid improvements at Conquest Hospital emergency care
   day: '2026-11-12'
-- url: /2026/11/02/bexhill-care-home-wins-pet-friendly-care-home-award/
-  title: Bexhill care home wins Pet Friendly Care Home Award
-  day: '2026-11-02'
+- url: /2026/11/27/hastings-pub-wins-platinum-grading-in-loo-of-the-year-awards/
+  title: Hastings pub wins platinum grading in Loo of the Year Awards
+  day: '2026-11-27'
 ---
 {% raw %}
 Conquest Hospital Radio, the volunteer-run station that has been bringing music and company into hospitals in Hastings and the Rother for more than 50 years, has received a King's Award, the highest recognition given to voluntary organisations in the UK.

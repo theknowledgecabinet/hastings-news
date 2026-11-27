@@ -57,9 +57,9 @@ related:
 - url: /2026/11/17/bexhill-care-home-manager-shortlisted-for-east-sussex-care-award/
   title: Bexhill care home manager shortlisted for East Sussex Care Award
   day: '2026-11-17'
-- url: /2026/11/10/bexhill-leisure-centre-named-uk-active-awards-finalist/
-  title: Bexhill Leisure Centre named UK Active Awards finalist
-  day: '2026-11-10'
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 ---
 {% raw %}
 Elizabeth Court Rest Home in Hastings Road, Bexhill, has won the Pet Friendly Care Home Award for 2026. The home, which provides residential care for older people, lets its residents bring their own pets with them when they move in.

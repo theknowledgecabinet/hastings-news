@@ -62,9 +62,9 @@ related:
 - url: /2026/10/23/police-secure-closure-order-for-hastings-property/
   title: Police secure closure order for Hastings property
   day: '2026-10-23'
-- url: /2026/11/06/have-your-say-on-renewal-of-five-gated-paths-in-hastings-and-st/
-  title: Have your say on renewal of five gated paths in Hastings and St Leonards
-  day: '2026-11-06'
+- url: /2026/11/27/hastings-care-home-residents-to-be-re-housed-after-funding-dispute/
+  title: Hastings care home residents to be re-housed after funding dispute
+  day: '2026-11-27'
 ---
 {% raw %}
 Hastings Borough Council has warned dog owners that fines are in force under an updated dog control order.
