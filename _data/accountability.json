@@ -16,14 +16,14 @@
    "keypost": true,
    "keyposts": "Chair of Planning Committee",
    "service": "A year or more",
-   "expected": 14,
-   "present": 11,
+   "expected": 15,
+   "present": 12,
    "apologies": 3,
    "absent": 0,
    "other": 4,
    "declarations": 2,
    "votes": 4,
-   "rate": 79,
+   "rate": 80,
    "committees": 4
   },
   {
@@ -1090,18 +1090,18 @@
     {
      "name": "Reform UK",
      "councillors": 2,
-     "expected": 27,
-     "present": 23,
+     "expected": 28,
+     "present": 24,
      "apologies": 4,
      "absent": 0,
      "other": 11,
      "declarations": 3,
-     "rate": 85
+     "rate": 86
     }
    ],
    "councillors": 8,
-   "expected": 72,
-   "present": 59,
+   "expected": 73,
+   "present": 60,
    "apologies": 13,
    "absent": 0,
    "other": 41,

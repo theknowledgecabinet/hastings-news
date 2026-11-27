@@ -10,7 +10,7 @@
   "since": "2025-11-20",
   "email": "cllr.aidan.fisher@eastsussex.gov.uk",
   "url": "/representatives/east-sussex-county/aidan-fisher/",
-  "attendance_text": "11 of 14 meetings (79%)",
+  "attendance_text": "12 of 15 meetings (80%)",
   "committees": [
    {
     "id": "150",
@@ -38,8 +38,8 @@
    }
   ],
   "tally": {
-   "expected": 14,
-   "present": 11,
+   "expected": 15,
+   "present": 12,
    "apologies": 3,
    "absent": 0,
    "attended": 4,
@@ -47,7 +47,7 @@
    "declarations": 2,
    "votes": 4
   },
-  "rate": 79,
+  "rate": 80,
   "upcoming": [
    {
     "day": "2026-12-01",
@@ -63,6 +63,29 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "present",
+      "role": "Committee Member",
+      "committee": "Pension Committee",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=373&MId=6841",
+      "business": [
+       "Pension Board Minutes",
+       "Pension Reform Agenda",
+       "Local Government Pension Scheme (LGPS) Governance - Officer Roles and Delegations",
+       "Governance Report",
+       "Pension Administration - updates",
+       "Communications Report",
+       "East Sussex Pension Fund Quarterly Budget Report",
+       "Annual Report and Accounts 2025/26"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-10-14",
     "items": [
@@ -498,7 +521,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5130",
   "also": [],
   "ref_raw": "5130",
-  "summary": "Aidan Fisher is a Reform UK councillor for Hastings - Ashdown and Conquest on East Sussex County Council, a councillor since November 2025. Their posts: Chair of Planning Committee. In the last 12 months they were expected at 14 meetings and attended 11 (79%). The comparable figure is 82% for all East Sussex County Council councillors in this area and 85% for its Reform UK councillors here. They sent apologies for 3 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies, chairing Planning Committee. They declared an interest at 2 meetings. They took part in 4 named votes, voting the same way as most of their party group in 4."
+  "summary": "Aidan Fisher is a Reform UK councillor for Hastings - Ashdown and Conquest on East Sussex County Council, a councillor since November 2025. Their posts: Chair of Planning Committee. In the last 12 months they were expected at 15 meetings and attended 12 (80%). The comparable figure is 82% for all East Sussex County Council councillors in this area and 86% for its Reform UK councillors here. They sent apologies for 3 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies, chairing Planning Committee. They declared an interest at 2 meetings. They took part in 4 named votes, voting the same way as most of their party group in 4."
  },
  "escc-5309": {
   "name": "Jo Walker",
@@ -1811,7 +1834,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5322",
   "also": [],
   "ref_raw": "5322",
-  "summary": "Mark Estcourt is a Reform UK councillor for Hastings - Hollington and Wishing Tree on East Sussex County Council, a councillor since May 2026. Their posts: Lead Member for Adult Social Care and Health. In the last 12 months they were expected at 13 meetings and attended 12 (92%). The comparable figure is 82% for all East Sussex County Council councillors in this area and 85% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 7 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 1 meeting."
+  "summary": "Mark Estcourt is a Reform UK councillor for Hastings - Hollington and Wishing Tree on East Sussex County Council, a councillor since May 2026. Their posts: Lead Member for Adult Social Care and Health. In the last 12 months they were expected at 13 meetings and attended 12 (92%). The comparable figure is 82% for all East Sussex County Council councillors in this area and 86% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 7 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 1 meeting."
  },
  "escc-5295": {
   "name": "Karen Simnett",
