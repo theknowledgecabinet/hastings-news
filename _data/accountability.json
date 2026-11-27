@@ -191,14 +191,14 @@
    "keypost": false,
    "keyposts": null,
    "service": "Under a year",
-   "expected": 9,
+   "expected": 10,
    "present": 8,
-   "apologies": 1,
+   "apologies": 2,
    "absent": 0,
    "other": 7,
    "declarations": 2,
    "votes": 2,
-   "rate": 89,
+   "rate": 80,
    "committees": 4
   },
   {
@@ -1079,13 +1079,13 @@
     {
      "name": "Green Party",
      "councillors": 6,
-     "expected": 45,
+     "expected": 46,
      "present": 36,
-     "apologies": 9,
+     "apologies": 10,
      "absent": 0,
      "other": 30,
      "declarations": 7,
-     "rate": 80
+     "rate": 78
     },
     {
      "name": "Reform UK",
@@ -1100,13 +1100,13 @@
     }
    ],
    "councillors": 8,
-   "expected": 73,
+   "expected": 74,
    "present": 60,
-   "apologies": 13,
+   "apologies": 14,
    "absent": 0,
    "other": 41,
    "declarations": 10,
-   "rate": 82
+   "rate": 81
   }
  ],
  "mps": [
