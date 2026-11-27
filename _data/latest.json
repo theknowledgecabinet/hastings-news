@@ -1,8 +1,8 @@
 {
- "day": "2026-11-26",
- "label": "Thursday 26 November 2026",
- "issue": 37,
- "edition_label": "Evening edition",
+ "day": "2026-11-27",
+ "label": "Friday 27 November 2026",
+ "issue": 38,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-27",
@@ -50,78 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-26",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 5,
-    "low": 2,
-    "rain_chance": 2,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 23,
-    "direction": "north-easterly",
-    "sunrise": "07:30",
-    "sunset": "15:58",
-    "summary": "Cloudy. A high of 5°C and a low of 2°C, a moderate breeze from the north east. Sunrise 07:30, sunset 15:58."
-   }
-  },
-  {
-   "name": "midday",
-   "label": "Midday edition",
-   "weather": {
-    "day": "2026-11-26",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 5,
-    "low": 3,
-    "rain_chance": 2,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 23,
-    "direction": "north-easterly",
-    "sunrise": "07:30",
-    "sunset": "15:58",
-    "summary": "Cloudy. A high of 5°C and a low of 3°C, a moderate breeze from the north east. Sunrise 07:30, sunset 15:58."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-27",
-    "code": 51,
-    "words": "light drizzle",
-    "icon": "🌦️",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
     "high": 6,
-    "low": 3,
-    "rain_chance": 20,
-    "rain_mm": 0.2,
-    "wind": 13,
-    "gusts": 26,
+    "low": 2,
+    "rain_chance": 6,
+    "rain_mm": 0.0,
+    "wind": 12,
+    "gusts": 24,
     "direction": "south-easterly",
     "sunrise": "07:32",
     "sunset": "15:57",
-    "summary": "Light drizzle possible (20% chance). A high of 6°C and a low of 3°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57."
+    "summary": "Cloudy. A high of 6°C and a low of 2°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57."
    }
   }
  ],
  "weather": {
   "day": "2026-11-27",
-  "code": 51,
-  "words": "light drizzle",
-  "icon": "🌦️",
+  "code": 3,
+  "words": "cloudy",
+  "icon": "☁️",
   "high": 6,
-  "low": 3,
-  "rain_chance": 20,
-  "rain_mm": 0.2,
-  "wind": 13,
-  "gusts": 26,
+  "low": 2,
+  "rain_chance": 6,
+  "rain_mm": 0.0,
+  "wind": 12,
+  "gusts": 24,
   "direction": "south-easterly",
   "sunrise": "07:32",
   "sunset": "15:57",
-  "summary": "Light drizzle possible (20% chance). A high of 6°C and a low of 3°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57."
+  "summary": "Cloudy. A high of 6°C and a low of 2°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:57."
  },
  "briefing": {
   "day": "2026-11-26",
@@ -143,6 +103,11 @@
   "title": "Hastings line opens in stages from the north"
  },
  "days": [
+  {
+   "day": "2026-11-27",
+   "url": "/2026/11/27/",
+   "label": "Fri 27 Nov"
+  },
   {
    "day": "2026-11-26",
    "url": "/2026/11/26/",
@@ -207,11 +172,6 @@
    "day": "2026-11-14",
    "url": "/2026/11/14/",
    "label": "Sat 14 Nov"
-  },
-  {
-   "day": "2026-11-13",
-   "url": "/2026/11/13/",
-   "label": "Fri 13 Nov"
   }
  ]
 }
