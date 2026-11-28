@@ -55,14 +55,14 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/28/quiz-night-raises-983-for-hastings-rnli-lifeboat-crew/
+  title: Quiz night raises £983 for Hastings RNLI lifeboat crew
+  day: '2026-11-28'
 - url: /2026/11/27/hastings-pub-wins-platinum-grading-in-loo-of-the-year-awards/
   title: Hastings pub wins platinum grading in Loo of the Year Awards
   day: '2026-11-27'
 - url: /2026/10/27/hastings-round-table-donates-10-000-to-conquest-hospital-appeal/
   title: Hastings Round Table donates £10,000 to Conquest Hospital appeal
-  day: '2026-10-27'
-- url: /2026/10/27/new-crossings-and-lighting-completed-around-hastings-station/
-  title: New crossings and lighting completed around Hastings station
   day: '2026-10-27'
 ---
 {% raw %}

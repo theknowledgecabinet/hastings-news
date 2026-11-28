@@ -6,7 +6,29 @@
   <atom:link href="https://theknowledgecabinet.github.io/hastings-news/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Hastings and St Leonards, three times a day.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 27 Nov 2026 18:38:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 07:07:30 +0000</lastBuildDate>
+  <item>
+    <title>Hastings Old Town landmark property goes to auction</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/28/hastings-old-town-landmark-property-goes-to-auction/</link>
+    <guid isPermaLink="false">story-293</guid>
+    <pubDate>Sat, 28 Nov 2026 07:07:30 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>A mixed commercial and residential property in Hastings Old Town is coming up for auction in December. The end-terrace at 58A &amp; 58B High Street is listed with a freehold guide price of £260,000-plus. It is famously known as the Shirley Leaf &amp; Petal Company and home to the Flower Makers Museum.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/293/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
+  <item>
+    <title>Quiz night raises £983 for Hastings RNLI lifeboat crew</title>
+    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/28/quiz-night-raises-983-for-hastings-rnli-lifeboat-crew/</link>
+    <guid isPermaLink="false">story-292</guid>
+    <pubDate>Sat, 28 Nov 2026 07:07:00 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Hastings RNLI has raised £983 to support its lifeboat crew following a quiz night held on Sunday, November 22. The event took place at the East Hastings Sea Angling Association.</description>
+    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/292/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>Hastings pub wins platinum grading in Loo of the Year Awards</title>
     <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/27/hastings-pub-wins-platinum-grading-in-loo-of-the-year-awards/</link>
@@ -831,27 +853,6 @@
     <category>Community &amp; people</category>
     <description>St Clements Church in Hastings Old Town is holding its popular Christmas Tree Festival from Saturday 28 November.</description>
     <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/230/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-    </media:content>
-  </item>
-  <item>
-    <title>Hastings Museum opens sustainability exhibition with Natural History Museum and local students</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/hastings-museum-opens-sustainability-exhibition-with-natural-history/</link>
-    <guid isPermaLink="false">story-226</guid>
-    <pubDate>Thu, 19 Nov 2026 12:53:09 +0000</pubDate>
-    <category>Council</category>
-    <description>Hastings Museum &amp; Art Gallery is opening a new sustainability exhibition in partnership with the Natural History Museum and local students.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/226/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-    </media:content>
-  </item>
-  <item>
-    <title>Police appeal for witnesses after alleged assault in Hastings town centre</title>
-    <link>https://theknowledgecabinet.github.io/hastings-news/2026/11/19/police-appeal-for-witnesses-after-alleged-assault-in-hastings-town/</link>
-    <guid isPermaLink="false">story-223</guid>
-    <pubDate>Thu, 19 Nov 2026 12:48:59 +0000</pubDate>
-    <category>Crime &amp; courts</category>
-    <description>Sussex Police are asking for witnesses after an alleged assault in Hastings town centre.</description>
-    <media:content url="https://theknowledgecabinet.github.io/hastings-news/assets/media/story/223/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
-      <media:credit role="illustrator">AI-generated illustration</media:credit>
     </media:content>
   </item>
 </channel>

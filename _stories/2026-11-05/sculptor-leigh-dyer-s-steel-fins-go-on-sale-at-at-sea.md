@@ -62,9 +62,9 @@ related:
 - url: /2026/11/06/seagull-artist-s-gull-version-masterpieces-on-show-in-crown-pub/
   title: Seagull artist's gull-version masterpieces on show in Crown pub
   day: '2026-11-06'
-- url: /2026/11/19/hastings-museum-opens-sustainability-exhibition-with-natural-history/
-  title: Hastings Museum opens sustainability exhibition with Natural History Museum and local students
-  day: '2026-11-19'
+- url: /2026/11/28/hastings-old-town-landmark-property-goes-to-auction/
+  title: Hastings Old Town landmark property goes to auction
+  day: '2026-11-28'
 ---
 {% raw %}
 The metal sculptor behind several well-known works around Hastings has opened a new line for sale at the At Sea gallery in the Old Town.

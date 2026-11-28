@@ -57,6 +57,10 @@ image:
   page: ''
   default: false
 checked: '2026-10-30T19:20:13+00:00'
+related:
+- url: /2026/11/28/hastings-old-town-landmark-property-goes-to-auction/
+  title: Hastings Old Town landmark property goes to auction
+  day: '2026-11-28'
 ---
 {% raw %}
 Dee Day White is retiring after running a popular antique and bric-a-brac mews and yard in Courthouse Street, Hastings Old Town, for the past 34 years.

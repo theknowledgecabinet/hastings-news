@@ -58,12 +58,12 @@ related:
 - url: /2026/11/19/christmas-tree-festival-returns-to-st-clements-church/
   title: Christmas Tree Festival returns to St Clements Church
   day: '2026-11-19'
+- url: /2026/11/28/hastings-old-town-landmark-property-goes-to-auction/
+  title: Hastings Old Town landmark property goes to auction
+  day: '2026-11-28'
 - url: /2026/11/20/metal-christmas-tree-returns-to-hastings-town-centre/
   title: Metal Christmas tree returns to Hastings town centre
   day: '2026-11-20'
-- url: /2026/11/26/new-bid-to-sell-alcohol-at-hastings-convenience-store/
-  title: New bid to sell alcohol at Hastings convenience store
-  day: '2026-11-26'
 ---
 {% raw %}
 Hastings Old Town traders are inviting residents to a late-night Christmas shopping event on Thursday, 3 December. The shops will remain open until 8pm.

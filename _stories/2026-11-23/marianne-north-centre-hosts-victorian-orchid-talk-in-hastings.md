@@ -59,6 +59,9 @@ related:
 - url: /2026/11/25/hastings-library-hosts-grief-workshops-and-photo-talk-in-december/
   title: Hastings Library hosts grief workshops and photo talk in December
   day: '2026-11-25'
+- url: /2026/11/28/hastings-old-town-landmark-property-goes-to-auction/
+  title: Hastings Old Town landmark property goes to auction
+  day: '2026-11-28'
 ---
 {% raw %}
 The Marianne North Centre is hosting a talk and Q&A session with author Professor Sarah Bilston on Sunday 6 December.

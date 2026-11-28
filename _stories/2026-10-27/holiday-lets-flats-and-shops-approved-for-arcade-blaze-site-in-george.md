@@ -71,9 +71,9 @@ related:
 - url: /2026/11/20/planning-roundup-new-houses-surgery-flats-and-games-area-among-latest/
   title: 'Planning roundup: new houses, surgery flats and games area among latest applications'
   day: '2026-11-20'
-- url: /2026/11/17/hastings-housing-co-operative-to-dissolve-after-a-year-at-5-harold/
-  title: Hastings housing co-operative to dissolve after a year at 5 Harold Place
-  day: '2026-11-17'
+- url: /2026/11/28/hastings-old-town-landmark-property-goes-to-auction/
+  title: Hastings Old Town landmark property goes to auction
+  day: '2026-11-28'
 ---
 {% raw %}
 Hastings Borough Council has approved plans for 20 flats, six holiday lets and four commercial units on the site of the former amusement arcade in George Street, Old Town, which was destroyed in a fire in January 2023.

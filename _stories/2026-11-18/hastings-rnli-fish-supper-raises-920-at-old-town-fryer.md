@@ -56,15 +56,15 @@ image:
   default: false
 checked: '2026-11-18T18:59:38+00:00'
 related:
+- url: /2026/11/28/quiz-night-raises-983-for-hastings-rnli-lifeboat-crew/
+  title: Quiz night raises £983 for Hastings RNLI lifeboat crew
+  day: '2026-11-28'
 - url: /2026/11/17/hastings-old-town-carnival-donates-over-5-000-to-local-good-causes/
   title: Hastings Old Town Carnival donates over £5,000 to local good causes
   day: '2026-11-17'
 - url: /2026/11/24/hastings-old-town-traders-to-hold-late-night-christmas-shopping-event/
   title: Hastings Old Town traders to hold late-night Christmas shopping event
   day: '2026-11-24'
-- url: /2026/11/18/hastings-lions-donate-more-than-8-000-to-local-causes/
-  title: Hastings Lions donate more than £8,000 to local causes
-  day: '2026-11-18'
 ---
 {% raw %}
 The annual Hastings RNLI fish supper has raised £920, with a sell-out crowd at the Old Town Fryer in Hastings Old Town.

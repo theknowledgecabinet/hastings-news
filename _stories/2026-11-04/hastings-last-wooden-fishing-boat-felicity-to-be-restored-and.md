@@ -58,15 +58,15 @@ image:
   default: false
 checked: '2026-11-04T12:48:39+00:00'
 related:
+- url: /2026/11/28/quiz-night-raises-983-for-hastings-rnli-lifeboat-crew/
+  title: Quiz night raises £983 for Hastings RNLI lifeboat crew
+  day: '2026-11-28'
 - url: /2026/11/05/sculptor-leigh-dyer-s-steel-fins-go-on-sale-at-at-sea/
   title: Sculptor Leigh Dyer's steel fins go on sale at At Sea
   day: '2026-11-05'
 - url: /2026/11/18/hastings-rnli-fish-supper-raises-920-at-old-town-fryer/
   title: Hastings RNLI fish supper raises £920 at Old Town Fryer
   day: '2026-11-18'
-- url: /2026/10/29/new-litter-bins-appear-in-hastings-under-pride-in-place-funding/
-  title: New litter bins appear in Hastings under Pride in Place funding
-  day: '2026-10-29'
 ---
 {% raw %}
 The last surviving wooden fishing boat from Hastings is to be restored and put on permanent display after a fund-raising campaign reached its target of £5,000. The 'Felicity', RX58, will be displayed on the piece of land opposite the Dolphin pub in Rock-a-Nore Road.

@@ -66,9 +66,9 @@ related:
 - url: /2026/11/04/work-begins-on-27-luxury-flats-development-in-st-leonards/
   title: Work begins on 27 'luxury flats' development in St Leonards
   day: '2026-11-04'
-- url: /2026/11/12/hastings-council-rejects-community-asset-bid-for-st-leonards-convent/
-  title: Hastings council rejects community asset bid for St Leonards convent site
-  day: '2026-11-12'
+- url: /2026/11/28/hastings-old-town-landmark-property-goes-to-auction/
+  title: Hastings Old Town landmark property goes to auction
+  day: '2026-11-28'
 ---
 {% raw %}
 A mixed-use property at 32 Kings Road, St Leonards, has been sold before the auction in one of the latest Clive Emson Auctioneers sales, which listed 174 lots across southern England.
