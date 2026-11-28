@@ -39,8 +39,8 @@ image:
     h: 896
   share:
     url: /assets/media/story/292/share.jpg
-  color: '#7c6b52'
-  alt: Distant figures seated at tables in a dimly lit community hall
+  color: '#797260'
+  alt: Empty community hall tables set for a quiz night
   artist: AI-generated illustration
   match: ai
   ai: true
