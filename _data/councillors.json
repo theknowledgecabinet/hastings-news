@@ -2149,7 +2149,7 @@
   "since": "2021-05-06",
   "email": "cllr.julia.hilton@eastsussex.gov.uk",
   "url": "/representatives/east-sussex-county/julia-hilton/",
-  "attendance_text": "8 of 12 meetings (67%)",
+  "attendance_text": "7 of 11 meetings (64%)",
   "committees": [
    {
     "id": "150",
@@ -2171,16 +2171,16 @@
    }
   ],
   "tally": {
-   "expected": 12,
-   "present": 8,
+   "expected": 11,
+   "present": 7,
    "apologies": 4,
    "absent": 0,
    "attended": 11,
    "substitute": 2,
-   "declarations": 1,
+   "declarations": 0,
    "votes": 3
   },
-  "rate": 67,
+  "rate": 64,
   "upcoming": [
    {
     "day": "2026-11-30",
@@ -2722,33 +2722,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-27",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Vice Chair",
-      "committee": "Place Scrutiny Committee",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=516&MId=6385&Ver=4",
-      "business": [
-       "Reconciling Policy, Performance and Resources (RPPR)",
-       "Scrutiny Review of Procurement: Social Value and Buying Local",
-       "East Sussex On-Street Electric Vehicle Charging Network",
-       "Call-in: Decision made by the Lead Member for Transport and Environment regarding the proposed relocation of Hastings Register Office",
-       "Notice of Motion: 20mph speed limits in new developments",
-       "Any other items previously notified under agenda item 4"
-      ],
-      "decided": []
-     },
-     {
-      "kind": "declaration",
-      "committee": "Place Scrutiny Committee",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=516&MId=6385&Ver=4",
-      "text": "Cllr Hilton declared a personal, non-prejudicial interest under item 24 as Deputy Leader of Hastings Borough Council and Lead Member responsible for assets."
-     }
-    ]
    }
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=2302",
@@ -2763,7 +2736,7 @@
    }
   ],
   "ref_raw": "2302",
-  "summary": "Julia Hilton is a Green Party councillor for Hastings - Old Hastings and Tressell on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Green Party Group and Chair of Place Scrutiny Committee. In the last 12 months they were expected at 12 meetings and attended 8 (67%). The comparable figure is 81% for all East Sussex County Council councillors in this area and 78% for its Green Party councillors here. They sent apologies for 4 meetings. They also attended 13 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Place Scrutiny Committee. They declared an interest at 1 meeting. They took part in 3 named votes, voting the same way as most of their party group in 3."
+  "summary": "Julia Hilton is a Green Party councillor for Hastings - Old Hastings and Tressell on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Green Party Group and Chair of Place Scrutiny Committee. In the last 12 months they were expected at 11 meetings and attended 7 (64%). The comparable figure is 81% for all East Sussex County Council councillors in this area and 78% for its Green Party councillors here. They sent apologies for 4 meetings. They also attended 13 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Place Scrutiny Committee. They took part in 3 named votes, voting the same way as most of their party group in 3."
  },
  "escc-5316": {
   "name": "Shaun Dowling",

@@ -116,14 +116,14 @@
    "keypost": true,
    "keyposts": "Leader of the Green Party Group and Chair of Place Scrutiny Committee",
    "service": "A year or more",
-   "expected": 12,
-   "present": 8,
+   "expected": 11,
+   "present": 7,
    "apologies": 4,
    "absent": 0,
    "other": 13,
-   "declarations": 1,
+   "declarations": 0,
    "votes": 3,
-   "rate": 67,
+   "rate": 64,
    "committees": 3
   },
   {
@@ -1079,12 +1079,12 @@
     {
      "name": "Green Party",
      "councillors": 6,
-     "expected": 46,
-     "present": 36,
+     "expected": 45,
+     "present": 35,
      "apologies": 10,
      "absent": 0,
      "other": 30,
-     "declarations": 7,
+     "declarations": 6,
      "rate": 78
     },
     {
@@ -1100,12 +1100,12 @@
     }
    ],
    "councillors": 8,
-   "expected": 74,
-   "present": 60,
+   "expected": 73,
+   "present": 59,
    "apologies": 14,
    "absent": 0,
    "other": 41,
-   "declarations": 10,
+   "declarations": 9,
    "rate": 81
   }
  ],
